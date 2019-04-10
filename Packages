@@ -1,0 +1,701 @@
+Package: tqm-mos.iconrepo
+Name: TQM-Icon
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: yes
+Description: iCon Repo of Tqm-mos
+Depiction: Gói icon cho source TQM-Mos
+Author: Mos
+Maintainer: QM 
+Section: System
+Filename: ./debs/tqm-mos.iconrepo_1.0_iphoneos-arm.deb
+Size: 186390
+MD5sum: 544ed5453f34748387fe73ec05bed10f
+
+Package: com.tqm-mos.anemonefonts1
+Name: AnemoneFonts Enable
+Version: 1.0-Electra2
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Author: Anemone
+Section: Utilities
+Description: Enable Fonts For Anemone iOS 11 for Electra and Supports iOS 12 for Unc0ver ! 
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.anemonefonts1_1.0-Electra2_iphoneos-arm.deb
+Size: 4154
+MD5sum: 4bd662153942003a337e6af32aeacea8
+
+Package: sileoturkiye.anemoneinstaller
+Name: Anemone 3.0 (Uncover)
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description:  Quản lí chủ đề ,rất nên có cho máy đã jailbreak
+Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic, org.coolstar.tweakinject, com.ex.libsubstitute
+Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic, org.coolstar.tweakinject, com.ex.libsubstitute
+Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Depends: pincrush, mobilesubstrate, com.tqm-mos.anemonefonts1
+Pre-Depends: curl, jailbreak-resources (>= 0.7), ldid, firmware(>=12.0)
+Maintainer: Quang Minh
+Author: Jake James <jakeashacks@gmail.com>
+Section: IOS12
+Depiction: http://tqm-mos.github.io/description.html?id=anemone3
+Filename: ./debs/sileoturkiye.anemoneinstaller_1.0.1_iphoneos-arm.deb
+Size: 11312322
+MD5sum: 48ea1bf9ca981de754058ab27270924b
+
+Package: com.tqm-mos.xeninfo
+Name: XenInfo
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Description: Music, Weather, and battery info for XenHTML
+Maintainer: QM
+Author: Mos
+Section: Utilities
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xeninfo
+Version: 2.2.2
+Installed-Size: 372
+Filename: ./debs/com.tqm-mos.xeninfo_2.2.2_iphoneos-arm.deb
+Size: 208088
+MD5sum: 3fc5a41d37d97be2a0b77da634790b60
+
+Package: com.a3tweaks.flipswitch
+Name: Flipswitch
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Architecture: iphoneos-arm
+Description: Centralized toggle system for iOS
+Homepage: https://rpetri.ch/cydia/flipswitch/beta/
+Depiction: https://rpetri.ch/cydia/flipswitch/beta/
+Author: rpetrich <rpetrich+flipswitch@gmail.com>
+Maintainer: rpetrich & a3tweaks <rpetrich+flipswitch@gmail.com>
+Section: System
+Tag: purpose::extension, role::developer
+Icon: file:///Applications/Preferences.app/icon-table.png
+dev: flipswitch
+Version: 1.0.16~beta2
+Installed-Size: 2248
+Filename: ./debs/com.a3tweaks.flipswitch_1.0.16~beta2_iphoneos-arm.deb
+Size: 273784
+MD5sum: 1ed438e014907eb486ce0d6c8bd31f1c
+
+Package: com.a3tweaks.flipswitch
+Name: Flipswitch
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.7~beta1) | firmware (<< 7.0)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Architecture: iphoneos-arm
+Description: Centralized toggle system for iOS
+Homepage: https://rpetri.ch/cydia/flipswitch/beta/
+Depiction: https://rpetri.ch/cydia/flipswitch/beta/
+Author: rpetrich <rpetrich+flipswitch@gmail.com>
+Maintainer: QM
+Section: System
+Tag: purpose::extension, role::developer
+Icon: file:///Applications/Preferences.app/icon-table.png
+dev: flipswitch
+Version: 1.0.16~beta3
+Installed-Size: 2156
+Filename: ./debs/com.a3tweaks.flipswitch_1.0.16~beta3_iphoneos-arm.deb
+Size: 403324
+MD5sum: e1770949272312e2a62b119893ccf090
+
+Package: com.c1d3r.messageheadsxi
+Name: Chat Bong Bóng 
+Version: 1.2.1-2
+Architecture: iphoneos-arm
+Description: Chát mes bong bóng như android ,tiện hơn khi bạn là ng hay nt
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.chatxi
+Author: C1d3r <anhminh311105@gmail.com>
+Section: IOS12
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap, com.tqm-mos.crack
+Maintainer: Tqm-minh <anhminh311105@gmail.com>
+Filename: ./debs/com.c1d3r.messageheadsxi_1.2.1-2_iphoneos-arm.deb
+Size: 3087902
+MD5sum: 89d0f9bd053543746bc54b3246e4a418
+
+Package: com.tqm-mos.crack
+Name: Crack
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Gói phụ chợ tweaks chatxi
+Author: Mos
+Section: Utilities
+Depends:
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.crack_0.1_iphoneos-arm.deb
+Size: 1088
+MD5sum: c3bcd0820e04995888e5258674dc8507
+
+Package: com.ichitaso.semirestore11
+Conflicts: com.pwn20wnd.semirestore11
+Replaces: com.ichitaso.semirestore11
+Architecture: iphoneos-arm
+Description: Only for iOS 11.3 - 11.4.1 for now...
+Maintainer: ichitaso
+Pre-Depends: firmware (>= 11.3), firmware (<< 12.0)
+Depends: cy+cpu.arm64
+Section: IOS11
+Author: Pwn20wnd
+Name: SemiRestore11 / Rollectra
+Version: 1.0.1-beta1
+Depiction: https://tqm-mos.github.io/description.html?id=semirestore11
+Filename: ./debs/com.ichitaso.semirestore11_1.0.1-beta1_iphoneos-arm.deb
+Size: 90900
+MD5sum: 4ee13a59cb6355e68b84ea252e99ca09
+
+Package: com.laughingquoll.prefixui
+Name: PrefixUI
+Depends: org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: An awesome framework of some sort!!
+Maintainer: QM
+Author: LaughingQuoll
+Section: System
+Tag: role::developer
+Version: 1.1
+Installed-Size: 172
+Filename: ./debs/com.laughingquoll.prefixui_1.1_iphoneos-arm.deb
+Size: 38388
+MD5sum: ad58ada58c544c85ac0c75971bb71b6a
+
+Package: com.matchstic.xenhtml
+Name: Xen HTML
+Version: 0.4rc8
+Description: Giúp bạn tuỳ chỉnh thêm tiện ích vào màn (HS-LS) iWidgets
+Section: IOS12
+Depends: firmware (>= 9.0), mobilesubstrate,com.tqm-mos.xeninfo, preferenceloader, com.tqm-mos.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Mos
+Maintainer: QM <devmos388373@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=xenhtml
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Filename: ./debs/com.matchstic.xenhtml_0.4rc8_iphoneos-arm.deb
+Size: 1267014
+MD5sum: a9a3da6210ff36167d45abed8474c11b
+
+Package: com.tqm-mos.libgithubissues
+Name: libGitHubIssues
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Integrate GitHub Issues as a bugtracker
+Author: Matt Clarke <matt@incendo.ws>
+Section: System
+Depends: firmware (>= 8.0)
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.libgithubissues_0.0.1_iphoneos-arm.deb
+Size: 1004598
+MD5sum: 976c924e7c1fed14a7cb73b584bf2d12
+
+Package: com.muirey03.libimagepicker
+Name: libimagepicker
+Depends:
+Architecture: iphoneos-arm
+Description: A simple library for choosing images in preference bundles.
+Maintainer: Muirey03
+Author: Muirey03
+Section: System
+Tag: role::developer
+Version: 1.0.2
+Installed-Size: 120
+Filename: ./debs/com.muirey03.libimagepicker_1.0.2_iphoneos-arm.deb
+Size: 12054
+MD5sum: a2526768e7eb092cab1e2d601665ec5a
+
+Package: com.rpetrich.rocketbootstrap
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Name: RocketBootstrap
+Architecture: iphoneos-arm
+Description: Support library allowing tweaks to communicate with sandboxed processe
+Maintainer: QM
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Section: System
+dev: rpetrich
+Tag: purpose::extension, role::developer
+Version: 1.0.7~beta1
+Installed-Size: 548
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.7~beta1_iphoneos-arm.deb
+Size: 53154
+MD5sum: ade06c8fe6c175c1e42659506ee988c6
+
+Package: com.rpetrich.rocketbootstrap
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Name: RocketBootstrap
+Architecture: iphoneos-arm
+Description: Support library allowing tweaks to communicate with sandboxed processe
+Maintainer: QM
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Section: System
+dev: rpetrich
+Tag: purpose::extension, role::developer
+Version: 1.0.7~beta2
+Installed-Size: 548
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.7~beta2_iphoneos-arm.deb
+Size: 54252
+MD5sum: fb96207a1401a8cf7f0b436f4bc2ecaf
+
+Package: com.tqm-mos.xeninfo
+Name: XenInfo
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Description: Music, Weather, and battery info for XenHTML
+Maintainer: QM
+Author: Mos
+Section: Tweaks
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xeninfo
+Version: 2.0.7
+Installed-Size: 372
+Filename: ./debs/com.tqm-mos.xeninfo_2.0.7_iphoneos-arm.deb
+Size: 185654
+MD5sum: 679c24bd4b98069c2875fe1b43fb0334
+
+Package: com.tqm-mos.xeninfo
+Name: XenInfo
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Description: Music, Weather, and battery info for XenHTML
+Maintainer: QM
+Author: Mos
+Section: Tweaks
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xeninfo
+Version: 2.0.8
+Installed-Size: 372
+Filename: ./debs/com.tqm-mos.xeninfo_2.0.8_iphoneos-arm.deb
+Size: 185648
+MD5sum: c15f7234e8e7a12104d13b7261135cc8
+
+Package: com.tqm-mos.tinybanners
+Name: TinyBanners
+Version: 0.0.3.1
+Architecture: iphoneos-arm
+Description: Minimize your notifications
+Maintainer: QM
+Author: Don
+Depends: mobilesubstrate,preferenceloader,applist
+Installed-Size: 416
+Section: IOS12
+Depiction: http://tqm-mos.github.io/description.html?id=tiny
+Filename: ./debs/com.tqm-mos.tinybanners_0.0.3.1_iphoneos-arm.deb
+Size: 120490
+MD5sum: 8e25441a8d9716051f315ea4beab65e4
+
+Package: com.yourepo.tqm.mos
+Version: 1.1.3
+Priority: optional
+Section: Utilities
+Maintainer: QM
+Depends: mobilesubstrate
+Conflicts: com.hackyouriphone.limneosos, com.repo.xarold.com.limneosos, com.pulandres.limneosos, org.cydia.kiimo.limneosos, ru.rejail.limneosos
+Architecture: iphoneos-arm
+Name: Mos
+Author: ReJail <rejail@rejail.ru>
+Description: gói crack free limneosos
+Filename: ./debs/com.yourepo.tqm.mos_1.1.3_iphoneos-arm.deb
+Size: 36424
+MD5sum: caa87fab522805c8eb70747a20d6e6ff
+
+Package: com.tqm-mos.appcake
+Version: 6.1.1
+Section: Applications
+Maintainer: QM
+Pre-Depends: firmware (>= 9.0)
+Depends: com.yourepo.devmos.appsyncunified
+Conflicts: cydia.net.angelxwind.appsyncunified
+Architecture: iphoneos-arm
+Name: AppCake
+Description: Bản nâng cấp mới của 5.6.0.1! Giới thiệu Tải xuống / Cài đặt trực tiếp! Yêu cầu AppSync được cài đặt **
+Author: hotsjf
+Icon: file:///Applications/AppCake.app/icon57x57.png
+Filename: ./debs/com.tqm-mos.appcake_6.1.1_iphoneos-arm.deb
+Size: 20127430
+MD5sum: 27e2fb7eea493f3165cfc751a23de604
+
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 12.1.2)
+Maintainer: QM
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Package: com.yourepo.devmos.appsyncunified
+Name: AppSync Unified
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: System
+Author: Linus Yang, Karen/あけみ <karen@angelxwind.net>
+Version: 32.0
+Filename: ./debs/com.yourepo.devmos.appsyncunified_32.0_iphoneos-arm.deb
+Size: 37764
+MD5sum: 320724c27c2b82a8708d198440a4ce2e
+
+Package: com.tqm-mos.veexilum
+Version: 1.0
+Section: TQM
+Maintainer: QM
+Architecture: iphoneos-arm
+Name: Veexilum
+Author: Mos
+Description: Một bộ chủ đề mang hơi hướng phong cách icon tông color khá đẹp 
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.veexilum
+Filename: ./debs/com.tqm-mos.veexilum_1.0_iphoneos-arm.deb
+Size: 12813274
+MD5sum: 857875489c91f352f8c033cde40420b4
+
+Package: eu.teggers.netKillUI11
+Name: netKillUIbeta (iOS 12)
+Depends: adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils, firmware (>= 11.0)
+Conflicts: eu.teggers.netKillUI
+Architecture: iphoneos-arm
+Description: GUI for arp-scan and arp-spoof. 
+ Unofficial Release.
+ Contains: arp-scan, arpspoof, libnet.
+ Compatible With Electra, arm64.
+ Based in netKillUIbeta version 0.2.1-1
+Maintainer: Teggers
+Author: Teggers
+Section: IOS12
+Version: 0.2.1-1
+Filename: ./debs/eu.teggers.netkillui11_0.2.1-1_iphoneos-arm.deb
+Size: 813540
+MD5sum: d2d10565d92f8853eb0577f8547e2ed6
+
+Package: com.tqm-mos.bytafont312
+Name: BytaFont 3 (10-11-12)
+Version: 3.6
+Architecture: iphoneos-arm
+Description: Đổi fonts chữ cho thiết bị của bạn- lưu ý tải fonts trong source hãy tải những fonts (TM) sẽ dùng được
+Author: Mos Fix <anhminh311105@gmail.com>
+Section: System
+Depends: firmware (>= 10), unzip, mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.bytafont3
+Filename: ./debs/com.tqm-mos.bytafont312_3.6_iphoneos-arm.deb
+Size: 1226734
+MD5sum: cea928d1b8424cc1969b9cf604998cbe
+
+Package: com.tqm-mos.zingvip
+Version: 4.0.2
+Section: Applications
+Maintainer: QM
+Architecture: iphoneos-arm
+Name: ZingMp3 Vip
+Author: MtTuanit
+Depends: mobilesubstrate, com.tqm-mos.blockadplus12
+Description: Đây là App nhạc đã được TQM-Mos buil sang dạng Tweaks (lưu ý chỉ hoạt động trong môi trường máy đã jailbreak) chỉ cần cài Tweaks này , không cần nên AppStore tải nữa 
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.zingmp3
+Filename: ./debs/com.tqm-mos.zingvip_4.0.2_iphoneos-arm.deb
+Size: 22888538
+MD5sum: 5de123967c7ab678f9d031cd95e8500d
+
+Package: com.tqm-mos.chiasenhac
+Version: 1.0
+Section: Applications
+Maintainer: QM
+Architecture: iphoneos-arm
+Name: Chia Sẻ Nhạc
+Author: Mos
+Depends: mobilesubstrate, com.tqm-mos.blockadplus12
+Description: Đây là App nhạc đã được TQM-Mos buil sang dạng Tweaks (lưu ý chỉ hoạt động trong môi trường máy đã jailbreak) chỉ cần cài Tweaks này , không cần nên AppStore tải nữa 
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.chiasenhac
+Filename: ./debs/com.tqm-mos.chiasenhac_1.0_iphoneos-arm.deb
+Size: 21314390
+MD5sum: 85eb3342051a0bf92fbae404991c8913
+
+Package: com.tqm-mos.boomcrack++
+Version: 1.0
+Section: Applications
+Maintainer: QM
+Architecture: iphoneos-arm
+Name: Boom Music++
+Author: MtTuanit
+Depends: mobilesubstrate, com.tqm-mos.blockadplus12
+Description: Đây là App nhạc đã được TQM-Mos buil sang dạng Tweaks (lưu ý chỉ hoạt động trong môi trường máy đã jailbreak) chỉ cần cài Tweaks này , không cần nên AppStore tải nữa 
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.boom++
+Filename: ./debs/com.tqm-mos.boomcrack++_1.0_iphoneos-arm.deb
+Size: 38022656
+MD5sum: 97728bf9d56d9eedba288809932daace
+
+Package: com.tqm-mos.spotify++
+Version: 8.5.0
+Section: Applications
+Maintainer: QM
+Architecture: iphoneos-arm
+Name: Spotify++
+Author: ipaS
+Depends: mobilesubstrate, com.tqm-mos.blockadplus12
+Description: Đây là App nhạc đã được TQM-Mos buil sang dạng Tweaks (lưu ý chỉ hoạt động trong môi trường máy đã jailbreak) chỉ cần cài Tweaks này , không cần nên AppStore tải nữa 
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.spotify++
+Filename: ./debs/com.tqm-mos.spotify++_8.5.0_iphoneos-arm.deb
+Size: 32110682
+MD5sum: 641023ecc25fe0fe158cdd049c3991ff
+
+Package: com.tqm-mos.vivavideovip
+Version: 5.9.5
+Section: Applications
+Maintainer: QM
+Architecture: iphoneos-arm
+Name: Viva Videos Vip
+Author: MosUpDeb
+Depends: mobilesubstrate, com.tqm-mos.blockadplus12
+Description: Đây là App Viva Videos Vip đã được TQM-Mos buil sang dạng Tweaks (lưu ý chỉ hoạt động trong môi trường máy đã jailbreak) chỉ cần cài Tweaks này , không cần nên AppStore tải nữa 
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.vivavideovip
+Filename: ./debs/com.tqm-mos.vivavideovip_5.9.5_iphoneos-arm.deb
+Size: 43720270
+MD5sum: c65569c74f5f4ea3b707fc979e99e082
+
+Package: com.tqm-mos.videoshow
+Version: 4.5.1
+Section: Applications
+Maintainer: QM
+Architecture: iphoneos-arm
+Name: VideoShow Vip
+Author: MosUpDeb
+Depends: mobilesubstrate, com.tqm-mos.blockadplus12
+Description: Đây là App VideoShow Vip đã được TQM-Mos buil sang dạng Tweaks (lưu ý chỉ hoạt động trong môi trường máy đã jailbreak) chỉ cần cài Tweaks này , không cần nên AppStore tải nữa 
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.videoshow
+Filename: ./debs/com.tqm-mos.videoshow_4.5.1_iphoneos-arm.deb
+Size: 59531682
+MD5sum: 9b20b40b5c8e68e7f56e7ff5b124653e
+
+Package: com.tqm-mos.youtube++
+Version: 13.02.9
+Section: Applications
+Maintainer: QM
+Architecture: iphoneos-arm
+Name: Youtube++
+Author: ipaS
+Depends: mobilesubstrate, com.tqm-mos.blockadplus12
+Description: Đây là App đã được TQM-Mos buil sang dạng Tweaks (lưu ý chỉ hoạt động trong môi trường máy đã jailbreak) chỉ cần cài Tweaks này , không cần nên AppStore tải nữa 
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.youtube++
+Filename: ./debs/com.tqm-mos.youtube++_13.02.9_iphoneos-arm.deb
+Size: 91245262
+MD5sum: 600f65dec723619cc6668f2e5003f3f5
+
+Package: com.tqm-mos.blockadplus12
+Version: 1.0k
+Priority: optional
+Section: IOS12
+Maintainer: QM
+Architecture: iphoneos-arm
+Installed-Size: 124
+Name: Chặn QC từ các Tweak ++
+Author: ReJail
+Filename: ./debs/com.tqm-mos.blockadplus12_1.0k_iphoneos-arm.deb
+Size: 26872
+MD5sum: fcd3a9b150956ece5153c145d069f0a1
+
+Package: TQM.ClockWeather
+Name: Clock Weather (Plus)
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Widget for Xen Html
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=ClockWeather
+Filename: ./debs/TQM.ClockWeather_1.0_iphoneos-arm.deb
+Size: 998860
+MD5sum: d8c29f29ac649fb53602fe26c4bcc5a0
+
+Package: TQM.goldv1
+Name: Gold v1
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Bộ chủ đề mang phong cách khá thụ vị ,rất nhã nhặn ( Đẹp)
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=gold1
+Filename: ./debs/TQM.goldv1_1.0_iphoneos-arm.deb
+Size: 2891258
+MD5sum: 3f14026bb472b95e1fd1995248d3e4ba
+
+Package: TQM.goldv2
+Name: Gold v2
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Bộ chủ đề mang phong cách khá thụ vị ,rất nhã nhặn ( Đẹp)
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=gold2
+Filename: ./debs/TQM.goldv2_1.0_iphoneos-arm.deb
+Size: 1854680
+MD5sum: cc68d3ee4058b26ae94a58e8a092ca72
+
+Package: TQM.lotus
+Name: Lotus
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Bộ chủ đề mang phong cách khá thụ vị ,nhiều màu sắc ( Đẹp)
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=lotus
+Filename: ./debs/TQM.lotus_1.0_iphoneos-arm.deb
+Size: 12828404
+MD5sum: fb246b75949a45874418388d01622c6c
+
+Package: TQM.mint
+Name: Mint
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Bộ chủ đề mang phong cách khá thụ vị ,nhiều màu sắc ( Đẹp)
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=mint
+Filename: ./debs/TQM.mint_1.0_iphoneos-arm.deb
+Size: 5974830
+MD5sum: 7ea4f2e7b7b10ba973806c84b8387bea
+
+Package: TQM.moswhitepro
+Name: MosWhite-Pro
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Bộ chủ đề mang phong cách khá thụ vị ,rất nhã nhặn ( Đẹp)
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=moswhitepro
+Filename: ./debs/TQM.moswhitepro_1.0_iphoneos-arm.deb
+Size: 15661192
+MD5sum: 9bc2ff08515854ee3646833dd9ad4195
+
+Package: com.yourepo.tqm.callbarxsios12tqm
+Name: CallBar XS Cracked
+Version: 2.1-22
+Architecture: iphoneos-arm
+Description: Change style of your calls
+Author: Elias Limneos <limneoselias@gmail.com>
+Section: IOS12
+Depends: mobilesubstrate, preferenceloader, com.yourepo.tqm.mos
+Conflicts: net.limneos.callbarx, com.pulandr3s.audiorecorderxs, com.pulandr3s.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandr3s.bioprotectxs, net.pulandr3s.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandr3s.limneosos, com.repo.xarold.com.limneosos
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Maintainer: Pulandres <anhminh311105@gmail.com>
+Filename: ./debs/com.yourepo.tqm.callbarxsios12tqm_2.1-22_iphoneos-arm.deb
+Size: 216992
+MD5sum: 5f2e0111401a6087bbf3bb3ce6b8aef6
+
+Package: com.yourepo.tqm.icleanerpro
+Name: iCleaner Pro
+Version: 7.7.2k
+Architecture: iphoneos-arm
+Description: Dọn rác làm sạch thiết bị
+Author: Ivano Bilenchi <support@ib-soft.net>
+Section: Applications
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7, com.yourepo.tqm.crackicleanerpro
+Conflicts: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=iclean
+Filename: ./debs/com.yourepo.tqm.icleanerpro_7.7.2k_iphoneos-arm.deb
+Size: 9853134
+MD5sum: 99b06c08f02ecf6c4579c324d7b5193e
+
+Package: com.yourepo.tqm.crackicleanerpro
+Name: Crack iCleanerPro
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Gói giúp crack dọn rác .........
+Author: Quang Minh <anhminh311105@gmail.com>
+Section: Utilities
+Depends: com.yourepo.tqm.icleanerpro
+Conflicts: com.yourepo.icleanerpro
+Maintainer: QM <anhminh311105@gmail.com>
+Filename: ./debs/com.yourepo.tqm.crackicleanerpro_1.0_iphoneos-arm.deb
+Size: 3484258
+MD5sum: 53338f3b0f81b832d1aa082dc228d468
+
+Package: TQM.boxblack
+Name: BoxCar+Time Black
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích được TQM buil khung tròn bao quanh sóng pin và thời gian ( lưu ý chỉ dành cho máy FakeX)
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=boxblack
+Filename: ./debs/TQM.boxblack_1.0_iphoneos-arm.deb
+Size: 7878
+MD5sum: 44157f0543c3923608f4585c312eda4c
+
+Package: TQM.boxwhite
+Name: BoxCar+Time White
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích được TQM buil khung tròn bao quanh sóng pin và thời gian ( lưu ý chỉ dành cho máy FakeX)
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=boxwhite
+Filename: ./debs/TQM.boxwhite_1.0_iphoneos-arm.deb
+Size: 7872
+MD5sum: ae3680a5c47905b16ad1e0e101256f2b
+
+Package: TQM.clockweathermos
+Name: Clock Weather-Mos (Plus)
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích (widgets) Đồng hồ khá đẹp làm lại màu ,hãy xem ảnh để biết có nên tải về hay không 😉
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=clockweathermos
+Filename: ./debs/TQM.clockweathermos_1.0_iphoneos-arm.deb
+Size: 335980
+MD5sum: bec8827842d6487fc57e2d0d0f44d4d4
+
+Package: TQM.namepro
+Name: NamePro
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích được TQM buil Hiệu ứng tên khá đẹp ,tải về và cảm nhận
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=namepro
+Filename: ./debs/TQM.namepro_1.0_iphoneos-arm.deb
+Size: 724290
+MD5sum: 524026260cba8044cd1979ab4dcc3722
+
+Package: TQM.weatherbox
+Name: WeatherBox
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích (widgets) Khung kèm thời tiết khá đẹp làm lại màu ,hãy xem ảnh để biết có nên tải về hay không 😉
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=weatherbox
+Filename: ./debs/TQM.weatherbox_1.0_iphoneos-arm.deb
+Size: 345856
+MD5sum: 7ecabbcae6e43fedc340d9a72d379a3c
+
+
+
