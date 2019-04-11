@@ -358,6 +358,7 @@ Maintainer: Teggers
 Author: Teggers
 Section: IOS12
 Version: 0.2.1-1
+Depiction: https://tqm-mos.github.io/description.html?id=net
 Filename: ./debs/eu.teggers.netkillui11_0.2.1-1_iphoneos-arm.deb
 Size: 813540
 MD5sum: d2d10565d92f8853eb0577f8547e2ed6
@@ -588,6 +589,7 @@ Depends: mobilesubstrate, preferenceloader, com.yourepo.tqm.mos
 Conflicts: net.limneos.callbarx, com.pulandr3s.audiorecorderxs, com.pulandr3s.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandr3s.bioprotectxs, net.pulandr3s.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandr3s.limneosos, com.repo.xarold.com.limneosos
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
 Maintainer: Pulandres <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=carball
 Filename: ./debs/com.yourepo.tqm.callbarxsios12tqm_2.1-22_iphoneos-arm.deb
 Size: 216992
 MD5sum: 5f2e0111401a6087bbf3bb3ce6b8aef6
@@ -696,6 +698,39 @@ Depiction: http://tqm-mos.github.io/description.html?id=weatherbox
 Filename: ./debs/TQM.weatherbox_1.0_iphoneos-arm.deb
 Size: 345856
 MD5sum: 7ecabbcae6e43fedc340d9a72d379a3c
+
+Package: TQM.ClockWeatherX
+Name: Clock Weather (X)
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Widget for Xen Html
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=ClockWeather
+Filename: ./debs/TQM.ClockWeatherX_1.0_iphoneos-arm.deb
+Size: 1002276
+MD5sum: 613acee96ae4274ca61ceea949159b44
+
+Package: tqm.moderndepictions
+Name: ModernDepictions
+Depends: mobilesubstrate, firmware (>=8.0), org.thebigboss.libcolorpicker, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Icon: http://repo.pixelomer.com/icons/MD-Icon.png
+Description: Miêu tả giống như Sileo cho Cydia Cho phép xem các mô tả của Sileo trong Cydia.  Hỗ trợ iOS 8.0 trở lên.CẢNH BÁO: Đây là phiên bản beta vì vậy mong đợi các lỗi.  Nếu bạn tìm thấy bất kỳ, xin vui lòng báo cáo chúng.
+Maintainer: Quang Minh
+Author: PixelOmer
+Essential: yes
+Section: System
+Version: 0.3-73
+Installed-Size: 10956
+Depiction: http://tqm-mos.github.io/description.html?id=info
+Filename: ./debs/tqm.moderndepictions_0.3-73_iphoneos-arm.deb
+Size: 4018106
+MD5sum: 8d6347b3508666d23525b58795f3e11c
+
 
 
 
