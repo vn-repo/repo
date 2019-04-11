@@ -1419,3 +1419,315 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.iconlock
 Filename: ./debs/com.tam-mos.proudlockxr_0.1-1_iphoneos-arm.deb
 Size: 1375226
 MD5sum: 07cc6db06bfa8c3beb6360e02cc2e9cf
+
+Package: com.tqm-mos.badgecustomizer
+Name: Badge Customizer
+Author: merdok
+Version: 1.4.3-3
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Change badge color, size & position
+Maintainer: QM
+Section: IOS12
+Filename: ./debs/com.tqm-mos.badgecustomizer_1.4.3-3_iphoneos-arm.deb
+Size: 59108
+MD5sum: b87988d8e8ab01d13c0a987ad06e5848
+
+Package: com.tqm-mos.neptunemos
+Name: Neptune
+Version: 1.4
+Architecture: iphoneos-arm
+Description: Enable Apple's modern fluid gestural interface on all devices.
+Author: Mos <anhminh311105@gmail.com>
+Section: TQM
+Depends: mobilesubstrate, firmware(>=12.0)
+Maintainer: QM <anhminh311105@gmail.com>
+Filename: ./debs/com.tqm-mos.neptunemos_1.4_iphoneos-arm.deb
+Size: 30734
+MD5sum: 7d8831395336d62e3124103de82bbfee
+
+Package: com.tqm-mos.vwallpaper2os12
+Name: vWallpaper 2 (iOS 12)
+Version: 0.5.0-3a
+Architecture: iphoneos-arm
+Maintainer: QM
+Author: skrew, julioverne
+Section: IOS12
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os9, com.skrew.vwallpaper2os10
+Conflicts: com.skrew.vwallpaper2os11, com.skrew.vwallpaper2os
+Description: Thêm video, nhạc chuông video, hiệu ứng thú vị (hạt, đối tượng 3D), Tiện ích HTML (...) trên Springboard và / hoặc chế độ xem Away. Mang iPhone của bạn vào cuộc sống! (Giai đoạn Beta)
+Filename: ./debs/com.tqm-mos.vwallpaper2os12_0.5.0-3a_iphoneos-arm.deb
+Size: 3656312
+MD5sum: 4cc9a78fcb8ee035297f5815fd34d01b
+
+Package: com.tqm-mos.tumbi
+Name: Tumbi
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Một bộ chủ đề mang hơi hướng phong cách icon tông color khá đẹp 
+Maintainer: QM
+Author: Mos
+Section: Themes
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.tumbi
+Filename: ./debs/com.tqm-mos.tumbi_1.0_iphoneos-arm.deb
+Size: 19323298
+MD5sum: 6165b3a712c32c9fd80cf109ea6e8abb
+
+Name: TintIconLabel VH
+Package: com.tqm-mos.tinticonlabelvh
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
+Version: 1.0.2K
+Architecture: iphoneos-arm
+Description: Custom Colors for your Icons Labels!
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.tinticonlabelvh
+Maintainer: QM
+Author: Mos
+Section: Tweaks
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Installed-Size: 294
+dev: mos
+Icon: file:///Library/PreferenceBundles/TintIconLabel.bundle/TintIconLabel@2x.png
+Filename: ./debs/com.tqm-mos.tinticonlabelvh_1.0.2K_iphoneos-arm.deb
+Size: 36088
+MD5sum: 6f9784a82ec3d3382d47d9fedb45e312
+
+Package: com.tqm-mos.switcherstyle
+Name: SwitcherStyle
+Version: 0.4
+Architecture: iphoneos-arm
+Description: Change App Switcher settings
+Maintainer: QM
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Installed-Size: 304
+Section: IOS12
+Filename: ./debs/com.tqm-mos.switcherstyle_0.4_iphoneos-arm.deb
+Size: 24790
+MD5sum: ab47e78341a976ec91c6cf6468c0ef96
+
+Package: com.tqm-mos.powermodule
+Name: PowerModule
+Version: 1.2.2
+Depends: mobilesubstrate, com.tqm-mos.ccsupport, preferenceloader, com.midnightchips.ldrun
+Architecture: iphoneos-arm
+Author: Muirey03
+Section: IOS11
+Description: Group different utility actions into one control center module (iOS 11 only)
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.powermodule_1.2.2_iphoneos-arm.deb
+Size: 92882
+MD5sum: 18536ba8287cd5c711a0386e6b4e35d4
+
+Package: com.tqm.snowboard12
+Name: SnowBoard (12)
+Version: 1.1.6
+Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Architecture: iphoneos-arm
+Author: Spark & Dennis D. Bednarz
+Section: IOS12
+Description: Snowboard theming engine
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Maintainer: QM
+Filename: ./debs/com.tqm.snowboard12_1.1.6_iphoneos-arm.deb
+Size: 487148
+MD5sum: dc836650f15211f780dbb1385db7c845
+
+Package: com.tqm.snowboard
+Name: SnowBoard
+Version: 1.1.6
+Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Architecture: iphoneos-arm
+Author: Spark & Dennis D. Bednarz
+Section: Tweaks
+Description: Snowboard theming engine
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Maintainer: QM
+Filename: ./debs/com.tqm.snowboard_1.1.6_iphoneos-arm.deb
+Size: 487134
+MD5sum: d26ce8cc57766ff9a421d38e17e4dce3
+
+Package: com.tqm-mos.talion
+Name: Talion
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Widgets for your lockscreen
+Maintainer: QM
+Author: @pulandres
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Installed-Size: 460
+Section: IOS12
+Filename: ./debs/com.tqm-mos.talion_1.3_iphoneos-arm.deb
+Size: 111520
+MD5sum: 0f3f19cb49cc5c420be832f407de09f7
+
+Package: com.tqm-mos.aperturize
+Name: Aperturize
+Version: 1.0.5
+Architecture: iphoneos-arm
+Description: New portrait mode for unsupported devices
+Maintainer: QM
+Author: FoxfortMobile
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.foxforthack
+Icon: file:///Library/PreferenceBundles/aperturizesettings.bundle/icon@3x.png
+Section: IOS12
+Filename: ./debs/com.tqm-mos.aperturize_1.0.5_iphoneos-arm.deb
+Size: 157062
+MD5sum: 7de3e53f3f9eb903d54ef25b73291699
+
+Package: com.tqm-mos.foxforthack
+Name: FoxfortHack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Hack to Foxfort tweaks
+Depends: mobilesubstrate
+Maintainer: QM
+Author: Mos
+Priority: optional
+Section: Utilities
+Filename: ./debs/com.tqm-mos.foxforthack_0.0.2_iphoneos-arm.deb
+Size: 69792
+MD5sum: ae85d9aa5a47bb1ffa465049050769d6
+
+Package: com.tqm-mos.anemone3
+Name: Anemone 3
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, pincrush
+Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Version: 3.0~beta5
+Architecture: iphoneos-arm
+Description: Bản Anemone 3 cải tiến hoàn thiện hơn với thiết bị ios 11 
+Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
+Maintainer: AnemoneTeam <anemonetheming@gmail.com>
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Section: IOS11
+Depiction: http://tqm-mos.github.io/description.html?id=anemone3
+Filename: ./debs/com.tqm-mos.anemone3_3.0~beta5_iphoneos-arm.deb
+Size: 16818928
+MD5sum: 4d9a8e351eed6a903af2c79c6e7e48d1
+
+Package: com.tqm-mos.animatoon
+Name: Animatoon
+Version: 1.1
+Depends: com.tqm-mos.fingal
+Architecture: iphoneos-arm
+Author: tykology <ticosalinas1@hotmail.com>
+Section: Utilities
+Description: Animatoon is an amazing and only theme with cartoon style animations
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.animatoon_1.1_iphoneos-arm.deb
+Size: 1077110
+MD5sum: 95c0f377a1d44b6a116efcd89862fc86
+
+Package: com.tqm-mos.fingal
+Name: Fingal
+Version: 1.0.0
+Architecture: iphoneos-arm
+Author: Charlie Hewitt <contact@chewitt.me>
+Depends: mobilesubstrate, firmware (>=8.0), preferenceloader
+Icon: file:///Library/PreferenceBundles/FingalPrefs.bundle/icon_big.png
+Description: Animated icon theming platform for iOS 8 & 9
+Maintainer: QM
+Section: Tweaks
+Filename: ./debs/com.tqm-mos.fingal_1.0.0_iphoneos-arm.deb
+Size: 54514
+MD5sum: 03bf9fb5b6c5f2a539d5717cb1c9232d
+
+Package: com.yourepo.tqm-minh.libmoorecon
+Name: libmoorecon
+Version: 2.1
+Architecture: iphoneos-arm
+Description: gói phụ trợ đi kèm opennotifi 10
+Author: Dev <anhminhclub@gmail.com>
+Section: Utilities
+Depends: firmware (>=9.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: libstatusbar
+Maintainer: Quang Minh <anhminhclub@gmail.com>
+Filename: ./debs/com.yourepo.tqm-minh.libmoorecon_2.1_iphoneos-arm.deb
+Size: 43432
+MD5sum: 21b396dccf7df9975523e7c678f19165
+
+Package: com.tqm-mos.opennotifier12
+Name: OpenNotifier12
+Provides: com.n00neimp0rtant.opennotifier, net.tateu.opennotifier
+Conflicts: com.n00neimp0rtant.opennotifier, net.tateu.opennotifier, net.tateu.opennotifierbeta, net.tateu.opennotifier9, net.tateu.opennotifier10
+Depends: firmware (>=11.0), mobilesubstrate, com.yourepo.tqm-minh.libmoorecon, preferenceloader, applist, com.yourepo.tqm-minh.opennotifierblack
+Architecture: iphoneos-arm
+Description: Show Notification Icons in the status bar.
+Author: tateu (based on n00neimp0rtant) <devmos388373@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.opennotifi
+Maintainer: QM <devmos388373@gmail.com>
+Section: IOS12
+Version: 2.5.0~beta7-2
+Installed-Size: 1199
+Filename: ./debs/com.tqm-mos.opennotifier12_2.5.0~beta7-2_iphoneos-arm.deb
+Size: 216866
+MD5sum: 91648c71abcb30fa44174ce23146c631
+
+Package: com.tqm-mos.opennotifier11
+Name: OpenNotifier11
+Version: 2.5.0~beta7-1
+Architecture: iphoneos-arm
+Description: Show Notification Icons in the status bar.
+Author: tateu (based on n00neimp0rtant) 
+Section: IOS11
+Depends: firmware (>=11.0), mobilesubstrate, com.yourepo.tqm-minh.libmoorecon, preferenceloader, applist, com.yourepo.tqm-minh.opennotifierblack
+Conflicts: com.n00neimp0rtant.opennotifier, com.repo.xarold.com.opennotifier, net.tateu.opennotifier, net.tateu.opennotifierbeta, net.tateu.opennotifier9, com.repo.xarold.com.opennotifier9, net.tateu.opennotifier10
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.opennotifier11_2.5.0~beta7-1_iphoneos-arm.deb
+Size: 216848
+MD5sum: 31a42596f8ef6a51187ac04fd498467f
+
+Package: com.tqm-mos.moveable912
+Name: Moveable9
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader
+Conflicts: net.tateu.moveable
+Architecture: iphoneos-arm
+Description: Arrange statusbar icons.
+Maintainer: QM
+Author: Josh Harris (tateu) <tateu@tateu.net>
+Section: IOS12
+Icon: file:///Library/PreferenceBundles/Moveable9.bundle/Moveable9.png
+Version: 1.0.0~beta29-32
+Installed-Size: 1063
+Filename: ./debs/com.tqm-mos.moveable912_1.0.0~beta29-32_iphoneos-arm.deb
+Size: 312502
+MD5sum: 91e5a5441f36501ce254938eb8acf236
+
+Name: DLEasy
+Package: com.tqm-mos.dleasy
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Version: 1.5
+Architecture: iphoneos-arm
+Description: Download images & videos from social apps easily!
+Maintainer: QM
+Author: Mos
+dev: mos
+Section: IOS12
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+Installed-Size: 3613
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
+Filename: ./debs/com.tqm-mos.dleasy_1.5_iphoneos-arm.deb
+Size: 1174014
+MD5sum: 5665e1a5cf6adf1075b8dab8283a0cdb
+
+Package: com.tqm-mos.betterjb
+Name: BetterJB
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Giảm sự cố và hao pin khi Jailbreak.
+Maintainer: QM
+Author: Pulandres
+Depends: firmware (>= 11)
+Conflicts: com.byevsd, jetslammed
+Section: IOS11
+Filename: ./debs/com.tqm-mos.betterjb_1.1_iphoneos-arm.deb
+Size: 29734
+MD5sum: 9eebbb1b56ff228297218c3adf2596ac
+
+
