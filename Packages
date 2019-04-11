@@ -1753,7 +1753,7 @@ Priority: optional
 Architecture: iphoneos-arm
 Description: Một bộ themes mang phong cách nghiêng về màu trắng nhã nhặn buil lại bởi TQM-Mos
 Maintainer: QM
-Section: Themes
+Section: TQM
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.whitepro
 Filename: ./debs/com.tqm-mos.whitepro_1.0_iphoneos-arm.deb
 Size: 67528612
@@ -2327,7 +2327,7 @@ MD5sum: 73f94be65d5f4f6746b761a1d696f89d
 
 Package: com.tqm-mos.blacknux
 Version: 1.0
-Section: Themes
+Section: TQM
 Maintainer: QM <devmos388373@gmail.com>
 Architecture: iphoneos-arm
 Depends: 
