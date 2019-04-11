@@ -2394,7 +2394,7 @@ Description: Font Dùng qua Bytafont3
 Author: Mos <devmos388373@gmail.com>
 Maintainer: QM <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.sofia_1.0_iphoneos-arm.deb
-Size: 650274
+Size: 650254
 MD5sum: cedaef96a6ebdaae97a95dc18cce87d1
 
 Package: com.tqm-mos.devroye
@@ -2408,7 +2408,7 @@ Description: Font Dùng qua Bytafont3
 Author: Mos <devmos388373@gmail.com>
 Maintainer: QM <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.devroye_1.0_iphoneos-arm.deb
-Size: 657524
+Size: 657500
 MD5sum: c259340653105f8c79d2f64583eb4831
 
 Package: com.tqm-mos.ahkio
