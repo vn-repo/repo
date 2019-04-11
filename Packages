@@ -715,7 +715,7 @@ Size: 1002276
 MD5sum: 613acee96ae4274ca61ceea949159b44
 
 Package: tqm.moderndepictions
-Name: ModernDepictions
+Name: New Info
 Depends: mobilesubstrate, firmware (>=8.0), org.thebigboss.libcolorpicker, preferenceloader, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
 Icon: http://repo.pixelomer.com/icons/MD-Icon.png
@@ -726,11 +726,541 @@ Essential: yes
 Section: System
 Version: 0.3-73
 Installed-Size: 10956
+Conflicts: com.pixelomer.moderndepictions
 Depiction: http://tqm-mos.github.io/description.html?id=info
 Filename: ./debs/tqm.moderndepictions_0.3-73_iphoneos-arm.deb
 Size: 4018106
 MD5sum: 8d6347b3508666d23525b58795f3e11c
 
+Package: com.tqm-mos.securityvpn
+Version: 1.7b
+Section: Applications
+Maintainer: QM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: VPN - Wi-Fi Hotspot Security (Premium)
+Author: JustinPet26
+Description: Unlimited VPN VIP!
+Filename: ./debs/com.tqm-mos.securityvpn_1.7b_iphoneos-arm.deb
+Size: 4436
+MD5sum: 9f898064136a4fcffc190f486aa25582
 
+Package: com.tqm-mos.speedvpn
+Version: 1.1b
+Section: Applications
+Maintainer: QM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: VPN - Speed VPN, Proxy Server (Premium)
+Author: JustinPet26
+Description: Unlimited VPN VIP!
+Filename: ./debs/com.tqm-mos.speedvpn_1.1b_iphoneos-arm.deb
+Size: 3648
+MD5sum: 16b5b07c994e2fe20d6ffd284086fc86
 
+Package: com.tqm-mos.vpnhotspothack
+Name: VPN Hotspot Hack
+Version: 1.0.2
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: pxcex 
+Section: Applications
+Description: VIP Faster Download & Remove Ads.
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.vpnhotspothack_1.0.2_iphoneos-arm.deb
+Size: 85530
+MD5sum: 008f8853af23eee13272a5525d6f83f4
 
+Package: com.tqm-mos.vpnaegispp
+Name: VPN Aegis++
+Version: 1.0.0.2
+Depends: mobilesubstrate, firmware (>= 10.0), firmware (<= 11.4.1)
+Architecture: iphoneos-arm
+Author: SarahH12099
+Section: Applications
+Description: Free Premium VPN Aegis
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.vpnaegispp_1.0.0.2_iphoneos-arm.deb
+Size: 5244
+MD5sum: 9e162d517764c612943ed49375c9a3a7
+
+Package: com.tqm-mos.vpnproxymasterhack
+Name: VPN Proxy Master Hack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Unlimited VPN VIP!
+Author: pxcex
+Section: Applications
+Depends: mobilesubstrate
+Description: Hack Vip VPN
+Filename: ./debs/com.tqm-mos.vpnproxymasterhack_0.0.2_iphoneos-arm.deb
+Size: 78876
+MD5sum: ab7e0428e31556245c51638fcfafc01f
+
+Package: com.tqm-mos.youtuber-unlimitedviewslikes
+Version: 1.0-34
+Section: Applications
+Maintainer: QM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: YouTuber - Unlimited Views + Likes
+Author: AUSSIE
+Description: shared tools for unlimapps tweaks
+Filename: ./debs/com.tqm-mos.youtuber-unlimitedviewslikes_1.0-34_iphoneos-arm.deb
+Size: 5944
+MD5sum: fe5293719f8b5f0ed21aaa4e708da11e
+
+Package: com.tqm-mos.uasharedtools
+Name: uasharedtools (iOS 7-10)
+Version: 2.2r-76
+Depends: mobilesubstrate, firmware (<< 11.0)
+Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.unlimapps.uasharedtools.nostash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Architecture: iphoneos-arm
+Author: UnlimApps Inc.
+Section: Development
+Description: shared tools for unlimapps tweaks
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.uasharedtools_2.2r-76_iphoneos-arm.deb
+Size: 23514440
+MD5sum: ffcab5938ec2397d301def931037ec29
+
+Package: com.tqm-mos.fonturwgeo
+Name: Font Geometric
+Version: 1.0
+Architecture: iphoneos-arm
+Author: Evelyn (ev_ynw)
+Section: Fonts
+Description: Phông chữ được chạy qua Tweaks Anemone từ IOS10-12
+Maintainer: QM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fonturwgeo
+Filename: ./debs/com.tqm-mos.fonturwgeo_1.0_iphoneos-arm.deb
+Size: 16864826
+MD5sum: 88791470119ab2f54320e51fc521f5f3
+
+Package: com.tqm-mos.dlshack
+Name: Hack Dream League Soccer 2019
+Version: 6.11-21
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: MtTuanit(IPALibrary)
+Section: Applications
+Description: Dream League Soccer 2019 v6.11 Hack, Cheat, Mod working iOS 12 jailbreak 
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.dlshack_6.11-21_iphoneos-arm.deb
+Size: 34016
+MD5sum: f28d7e61da71a7e84eadf9794f62ca48
+
+Package: com.tqm-mos.floatingdockplus
+Version: 1.1
+Section: IOS12
+Maintainer: QM
+Depends: firmware (>= 11.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker,com.spark.libsparkapplist
+Conflicts: com.imkpatil.floatingdock, com.repo.xarold.com.floatingdock, com.synnyg.floatydock, cydia.kiiimo.org.floatingdock
+Architecture: iphoneos-arm
+Name: FloatingDockPlus
+Author: Kiran Patil
+Icon: file:///Library/Application Support/FloatingDockPlus/icon.png
+Filename: ./debs/com.tqm-mos.floatingdockplus_1.1_iphoneos-arm.deb
+Size: 49266
+MD5sum: 1f91e4f3b312865dbd11ed719c8bfa52
+
+Package: com.yourepo.tqm.chargeanimationscracked
+Version: 2.1k
+Priority: optional
+Section: IOS12
+Maintainer: QM
+Depends: firmware (>= 5.0), mobilesubstrate, org.thebigboss.libcolorpicker, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Name: ChargeAnimations
+Author: c1d3r
+Description: Animations when you plug your charger
+Filename: ./debs/com.yourepo.tqm.chargeanimationscracked_2.1k_iphoneos-arm.deb
+Size: 10296150
+MD5sum: d66a9d35f1c74678a4951cefb0186a21
+
+Package: com.tqm-mos.chromepp
+Version: 1.0r-2
+Priority: optional
+Section: IOS12
+Maintainer: QM
+Depends: mobilesubstrate, firmware (>= 7.0), com.tqm-mos.uamediaexporthelper10, com.tqm-mos.nostash
+Conflicts: com.unlimapps.jodeboxlib
+Architecture: iphoneos-arm
+Name: Chrome ++ - Chrome Download Manager
+Author: UnlimApps Inc
+Tag: purpose::extension, role::enduser
+Description: Download & Copy Instagram media
+Filename: ./debs/com.tqm-mos.chromepp_1.0r-2_iphoneos-arm.deb
+Size: 7353566
+MD5sum: dfeb6fefe6924c1cb824d3a05523929e
+
+Package: com.tqm-mos.cleanphonepad
+Version: 1.0.0
+Section: IOS12
+Maintainer: QM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 232
+Name: CleanPhonePad
+Author: shepgoba
+Description: Suppots IOS12
+Filename: ./debs/com.tqm-mos.cleanphonepad_1.0.0_iphoneos-arm.deb
+Size: 15964
+MD5sum: 346584c934752af115abd55201c4b5fa
+
+Package: com.tqm-mos.colorboard
+Version: 0.0.2
+Section: IOS12
+Maintainer: QM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: ColorBoard
+Author: Guillermo Moran
+Description: Suppots IOS12
+Filename: ./debs/com.tqm-mos.colorboard_0.0.2_iphoneos-arm.deb
+Size: 3914
+MD5sum: de99fa2b9733545f89750202d7c6fb5c
+
+Package: com.tqm-mos.crackplus
+Version: 3.7
+Section: IOS12
+Maintainer: QM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: CrackPlus ++
+Author: Othman Almutari
+Description: Suppots IOS12
+Filename: ./debs/com.tqm-mos.crackplus_3.7_iphoneos-arm.deb
+Size: 94998
+MD5sum: 46e5a2c82fe072d4cb4e7c18a59f4d83
+
+Package: com.tqm-mos.cydia3dtouch
+Name: Cydia3DTouch 12
+Version: 0.0.4
+Depends: mobilesubstrate, firmware (>= 12.0)
+Architecture: iphoneos-arm
+Author: pxcex 
+Section: IOS12
+Description: add 3D Touch gestures to Cydia IOS 12 (unc0ver).
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.cydia3dtouch_0.0.4_iphoneos-arm.deb
+Size: 19668
+MD5sum: 63d278f22995f3a5b5f9d1e31107fda7
+
+Package: com.tqm-mos.appshortcut
+Version: 1.0.2
+Section: IOS12
+Maintainer: QM
+Depends: mobilesubstrate, applist, preferenceloader
+Architecture: iphoneos-arm
+Installed-Size: 280
+Name: AppShortcut Cracked
+Author: db89
+Description: Phím tắt app
+Filename: ./debs/com.tqm-mos.appshortcut_1.0.2_iphoneos-arm.deb
+Size: 47300
+MD5sum: 064c063216f45dec7f3914291d4ff9ab
+
+Package: com.tqm-mos.bannerlock
+Name: BannerLock Cracked
+Version: 0.0.4-1
+Architecture: iphoneos-arm
+Description: Privacy-orientated notification banner customisation
+Maintainer: QM
+Author: Spark
+Depends: mobilesubstrate, preferenceloader, firmware(<=12.0)
+Installed-Size: 416
+Section: IOS11
+Filename: ./debs/com.tqm-mos.bannerlock_0.0.4-1_iphoneos-arm.deb
+Size: 156588
+MD5sum: c2678599742ad8a8994e34aec5dd4eac
+
+Package: com.tqm-mos.resetfix
+Name: System Memory Reset Fix (uncover)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Prevent overnight userspace reboots triggered by mmaintenanced
+Maintainer: QM
+Author: Pwn20wnd
+Section: System
+Version: 1.0
+Installed-Size: 56
+Filename: ./debs/com.tqm-mos.resetfix_1.0_iphoneos-arm.deb
+Size: 2178
+MD5sum: c8ac650d1e1ede6d6cd502c9b68ce12b
+
+Package: com.tqm-mos.animatoonxs
+Name: Animatoon XS
+Version: 1.0.0
+Architecture: iphoneos-arm
+Author: Tykology
+Section: Utilities
+Description: Beautiful Animated Theme for iOS 10/11/12. Animatoon XS it´s a fantastic animated theme for iOS. 
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.animatoonxs_1.0.0_iphoneos-arm.deb
+Size: 1077092
+MD5sum: f5e3980c458012b09b6996c8808b7935
+
+Package: com.tqm-mos.animatoonxs
+Version: 1.0.1
+Section: Utilities
+Maintainer: QM
+Architecture: iphoneos-arm
+Name: Animatoon XS
+Author: Tykology
+Description: Beautiful Animated Theme for iOS 10/11/12. Animatoon XS it´s a fantastic animated theme for iOS.
+Depends: mobilesubstrate, com.tqm-mos.fingal
+Filename: ./debs/com.tqm-mos.animatoonxs_1.0.1_iphoneos-arm.deb
+Size: 1318184
+MD5sum: 3b8df80cca45f9c67a06d96dec938a01
+
+Package: com.tqm-mos.baumostm
+Name: BauMos (TM)
+Version: 1.0
+Section: Fonts
+Architecture: iphoneos-arm
+Depends: firmware (>= 10), mobilesubstrate
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.baumostm
+Description: Font Dùng qua Bytafont3
+Author: Mos <devmos388373@gmail.com>
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.baumostm_1.0_iphoneos-arm.deb
+Size: 578516
+MD5sum: 2feb8ea67420d1cb45429bb7469c4f1c
+
+Package: com.tqm-mos.lockdock
+Name: LockDock
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: bring dock on lockscreen
+Maintainer: QM
+Author: Blake Boxberger
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Installed-Size: 176
+Section: IOS12
+Filename: ./debs/com.tqm-mos.lockdock_1.0.2_iphoneos-arm.deb
+Size: 24122
+MD5sum: 9f36d6597ffc7725e91dbf58031a47cc
+
+Package: com.tqm-mos.modulus
+Name: Modulus k
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Introduces several awesome new CC modules.
+Maintainer: QM
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, com.laughingquoll.prefixui, com.tqm-mos.ccsupport
+Installed-Size: 968
+Section: IOS12
+Filename: ./debs/com.tqm-mos.modulus_1.0.2_iphoneos-arm.deb
+Size: 129900
+MD5sum: d435d1ca89600e1c0a589d3ed5d74b06
+
+Name: ColorCodedLogs
+Package: com.tqm-mos.colorlog
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader, org.thebigboss.libcolorpicker
+Version: 1.5
+Architecture: iphoneos-arm
+Description: color-coded recent call logs
+Maintainer: QM
+Author: leftyfl1p <leftyfl1p@me.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Installed-Size: 416
+dev: mos
+Filename: ./debs/com.tqm-mos.colorlog_1.5_iphoneos-arm.deb
+Size: 31630
+MD5sum: c8aeebac54a905c91ee3b6f7131f0ae7
+
+Package: com.tqm-mos.caronoffggNo47
+Name: Car On Off (Google) 4,7M
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Car đóng sửa đổi icon on of Hình Google
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.caronoffggno
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs/com.tqm-mos.caronoffggNo47_0.1_iphoneos-arm.deb
+Size: 1264890
+MD5sum: 029a5d40e61c4132b4c1d0b08fd78b05
+
+Package: com.tqm-mos.caronoffggNox
+Name: Car On Off (Google) XM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Car đóng sửa đổi icon on of Hình Google
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.caronoffggno
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs/com.tqm-mos.caronoffggNox_0.1_iphoneos-arm.deb
+Size: 1602954
+MD5sum: ddc36c01c2a891e156a530938c3f27d4
+
+Package: com.tqm-mos.caronoffggno+
+Name: Car On Off (Google) PlusM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Car đóng sửa đổi icon on of Hình Google
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.caronoffggno
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs/com.tqm-mos.caronoffggno+_0.1_iphoneos-arm.deb
+Size: 1604282
+MD5sum: c1d036fc753fcde5d8b370603016c56f
+
+Package: com.tqm-mos.tpchame
+Name: HS-LS Thư Pháp (Cha-Mẹ)
+Author: Mos
+Version: 1.0
+Depends: 
+Architecture: iphoneos-arm
+Description: Widget độc lạ đẹp. 👌Thư pháp câu đối về Cha Mẹ
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.tpchame
+Filename: ./debs/com.tqm-mos.tpchame_1.0_iphoneos-arm.deb
+Size: 3688372
+MD5sum: 987a44b6f10cc4f7b048daf26d449df7
+
+Package: com.tqm-mos.textp
+Name: HS-LS Thư Pháp
+Author: Mos
+Version: 1.0
+Depends: 
+Architecture: iphoneos-arm
+Description: Widget độc lạ đẹp. 👌
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.textp
+Filename: ./debs/com.tqm-mos.textp_1.0_iphoneos-arm.deb
+Size: 1844810
+MD5sum: d9a990febf486e4d823841261bdf75e7
+
+Package: com.tqm-mos.nototm
+Name: Noto (TM)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Font Love Được mod lại full
+Author: Mos <devmos388373@gmail.com>
+Maintainer: QM <devmos388373@gmail.com>
+Section: Fonts
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.nototm
+Depends: firmware (>= 10), mobilesubstrate
+Filename: ./debs/com.tqm-mos.nototm_1.0_iphoneos-arm.deb
+Size: 530166
+MD5sum: 25de4fab786c322155a532aa955ed3f6
+
+Package: com.tqm-mos.lsshortcutPlus
+Name: LS-ShortCutPro (Plus)
+Author: Mos
+Version: 1.0
+Depends: 
+Architecture: iphoneos-arm
+Description: Widget độc lạ đẹp. 👌 Tạo viền cho 2 icon camera & flash ngoài màn hình lock
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.lsshortcut
+Filename: ./debs/com.tqm-mos.lsshortcutPlus_1.0_iphoneos-arm.deb
+Size: 11720
+MD5sum: 16703b97df418e62a24085bb68ac4aa0
+
+Package: com.tqm-mos.lsshortcut47
+Name: LS-ShortCutPro (4,7)
+Author: Mos
+Version: 1.0
+Depends: 
+Architecture: iphoneos-arm
+Description: Widget độc lạ đẹp. 👌 Tạo viền cho 2 icon camera & flash ngoài màn hình lock
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.lsshortcut
+Filename: ./debs/com.tqm-mos.lsshortcut47_1.0_iphoneos-arm.deb
+Size: 11734
+MD5sum: ecc88d5c95ffdddeeee3639e30b55852
+
+Package: com.tqm-mos.carcall
+Name: CarCall
+Version: 0.1
+Architecture: iphoneos-arm
+Description: CarCall thay đổi icon cuộc gọi cho thiết bị của bạn rất cute
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.carcall
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.carcall_0.1_iphoneos-arm.deb
+Size: 488280
+MD5sum: ee449ea8ce7964d5ddf40cf05d2362fc
+
+Package: com.tqm-mos.shutter
+Version: 1.1.1-12
+Section: Tweaks
+Maintainer: QM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: Shutter VH (Fix)
+Author: Jbrownllama
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Filename: ./debs/com.tqm-mos.shutter_1.1.1-12_iphoneos-arm.deb
+Size: 40874
+MD5sum: 918cf1fc01358fbea125926dc15b7100
+
+Package: com.tqm-mos.libertylite
+Version: 0.2.11
+Section: System
+Maintainer: QM <devmos388373@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist, tqm-mos.iconrepo
+Architecture: iphoneos-arm
+Name: Liberty Lite
+Description: Chặn phát hiện app đã jailbreak đối với những app như ngân hàng hoặc grab 
+Author: Mos
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Filename: ./debs/com.tqm-mos.libertylite_0.2.11_iphoneos-arm.deb
+Size: 53516
+MD5sum: 4f9659ee20ba535deb5c00a97acf40ad
+
+Package: com.tqm-mos.sneakycam
+Version: 0.0.5-1-2
+Section: IOS12
+Maintainer: QM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 284
+Name: SneakyCam
+Author: SparkDev
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Filename: ./debs/com.tqm-mos.sneakycam_0.0.5-1-2_iphoneos-arm.deb
+Size: 79078
+MD5sum: bfa57fa15ee980550221d4dad9521649
+
+Package: com.tqm-mos.pencilchargingindicator
+Name: PencilChargingIndicator
+Version: 1.2~b5
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: shiftcmdk 
+Section: IOS11
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.pencilchargingindicator_1.2~b5_iphoneos-arm.deb
+Size: 506362
+MD5sum: 3b219b1ee2a40f886ef35af2537a9f61
+
+Package: com.tqm-mos.classicios6
+Name: iOS 6 - Themes
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Một bộ chủ đề mang hơi hướng phong cách của ios6 khá đẹp 
+Maintainer: QM
+Author: Mos
+Section: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.classicios6
+Filename: ./debs/com.tqm-mos.classicios6_1.0_iphoneos-arm.deb
+Size: 6667960
+MD5sum: 03003efbf64cdc0545b60630772a8b92
