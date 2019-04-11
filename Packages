@@ -1264,3 +1264,158 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.classicios6
 Filename: ./debs/com.tqm-mos.classicios6_1.0_iphoneos-arm.deb
 Size: 6667960
 MD5sum: 03003efbf64cdc0545b60630772a8b92
+
+Package: com.tqm-mos.caronoffdg
+Name: Car on-of iOS11/Plus
+Version: 0.1
+Architecture: iphoneos-arm
+Description: car đóng thay đổi icon stt và icon on off hỡ trợ ios11
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.caronoffdg
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depends: firmware (>= 11.0)
+Filename: ./debs/com.tqm-mos.caronoffdg_0.1_iphoneos-arm.deb
+Size: 1815886
+MD5sum: 4a6a3644a623edfe05bb7da60527e568
+
+Package: com.tqm-mos.caronoffgg
+Name: Car On Off (Google) Plus
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Car đóng sửa đổi icon on of Hình Google
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.caronoffgg
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs/com.tqm-mos.caronoffgg_0.1_iphoneos-arm.deb
+Size: 1631096
+MD5sum: 3664efe215e1bbd4e94cb874321be941
+
+Package: com.tqm-mos.caronoffgg47
+Name: Car On Off (Google) 4,7
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Car đóng sửa đổi icon on of Hình Google
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.caronoffgg
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs/com.tqm-mos.caronoffgg47_0.1_iphoneos-arm.deb
+Size: 1293200
+MD5sum: d0cc04e05a70a2537cb0e0edb06368dd
+
+Package: com.tqm-mos.caronoffsiri47
+Name: Car On Off/4,7 (siri)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Car đóng sửa đổi icon on off                                                                
+Author: Mos <devmos388373@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.caronoffsiri
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs/com.tqm-mos.caronoffsiri47_0.1_iphoneos-arm.deb
+Size: 1278596
+MD5sum: 46d11d416672108cee5aa292789f612b
+
+Package: com.tqm-mos.caronoffsiriplus
+Name: Car On Off/Plus (siri)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Car đóng sửa đổi icon on off                                                                
+Author: Mos <devmos388373@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.caronoffsiri
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs/com.tqm-mos.caronoffsiriplus_0.1_iphoneos-arm.deb
+Size: 1615156
+MD5sum: 44aefc3a68ab73b36640b762be1c00ea
+
+Package: com.tqm-mos.caronoffsirix
+Name: Car On Off/X (siri)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Car đóng sửa đổi icon on off                                                                
+Author: Mos <devmos388373@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.caronoffsiri
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs/com.tqm-mos.caronoffsirix_0.1_iphoneos-arm.deb
+Size: 1613790
+MD5sum: 2a59404078ec7d17e1e2554fcef4a818
+
+Package: com.tqm-mos.caronofftc
+Name: Car On Off (Thái Cực)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Car đóng sửa đổi icon on of Hình Thái cực ,Bát quái
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.caronofftc
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs/com.tqm-mos.caronofftc_0.1_iphoneos-arm.deb
+Size: 1511178
+MD5sum: ea439387f41cdc8ebf774a2d43f799c2
+
+Package: com.tqm-mos.caronoffwin
+Name: Car on-off/Plus (Win)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: car đóng thay đổi icon stt và icon on off hỡ trợ ios11
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.caronoffwin
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depends: firmware (>= 11.0)
+Filename: ./debs/com.tqm-mos.caronoffwin_0.1_iphoneos-arm.deb
+Size: 1820436
+MD5sum: 3ca4c7f3cd1bb8e438dccafd30fa41f0
+
+Package: com.tqm-mos.caronoffwinx
+Name: Car on-off/X (Win)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: car đóng thay đổi icon stt và icon on off hỡ trợ ios11
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.caronoffwin
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depends: firmware (>= 11.0)
+Filename: ./debs/com.tqm-mos.caronoffwinx_0.1_iphoneos-arm.deb
+Size: 1673410
+MD5sum: e521abf3fa0dc0073b3e5d50bb745dbb
+
+Package: com.tqm-mos.bazzi
+Version: 2.0.4
+Section: IOS11
+Maintainer: QM
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker
+Conflicts: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Architecture: iphoneos-arm
+Name: Bazzi
+Author: Blake Boxberger
+Description: The ultimate iPhone X battery icon customizer tweak
+Filename: ./debs/com.tqm-mos.bazzi_2.0.4_iphoneos-arm.deb
+Size: 32228
+MD5sum: 6ed74d38b62fa23f27dd2770d5da66f9
+
+Package: com.tqm-mos.proudlockxr
+Name: ProudLock Xr
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: QM
+Author: Sniper_GER <sniperger@festival.ml>
+Section: IOS12
+Version: 0.1-1
+Installed-Size: 4732
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.iconlock
+Filename: ./debs/com.tam-mos.proudlockxr_0.1-1_iphoneos-arm.deb
+Size: 1375226
+MD5sum: 07cc6db06bfa8c3beb6360e02cc2e9cf
