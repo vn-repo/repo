@@ -2820,6 +2820,18 @@ Filename: ./debs/com.tqm-mos.mhsmssupport_1.0-2_iphoneos-arm.deb
 Size: 6662
 MD5sum: 93c93ee66fa0c67bdb6a8da879e1bd04
 
+Package: com.tqm-mos.cydown12
+Version: 6.9.7
+Section: IOS12
+Maintainer: QM
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Filename: ./debs/com.tqm-mos.cydown12_6.9.7_iphoneos-arm.deb
+Size: 1491368
+MD5sum: 4a23ad0dc835b1b8e5aa700a0dbbbfca
 
 
 
