@@ -2753,6 +2753,96 @@ Filename: ./debs/tqm.namevip_1.0_iphoneos-arm.deb
 Size: 297190
 MD5sum: 1082a0b2c6acb8452a12b36e7e3aafe7
 
+Package: com.c1d3r.messageheadsxi
+Name: Chat Bong Bóng 
+Version: 2.0.5k
+Architecture: iphoneos-arm
+Description: Chát messager bong bóng như android ,tiện hơn khi bạn là ng hay nt
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.chatxi
+Author: C1d3 <anhminh311105@gmail.com>
+Section: IOS12
+Depends: firmware (>= 10), mobilesubstrate, com.rpetrich.rocketbootstrap, com.tqm-mos.crack, com.tqm-mos.mhfbsupport, com.tqm-mos.mhwasupport, com.tqm-mos.mhsmssupport
+Conflicts: com.c1d3r.mhfbsupport, com.c1d3r.mhsmssupport, com.c1d3r.mhwasupport
+Maintainer: Tqm-minh <anhminh311105@gmail.com>
+Filename: ./debs/com.c1d3r.messageheadsxi_2.0.5k_iphoneos-arm.deb
+Size: 3109906
+MD5sum: a19fe773954531453413741991ff9b65
+
+Package: com.tqm-mos.mhfbsupport
+Name: Facebook Messenger Support
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Hỗ trợ Facebook Messenger cho Chat bong bóng
+Maintainer: QM
+Author: c1d3r
+Section: Utilities
+Version: 1.0-1
+Filename: ./debs/com.tqm-mos.mhfbsupport_1.0-1_iphoneos-arm.deb
+Size: 6878
+MD5sum: c3adeeacde185a3233b54951ead725d0
+
+Package: com.tqm-mos.mhsmssupport
+Name: SMS/iMessage Support
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Hỗ trợ SMS / iMessage cho Chat bong bóng
+Maintainer: QM
+Author: c1d3r
+Section: Utilities
+Version: 1.0-1
+Filename: ./debs/com.tqm-mos.mhsmssupport_1.0-1_iphoneos-arm.deb
+Size: 6230
+MD5sum: 12f7fffb9a171a698e19cd4f073bf707
+
+Package: com.tqm-mos.mhwasupport
+Name: WhatsApp Support
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Hỗ trợ WhatsApp cho Chat bong bóng
+Maintainer: QM
+Author: c1d3r
+Section: Utilities
+Version: 1.0-1-2+debug
+Filename: ./debs/com.tqm-mos.mhwasupport_1.0-1-2+debug_iphoneos-arm.deb
+Size: 7602
+MD5sum: 4963d35a99275421c6745bea663a2ba2
+
+Package: com.tqm-mos.mhsmssupport
+Name: SMS/iMessage Support
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Hỗ trợ SMS / iMessage cho Chat bong bóng
+Maintainer: c1d3r
+Author: c1d3r
+Section: Utilities
+Version: 1.0-2
+Filename: ./debs/com.tqm-mos.mhsmssupport_1.0-2_iphoneos-arm.deb
+Size: 6662
+MD5sum: 93c93ee66fa0c67bdb6a8da879e1bd04
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
