@@ -2875,6 +2875,34 @@ Filename: ./debs/com.yourepo.qminh.dsniffsuite_2.5.1_iphoneos-arm.deb
 Size: 2102470
 MD5sum: 80e3347028f5c7885ed9dce081f502f6
 
+Package: tqm.ClockMetal
+Name: Clock Metal
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích (widgets) Hiển thị đồng hồ phong cách khá lạ thú vị ,tải về thử cảm nhận
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.metal
+Filename: ./debs/tqm.ClockMetal_1.0_iphoneos-arm.deb
+Size: 531180
+MD5sum: 51ec2ec49c5d1ebd77f0a36a40ada3f5
+
+Package: com.tqm-mos.mhfbsupport
+Name: Facebook Messenger Support
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Hỗ trợ Facebook Messenger cho Chat bong bóng
+Maintainer: QM
+Author: c1d3r
+Section: Utilities
+Version: 1.0-2
+Filename: ./debs/com.tqm-mos.mhfbsupport_1.0-2_iphoneos-arm.deb
+Size: 6956
+MD5sum: 12aa9ec4c4f12f2c1219e63dd60d31d8
+
 
 
 
