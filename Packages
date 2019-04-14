@@ -2577,6 +2577,7 @@ Section: IOS11
 Icon: https://cdn.discordapp.com/attachments/418170831592488972/465268776091254815/icon.png
 Version: 2.1.4
 Installed-Size: 3244
+Depiction: http://tqm-mos.github.io/description.html?id=home
 Filename: ./debs/com.tqm-mos.homegesture12_2.1.4_iphoneos-arm.deb
 Size: 2325880
 MD5sum: 5bb533d7c89a34231a73d344e1b36b3b
@@ -2717,6 +2718,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Author: Tykology
 Section: Utilities
+Depends: com.tqm-mos.fingal
 Description: Amazing Animated Theme for iOS 10/11/12
 Maintainer: QM
 Depiction: http://tqm-mos.github.io/description.html?id=galaxusxs
@@ -2750,8 +2752,8 @@ Maintainer: QM
 Section: Iwidgets
 Depiction: http://tqm-mos.github.io/description.html?id=com.Namevip
 Filename: ./debs/tqm.namevip_1.0_iphoneos-arm.deb
-Size: 297190
-MD5sum: 1082a0b2c6acb8452a12b36e7e3aafe7
+Size: 297162
+MD5sum: 1404ee5572fb414f58151e5cbdd811af
 
 Package: com.c1d3r.messageheadsxi
 Name: Chat Bong Bóng 
@@ -2832,6 +2834,46 @@ Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Filename: ./debs/com.tqm-mos.cydown12_6.9.7_iphoneos-arm.deb
 Size: 1491368
 MD5sum: 4a23ad0dc835b1b8e5aa700a0dbbbfca
+
+Package: com.yourepo.qminh.netkillui103x
+Name: NetKillUI 10.3.x
+Version: 1.2
+Architecture: iphoneos-arm
+Description: NetKillUI một twekas khá hay giúp bạn kích những người khác khỏi wifi mà mình không muốn họ dùng
+Author: Mos <anhminhclub@gmail.com>
+Section: System
+Depends: com.yourepo.qminh.arpscan, com.yourepo.qminh.dsniffsuite, network-cmds, libpcap, gawk
+Maintainer: Quang Minh <anhminhclub@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=net
+Filename: ./debs/com.yourepo.qminh.netkillui103x_1.2_iphoneos-arm.deb
+Size: 527492
+MD5sum: 7a0b7dd89f759b914515ed8ec5796c1f
+
+Package: com.yourepo.qminh.arpscan
+Version: 1.8.1-1
+Architecture: iphoneos-arm
+Maintainer: Quang Minh
+Section: Utilities
+Description: ArpScan gói phụ trợ dùng cho netkill
+Depends: libpcap
+Author: Mos
+Name: ArpScan
+Filename: ./debs/com.yourepo.qminh.arpscan_1.8.1-1_iphoneos-arm.deb
+Size: 283324
+MD5sum: 5f7e7693532cc2c5ac7c90aaaa4cca00
+
+Package: com.yourepo.qminh.dsniffsuite
+Version: 2.5.1
+Architecture: iphoneos-arm
+Maintainer: Quang Minh
+Section: Development
+Description: DsniffSuite gói phụ trợ dùng cho netkill
+Conflicts: org.mulliner.dsniff
+Author: Mos
+Name: DsniffSuite
+Filename: ./debs/com.yourepo.qminh.dsniffsuite_2.5.1_iphoneos-arm.deb
+Size: 2102470
+MD5sum: 80e3347028f5c7885ed9dce081f502f6
 
 
 
