@@ -1963,6 +1963,7 @@ Section: IOS11
 Depends: mobilesubstrate, preferenceLoader, com.yourepo.tqm.mos, firmware (<= 12)
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
 Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=carball
 Filename: ./debs/com.yourepo.tqm.callbarxcracked_0.3-68_iphoneos-arm.deb
 Size: 203094
 MD5sum: 69c92f77885f55ccd551dc5224943d96
@@ -2767,8 +2768,8 @@ Depends: firmware (>= 10), mobilesubstrate, com.rpetrich.rocketbootstrap, com.tq
 Conflicts: com.c1d3r.mhfbsupport, com.c1d3r.mhsmssupport, com.c1d3r.mhwasupport
 Maintainer: Tqm-minh <anhminh311105@gmail.com>
 Filename: ./debs/com.c1d3r.messageheadsxi_2.0.5k_iphoneos-arm.deb
-Size: 3109906
-MD5sum: a19fe773954531453413741991ff9b65
+Size: 3192442
+MD5sum: c8a1ca77ae9c237fe7ee32d1e985c811
 
 Package: com.tqm-mos.mhfbsupport
 Name: Facebook Messenger Support
@@ -3538,6 +3539,138 @@ Author: Mos <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.prokingmask_1.0_iphoneos-arm.deb
 Size: 42028
 MD5sum: aa181861cacf6a8ba3ae2e2b5791aee6
+
+Package: tqm.ClockAngel
+Name: HS-Clock Angel
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích (widgets) Hiển thị đồng hồ phong cách khá lạ thú vị ,dùng cho màn hình chính, tải về thử cảm nhận
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.angel
+Filename: ./debs/tqm.ClockAngel_1.0_iphoneos-arm.deb
+Size: 54890
+MD5sum: d978c94fc391d9149161a6e0eff8c029
+
+Package: tqm.ClockDragon
+Name: Clock Dragon
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích (widgets) Hiển thị đồng hồ phong cách khá lạ thú vị ,dùng cho màn hình chính và khoá, tải về thử cảm nhận
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.dragon
+Filename: ./debs/tqm.ClockDragon_1.0_iphoneos-arm.deb
+Size: 348682
+MD5sum: d78b8bf0b3af24b0a5992effc6c7639a
+
+Package: tqm.Clockmetagols
+Name: HS-Clock MetalGold
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích (widgets) Hiển thị đồng hồ phong cách khá lạ thú vị ,dùng cho màn hình chính, tải về thử cảm nhận
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.metalgold
+Filename: ./debs/tqm.Clockmetagols_1.0_iphoneos-arm.deb
+Size: 116076
+MD5sum: b4c1d64724a3924158ee9e2cbc2de4d1
+
+Package: tqm.Clockpirate
+Name: HS-Clock Pirate
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích (widgets) Hiển thị đồng hồ phong cách khá lạ thú vị ,dùng cho màn hình chính, tải về thử cảm nhận
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.pirate
+Filename: ./debs/tqm.Clockpirate_1.0_iphoneos-arm.deb
+Size: 75586
+MD5sum: 8548cf183356e6b352fcef1ac6e68420
+
+Package: com.tqm-mos.glacies
+Name: Vitrum
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: QM
+Author: LacertosusDeus <LacertosusThemes@gmail.com>
+Section: Tweaks
+Version: 1.3
+Installed-Size: 224
+Filename: ./debs/com.tqm-mos.glacies_1.3_iphoneos-arm.deb
+Size: 40374
+MD5sum: 1c6bac7676a9ec7a28ff855bb31c97e8
+
+Package: com.tqm-mos.pubghackno1
+Name: PUBG Hack Slider Upgrade VIP
+Version: 10.5~2
+Depends: mobilesubstrate
+Conflicts: com.hackyouriphone.pubgmobilenoblocking
+Architecture: iphoneos-arm
+Author: KIIIMO
+Section: Hack Games
+Description: Phát hành bản cập nhật mới Hack PUBG - PUBG Hack Không chặn miễn phí Đối với tất cả nâng cấp miễn phí lên tài khoản vip mà không có quảng cáo
+Maintainer: Qm
+Filename: ./debs/com.tqm-mos.pubghackno1_10.5~2_iphoneos-arm.deb
+Size: 1833942
+MD5sum: 5502a2fc6732dc3c954cc809e608d358
+
+Package: com.tqm-mos.recydia
+Name: ReCydia 
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: Ryu
+Section: Tweaks
+Description: A pretty cool Cydia homepage
+Maintainer: QM
+Depiction: http://tqm-mos.github.io/description.html?id=info
+Filename: ./debs/com.tqm-mos.recydia_1.0_iphoneos-arm.deb
+Size: 2778280
+MD5sum: a54ae069481d0c7baeb22e66e7fd5620
+
+Package: com.tqm-mos.recydia2
+Name: ReCydia 2
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: Ryu
+Section: IOS11
+Description: A Successor to ReCydia
+Maintainer: QM
+Depiction: http://tqm-mos.github.io/description.html?id=info
+Filename: ./debs/com.tqm-mos.recydia2_1.0_iphoneos-arm.deb
+Size: 1881972
+MD5sum: 8ff3b7a2a3f06bce469249cd7701dc96
+
+Author: Makwan BK <makwanbarzan@gmail.com>
+Maintainer: QM
+Name: DarkModuleCCXI
+Package: tqm.darkmoduleccxi
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Section: IOS11
+Installed-Size: 117
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Add Dark Mode To Control Center Modules Background
+dev: mos
+Tag: purpose::extension, compatible::ios11
+Filename: ./debs/tqm.darkmoduleccxi_1.0_iphoneos-arm.deb
+Size: 5304
+MD5sum: 3c502d523145323c550e5e421fd85574
 
 
 
