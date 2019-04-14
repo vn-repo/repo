@@ -2903,29 +2903,641 @@ Filename: ./debs/com.tqm-mos.mhfbsupport_1.0-2_iphoneos-arm.deb
 Size: 6956
 MD5sum: 12aa9ec4c4f12f2c1219e63dd60d31d8
 
+Package: com.tqm-mos.cargoc10
+Name: Bars Gốc iOS10
+Version: 0.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.0)
+Description: Signal Bars from iOS11
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cargoc10
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.cargoc10_0.1_iphoneos-arm.deb
+Size: 1261152
+MD5sum: 45666f183ec615c25655522f686d02c5
 
+Package: com.tqm-mos.cargoc11
+Name: Bars Gốc iOS11
+Version: 0.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0)
+Description: Signal Bars from iOS11
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cargoc11
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.cargoc11_0.1_iphoneos-arm.deb
+Size: 1166634
+MD5sum: a6fa1e96c962853ec867e13a0d116442
 
+Package: com.tqm-mos.carsong10cho11
+Name: Bars Sóng iOS10 Cho iOS11
+Version: 0.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0)
+Description: Signal Bars from iOS11
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.carsong10cho11
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.carsong10cho11_0.1_iphoneos-arm.deb
+Size: 1687918
+MD5sum: 77c3959af414eb1d62d704b546cbefc6
 
+Package: com.tqm-mos.carsongnho11
+Name: Bars Mod Sóng Nhỏ iOS11
+Version: 0.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0)
+Description: Signal Bars from iOS11
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.carsongnho11
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.carsongnho11_0.1_iphoneos-arm.deb
+Size: 1646922
+MD5sum: cf95e831e058444e7b6ae17a41bef5d1
 
+Package: com.tqm-mos.cartim11
+Name: Bars Mod Tim iOS11
+Version: 0.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0)
+Description: Signal Bars from iOS11
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cartim11
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.cartim11_0.1_iphoneos-arm.deb
+Size: 1363186
+MD5sum: b87832d0bc4905bf651f41012dd37363
 
+Package: com.tqm-mos.cartinnhan11
+Name: Car Khung Tin Nhắn iOS11/5/6/7/8
+Version: 0.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0)
+Description: Signal Car TN from iOS11
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cartinnhan11
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.cartinnhan11_0.1_iphoneos-arm.deb
+Size: 526396
+MD5sum: 904494fa77344424b671137e901b8e25
 
+Package: com.tqm-mos.cartinnhan11plus
+Name: Car Khung Tin Nhắn iOS11/Plus/X
+Version: 0.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0)
+Description: Signal Car TN from iOS11
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cartinnhan11plus
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.cartinnhan11plus_0.1_iphoneos-arm.deb
+Size: 756732
+MD5sum: 3bb5cdd3c5190f07a1eb9278cd86be3a
 
+Package: com.tqm-mos.cartn10
+Name: Car Khung Tin Nhắn iOS10/Plus
+Version: 0.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.0)
+Description: Signal Car TN from iOS10
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cartn10
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.cartn10_0.1_iphoneos-arm.deb
+Size: 316964
+MD5sum: a557185e455377d35ab621cf03722a16
 
+Package: com.tqm-mos.barsios10plus
+Name: Bars Mod iOS10/Plus
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Signal Bars from iOS11
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.barsios10plus
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.barsios10plus_0.1_iphoneos-arm.deb
+Size: 1327838
+MD5sum: 97be0370368e7a098d56e00279ef1fe7
 
+Package: com.tqm-mos.barsios11plus
+Name: Bars Mod iOS11/Plus
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Signal Bars from iOS11
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.barsios11plus
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.barsios11plus_0.1_iphoneos-arm.deb
+Size: 1737032
+MD5sum: 0add2d2a3d2a36413084e966d61ab4e5
 
+Package: com.tqm-mos.barsios11x
+Name: Bars Mod iOS11/X
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Signal Bars from iOS11
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.barsios11x
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.barsios11x_0.1_iphoneos-arm.deb
+Size: 1687572
+MD5sum: de3c8d5a5668b628a10bdbe47e2d85ef
 
+Package: com.tqm-mos.barsios5678
+Name: Bars Mod iOS11/5678
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Signal Bars from iOS11
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.barsios5678
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.barsios5678_0.1_iphoneos-arm.deb
+Size: 1330414
+MD5sum: 89b5333e73ae9a17c82c85d1007e851d
 
+Package: com.tqm-mos.barsios105678
+Name: Bars Mod iOS10/5678
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Signal Bars from mod
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.barsios105678
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.barsios105678_0.1_iphoneos-arm.deb
+Size: 968988
+MD5sum: 4576b59b46b19290b64a9c0786df0a57
 
+Package: com.tqm-mos.s8theme
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: QM
+Section: TQM
+Description: Theme Galaxy S8 Cho iPhone và iPad.
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.s8theme
+Depends: 
+Author: Mos
+Name: Galaxy S8
+Filename: ./debs/com.tqm-mos.s8theme_1.0.4_iphoneos-arm.deb
+Size: 11901862
+MD5sum: 817232526fe8faea5c53bee3a09f18eb
 
+Package: com.tqm-mos.dlgmemorinjected
+Name: DLGMemor Injected
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: Injection library that allows you to alter memory in app. Once installed go into settings go to DLGMemorInjected and select the app you want to hack the memory in. Great alternative to gameplayer, Gamegem and iGameGuardian.  This was uploaded by @MODZ4FUN420 Please send donations to cloverdeth420@yahoo.com I accept PayPal and Amazon GiftRewards. Buy me a a coffee or something if you want me to help get these goodies. Have a few screenshots in the screenshots section that should help with use of this.To get this updated first add my repo to Cydia and install from there first
+Author: AnonymousxiosdeV
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.dlgmemorinjected_1.2.1_iphoneos-arm.deb
+Size: 531738
+MD5sum: da8e242fe9d2ad538ad60fc34212f3be
 
+Package: com.tqm-mos.sbapple
+Name: SB  Apple
+Version: 1.0
+Depends: 
+Architecture: iphoneos-arm
+Description: [Enter generic HS widget description ^_^]
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sbapple
+Author: Mos
+Maintainer: QM
+Section: Iwidgets
+Filename: ./debs/com.tqm-mos.sbapple_1.0_iphoneos-arm.deb
+Size: 38098
+MD5sum: b9e0e62f80c7864d7ca8eebf9aec2db5
 
+Package: com.tqm-mos.iwclock
+Name: Iwitdget WATCH
+Version: 1.0
+Depends: 
+Architecture: iphoneos-arm
+Description: [Enter generic HS widget description ^_^]
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.iwclock
+Author: Mos
+Maintainer: QM
+Section: Iwidgets
+Filename: ./debs/com.tqm-mos.iwclock_1.0_iphoneos-arm.deb
+Size: 1343462
+MD5sum: 0247b921824f164af11c028b3f6c6cff
 
+Package: com.tqm-mos.lsbluetabs
+Name: LS-Blue Tabs
+Version: 1.0
+Depends: 
+Architecture: iphoneos-arm
+Description: [Enter generic HS widget description ^_^]
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.lsbluetads
+Author: Mos
+Maintainer: QM
+Section: Iwidgets
+Filename: ./debs/com.tqm-mos.lsbluetabs_1.0_iphoneos-arm.deb
+Size: 95270
+MD5sum: 72d162140631f173c2232ca18f5828af
 
+Package: com.tqm-mos.lsdanhngon1
+Name: LS danh ngôn/clock
+Version: 1.0
+Depends: 
+Architecture: iphoneos-arm
+Description: [Enter generic HS widget description ^_^]
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.lsdanhngon1
+Author: Mos
+Maintainer: QM
+Section: Iwidgets
+Filename: ./debs/com.tqm-mos.lsdanhngon1_1.0_iphoneos-arm.deb
+Size: 4741464
+MD5sum: a50d6d84212363f4e10231c6e90c27e7
 
+Package: com.tqm-mos.lsngaythang
+Name: LS Ngày tháng màu mè
+Version: 1.0
+Depends: 
+Architecture: iphoneos-arm
+Description: [Enter generic HS widget description ^_^]
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.lsngaythang
+Author: Mos
+Maintainer: QM
+Section: Iwidgets
+Filename: ./debs/com.tqm-mos.lsngaythang_1.0_iphoneos-arm.deb
+Size: 787524
+MD5sum: 2f9d5d327d9555ecb9bb426e1459749f
 
+Package: com.tqm-mos.newyear
+Name: NewYear2019
+Version: 1.0
+Depends: 
+Architecture: iphoneos-arm
+Description: [Enter generic HS widget description ^_^]
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.newyear
+Author: Mos
+Maintainer: QM
+Section: Iwidgets
+Filename: ./debs/com.tqm-mos.newyear_1.0_iphoneos-arm.deb
+Size: 4414944
+MD5sum: 6b0ef1f39261c1734ce2f3525d0653ff
 
+Package: com.tqm-mos.widgetclock
+Name: Iwidgets Clock
+Version: 1.0
+Depends: 
+Architecture: iphoneos-arm
+Description: [Enter generic HS widget description ^_^]
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.widgetclock
+Author: Mos
+Maintainer: QM
+Section: Iwidgets
+Filename: ./debs/com.tqm-mos.widgetclock_1.0_iphoneos-arm.deb
+Size: 667014
+MD5sum: 1474e9215726d73f284322c5c193a8f6
 
+Package: com.tqm-mos.tagevh
+Name: Tage vh
+Version: 1.2.2-1~beta2k2
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader (>= 2.0)
+Architecture: iphoneos-arm
+Author: Mos
+Section: Tweaks
+Description: Tage là cử chỉ đa nhiệm tuyệt vời và hơn thế nữa.
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.tagevh
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.tagevh_1.2.2-1~beta2k2_iphoneos-arm.deb
+Size: 583340
+MD5sum: 1aee298efefe2dfc64b42c3e56814a75
 
+Package: com.tqm-mos.builmos
+Name: Tage, QuickDo
+Version: 1-5
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: Mos 
+Section: Tweaks
+Description: Activator for Tage, QuickDo and Dock by Quang Minh
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.builmos_1-5_iphoneos-arm.deb
+Size: 5448
+MD5sum: a3c932d37c9c885332471380218f5f90
+
+Package: com.tqm-mos.pikabu12
+Name: Pikabu Premium
+Version: 1.2
+Depends: mobilesubstrate, firmware (>= 7.0)
+Architecture: iphoneos-arm
+Author: Mos
+Section: Tweaks
+Description: Minimalistic volume hud on the notch, Headphone detection, Support iOS 10.0 to iOS 11.1.2
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.pikabu12_1.2_iphoneos-arm.deb
+Size: 145822
+MD5sum: d252981a89809b7ae0c860af8c735d76
+
+Package: com.tqm-mos.iwcal
+Name: Iwitdget Cal
+Version: 1.0
+Depends: 
+Architecture: iphoneos-arm
+Description: [Enter generic HS widget description ^_^]
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.iwcal
+Author: Mos
+Maintainer: QM
+Section: Iwidgets
+Filename: ./debs/com.tqm-mos.iwcal_1.0_iphoneos-arm.deb
+Size: 315726
+MD5sum: 67711fe6b7645c2d880e8bdd8900997e
+
+Package: com.tqm-mos.man
+Version: 1.0
+Section: Fonts
+Architecture: iphoneos-arm
+Name: Fonts Man
+Author: Mos
+Description: Font Man hoạt động qua anemone
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fontproman
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.man_1.0_iphoneos-arm.deb
+Size: 10878678
+MD5sum: cf246d61ce100cb70d61d2326d96a467
+
+Package: com.tqm-mos.nova
+Version: 1.0
+Section: Fonts
+Architecture: iphoneos-arm
+Name: Fonts Nova
+Author: Mos
+Description: Font NoVa hoạt động qua anemone
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fontnovapro
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.nova_1.0_iphoneos-arm.deb
+Size: 14823516
+MD5sum: 02f3aa09ce5558cafaa7762ca214d9aa
+
+Package: com.tqm-mos.bongtm
+Name: Bông (TM)
+Version: 1.0
+Section: Fonts
+Architecture: iphoneos-arm
+Depends: firmware (>= 10), mobilesubstrate
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.bongtm
+Description: Font Dùng qua Bytafont3
+Author: Mos <devmos388373@gmail.com>
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.bongtm_1.0_iphoneos-arm.deb
+Size: 604462
+MD5sum: 662605154106b319ef63165386b952b4
+
+Package: com.tqm-mos.chocokytm
+Name: Chocoky (TM)
+Version: 1.0
+Section: Fonts
+Architecture: iphoneos-arm
+Depends: firmware (>= 10), mobilesubstrate
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.chocokytm
+Description: Font Dùng qua Bytafont3
+Author: Mos <devmos388373@gmail.com>
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.chocokytm_1.0_iphoneos-arm.deb
+Size: 728268
+MD5sum: c0d04844e3cfeadb1dad7bef0000a491
+
+Package: com.tqm-mos.edgytm
+Name: Edgy (TM)
+Version: 1.0
+Section: Fonts
+Architecture: iphoneos-arm
+Depends: firmware (>= 10), mobilesubstrate
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.edgytm
+Description: Font Dùng qua Bytafont3
+Author: Mos <devmos388373@gmail.com>
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.edgytm_1.0_iphoneos-arm.deb
+Size: 627860
+MD5sum: a45d2061a402ee57a856a8623d055229
+
+Package: com.tqm-mos.coitm
+Name: Coi (TM)
+Version: 1.0
+Section: Fonts
+Architecture: iphoneos-arm
+Depends: firmware (>= 10), mobilesubstrate
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.coitm
+Description: Font Dùng qua Bytafont3
+Author: Mos <devmos388373@gmail.com>
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.coitm_1.0_iphoneos-arm.deb
+Size: 682334
+MD5sum: 68a0c0d6eef5e0091ccf3464f25c0ddd
+
+Package: com.tqm-mos.futuratm
+Name: Futura (TM)
+Version: 1.0
+Section: Fonts
+Architecture: iphoneos-arm
+Depends: firmware (>= 10), mobilesubstrate
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.futuratm
+Description: Font Dùng qua Bytafont3
+Author: Mos <devmos388373@gmail.com>
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.futuratm_1.0_iphoneos-arm.deb
+Size: 567598
+MD5sum: b74b561ef391cc48d101ab0e9ea91d3a
+
+Package: com.tqm-mos.gyretm
+Name: Gyre (TM)
+Version: 1.0
+Section: Fonts
+Architecture: iphoneos-arm
+Depends: firmware (>= 10), mobilesubstrate
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.gyretm
+Description: Font Dùng qua Bytafont3
+Author: Mos <devmos388373@gmail.com>
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.gyretm_1.0_iphoneos-arm.deb
+Size: 808918
+MD5sum: 3dc9cc61c0ad072cf4cf8053e0a48b79
+
+Package: com.tqm-mos.loratm
+Name: Lora (TM)
+Version: 1.0
+Section: Fonts
+Architecture: iphoneos-arm
+Depends: firmware (>= 10), mobilesubstrate
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.loratm
+Description: Font Dùng qua Bytafont3
+Author: Mos <devmos388373@gmail.com>
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.loratm_1.0_iphoneos-arm.deb
+Size: 9251682
+MD5sum: 7f5885bdd610790b8609215a1e6b584f
+
+Package: com.tqm-mos.novembertm
+Name: November (TM)
+Version: 1.0
+Section: Fonts
+Architecture: iphoneos-arm
+Depends: firmware (>= 10), mobilesubstrate
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.novembertm
+Description: Font Dùng qua Bytafont3
+Author: Mos <devmos388373@gmail.com>
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.novembertm_1.0_iphoneos-arm.deb
+Size: 612150
+MD5sum: 443e7f4da8a5495a57ef2d2a309ce353
+
+Package: com.tqm-mos.romantm
+Name: Roman (TM)
+Version: 1.0
+Section: Fonts
+Architecture: iphoneos-arm
+Depends: firmware (>= 10), mobilesubstrate
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.romantm
+Description: Font Dùng qua Bytafont3
+Author: Mos <devmos388373@gmail.com>
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.romantm_1.0_iphoneos-arm.deb
+Size: 648300
+MD5sum: dffe4393c615ee2d21432c7f911d245a
+
+Package: com.tqm-mos.uanditm
+Name: U and I (TM)
+Version: 1.0
+Section: Fonts
+Architecture: iphoneos-arm
+Depends: firmware (>= 10), mobilesubstrate
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.uanditm
+Description: Font Dùng qua Bytafont3
+Author: Mos <devmos388373@gmail.com>
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.uanditm_1.0_iphoneos-arm.deb
+Size: 664860
+MD5sum: 8ebac12d5969a757005ded2f17e29571
+
+Package: com.tqm-mos.verlagtm
+Name: Verlag (TM)
+Version: 1.0
+Section: Fonts
+Architecture: iphoneos-arm
+Depends: firmware (>= 10), mobilesubstrate
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.verlagtm
+Description: Font Dùng qua Bytafont3
+Author: Mos <devmos388373@gmail.com>
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.verlagtm_1.0_iphoneos-arm.deb
+Size: 812360
+MD5sum: 76b6c8eaffd27ecafccc02d26a8885ac
+
+Package: com.tqm-mos.iwdong
+Name: Iwidgets Động Tổng Hợp
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Tổng hợp 3 gói iwidgets động
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.iwdong
+Author: Mos
+Section: Iwidgets
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.iwdong_1.0.1_iphoneos-arm.deb
+Size: 2492838
+MD5sum: 7807720cc40b73b4ca3cccda0b90f616
+
+Package: com.tqm-mos.proking
+Version: 1.4
+Section: TQM
+Maintainer: QM
+Depends: 
+Architecture: iphoneos-arm
+Description: Một bộ themes khá lạ mắt icon mang chủ đề bên trong của mỗi app
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.proking
+Name: ProKing
+Author: Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.proking_1.4_iphoneos-arm.deb
+Size: 10966596
+MD5sum: cdf7388756f7d2736702af1c048c5520
+
+Package: com.tqm-mos.profun
+Name: ProFun
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: 
+Description: Bộ themes được buil lại lạ và độc với những icon màu sắc vui nhộn
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.profun
+Author: Mos <devmos388373@gmail.com>
+Section: TQM
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.profun_1.0_iphoneos-arm.deb
+Size: 6488504
+MD5sum: 9181e8a2f98ccf1f9c0d03f9041d2626
+
+Author: Mos
+Maintainer: QM
+Name: App Admin
+Package: com.tqm-mos.appadmin
+Depends: mobilesubstrate, firmware (>= 8.0), com.unlimapps.uasharedtools (>= 2.0r-46)
+Conflicts: it.marcocristalli.asupdatehider
+Section: Tweaks
+Installed-Size: 3622
+Version: 1.0r-61
+Architecture: iphoneos-arm
+Description: Downgrade apps to any previous version! No AppSync needed!!!
+dev: Mos
+Tag: purpose::extension, role::enduser, compatible::ios8, compatible::ios9
+Filename: ./debs/com.tqm-mos.appadmin_1.0r-61_iphoneos-arm.deb
+Size: 1082564
+MD5sum: 3cacb25851caa1eb2de6bbd029aa76d1
+
+Package: com.tqm-mos.photores+
+Version: 1.4
+Section: Tweaks
+Maintainer: QM
+Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), ws.hbang.common (>= 1.2)
+Conflicts: org.thebigboss.photores
+Architecture: iphoneos-arm
+Description: Tiyf chỉnh kích thước độ tộng của ảnh 16:9 ..........
+Installed-Size: 236
+Name: PhotoRes+
+Author: Mos
+Filename: ./debs/com.tqm-mos.photores+_1.4_iphoneos-arm.deb
+Size: 37642
+MD5sum: 9f42fde64e62d12ef99078258dfc5dd6
+
+Package: com.tqm-mos.puradark
+Version: 1.0
+Section: Themes
+Maintainer: QM <devmos388373@gmail.com>
+Architecture: iphoneos-arm
+Description: Bộ chủ đề được Mos buil lại Pura Dark
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.puradark
+Name: Pura Dark
+Author: Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.puradark_1.0_iphoneos-arm.deb
+Size: 10813832
+MD5sum: 32f85220f44a2044892dcd601255c076
+
+Package: com.tqm-mos.prokingmask
+Version: 1.0
+Section: Themes
+Maintainer: QM <devmos388373@gmail.com>
+Architecture: iphoneos-arm
+Depends: com.tqm-mos.proking
+Description: Bộ mask kèm theo Bộ chủ đề ProKing
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.prokingmask
+Name: ProKing Mask
+Author: Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.prokingmask_1.0_iphoneos-arm.deb
+Size: 42028
+MD5sum: aa181861cacf6a8ba3ae2e2b5791aee6
 
 
 
