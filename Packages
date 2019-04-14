@@ -3514,7 +3514,7 @@ MD5sum: 9f42fde64e62d12ef99078258dfc5dd6
 
 Package: com.tqm-mos.puradark
 Version: 1.0
-Section: Themes
+Section: TQM
 Maintainer: QM <devmos388373@gmail.com>
 Architecture: iphoneos-arm
 Description: Bộ chủ đề được Mos buil lại Pura Dark
@@ -3527,7 +3527,7 @@ MD5sum: 32f85220f44a2044892dcd601255c076
 
 Package: com.tqm-mos.prokingmask
 Version: 1.0
-Section: Themes
+Section: TQM
 Maintainer: QM <devmos388373@gmail.com>
 Architecture: iphoneos-arm
 Depends: com.tqm-mos.proking
