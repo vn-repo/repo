@@ -3714,6 +3714,204 @@ Filename: ./debs/tqm.Clockdragonv2_1.0_iphoneos-arm.deb
 Size: 174420
 MD5sum: 24e4ee94fa37172d30f9e546b136d071
 
+Package: com.yourepo.tqm-minh.lightson
+Name: LightsOn
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Enable Portrait Lighting on iPhone 7+ (10.0 - 11.4b3)
+Author: Mos <anhminh311105@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Maintainer: Tqm-minh <anhminh311105@gmail.com>
+Filename: ./debs/com.yourepo.tqm-minh.lightson.deb
+Size: 3990
+MD5sum: 440f844b01d43e4656629ce2611cc32c
+
+Package: com.yourepo.tqm-minh.youtubed
+Name: YouTubed
+Version: 1.7.2-1
+Architecture: iphoneos-arm
+Description: Enable YouTube app backgrounding ẩn youtube vẫn nge đk âm thanh giúp ios đơ tốn pin hơn
+Author: Mos <anhminhclub@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Maintainer: Quang Minh <anhminhclub@gmail.com>
+Filename: ./debs/com.yourepo.tqm-minh.youtubed.deb
+Size: 24706
+MD5sum: d445ee4b4d7e56b36dbf3a46e833e0ec
+
+Package: com.yourepo.devmos.nomoreseparators
+Name: NoMoreSeparators
+Version: 1.8
+Architecture: iphoneos-arm
+Description: Removes the ugly tableView ndxjjsksksjxnsnsnxnsnn
+Author: Mos <anhminhclub@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 7.0)
+Maintainer: Quang Minh <anhminhclub@gmail.com>
+Filename: ./debs/nomoreseparators_1.8_iphoneos-arm.deb
+Size: 11166
+MD5sum: 9b237165e8419d356d12a36c94a14e87
+
+Author: Mos
+Maintainer: Quang Minh
+Name: AdBlock for YouTube
+Package: com.yourepo.devmos.adblockforyoutube
+Depends: firmware (>= 8.0), mobilesubstrate
+Section: Tweaks
+Installed-Size: 241
+Version: 1.0.7
+Architecture: iphoneos-arm
+Description: Block YouTube Ads and Video Ads
+dev: mos
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Filename: ./debs/com.yourepo.devmos.adblockforyoutube_1.0.7_iphoneos-arm.deb
+Size: 46300
+MD5sum: e48b5ba9a5a03e15508c2e272b362413
+
+Author: Mos
+Maintainer: Quang Minh
+Name: AFVideo
+Package: com.yourepo.devmos.afvideo
+Depends: mobilesubstrate, firmware (>= 5.0), gsc.auto-focus-camera
+Section: Tweaks
+Installed-Size: 128
+Version: 1.0-8
+Architecture: iphoneos-arm
+Description: Allow autofocus while recording video.
+dev: mos
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
+Filename: ./debs/com.yourepo.devmos.afvideo_1.0-8_iphoneos-arm.deb
+Size: 6016
+MD5sum: 326e354f4bbb1f920604a22ce2bd366b
+
+Name: DockXI
+Package: com.yourepo.devmos.dockxi
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: iOS 11 Dock Style For iOS Devices.
+Maintainer: Quang Minh
+Author: Mos
+Section: Tweaks
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Installed-Size: 245
+dev: mos
+Filename: ./debs/com.yourepo.devmos.dockxi_1.1.1_iphoneos-arm.deb
+Size: 26426
+MD5sum: c2200a18a3cfd6a0af737db824dd4208
+
+Package: com.yourepo.devmos.fbadblock
+Name: FacebookAdBlocker
+Version: 1.2
+Architecture: iphoneos-arm
+Description: The BEST ad-blocker for Facebook.
+Author: Mos
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: Quang Minh
+Filename: ./debs/com.yourepo.devmos.fbadblock_1.2_iphoneos-arm.deb
+Size: 6648
+MD5sum: e339fa3680ae3e77f8e09d16e3140a05
+
+Package: com.yourepo.devmos.photodata
+Name: PhotoData
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: View Photo Exif data and Video data in the Photos App. Open GPS location in Maps.
+Maintainer: Quang Minh
+Author: Mos
+Section: Tweaks
+Version: 1.0.0~beta19
+Installed-Size: 515
+Filename: ./debs/com.yourepo.devmos.photodata_1.0.0~beta19_iphoneos-arm.deb
+Size: 143734
+MD5sum: 4aaea7eaecf9407003341176977a7ced
+
+Package: com.yourepo.devmos.romanlockscreentime
+Name: RomanLockscreenTime
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Roman numerals as Lockscreen time.
+Author: Mos
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 10.0)
+Maintainer: Quang Minh
+Filename: ./debs/com.yourepo.devmos.romanlockscreentime_1.0.2_iphoneos-arm.deb
+Size: 6752
+MD5sum: aa0968b34ddcee6d0334fb752be59146
+
+Package: com.yourepo.devmos.smoothtable
+Name: SmoothTable
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Description: Make TableViews great and smooth!
+Author: Mos
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0)
+Maintainer: Quang Minh
+Filename: ./debs/com.yourepo.devmos.smoothtable_1.0.2-1_iphoneos-arm.deb
+Size: 13940
+MD5sum: 9d71298f1ad0c3bbc86cdc16bfb6fbd3
+
+Package: com.yourepo.qminh.batteryhealth
+Name: Battery Health
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Unlock Apple's internal battery data & stats on iOS 9.x - 11.1.2.
+Author: Mos
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: org.thebigboss.detailedbatteryusage
+Icon: file:///Library/Application Support/DPUTweakResources/kTCWIcon.png
+Maintainer: Quang Minh
+Filename: ./debs/com.yourepo.qminh.batteryhealth_1.0_iphoneos-arm.deb
+Size: 546838
+MD5sum: bf64ec28266ff665fd4cea3c37176bd6
+
+Package:  com.yourepo.qminh.chargingpekxi
+Name: ChargingPek XI
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: The iOS 11 app hiện của sổ thông báo nhỏ khi sạc pin trên ios 11
+Maintainer: Quang Minh
+Author: Quang Minh
+Section: Tweaks
+Version: 1.0
+Installed-Size: 252
+Filename: ./debs/com.yourepo.qminh.chargingpekxi_1.0_iphoneos-arm.deb
+Size: 30490
+MD5sum: 0dce5d1fa68a439dd04106182a54c90a
+
+Package: com.spark.libsparkapplist
+Name: libSparkAppList
+Architecture: iphoneos-arm
+Description: AppList alternative
+Maintainer: QM
+Author: Spark
+Section: System
+Tag: role::developer
+Version: 1.0.3
+Installed-Size: 596
+Filename: ./debs/com.spark.libsparkapplist_1.0.3_iphoneos-arm.deb
+Size: 67852
+MD5sum: 5b345a93e843db4f2e2e630f4aab6313
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
