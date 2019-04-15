@@ -2692,7 +2692,6 @@ Description: Miêu tả giống như Sileo cho Cydia Cho phép xem các mô tả
 Maintainer: Quang Minh
 Author: PixelOmer
 Section: System
-Essential: yes
 Version: 0.3-91
 Depiction: http://tqm-mos.github.io/description.html?id=info
 Filename: ./debs/tqm.moderndepictions_0.3-91_iphoneos-arm.deb
@@ -2888,8 +2887,8 @@ Maintainer: QM
 Section: Iwidgets
 Depiction: http://tqm-mos.github.io/description.html?id=com.metal
 Filename: ./debs/tqm.ClockMetal_1.0_iphoneos-arm.deb
-Size: 531180
-MD5sum: 51ec2ec49c5d1ebd77f0a36a40ada3f5
+Size: 531184
+MD5sum: 52e86ff6a0857a46a9001d5a8a9949b0
 
 Package: com.tqm-mos.mhfbsupport
 Name: Facebook Messenger Support
@@ -3567,8 +3566,8 @@ Maintainer: QM
 Section: Iwidgets
 Depiction: http://tqm-mos.github.io/description.html?id=com.dragon
 Filename: ./debs/tqm.ClockDragon_1.0_iphoneos-arm.deb
-Size: 348682
-MD5sum: d78b8bf0b3af24b0a5992effc6c7639a
+Size: 348696
+MD5sum: 3a5b211b930436bed952518e5937d962
 
 Package: tqm.Clockmetagols
 Name: HS-Clock MetalGold
@@ -3671,6 +3670,49 @@ Tag: purpose::extension, compatible::ios11
 Filename: ./debs/tqm.darkmoduleccxi_1.0_iphoneos-arm.deb
 Size: 5304
 MD5sum: 3c502d523145323c550e5e421fd85574
+
+Package: com.tqm-mos.mhfbsupport
+Name: Facebook Messenger Support
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Hỗ trợ Facebook Messenger cho Chat bong bóng
+Maintainer: QM
+Author: c1d3r
+Section: Utilities
+Version: 1.0-3
+Filename: ./debs/com.tqm-mos.mhfbsupport_1.0-3_iphoneos-arm.deb
+Size: 24972
+MD5sum: 87dcf816b3ce1dd017736eadd4b18ca8
+
+Package: tqm.Clockangelv2
+Name: HS-Clock Angel v2
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích (widgets) Hiển thị đồng hồ phong cách khá lạ thú vị ,trên màn hình chính, tải về thử cảm nhận, xem ảnh bên dưới
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.angelv2
+Filename: ./debs/tqm.Clockangelv2_1.0_iphoneos-arm.deb
+Size: 68158
+MD5sum: b61541154d62d2dba94b9953e0d6b610
+
+Package: tqm.Clockdragonv2
+Name: HS-Clock Dragon v2
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích (widgets) Hiển thị đồng hồ phong cách khá lạ thú vị ,trên màn hình chính, tải về thử cảm nhận, xem ảnh bên dưới
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.v2
+Filename: ./debs/tqm.Clockdragonv2_1.0_iphoneos-arm.deb
+Size: 174420
+MD5sum: 24e4ee94fa37172d30f9e546b136d071
 
 
 
