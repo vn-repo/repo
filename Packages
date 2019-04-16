@@ -4322,11 +4322,63 @@ Filename: ./debs/com.tqm-mos.DragonAnadi_1.0_iphoneos-arm.deb
 Size: 666084
 MD5sum: 31272e01486c7963c54f867bd4005bf6
 
+Package: com.tqm-mos.reprovision
+Name: ReProvision
+Version: 0.4.1
+Depends: firmware (>= 9.0)
+Architecture: iphoneos-arm
+Author: Matt Clarke
+Section: System
+Description: Re-sign applications on your device
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.reprovision_0.4.1_iphoneos-arm.deb
+Size: 10555554
+MD5sum: 8ea1d2879857665a86d79532d00a543e
 
+Package: com.tqm-mos.ext3nder11
+Name: Ext3nder Installer Electra
+Version: 1.0
+Section: IOS11
+Architecture: iphoneos-arm
+Description: Cydia Extender Installer With Extra Features
+Author: Mos <devmos388373@gmail.com>
+Depends: mobilesubstrate
+Conflicts: org.thebigboss.locationchangerx
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.ext3nder11_1.0_iphoneos-arm.deb
+Size: 4851938
+MD5sum: db0f87eb87ee23f8915ee42de15725a7
 
+Package: com.tqm-mos.ext3nder-installer
+Name: Ext3nder Installer
+Version: 021a
+Architecture: iphoneos-arm
+Description: Cydia Extender Installer With Extra Features
+Author: Mos <devmos388373@gmail.com>
+Section: Tweaks
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder, com.repo.xarold.com.ext3nder
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.ext3nder-installer_021a_iphoneos-arm.deb
+Size: 518404
+MD5sum: baa5ea070e2d49e13308c855158d13b0
 
-
-
+Package: com.tqm-mos.Extender-Reloaded
+Name: Extender: Reloaded
+Version: 0.3.4-2
+Description: Re-sign applications on your device
+Section: System
+Depends: firmware (>= 10.0), mobilesubstrate, ldid, uikittools
+Priority: optional
+Architecture: iphoneos-arm
+Author: Mos <devmos388373@gmail.com>
+dev: Mos
+Maintainer: QM <devmos388373@gmail.com>
+Icon: file:///Applications/Extender.app/AppIcon60x60@2x.png
+Filename: ./debs/com.tqm-mos.Extender-Reloaded_0.3.4-2_iphoneos-arm.deb
+Size: 492088
+MD5sum: 95e81fd13d3c53f60f051132aee28915
 
 
 
