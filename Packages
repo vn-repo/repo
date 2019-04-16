@@ -3898,6 +3898,431 @@ Filename: ./debs/com.spark.libsparkapplist_1.0.3_iphoneos-arm.deb
 Size: 67852
 MD5sum: 5b345a93e843db4f2e2e630f4aab6313
 
+Package: com.yourepo.qminh.netkilluibeta
+Version: 0.3
+Section: System
+Maintainer: Quang Minh
+Description: tweaks giúp bạn kích những người dùng khỏi wifi nhà bạn
+Depends: mobilesubstrate, com.yourepo.qminh.arpscan1, com.yourepo.qminh.dsniffsuite1, network-cmds, com.yourepo.qminh.libpcap, gawk
+Conflicts: com.yourepo.kiiimo.arp-spoof
+Architecture: iphoneos-arm
+Name: netKillUIbeta
+Author: Mos
+Filename: ./debs/com.yourepo.qminh.netkilluibeta_0.3_iphoneos-arm.deb
+Size: 527520
+MD5sum: 81e7ad982d6ad68d69c6fe3bdfd0aa98
+
+Package: com.yourepo.qminh.libpcap
+Name: Libpcap
+Depends: mobilesubstrate 
+Architecture: iphoneos-arm
+Description: Gói phụ trợ cho app netkill kích wifi
+Maintainer: Quang Minh
+Author: Mos
+Section: Tweaks
+Version: 1.4.0
+Filename: ./debs/com.yourepo.qminh.libpcap_1.4.0_iphoneos-arm.deb
+Size: 286580
+MD5sum: adc2eafd6845bc51d263942701c97b1f
+
+Package: com.yourepo.qminh.arpscan1
+Name: Arp Scan
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Gói phụ trợ cho app netkill kích wifi
+Author: Mos <anhminh311105@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, org.thebigboss.libnet, com.yourepo.qminh.libpcap
+Conflicts: com.hackyouriphone.libpcap
+Maintainer: Quang Minh <anhminh311105@gmail.com>
+Filename: ./debs/com.yourepo.qminh.arpscan1_1.1_iphoneos-arm.deb
+Size: 459494
+MD5sum: edc22c1db593693f05a4329a8983145f
+
+Package: com.yourepo.qminh.dsniffsuite1
+Name: Dsniff Suite
+Version: 2.4
+Architecture: iphoneos-arm
+Description: Gói phụ trợ cho app netkill kích wifi
+Author: Mos <anhminh311105@gmail.com>
+Section: Utilities
+Depends: mobilesubstrate, com.yourepo.qminh.netkilluibeta
+Conflicts: org.mulliner.dsniff
+Maintainer: Quang Minh <anhminh311105@gmail.com>
+Filename: ./debs/com.yourepo.qminh.dsniffsuite1_2.4_iphoneos-arm.deb
+Size: 2101490
+MD5sum: 3e421e556b6cea38737c151fe7da3f77
+
+Package: com.yourepo.qminh.lockxi
+Depends: mobilesubstrate, firmware (>= 10.0), com.laughingquoll.corexi (>= 1.2)
+Name: LockXI
+Version: 1.3-1
+Architecture: iphoneos-arm
+Description: iOS 11 Style lockscreen media player and passcode view
+Installed-Size: 276
+Maintainer: Quang Minh
+Author: Mos
+Section: Tweaks
+Tag: purpose::extension, compatible::ios10
+Icon: file:///Library/PreferenceBundles/CoreXI.bundle/icon@2x.png
+Filename: ./debs/com.yourepo.qminh.lockxi_1.3-1_iphoneos-arm.deb
+Size: 72238
+MD5sum: cae1122b656e5a829966901c474a9564
+
+Package: com.yourepo.qminh.multiiconmoverplus
+Name: MultiIconMover+
+Version: 2.11.0
+Architecture: iphoneos-arm
+Description: Enhanced version of MultiIconMover.
+Author: Mos
+Section: Tweaks
+Maintainer: Quang Minh
+Depends: firmware (>= 4.2), firmware (<< 11.0), mobilesubstrate, preferenceloader
+Conflicts: jp.ashikase.multiiconmover, jp.ashikase.folderenhancer (<< 1.5.0), com.repo.xarold.com.folderenhancer (<< 1.5.0)
+Icon: file:///Library/PreferenceBundles/MultiIconMoverPlus.bundle/icon@2x.png
+Filename: ./debs/com.yourepo.qminh.multiiconmoverplus_2.11.0_iphoneos-arm.deb
+Size: 58416
+MD5sum: 0ad7118b4818747e2294340c8d10622b
+
+Package: com.yourepo.qminh.vivavideovip
+Name: Vivavideo VIP
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói phụ trợ cho app viva video vip cài viva video rồi cài tweak này sẽ đk gói vip
+Maintainer: Quang Minh
+Author: Mos
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 272
+Filename: ./debs/com.yourepo.qminh.vivavideovip_0.0.1_iphoneos-arm.deb
+Size: 79118
+MD5sum: 5db4f2818334b7fec32a29360b6638a8
+
+Package: com.yourepo.qminh.noheaders
+Name: NoHeaders
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Remove headers from widgets and banners.
+Maintainer: Quang Minh
+Author: Mos
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 120
+Filename: ./debs/com.yourepo.qminh.noheaders_0.0.1_iphoneos-arm.deb
+Size: 3904
+MD5sum: 63f80a1df6ac4d9463a898cfe2f21313
+
+Package: com.yourepo.devmos.badgomizer
+Name: Badgomizer
+Version: 1.6.8
+Architecture: iphoneos-arm
+Description: Fully customize app badges, close boxes and new dots.
+Author: Mos <anhminhclub@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Icon: file:///Library/PreferenceBundles/badgomizerprefs.bundle/badgomizer@2x.png
+Maintainer: Quang Minh <anhminhclub@gmail.com>
+Filename: ./debs/com.yourepo.devmos.badgomizer_1.6.8_iphoneos-arm.deb
+Size: 338618
+MD5sum: 789128131537da3ba8df0507a6392b77
+
+Package: com.yourepo.devmos.betterfivecolumnhomescreen
+Name: betterFiveColumnHomescreen
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Five Column Homescreen with proper spacing!
+Author: Mos <anhminhclub@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), com.chpwn.iconsupport
+Maintainer: Quang Minh <anhminhclub@gmail.com>
+Filename: ./debs/com.yourepo.devmos.betterfivecolumnhomescreen_1.0.1_iphoneos-arm.deb
+Size: 11486
+MD5sum: 3cb985fcde258768339c5ae8240a0427
+
+Package: com.yourepo.devmos.betterfiveicondock
+Name: betterFiveIconDock
+Version: 1.0.4
+Architecture: iphoneos-arm
+Description: Five Icon Dock with proper spacing!
+Author: Mos <anhminhclub@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), com.chpwn.iconsupport
+Maintainer: Quang Minh <anhminhclub@gmail.com>
+Filename: ./debs/com.yourepo.devmos.betterfiveicondock_1.0.4_iphoneos-arm.deb
+Size: 10550
+MD5sum: 379edf4c72fad0fe4ccc893644539700
+
+Package: com.yourepo.devmos.bouncenotify8
+Name: BounceNotify8
+Version: 2.0.1-1
+Architecture: iphoneos-arm
+Description: Bounce dock icons! Tạo hiệu ứng nhảy cao icon dưới dock khi có thông báo
+Author: Mos <anhminhclub@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.nin9tyfour.bouncenotify
+Icon: file:///Library/PreferenceBundles/BounceNotify8Settings.bundle/BounceNotify@2x.png
+Maintainer: Quang Minh <anhminhclub@gmail.com>
+Filename: ./debs/com.yourepo.devmos.bouncenotify8_2.0.1-1_iphoneos-arm.deb
+Size: 37470
+MD5sum: 9dbd24f15fbfeadc0ae6c969b22ac01c
+
+Package: com.yourepo.devmos.bytafont3
+Name: BytaFont 3
+Version: 1.1
+Architecture: iphoneos-arm
+Description: BytaFont iOS 10.3.x tweak thay đổi font hệ thống cho ios đã jb 32-64it
+Author: Mos <anhminhclub@gmail.com>
+Section: System
+Pre-Depends: firmware (>= 10.3), firmware (<= 10.3.3)
+Depends: mobilesubstrate, com.yourepo.devmos.bytafonttweakmode
+Icon: file:///Applications/BytaFont3.app/AppIcon60x60@2x.png
+Maintainer: Quang Minh <anhminhclub@gmail.com>
+Filename: ./debs/com.yourepo.devmos.bytafont3_1.1_iphoneos-arm.deb
+Size: 2005382
+MD5sum: 40d787f613b092f6cab7bc2509dbf4b4
+
+Package: com.yourepo.devmos.bytafonttweakmode
+Name: BytaFont Tweak Mode
+Version: 1.1
+Architecture: iphoneos-arm
+Description: BytaFontTM iOS 10.3.x  gói phụ trợ cho bytafont 3
+Author: Mos <anhminhclub@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: Quang Minh <anhminhclub@gmail.com>
+Filename: ./debs/com.yourepo.devmos.bytafonttweakmode_1.1_iphoneos-arm.deb
+Size: 27576
+MD5sum: 9d57ccea18d6964007b0a56bb0eee409
+
+Package: com.yourepo.devmos.noctisios10
+Name: Noctis (iOS 10)
+Version: 1.9.8
+Architecture: iphoneos-arm
+Description: Dark Mode for iOS 10
+Author: LaughingQuoll <anhminhclub@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker
+Conflicts: com.laughingquoll.noctis9, com.repo.xarold.com.noctis9
+Icon: file:///Library/PreferenceBundles/NoctisPrefs.bundle/icon@2x.png
+Maintainer: Quang Minh <anhminhclub@gmail.com>
+Filename: ./debs/com.yourepo.devmos.noctisios10_1.9.8_iphoneos-arm.deb
+Size: 352460
+MD5sum: 4b808d43a85631fc32ab77e29ee574a9
+
+Package: com.yourepo.devmos.nofolderbackground
+Name: NoFolderBackground
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Removes folder backgrounds on iOS 10.
+Author: Mos <anhminhclub@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: Quang Minh <anhminhclub@gmail.com>
+Filename: ./debs/com.yourepo.devmos.nofolderbackground_1.0_iphoneos-arm.deb
+Size: 4104
+MD5sum: 180457c703b4a49225e8d98e1e1cee7d
+
+Package: com.yourepo.devmos.ttmcamera
+Name: Tắt âm camera
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Fix Shutter Sound on iPhone J/A and KH/A tweak tắt âm camera trên máy nhật và hàn
+Author: Mos <anhminhclub@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: Mos <anhminhclub@gmail.com>
+Filename: ./debs/com.yourepo.devmos.ttmcamera_2.0_iphoneos-arm.deb
+Size: 1370
+MD5sum: 29b837c711e215233ae5e51f01022eae
+
+Package: com.yourepo.devmos.weatherstatusbar10
+Name: WeatherStatusBar10
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: Display current weather temperature in status bar!
+Author: Mos <anhminhclub@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, org.thebigboss.libstatus9
+Conflicts: com.yourepo.devmos.libmoorecon
+Icon: file:///Library/PreferenceBundles/WeatherStatusBar10Preferences.bundle/icon@2x.png
+Maintainer: Quang Minh <anhminhclub@gmail.com>
+Filename: ./debs/com.yourepo.devmos.weatherstatusbar10_2.0.0_iphoneos-arm.deb
+Size: 124862
+MD5sum: 3ff252c85a6a0cd89e6a7d68db2de364
+
+Package: com.yourepo.devmos.youtubenoadshq3g
+Name: YouTube no Ads/HQ3G
+Version: 1.1-4
+Architecture: iphoneos-arm
+Description: Play HQ videos over 3G, and disable ads
+Author: Mos <anhminhclub@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
+Maintainer: Quang Minh <anhminhclub@gmail.com>
+Filename: ./debs/com.yourepo.devmos.youtubenoadshq3g_1.1-4_iphoneos-arm.deb
+Size: 12202
+MD5sum: d0dda92febf2c355807af1059ea13236
+
+Package: com.tqm-mos.anibanner
+Name: AniBanner
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Description: cool animation for banner notifications
+Author: Mos
+Section: Tweaks
+Maintainer: QM
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker
+Icon: file:///Library/PreferenceBundles/anibannerpreferences.bundle/anibannerpreferences@2x.png
+Filename: ./debs/com.tqm-mos.anibanner_1.0.0-1_iphoneos-arm.deb
+Size: 37688
+MD5sum: 40af524b50ce4ad293ed74c1522f1d38
+
+Package: com.tqm-mos.appadmin
+Name: App Admin
+Version: 1.0r-101
+Architecture: iphoneos-arm
+Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
+Author: Mos
+Section: System
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider, com.repo.xarold.com.asupdatehider
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.appadmin_1.0r-101_iphoneos-arm.deb
+Size: 859856
+MD5sum: aaa12d34db17fe1211b26f31e79d47f8
+
+Package: com.tqm-mos.appvn
+Name: Appvn
+Version: 5.2.0
+Architecture: iphoneos-arm
+Description: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nhất Việt Nam cho iDevices.
+Author: Mos
+Maintainer: QM
+Section: Applications
+Depends: firmware (>= 7.0), com.tqm-mos.ringtones, com.yourepo.devmos.appsyncunified
+Filename: ./debs/com.tqm-mos.appvn_5.2.0_iphoneos-arm.deb
+Size: 34121182
+MD5sum: 209dcfe9c192816e024c442f7faadcd3
+
+Package: com.tqm-mos.barrelroll
+Name: BarrelRoll
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5001), libactivator (>= 1.8.4~beta)
+Architecture: iphoneos-arm
+Description: Do a barrel roll!
+Maintainer: QM
+Author: Mos
+Section: Tweaks
+Tag: purpose::extension
+dev: mos
+Version: 0.1
+Installed-Size: 108
+Filename: ./debs/com.tqm-mos.barrelroll_0.1_iphoneos-arm.deb
+Size: 32576
+MD5sum: fd90174192e0c2a66e80794f6977cb32
+
+Package: com.tqm-mos.bioprotect
+Name: BioProtect Việt
+Version: 2.1-295
+Architecture: iphoneos-arm
+Description: Bảo mật Ứng dụng, Cài đặt ... với TouchID.
+Author: Mos
+Maintainer: Quangminh
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), net.limneos.libbulletin, firmware (<= 11.0)
+Filename: ./debs/com.tqm-mos.bioprotect_2.1-295_iphoneos-arm.deb
+Size: 635406
+MD5sum: 77a4960d4fc322ae77f587c60a0904c9
+
+Package: com.tqm-mos.cacheclearer
+Name: CacheClearer
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
+Architecture: iphoneos-arm
+Description: Clear app caches from the Usage section in Settings
+Maintainer: QM
+Author: Mos
+Section: Tweaks
+Tag: purpose::extension
+dev: mos
+Version: 0.1
+Installed-Size: 72
+Filename: ./debs/com.tqm-mos.cacheclearer_0.1_iphoneos-arm.deb
+Size: 8748
+MD5sum: 4e7fd3d881639cd93746e8c8873e532c
+
+Package: com.tqm-mos.cacheclearer11
+Name: CacheClearer (iOS 11)
+Version: 0.1a
+Architecture: iphoneos-arm
+Description: Clear app caches from the Usage section in Settings
+Author: mos
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
+Conflicts: com.rpetrich.cacheclearer, com.repo.xarold.com.cacheclearer
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.cacheclearer11_0.1a_iphoneos-arm.deb
+Size: 9292
+MD5sum: ca99b99e0fce18b229d45a8c58ea489d
+
+Package: com.tqm-mos.callbar
+Name: CallBar (iOS 10/9/8/7)
+Version: 1.3-169
+Architecture: iphoneos-arm
+Description: Don't let incoming calls 
+Author: mos
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5100), firmware (>= 7.0), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap ( >= 1.0.4)
+Conflicts: org.thebigboss.callbar, com.repo.xarold.com.callbar
+Icon: file:///Library/PreferenceBundles/CallBar.bundle/CallBar@2x.png
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.callbar_1.3-169_iphoneos-arm.deb
+Size: 1395170
+MD5sum: b2a8594c4151cfe830625395f63d7f15
+
+Package: com.c1d3r.messageheadsxi
+Name: Chat Bong Bóng 
+Version: 2.0-11
+Architecture: iphoneos-arm
+Description: Chát messager bong bóng như android ,tiện hơn khi bạn là ng hay nt
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.chatxi
+Author: C1d3 <anhminh311105@gmail.com>
+Section: IOS12
+Depends: firmware (>= 10), mobilesubstrate, com.rpetrich.rocketbootstrap, com.tqm-mos.crack, com.tqm-mos.mhfbsupport, com.tqm-mos.mhwasupport, com.tqm-mos.mhsmssupport
+Conflicts: com.c1d3r.mhfbsupport, com.c1d3r.mhwasupport, com.c1d3r.mhsmssupport
+Maintainer: Tqm-minh <anhminh311105@gmail.com>
+Filename: ./debs/com.c1d3r.messageheadsxi_2.0-11_iphoneos-arm.deb
+Size: 3236478
+MD5sum: 5730c029631d21ceb637d937f8c95867
+
+Package: com.tqm-mos.camera360hack
+Name: Camera360 Hack
+Version: 0.0.2
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: pxcex 
+Section: Application
+Description: VIP Lifetime! Gói hack vip cho app chụp ảnh Camera 360
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.camera360hack_0.0.2_iphoneos-arm.deb
+Size: 83206
+MD5sum: 93583940b0a31a22c24bb9b432a2b63f
+
+Package: com.tqm-mos.DragonAnadi
+Name: HS-Clock DragonAnadi
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Widget for Xen Html
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.Dragonanadi
+Filename: ./debs/com.tqm-mos.DragonAnadi_1.0_iphoneos-arm.deb
+Size: 666084
+MD5sum: 31272e01486c7963c54f867bd4005bf6
+
+
 
 
 
