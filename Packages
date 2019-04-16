@@ -4436,7 +4436,35 @@ Filename: ./debs/com.tqm-mos.StatusBarWeather_1.0_iphoneos-arm.deb
 Size: 296160
 MD5sum: 84e430042ab029735caa4fd44acd4561
 
+Package: com.tqm-mos.boxy3
+Name: Boxy 3 (iOS10-11)
+Version: 3.4-7+debug
+Depends: mobilesubstrate, preferenceloader
+Conflicts: info.rpdev.betterfiveicondock, com.hackyouriphone.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, com.hackyouriphone.betterfivecolumnhomescreen, net.r-ch.iconoclasm, com.hackyouriphone.iconoclasm
+Architecture: iphoneos-arm
+Author: Mos
+Section: IOS11
+Description: Fully customize your icon layout! Have you ever run into an issue with space in your SpringBoard or are you just bored with the default layout of icons?
+Maintainer: QM
+Depiction: http://tqm-mos.github.io/description.html?id=com.boxy
+Filename: ./debs/com.tqm-mos.boxy3_3.4-7+debug_iphoneos-arm.deb
+Size: 2768138
+MD5sum: 4829336bfabf0c04bcbd078aa9651c11
 
+Package: com.tqm-mos.boxy12
+Name: Boxy 3 (iOS 11 - 12)
+Version: 3.4.1-1+debug
+Depends: mobilesubstrate, preferenceloader, com.chpwn.iconsupport
+Conflicts: info.rpdev.betterfiveicondock, com.hackyouriphone.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, com.hackyouriphone.betterfivecolumnhomescreen, net.r-ch.iconoclasm, com.hackyouriphone.iconoclasm
+Architecture: iphoneos-arm
+Author: William Vabrinskas
+Section: IOS12
+Description: Hoàn toàn tùy chỉnh bố trí biểu tượng của bạn!  Bạn đã bao giờ gặp phải một vấn đề với không gian trong SpringBoard của mình hay bạn chỉ thấy chán với cách bố trí các biểu tượng mặc định?  Chà, Boxy có thể khắc phục cả hai vấn đề đó.  Bố cục biểu tượng của bạn hoàn toàn có thể tùy chỉnh với nhiều tùy chọn có thể định cấu hình trong ngăn cài đặt.  Bạn có thể điều chỉnh khoảng cách mỗi biểu tượng từ mỗi cạnh của màn hình và khoảng cách mỗi biểu tượng cách nhau.  Những kết hợp này có thể cung cấp một số bố trí khá mát mẻ.  Nếu bạn không phải là loại người sáng tạo hoặc không muốn bị làm phiền với việc kiểm tra từng cài đặt, có sẵn các cài đặt sẵn để bạn lựa chọn.  Bạn có thể căn chỉnh các biểu tượng của bạn ở nửa trên của màn hình hoặc nửa dưới hoặc thậm chí các góc trên cùng của màn hình.  Bất cứ điều gì là thực sự có thể.Boxy cũng cho phép có nhiều không gian hơn cho các widget Dashboard X.  Bạn không còn phải thỏa hiệp với những ứng dụng bạn muốn trên trang chủ của SpringBoard, giờ đây bạn có thể có tất cả chúng trên màn hình cùng với các vật dụng yêu thích của bạn!  Sử dụng nó theo cách bạn thích, nếu bạn tìm thấy cách sử dụng mà tôi không đề cập, xin vui lòng liên hệ với tôi và cho tôi biết, tôi thích nghe phản hồi về các điều chỉnh của tôi.  Boxy hoàn toàn tương thích với tất cả các thiết bị hiện tại!
+Maintainer: QM
+Depiction: http://tqm-mos.github.io/description.html?id=com.boxy
+Filename: ./debs/com.tqm-mos.boxy12_3.4.1-1+debug_iphoneos-arm.deb
+Size: 2769350
+MD5sum: 358dfe794bd9410cb19dc0f34d7ad423
 
 
 
