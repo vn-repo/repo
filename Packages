@@ -4281,7 +4281,7 @@ MD5sum: b2a8594c4151cfe830625395f63d7f15
 
 Package: com.c1d3r.messageheadsxi
 Name: Chat Bong Bóng 
-Version: 2.0.5-11
+Version: 2.0.6
 Architecture: iphoneos-arm
 Description: Chát messager bong bóng như android ,tiện hơn khi bạn là ng hay nt
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.chatxi
@@ -4290,9 +4290,9 @@ Section: IOS12
 Depends: firmware (>= 10), mobilesubstrate, com.rpetrich.rocketbootstrap, com.tqm-mos.crack, com.tqm-mos.mhfbsupport, com.tqm-mos.mhwasupport, com.tqm-mos.mhsmssupport
 Conflicts: com.c1d3r.mhfbsupport, com.c1d3r.mhwasupport, com.c1d3r.mhsmssupport
 Maintainer: Tqm-minh <anhminh311105@gmail.com>
-Filename: ./debs/com.c1d3r.messageheadsxi_2.0-11_iphoneos-arm.deb
-Size: 3236478
-MD5sum: 5730c029631d21ceb637d937f8c95867
+Filename: ./debs/com.c1d3r.messageheadsxi_2.0.6_iphoneos-arm.deb
+Size: 3236476
+MD5sum: b027f1156e359be7cd8c64c22d3ac9b5
 
 Package: com.tqm-mos.camera360hack
 Name: Camera360 Hack
@@ -4420,6 +4420,21 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.ft2_0.0.6b2_iphoneos-arm.deb
 Size: 27008
 MD5sum: 07a7373fbe353ff5fc937a8d3aa3e54f
+
+Package: com.tqm-mos.StatusBarWeather
+Name: StatusBarWeather
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Tiện ích (Widget) hiển thị thông báo thời tiết,xem ảnh bên dưới để hiểu rõ
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.StatusBarWeather
+Filename: ./debs/com.tqm-mos.StatusBarWeather_1.0_iphoneos-arm.deb
+Size: 296160
+MD5sum: 84e430042ab029735caa4fd44acd4561
 
 
 
