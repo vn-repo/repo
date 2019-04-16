@@ -4281,7 +4281,7 @@ MD5sum: b2a8594c4151cfe830625395f63d7f15
 
 Package: com.c1d3r.messageheadsxi
 Name: Chat Bong Bóng 
-Version: 2.0-11
+Version: 2.0.5-11
 Architecture: iphoneos-arm
 Description: Chát messager bong bóng như android ,tiện hơn khi bạn là ng hay nt
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.chatxi
@@ -4300,7 +4300,7 @@ Version: 0.0.2
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Author: pxcex 
-Section: Application
+Section: Applications
 Description: VIP Lifetime! Gói hack vip cho app chụp ảnh Camera 360
 Maintainer: QM
 Filename: ./debs/com.tqm-mos.camera360hack_0.0.2_iphoneos-arm.deb
