@@ -27,7 +27,7 @@ MD5sum: 4bd662153942003a337e6af32aeacea8
 
 Package: sileoturkiye.anemoneinstaller
 Name: Anemone 3.0 (Uncover)
-Version: 1.0.2
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description:  Quản lí chủ đề ,rất nên có cho máy đã jailbreak
 Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic, org.coolstar.tweakinject, com.ex.libsubstitute
@@ -4408,18 +4408,31 @@ Filename: ./debs/com.tqm-mos.ftrf12_1.1_iphoneos-arm.deb
 Size: 4086
 MD5sum: a6c5d0de700c16beb33d452b5566b99d
 
-Package: com.tqm-mos.ft2
+Package: com.tqm-mos.ft
 Name: FingerTouch
-Version: 0.0.7
-Depends: mobilesubstrate, preferenceloader, com.tqm-mos.ftrf12, firmware (>= 10.0)
+Version: 0.0.6b3
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), com.tqm-mos.ftrf12
+Architecture: iphoneos-arm
+Author: Michele Primavera
+Section: Tweaks
+Description: Touch ID gestures
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.ft_0.0.6b3_iphoneos-arm.deb
+Size: 27050
+MD5sum: b253a13a099bcb91e3753f13476d8acf
+
+Package: com.tqm-mos.ft2
+Name: FingerTouch 2
+Version: 0.0.6b1
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), com.tqm-mos.ftrf12
 Architecture: iphoneos-arm
 Author: Michele Primavera
 Section: IOS12
 Description: Touch ID gestures
 Maintainer: QM
-Filename: ./debs/com.tqm-mos.ft2_0.0.6b2_iphoneos-arm.deb
-Size: 27008
-MD5sum: 07a7373fbe353ff5fc937a8d3aa3e54f
+Filename: ./debs/com.tqm-mos.ft2_0.0.6b1_iphoneos-arm.deb
+Size: 26738
+MD5sum: dfd5cb24b78eb10438b317a31c2aaae7
 
 Package: com.tqm-mos.StatusBarWeather
 Name: StatusBarWeather
@@ -4465,6 +4478,7 @@ Depiction: http://tqm-mos.github.io/description.html?id=com.boxy
 Filename: ./debs/com.tqm-mos.boxy12_3.4.1-1+debug_iphoneos-arm.deb
 Size: 2769350
 MD5sum: 358dfe794bd9410cb19dc0f34d7ad423
+
 
 
 
