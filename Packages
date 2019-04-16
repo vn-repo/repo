@@ -27,7 +27,7 @@ MD5sum: 4bd662153942003a337e6af32aeacea8
 
 Package: sileoturkiye.anemoneinstaller
 Name: Anemone 3.0 (Uncover)
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Description:  Quản lí chủ đề ,rất nên có cho máy đã jailbreak
 Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic, org.coolstar.tweakinject, com.ex.libsubstitute
@@ -163,7 +163,7 @@ MD5sum: ad58ada58c544c85ac0c75971bb71b6a
 
 Package: com.matchstic.xenhtml
 Name: Xen HTML
-Version: 0.4rc8
+Version: 0.4rc8-3
 Description: Giúp bạn tuỳ chỉnh thêm tiện ích vào màn (HS-LS) iWidgets
 Section: IOS12
 Depends: firmware (>= 9.0), mobilesubstrate,com.tqm-mos.xeninfo, preferenceloader, com.tqm-mos.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
@@ -4410,7 +4410,7 @@ MD5sum: a6c5d0de700c16beb33d452b5566b99d
 
 Package: com.tqm-mos.ft2
 Name: FingerTouch
-Version: 0.0.6b2
+Version: 0.0.7
 Depends: mobilesubstrate, preferenceloader, com.tqm-mos.ftrf12, firmware (>= 10.0)
 Architecture: iphoneos-arm
 Author: Michele Primavera
