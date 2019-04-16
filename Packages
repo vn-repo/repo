@@ -163,10 +163,10 @@ MD5sum: ad58ada58c544c85ac0c75971bb71b6a
 
 Package: com.matchstic.xenhtml
 Name: Xen HTML
-Version: 0.4rc8-3
+Version: 0.4rc8-4
 Description: Giúp bạn tuỳ chỉnh thêm tiện ích vào màn (HS-LS) iWidgets
-Section: IOS12
-Depends: firmware (>= 9.0), mobilesubstrate,com.tqm-mos.xeninfo, preferenceloader, com.tqm-mos.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
+Section: TQM
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.tqm-mos.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
 Priority: optional
 Architecture: iphoneos-arm
@@ -175,9 +175,9 @@ dev: Mos
 Maintainer: QM <devmos388373@gmail.com>
 Depiction: http://tqm-mos.github.io/description.html?id=xenhtml
 Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
-Filename: ./debs/com.matchstic.xenhtml_0.4rc8_iphoneos-arm.deb
-Size: 1267014
-MD5sum: a9a3da6210ff36167d45abed8474c11b
+Filename: ./debs/com.matchstic.xenhtml_0.4rc8-4_iphoneos-arm.deb
+Size: 1266992
+MD5sum: e069472ee46d14bc7ad038cea7b7f500
 
 Package: com.tqm-mos.libgithubissues
 Name: libGitHubIssues
