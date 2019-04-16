@@ -4380,6 +4380,47 @@ Filename: ./debs/com.tqm-mos.Extender-Reloaded_0.3.4-2_iphoneos-arm.deb
 Size: 492088
 MD5sum: 95e81fd13d3c53f60f051132aee28915
 
+Package: com.tqm-mos.filzafilemanager12
+Name: Filza
+Version: 3.6.2
+Architecture: iphoneos-arm
+Description: Files Manager.
+Maintainer: QM
+Author: TIGI Software
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Section: IOS12
+Filename: ./debs/com.tqm-mos.filzafilemanager12_3.6.2_iphoneos-arm.deb
+Size: 20141724
+MD5sum: b7bec184e0cc7dc72b4d35db13f1fb01
+
+Package: com.tqm-mos.ftrf12
+Name: FingerTouchReachabilityFix12
+Depends: mobilesubstrate, firmware (>= 12.0), com.tqm-mos.ft2
+Architecture: iphoneos-arm
+Description: Fix reachability bug for FingerTouch on iOS12
+Maintainer: Rishanan
+Author: Rishanan
+Section: IOS12
+Version: 1.1
+Installed-Size: 104
+Filename: ./debs/com.tqm-mos.ftrf12_1.1_iphoneos-arm.deb
+Size: 4086
+MD5sum: a6c5d0de700c16beb33d452b5566b99d
+
+Package: com.tqm-mos.ft2
+Name: FingerTouch
+Version: 0.0.6b2
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.ftrf12, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Author: Michele Primavera
+Section: IOS12
+Description: Touch ID gestures
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.ft2_0.0.6b2_iphoneos-arm.deb
+Size: 27008
+MD5sum: 07a7373fbe353ff5fc937a8d3aa3e54f
+
 
 
 
