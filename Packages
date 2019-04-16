@@ -4518,7 +4518,20 @@ Filename: ./debs/com.tqm-mos.screenshotapp_1.2_iphoneos-arm.deb
 Size: 47192176
 MD5sum: 3402892d6acd8b5569eb76923b0b52dd
 
-
+Package: com.tqm-mos.photomanager12
+Name: PhotoManager (iOS 12)
+Version: 1.0.1-2+debug
+Architecture: iphoneos-arm
+Description: Thêm nhiều tính năng cho ứng dụng ảnh.
+Maintainer: QM
+Author: Frozen Penguin
+Depends: mobilesubstrate, PreferenceLoader, com.rpetrich.rocketbootstrap
+Installed-Size: 1148
+Section: IOS12
+Depiction: https://tqm-mos.github.io/description.html?id=com.pho
+Filename: ./debs/com.tqm-mos.photomanager12_1.0.1-2+debug_iphoneos-arm.deb
+Size: 349514
+MD5sum: b998fed812d721d4afc3b6425d69ed9b
 
 
 
