@@ -4693,7 +4693,7 @@ Section: Applications
 Maintainer: QM
 Architecture: iphoneos-arm
 Name: KineMaster PRO
-Author: Mos
+Author: Ara
 Depends: mobilesubstrate
 Description: Đây là App tạo videos đã được TQM-Mos buil sang dạng Tweaks (lưu ý chỉ hoạt động trong môi trường máy đã jailbreak) chỉ cần cài Tweaks này , không cần nên AppStore tải nữa 
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.kinemaster
