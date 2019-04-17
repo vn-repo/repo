@@ -4687,6 +4687,214 @@ Filename: ./debs/com.tqm-mos.coolbooter_1.5-release_iphoneos-arm.deb
 Size: 28618480
 MD5sum: 9cd3faac8d0312e67d09dc71c64c69fa
 
+Package: com.tqm-mos.kinemaster
+Version: 4.8.7
+Section: Applications
+Maintainer: QM
+Architecture: iphoneos-arm
+Name: KineMaster PRO
+Author: Mos
+Depends: mobilesubstrate
+Description: Đây là App tạo videos đã được TQM-Mos buil sang dạng Tweaks (lưu ý chỉ hoạt động trong môi trường máy đã jailbreak) chỉ cần cài Tweaks này , không cần nên AppStore tải nữa 
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.kinemaster
+Filename: ./debs/com.tqm-mos.kinemaster_4.8.7_iphoneos-arm.deb
+Size: 57617284
+MD5sum: bafa543aa7bdc6fd033bc913d37acfbd
+
+Package: com.tqm-mos.littlex
+Name: LittleX
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: iPhoneX Features for Non-X Devices on iOS 11
+Maintainer: QM
+Author: iOS Creatix
+Section: IOS11
+Version: 1.3.7
+Installed-Size: 236
+Filename: ./debs/com.tqm-mos.littlex_1.3.7_iphoneos-arm.deb
+Size: 38224
+MD5sum: 3cfc7e452f8e0d7ed7d0972e0422d343
+
+Author: Mos <devmos388373@gmail.com>
+Maintainer: QM <devmos388373@gmail.com>
+Name: RealCC
+Package: com.tqm-mos.realcc
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Section: IOS11
+Installed-Size: 76
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Actually disable Wi-Fi from the iOS 11 CC
+dev: mos
+Tag: purpose::extension, compatible::ios11
+Filename: ./debs/com.tqm-mos.realcc_1.0.1_iphoneos-arm.deb
+Size: 4244
+MD5sum: 360f9d153509d629d0f6a71704781308
+
+Package: com.tqm-mos.sugarcane
+Name: SugarCane
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Description: Get percentages for the sliders in the Control Center on iOS 11
+Author: Mos <devmos388373@gmail.com>
+Section: IOS11
+Depends: mobilesubstrate
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.sugarcane_1.0.0-1+debug_iphoneos-arm.deb
+Size: 5590
+MD5sum: 70f4807b317c8a4021d3b9c7ae0c718a
+
+Package: com.tqm-mos.vwallpaper2os11
+Name: vWallpaper 2 (IOS11)
+Version: 0.5.0-5
+Architecture: iphoneos-arm
+Description: 
+Author: Mos <devmos388373@gmail.com>
+Section: IOS11
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
+Conflicts: com.abcydia.vwallpaper2os10
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.vwallpaper2os11_0.5.0-5_iphoneos-arm.deb
+Size: 3550274
+MD5sum: 32795961d68fc24b306ba681936bc5e7
+
+Package: com.tqm-mos.2x2folder
+Name: 2x2Folder
+Version: 0.0.1-4
+Architecture: iphoneos-arm
+Description: An awesome Cydia Substrate tweak!
+Author: Mos <devmos388373@gmail.com>
+Maintainer: QM <devmos388373@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 5.0)
+Conflicts: net.dodtweaks.2x2folder
+Filename: ./debs/com.tqm-mos.2x2folder_0.0.1-4_iphoneos-arm.deb
+Size: 4146
+MD5sum: 1b2156ed804ae232d00b2528b173d2c7
+
+Author: Mos <devmos388373@gmail.com>
+Maintainer: Qm <devmos388373@gmail.com>
+Name: PhotoRes
+Package: com.tqm-mos.camera169
+Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), ws.hbang.common (>= 1.2)
+Section: Tweaks
+Installed-Size: 254
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Taking photos at any size.
+dev: mos
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Library/PreferenceBundles/PhotoResSettings.bundle/PR@2x.png
+Filename: ./debs/com.tqm-mos.camera169_1.3_iphoneos-arm.deb
+Size: 37276
+MD5sum: 85f9fbc0bafbe7b4e7e9d45decebcde5
+
+Package: com.tqm-mos.aemonfixup
+Version: 1.0
+Section: IOS11
+Description: Fix font anemone for IOS 10 & 11
+Maintainer: QM <devmos388373@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: Anemone Fix Up 8.1
+Author: Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.aemonfixup_1.0_iphoneos-arm.deb
+Size: 6910
+MD5sum: 766bb0f5fca9c2946b72c2679b10334a
+
+Package: com.tqm-mos.cameramode10
+Version: 2.0.4
+Section: Tweaks
+Maintainer: QM  <devmos388373@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: Camera Mode 10
+Author: Mos  <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.cameramode10_2.0.4_iphoneos-arm.deb
+Size: 5042
+MD5sum: 48c37a858e5e41e1ade97f5cd493bb35
+
+Package: com.tqm-mos.cameratweak3
+Name: CameraTweak 3 (iOS 8)
+Version: 1.3
+Architecture: iphoneos-arm
+Description: powerful enhancements to Camera app
+Author: Mos  <devmos388373@gmail.com>
+Section: Tweaks
+Maintainer: QM  <devmos388373@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), preferenceloader (>= 2.2.2)
+Icon: file:///Library/Application%20Support/CameraTweak3/TweakIcon/com.samball.cameratweak_100x100.png
+Filename: ./debs/com.tqm-mos.cameratweak3_1.3_iphoneos-arm.deb
+Size: 3636646
+MD5sum: a9bb1e6b8fa87acab7f6f292cfeafbfe
+
+Package: com.tqm-mos.cameratweak4
+Name: CameraTweak 4 (iOS 10/9)
+Version: 1.1.2
+Architecture: iphoneos-arm
+Description: Turn your stock Camera app into a professional one!
+Author: Mos  <devmos388373@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), preferenceloader (>= 2.2.2)
+Conflicts: org.thebigboss.cameratweak2, com.repo.xarold.com.cameratweak2, org.thebigboss.cameratweak3, com.repo.xarold.com.cameratweak3
+Icon: file:///Library/PreferenceBundles/CT4_Prefs.bundle/CameraTweakIcon@2x.png
+Maintainer: QM  <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.cameratweak4_1.1.2_iphoneos-arm.deb
+Size: 925100
+MD5sum: 76160bf38d005b0f3229ce2fb9e28b76
+
+Package: com.tqm-mos.fluidenabler
+Version: 1.0
+Section: IOS11
+Name: FluidEnabler
+Maintainer: QM  <devmos388373@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: Mos  <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.fluidenabler_1.0_iphoneos-arm.deb
+Size: 7206
+MD5sum: 4646fd586d2452e0d85a24df48fd72f4
+
+Package: com.tqm-mos.dateinstatusbar
+Name: Date In Statusbar
+Version: 0.9.1-2
+Architecture: iphoneos-arm
+Description: Adds current date to statusbar
+Author: Mos <devmos388373@gmail.com>
+Section: Tweaks
+Maintainer: QM <devmos388373@gmail.com>
+Depends: mobilesubstrate, firmware(>=8.0)
+Installed-Size: 136
+Filename: ./debs/com.tqm-mos.dateinstatusbar_0.9.1-2_iphoneos-arm.deb
+Size: 4886
+MD5sum: fe070e838b5fae8a5e33cbefdefefeaf
+
+Package: com.tqm-mos.flux
+Priority: standard
+Section: Tweaks
+Description: warms colors at night to match indoor lighting
+Name: f.lux
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), firmware (<< 11), preferenceloader
+Maintainer: QM <devmos388373@gmail.com>
+Author: Mos <devmos388373@gmail.com>
+Icon: file:///Library/PreferenceLoader/Preferences/org.herf.flux.png
+Version: 0.9988
+Filename: ./debs/com.tqm-mos.flux_0.9988_iphoneos-arm.deb
+Size: 92702
+MD5sum: 7c98e804a83464c6d1172c045729f53b
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
