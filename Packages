@@ -5435,7 +5435,105 @@ Filename: ./debs/com.tqm-mos.gamegem10.3_1.1-2_iphoneos-arm.deb
 Size: 2248940
 MD5sum: 78a21443e38a774c2cfce4856e2b6be5
 
+Package: com.tqm-mos.hidemex10
+Name: HideMeX (iOS 10)
+Version: 1.1k
+Architecture: iphoneos-arm
+Description: The Ultimate iOS Customizing Experience
+Author: mos
+Section: Tweaks
+Maintainer: QM
+Depends: mobilesubstrate, firmware (>= 10.0), firmware (<= 11.0), org.thebigboss.libcolorpicker, preferenceloader, applist
+Conflicts: com.cpdigitaldarkroom.hidemex, com.repo.xarold.com.hidemex, com.cpdigitaldarkroom.hideme7-lite, com.cpdigitaldarkroom.hideme7, com.repo.xarold.com.hideme7, com.cpdigitaldarkroom.hideme8-lite, com.cpdigitaldarkroom.hideme8, com.repo.xarold.com.hideme8, com.joshuaseltzer.advancedsettings8, com.sull.hiddensettings8, me.devbug.hiddensettings7
+Filename: ./debs/com.tqm-mos.hidemex10_1.1k_iphoneos-arm.deb
+Size: 793710
+MD5sum: e7a3430534fa238c7aa11952de0de31b
 
+Author: mos
+Maintainer: QM
+Name: NoBlur
+Package: com.tqm-mos.noblur
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), preferenceloader (>= 2.2.2), applist
+Section: Tweaks
+Installed-Size: 334
+Version: 1.6.2
+Architecture: iphoneos-arm
+Description: Removes iOS blur views.
+dev: mos
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Library/PreferenceBundles/NoBlur.bundle/NoBlur@2x.png
+Filename: ./debs/com.tqm-mos.noblur_1.6.2_iphoneos-arm.deb
+Size: 88734
+MD5sum: 311676033efffb0d399a0ec86fc5eaa5
 
+Package: com.tqm-mos.noblurfolderconxi
+Name: NoBlurFolderIconXI
+Version: 0.2
+Architecture: iphoneos-arm
+Description: Removes the blurry background on folder icons, fucks up the dock right now
+Author: mos
+Section: Tweaks
+Depends: mobilesubstrate
+Conflicts: com.laughingquoll.noctisxi, com.repo.xarold.com.noctisxi
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.noblurfolderconxi_0.2_iphoneos-arm.deb
+Size: 4726
+MD5sum: 16ca9f6fb325982c4a0de5e069c088e9
 
+Package: com.tqm-mos.noslowanmationsxi
+Name: NoSlowAnimationsXI
+Version: 5.1.3-1+debug
+Architecture: iphoneos-arm
+Description: Don’t get slowed down by animations on iOS 11!
+Author: Mos
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.noslowanmationsxi_5.1.3-1+debug_iphoneos-arm.deb
+Size: 23944
+MD5sum: 432a2a756bec7c8a47deb384fc383277
 
+Package: com.tqm-mos.nottoday10
+Name: NotToday10
+Version: 1.2.2
+Architecture: iphoneos-arm
+Description: Disables the today/spotlight screen in all areas of iOS 10.
+Author: Mos
+Section: Tweaks
+Maintainer: QM
+Depends: mobilesubstrate
+Filename: ./debs/com.tqm-mos.nottoday10_1.2.2_iphoneos-arm.deb
+Size: 29334
+MD5sum: 6741cef19f5e86aba50bfb61ed902f90
+
+Name: Power Tap
+Package: com.tqm-mos.powertap
+Priority: optional
+Depends: firmware (>= 7.1), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.dpkgdan.slidetoreboot, com.myrepospace.dpkgdan.powertap, com.myrepospace.dpkgdan.slidetoreboot
+Version: 1.1.3-3
+Architecture: iphoneos-arm
+Description: tap powerdown knob to reboot, respring, safe mode
+Maintainer: QM
+Author: Mos
+Section: Tweaks
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Installed-Size: 270
+dev: mos
+Filename: ./debs/com.tqm-mos.powertap_1.1.3-3_iphoneos-arm.deb
+Size: 74422
+MD5sum: a3db48ade030f19b9c71a32e1ba27674
+
+Package: com.tqm-mos.iwcal
+Name: Iwitdget Cal
+Version: 1.1
+Depends: 
+Architecture: iphoneos-arm
+Description: [Enter generic HS widget description ^_^]
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.iwcal
+Author: Mos
+Maintainer: QM
+Section: Iwidgets
+Filename: ./debs/com.tqm-mos.iwcal_1.1_iphoneos-arm.deb
+Size: 315736
+MD5sum: 7892ee911daf6175f8d57e6c6e53e1f9
