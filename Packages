@@ -4558,8 +4558,8 @@ Description: Gói tiện ích (Widget) ,hiển thị đồng hồ nhìn rất l�
 Section: Iwidgets
 Depiction: https://tqm-mos.github.io/description.html?id=com.anadigold
 Filename: ./debs/com.tqm-mos.clockanadigold_1.0_iphoneos-arm.deb
-Size: 850558
-MD5sum: 258f8b6a71ee92db5eb273e181d41378
+Size: 850444
+MD5sum: 1855bf2ede028003f5e70b3df39a7004
 
 Architecture: iphoneos-arm
 Name: XenTerminal
@@ -4884,11 +4884,52 @@ Filename: ./debs/com.tqm-mos.flux_0.9988_iphoneos-arm.deb
 Size: 92702
 MD5sum: 7c98e804a83464c6d1172c045729f53b
 
+Package: com.yourepo.tqm.bioprotectxscracked
+Name: BioProtect XS Cracked
+Version: 4.0-47
+Architecture: iphoneos-arm
+Description: Full protection with Touch/Face ID
+Depiction: http://tqm-mos.github.io/description.html?id=com.biopro
+Maintainer: QM
+Author: Elias Limneos <limneoselias@gmail.com>
+Depends: com.yourepo.tqm.mos, mobilesubstrate, preferenceloader, firmware (>= 12)
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandr3s.audiorecorderxs, com.pulandr3s.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandr3s.bioprotectxs, net.pulandr3s.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandr3s.limneosos, com.repo.xarold.com.limneosos
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Installed-Size: 1348
+Section: IOS12
+Filename: ./debs/com.yourepo.tqm.bioprotectxscracked_4.0-47_iphoneos-arm.deb
+Size: 555560
+MD5sum: 294c8464513ef42f40bca7d49e6f3d86
 
+Package: tqm.clockmetalanadi
+Name: LS-Clock MetalAnadi
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích (widgets),Hiển thị đồng hồ trên màn hình khoá,rất lạ mắt,tuỳ với phong cách mỗi người,Xem ảnh bên dưới để hiểu thêm
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.clockmetalanadi
+Filename: ./debs/tqm.clockmetalanadi_1.0_iphoneos-arm.deb
+Size: 859768
+MD5sum: 6b9740af4a1e1835e3e029a41ab85d30
 
-
-
-
+Package: tqm.clockmu
+Name: HS-Clock MU
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích (widgets),Hiển thị đồng hồ trên màn hình chính,rất lạ mắt,tuỳ với phong cách mỗi người,Xem ảnh bên dưới để hiểu thêm
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.clockanadipro
+Filename: ./debs/tqm.clockmu_1.0_iphoneos-arm.deb
+Size: 661906
+MD5sum: bcc61791076884cdc88c8a6ae06686b3
 
 
 
