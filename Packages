@@ -5537,3 +5537,100 @@ Section: Iwidgets
 Filename: ./debs/com.tqm-mos.iwcal_1.1_iphoneos-arm.deb
 Size: 315736
 MD5sum: 7892ee911daf6175f8d57e6c6e53e1f9
+
+Package: com.tqm-mos.PUBG10
+Version: 0.10.0
+Section: Hack Games
+Maintainer: QM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 164
+Name: PUBG Hack v0.10.0
+Author: iosgold
+Description: hack pubg
+Filename: ./debs/com.tqm-mos.PUBG10_0.10.0_iphoneos-arm.deb
+Size: 248502
+MD5sum: 1d52bf14ddf41dcdb8a37e140ac2f031
+
+Package: com.tqm-mos.PUBGMobilefree210k
+Version: 0.10.0k
+Section: Hack Games
+Maintainer: QM
+Depends: mobilesubstrate
+Conflicts: org.cydia.kiimo.pubgmobilenoblocking
+Architecture: iphoneos-arm
+Installed-Size: 3616
+Name: PUBG MOBILE FOR FREE
+Author: iosgold
+Description: hack pubg
+Filename: ./debs/com.tqm-mos.PUBGMobilefree210k_0.10.0k_iphoneos-arm.deb
+Size: 1132494
+MD5sum: fe97a62e33ec55638aeb6bcc679c4e1a
+
+Package: com.tqm-mos.pubgmobilenoblocking
+Version: 1.0~full
+Section: Hack Games
+Maintainer: QM
+Depends: mobilesubstrate, tqm-mos.iconrepo
+Replaces: com.arab-cydia.PUBGMobilefree, com.arab-cydia.PUBG2, com.arab-cydia.PUBGMobile9, com.arab-cydia.PUBGbyDagriri, com.arab-cydia.PUBGMobile
+Architecture: iphoneos-arm
+Installed-Size: 964
+Name: PUBG HACK NO BLOCKING
+Author: iosgold
+Description: hack pubg mobile
+Filename: ./debs/com.tqm-mos.pubgmobilenoblocking_1.0~full_iphoneos-arm.deb
+Size: 1831590
+MD5sum: 79aa72d047bb946cf83018f727ea0b60
+
+Package: com.tqm-mos.bioprotectxs
+Version: 4.0-28k
+Section: IOS12
+Maintainer: QM
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Conflicts: net.limneos.bioprotect
+Architecture: iphoneos-arm
+Name: BioProtect XS (iOS 12) Cracked
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.biopro
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Filename: ./debs/com.tqm-mos.bioprotectxs_4.0-28k_iphoneos-arm.deb
+Size: 573070
+MD5sum: c3ef879867231f03e062208146ed2773
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
