@@ -6990,18 +6990,121 @@ Filename: ./debs/com.tqm-mos.chuonglove_0.1_iphoneos-arm.deb
 Size: 409310
 MD5sum: 77be9f4cb3ed65e918c5707aa5c55026
 
+Package: com.tqm-mos.localiapstoreios12
+Version: 1.4-5b
+Section: IOS12
+Maintainer: QM
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Name: LocalIAPStore 12
+Author: Mos
+Description: Supots ios12
+Filename: ./debs/com.tqm-mos.localiapstoreios12_1.4-5b_iphoneos-arm.deb
+Size: 70752
+MD5sum: eda9f55aeb790e467a9b15581cbf2c91
 
+Author: Mos
+Maintainer: QM
+Name: Cylinder
+Package: com.tqm-mos.cylinder
+Section: Tweaks
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Version: 1.0.6
+Architecture: iphoneos-arm
+Description: Make your icons dance
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+dev: mos
+Installed-Size: 899
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+Filename: ./debs/com.tqm-mos.cylinder_1.0.6_iphoneos-arm.deb
+Size: 330118
+MD5sum: 76dc76d7068fbec3475de5652ceb66b5
 
+Package: com.tqm-mos.cylinderios10
+Name: Cylinder iOS10
+Version: 1.0.7
+Architecture: iphoneos-arm
+Description: 
+Author: Mos
+Description: Make your icons dance
+Section: Tweaks
+Maintainer: QM
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+Filename: ./debs/com.tqm-mos.cylinderios10_1.0.7_iphoneos-arm.deb
+Size: 330082
+MD5sum: 08a49aaad4de60d271de4d7194662d73
 
+Package: com.tqm-mos.cylinderios12
+Version: 1.0.8
+Section: IOS12
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Name: Cylinder (12)
+Author: Mos
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+Maintainer: QM
+Description: Make your icons dance
+Filename: ./debs/com.tqm-mos.cylinderios12_1.0.8_iphoneos-arm.deb
+Size: 269236
+MD5sum: 71b1fab1cddd3cf49c96480d0d9f11ca
 
+Package: com.tqm-mos.jellyfish
+Name: Jellyfish
+Version: 0.1.9b
+Architecture: iphoneos-arm
+Description: A true-black dark mode.
+Author: Mos  <devmos388373@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Maintainer: QM  <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.jellyfish_0.1.9b_iphoneos-arm.deb
+Size: 170188
+MD5sum: 2728597e29be5ab684287b9b819da623
 
+Package: com.tqm-mos.jellyfishcrack
+Name: Jellyfish
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Inspired by the watchOS Motion face, Jellyfish aims to make your Lock screen more modern, more beautiful, and more useful.Jellyfish refreshes the Lock screen with a beautiful time, emphasizing both the time and date. The date takes its colour from your wallpaper, creating a beautiful blended effect, while still retaining its legibility.Jellyfish also adds weather to your Lock screen, so you can always view it at a quick glance. While adding this new level of information, your Lock screen retains its simplicity, avoiding a cluttered look.
+Author: Justin Proulx and AppleBetas
+Section: Tweaks
+Depends: mobilesubstrate
+Conflicts: applebetas.ios.tweak.time11
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.jellyfishcrack_1.0.2_iphoneos-arm.deb
+Size: 15916
+MD5sum: f19cd80053b8cc39b18948119feba545
 
+Package: com.tqm-mos.jellyfishcrack
+Name: Jellyfish
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Modern Lockscreen
+Maintainer: QM
+Author: Justin Proulx and AppleBetas
+Depends: mobilesubstrate,preferenceloader,firmware (>= 11.0)
+Conflicts: applebetas.ios.tweak.time11,com.junesiphone.lockpluspro, com.pulandres.lpp
+Installed-Size: 504
+Section: IOS12
+Filename: ./debs/com.tqm-mos.jellyfishcrack_1.1.1_iphoneos-arm.deb
+Size: 126850
+MD5sum: 2868c2f51eaf1b7dbdac1cdd52b84806
 
-
-
-
-
-
+Package: com.tqm-mos.jellyfishcrack
+Name: Jellyfish
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Modern Lockscreen
+Maintainer: QM
+Author: Justin Proulx and AppleBetas
+Depends: mobilesubstrate
+Conflicts: applebetas.ios.tweak.time11
+Installed-Size: 92
+Section: Tweaks
+Filename: ./debs/com.tqm-mos.jellyfishcrack_1.0.3_iphoneos-arm.deb
+Size: 16166
+MD5sum: 9857221ef7e7972db6ea7058f31e6190
 
 
 
