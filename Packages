@@ -6542,3 +6542,177 @@ Filename: ./debs/com.tqm-mos.lithiumion_1.3_iphoneos-arm.deb
 Size: 501266
 MD5sum: 238e89eb2b493c8fca0a8e1f22956120
 
+Package: com.tqm.fixshuttersound
+Version: 2.0
+Section: Tweaks
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: Fix Shutter Sound Camera 
+Author: iGosu <igosu@icloud.com>
+Description: Gói tinh chỉnh fix âm chụp ảnh cho dòng máy Nhật/Hàn
+Filename: ./debs/com.tqm.fixshuttersound_2.0_iphoneos-arm.deb
+Size: 1412
+MD5sum: 946a2b1c5b8899a2f267ce6e2ceae413
+
+Package: com.tqm.linktunesios9
+Version: 2.1-1
+Section: Tweaks
+Maintainer: TQM
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Conflicts: com.hackyouriphone.linktunesios9plugins
+Architecture: iphoneos-arm
+Name: LinkTunes
+Author: HackYouriPhone <repo@hackyouriphone.org>
+Description: Tinh chỉnh giúp bạn Tải nhạc từ iTunes
+Depiction: https://tqm-mos.github.io/description.html?id=com.linktune
+Filename: ./debs/com.tqm.linktunesios9_2.1-1_iphoneos-arm.deb
+Size: 2325792
+MD5sum: 1fac650115c723d05d3868efe3bd87a8
+
+Package: com.tqm-mos.animore
+Name: Animore
+Version: 1.0.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: Easy-Z
+Depiction: https://tqm-mos.github.io/description.html?id=com.animore
+Section: Utilities
+Description: Mang Animoji iOS 12.2 lên iOS 12.0-12.1.2.
+Maintainer: TQM
+Filename: ./debs/com.tqm-mos.animore_1.0.0_iphoneos-arm.deb
+Size: 3077488
+MD5sum: 00738af8a4b27c6f307c191390324a04
+
+Package: com.tqm-mos.boomcracktw
+Version: 0.0.2
+Section: Applications
+Maintainer: TQM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: Boom Music Player & Equalizer (Crack)
+Author: pxcex
+Description: Gói tiện ích ,giúp bạn crack App Boom Music,yêu cầu các bạn phải tải Boom Music từ Appstore về thiết bị trước
+Depiction: https://tqm-mos.github.io/description.html?id=com.boom
+Filename: ./debs/com.tqm-mos.boomcracktw_0.0.2_iphoneos-arm.deb
+Size: 80898
+MD5sum: 0569e57f98bdd52c2a22e3525593337e
+
+Package: com.tqm-mos.colorsdockiw
+Name: Colors Dock
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Gói tiện ích (Widgets) hiển thị dock theo phong cách mới,được dùng qua xen html
+Author: Shadows
+Maintainer: Quang Minh
+Section: Iwidgets
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.colorsdockiw
+Filename: ./debs/com.tqm-mos.colorsdockiw_1.0_iphoneos-arm.deb
+Size: 520636
+MD5sum: 28c067dd617744169420b48e9642150d
+
+Package: com.tqm-mos.fbadblck
+Name: FacebookAdBlocker
+Version: 1.4
+Architecture: iphoneos-arm
+Description: Tinh chỉnh giúp tắt những QC khó chịu trên Facebook.
+Maintainer: QM
+Author: Rishanan
+Depends: mobilesubstrate
+Replaces: com.rishanan.fbadblock
+Section: Tweaks
+Filename: ./debs/com.tqm-mos.fbadblck_1.4_iphoneos-arm.deb
+Size: 5182
+MD5sum: 0d3f3024e900390efe71340602f468bd
+
+Package: com.tqm-mos.PullOverPro
+Version: 1.0-2~Beta2k
+Priority: optional
+Section: IOS12
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Architecture: iphoneos-arm
+Name: PullOver Pro Cracked
+Author: c1d3r
+Maintainer: Quang Minh
+Description: Một tinh chỉnh giúp bạn mở nhanh các app dạng cửa sổ nhỏ bên cạnh ( hông ) máy 
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.pullover10
+Filename: ./debs/com.tqm-mos.PullOverPro_1.0-2~Beta2k_iphoneos-arm.deb
+Size: 5713518
+MD5sum: c348e91addb560c4fa1f77077e85b8ed
+
+Package: com.tqm-mos.weatherpro
+Name: WeatherPro
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Gói tiện ích (Widgets) hiển thị thời tiết theo phong cách mới,được dùng qua xen html
+Author: TQM
+Maintainer: Quang Minh
+Section: Iwidgets
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.weatherpro
+Filename: ./debs/com.tqm-mos.weatherpro_1.0_iphoneos-arm.deb
+Size: 9084624
+MD5sum: 4659975c2f173f8b03998c12343c7894
+
+Package: com.yourepo.tqm.facebookdarkmodecracked
+Version: 2.3.4k
+Section: Tweaks
+Maintainer: TQM
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader, com.tqm-mos.foxforthack
+Architecture: iphoneos-arm
+Installed-Size: 1404
+Name: FacebookDarkMode
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/facebookdarkmodesettings.bundle/icon@3x.png
+Depiction: https://tqm-mos.github.io/description.html?id=com.fbdark
+Description: Tinh chỉnh này giúp bạn đổi màu FaceBook,Tuỳ chọn có rất nhiều màu,tuỳ theo sở thích mỗi người
+Filename: ./debs/com.yourepo.tqm.facebookdarkmodecracked_2.3.4k_iphoneos-arm.deb
+Size: 435004
+MD5sum: a46f2e6c5bc7e3e2e3b08d72cc0d5261
+
+Package: tqm.textyl
+Name: Textyle Cracked
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Phong cách trong văn bản của bạn,thay đổi phông chữ
+Maintainer: QM
+Author: Deniz Basegmez
+Depends: mobilesubstrate, com.spark.libsparkapplist
+Icon: file:///Library/PreferenceBundles/Textyle.bundle/cydia.png
+Installed-Size: 392
+Section: Tweaks
+Depiction: https://tqm-mos.github.io/description.html?id=com.texfont
+Filename: ./debs/tqm.textyl_1.2_iphoneos-arm.deb
+Size: 130526
+MD5sum: a7fe2da11cb22830778a96200095d918
+
+Package: tqm.vivavideovip
+Version: 7.0.4
+Section: Applications
+Maintainer: TQM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 292
+Name: VivaVideo VIP (Crack)
+Author: pxcex
+Description: Gói hỗ trợ crack hack nên vip cho App Viva Video
+Filename: ./debs/tqm.vivavideovip_7.0.4_iphoneos-arm.deb
+Size: 88736
+MD5sum: ed0de69c8b0fcef97bd70ff33d33345a
+
+Package: com.tqm.facebookdarkmodek
+Version: 2.1.13
+Section: IOS12
+Maintainer: Mos
+Depiction: https://tqm-mos.github.io/description.html?id=com.fbdark
+Description: Tinh chỉnh này giúp bạn đổi màu FaceBook,Tuỳ chọn có rất nhiều màu,tuỳ theo sở thích mỗi người
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Conflicts: com.arab-cydia.fbdarkmode
+Architecture: iphoneos-arm
+Installed-Size: 1700
+Name: FacebookDarkMode TQM
+Author: FoxfortMobile
+Filename: ./debs/com.tqm.facebookdarkmodek_2.1.13_iphoneos-arm.deb
+Size: 559576
+MD5sum: af42df4f837a6f1762db190bfc164249
+
+
+
