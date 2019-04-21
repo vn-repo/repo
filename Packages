@@ -6714,5 +6714,364 @@ Filename: ./debs/com.tqm.facebookdarkmodek_2.1.13_iphoneos-arm.deb
 Size: 559576
 MD5sum: af42df4f837a6f1762db190bfc164249
 
+Package: com.tqm-mos.notchificationx12
+Version: 1.4.2k
+Priority: optional
+Section: IOS12
+Maintainer: QM
+Depends: firmware (>= 5.0), mobilesubstrate, org.thebigboss.libcolorpicker, applist
+Architecture: iphoneos-arm
+Name: Notchification
+Author: c1d3r
+Description: Awesome Animations for Notifications
+Filename: ./debs/com.tqm-mos.notchificationx12_1.4.2k_iphoneos-arm.deb
+Size: 3025746
+MD5sum: 8c18f8a427171d8b699bd3eccba97beb
+
+Package: com.tqm-mos.jellyfishxs
+Version: 0.9.9-1
+Section: IOS12
+Maintainer: QM
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Installed-Size: 296
+Name: JellyfishXS
+Author: dpkg_
+Filename: ./debs/com.tqm-mos.jellyfishxs_0.9.9-1_iphoneos-arm.deb
+Size: 40914
+MD5sum: 0a5273c6476c9424c079dd4775b1360a
+
+Package: com.tqm-mos.kinemaster
+Version: 4.2.8K
+Section: Applications
+Maintainer: QM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: Crack KineMaster® (Pro Edition)!
+Author: kiengk0eng
+Description: Hack app xuất videos
+Filename: ./debs/com.tqm-mos.kinemaster_4.2.8K_iphoneos-arm.deb
+Size: 6550
+MD5sum: e17b3dc9981496e467c9f9a3a94a8314
+
+Package: com.tqm-mos.libmitsuha
+Name: libmitsuha
+Version: 0.1.3
+Depends: com.tqm-mos.ass
+Architecture: iphoneos-arm
+Author: Nepeta
+Section: Utilities
+Description: Audio visualizer library
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.libmitsuha_0.1.3_iphoneos-arm.deb
+Size: 44314
+MD5sum: 88a856d4fbc29d125e925bfd78b6f29f
+
+Package: com.tqm-mos.mitsuhainfinity
+Version: 0.1.1
+Section: IOS12
+Maintainer: QM
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.tqm-mos.ass, ws.hbang.common (>= 1.11), com.tqm-mos.libmitsuha (>= 0.1.2), com.tqm-mos.libmos
+Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
+Architecture: iphoneos-arm
+Installed-Size: 496
+Name: Mitsuha Infinity
+Author: c0ldra1n & Nepeta
+Filename: ./debs/com.tqm-mos.mitsuhainfinity_0.1.1_iphoneos-arm.deb
+Size: 48844
+MD5sum: 6a73a78d2cfa55e33f0e5e30580743c6
+
+Package: com.tqm-mos.nolowpowerautolock
+Version: 0.0.2
+Section: IOS12
+Maintainer: QM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: NoLowPowerAutoLock
+Author: Spark
+Filename: ./debs/com.tqm-mos.nolowpowerautolock_0.0.2_iphoneos-arm.deb
+Size: 41776
+MD5sum: f1313c02d698bd176f40fee05dbf4d5b
+
+Package: com.tqm-mos.notchless
+Name: Notchless Cracked
+Version: 2.0.9-1
+Architecture: iphoneos-arm
+Description: Blacks out the back of the status bar to hide the 'Notch'
+Maintainer: QM
+Author: Spark
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Installed-Size: 416
+Section: IOS12
+Filename: ./debs/com.tqm-mos.notchless_2.0.9-1_iphoneos-arm.deb
+Size: 151204
+MD5sum: 640422840ad4078db8daee76ae897994
+
+Package: com.tqm-mos.notchsimulatorxr12
+Version: 1.5
+Section: IOS12
+Maintainer: QM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 716
+Name: Notch'd
+Author: Sniper_GER <sniperger@festival.ml>
+Filename: ./debs/com.tqm-mos.notchsimulatorxr12_1.5_iphoneos-arm.deb
+Size: 134846
+MD5sum: 666147ec04e2894042f8e48686fe95e4
+
+Package: com.tqm-mos.opennotifiervn
+Name: Opennotifier (VN)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Gói ngôn ngữ tiếng việt cho Opennotifier dịch bởi Quang Minh (TQM-Mos)
+Author: QM
+Section: Utilities
+Filename: ./debs/com.tqm-mos.opennotifiervn_0.1_iphoneos-arm.deb
+Size: 1618
+MD5sum: 0869f41b7c259064c0d1c85a15080d27
+
+Package: com.tqm-mos.pencilchargingindicator
+Version: 1.2-b2
+Section: IOS12
+Maintainer: QM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 312
+Name: PencilChargingIndicator
+Author: shiftcmdk
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Filename: ./debs/com.tqm-mos.pencilchargingindicator_1.2-b2_iphoneos-arm.deb
+Size: 65734
+MD5sum: aeee3b3ecde9ee38e100992b1b04a006
+
+Package: com.tqm-mos.respringx
+Version: 2.0.5
+Section: IOS12
+Maintainer: QM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: RespringX
+Author: MayBeMe
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Filename: ./debs/com.tqm-mos.respringx_2.0.5_iphoneos-arm.deb
+Size: 114430
+MD5sum: 1871663f4048c5e683bccd63ce3c928f
+
+Package: com.tqm-mos.vesta
+Name: Vesta Cracked
+Version: 0.0.4b4
+Architecture: iphoneos-arm
+Description: App Drawer
+Maintainer: QM
+Author: Spark
+Depends: mobilesubstrate, preferenceloader, jp.ashikase.techsupport, com.spark.libsparkapplist
+Installed-Size: 1092
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Filename: ./debs/com.tqm-mos.vesta_0.0.4b4_iphoneos-arm.deb
+Size: 464628
+MD5sum: 21e60eb8b8cb4a72155047d2841d97fb
+
+Package: com.tqm-mos.7ower
+Name: 7ower
+Version: 1.0k
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: PeterDev
+Section: IOS12
+Description: Menu tắt kiểu giống thời ios 7.1
+Maintainer: TQM
+Filename: ./debs/com.tqm-mos.7ower_1.0k_iphoneos-arm.deb
+Size: 17334
+MD5sum: 2533501980d49828ab19243db91aeab8
+
+Package: com.tqm-mos.blanka
+Name: Blanka
+Version: 1.0k
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Author: maximehip
+Section: IOS12
+Description: Blanka cho phép khóa ứng dụng của bạn bằng FaceID / Touch ID
+Maintainer: TQM
+Filename: ./debs/com.tqm-mos.blanka_1.0k_iphoneos-arm.deb
+Size: 36790
+MD5sum: 56735b0f0ec08300b6ec775aa84137de
+
+Package: com.tqm-mos.microplayer12
+Name: MicroPlayer12
+Version: 0.0.5
+Depends: mobilesubstrate, com.kaneb.kbpreferences, com.kaneb.kbapplist, libactivator, com.kaneb.musicevents
+Architecture: iphoneos-arm
+Author: Kane Buckthorpe
+Section: IOS12
+Description: Điều khiển nhạc SystemWide + HomeScreen! Di chuyển trên màn hình chính
+Maintainer: TQM
+Filename: ./debs/com.tqm-mos.microplayer12_0.0.5_iphoneos-arm.deb
+Size: 220700
+MD5sum: 980b203787a275f5c1929a9bccd5350c
+
+Package: com.tqm-mos.AssistiveTouch1
+Name: AssistiveTouch || 1
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Signal Bars from
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.activa
+Filename: ./debs/com.tqm-mos.AssistiveTouch1_0.1_iphoneos-arm.deb
+Size: 513266
+MD5sum: 379b7879b87a355afb274ec13d5ab8b5
+
+Package: com.tqm-mos.AssistiveTouch2
+Name: AssistiveTouch || 2
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Signal Bars from
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.activa
+Filename: ./debs/com.tqm-mos.AssistiveTouch2_0.1_iphoneos-arm.deb
+Size: 565360
+MD5sum: b66e09407d51cde67e51bf170f77be1b
+
+Package: com.tqm-mos.AssistiveTouchip55c5s
+Name: AssistiveTouch IP5/5c/5s
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Signal Bars from
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.activa
+Filename: ./debs/com.tqm-mos.AssistiveTouchip55c5s_0.1_iphoneos-arm.deb
+Size: 425730
+MD5sum: 4a11ea73e6e6cb1be51e72010fe849ae
+
+Package: com.tqm-mos.AssistiveTouchip67
+Name: AssistiveTouch IP6/7
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Signal Bars from                    
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.activa
+Filename: ./debs/com.tqm-mos.AssistiveTouchip67_0.1_iphoneos-arm.deb
+Size: 474032
+MD5sum: 47979258df2e522486c3fb816fa35967
+
+Package: com.tqm-mos.chuongcafe
+Name: Car Volume Cafe
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Signal Bars from
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.chgcafe
+Filename: ./debs/com.tqm-mos.chuongcafe_0.1_iphoneos-arm.deb
+Size: 265238
+MD5sum: 6f0f80388b86c96e92a937e4edf6eabb
+
+Package: com.tqm-mos.chuonglove
+Name: Car Volume Love
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Signal Bars from
+Author: Mos <devmos388373@gmail.com>
+Section: Car
+Maintainer: QM Mos <devmos388373@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.chglove
+Filename: ./debs/com.tqm-mos.chuonglove_0.1_iphoneos-arm.deb
+Size: 409310
+MD5sum: 77be9f4cb3ed65e918c5707aa5c55026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
