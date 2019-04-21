@@ -6657,6 +6657,7 @@ Version: 2.3.4k
 Section: Tweaks
 Maintainer: TQM
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader, com.tqm-mos.foxforthack
+Conflicts: com.pulandres.foxforthack
 Architecture: iphoneos-arm
 Installed-Size: 1404
 Name: FacebookDarkMode
