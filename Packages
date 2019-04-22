@@ -1934,7 +1934,8 @@ Package: com.yourepo.tqm.facebookdarkmodecracked
 Name: FacebookDarkMode Cracked
 Version: 2.1.13
 Architecture: iphoneos-arm
-Description: Dark mode for Facebook APP
+Depiction: https://tqm-mos.github.io/description.html?id=com.fbdark
+Description: Tinh chỉnh này giúp bạn đổi màu FaceBook,Tuỳ chọn có rất nhiều màu,tuỳ theo sở thích mỗi người
 Author: FoxfortMobile <anhminh311105@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
@@ -6651,23 +6652,6 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.weatherpro
 Filename: ./debs/com.tqm-mos.weatherpro_1.0_iphoneos-arm.deb
 Size: 9084624
 MD5sum: 4659975c2f173f8b03998c12343c7894
-
-Package: com.yourepo.tqm.facebookdarkmodecracked
-Version: 2.3.4k
-Section: Tweaks
-Maintainer: TQM
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader, com.tqm-mos.foxforthack
-Conflicts: com.pulandres.foxforthack
-Architecture: iphoneos-arm
-Installed-Size: 1404
-Name: FacebookDarkMode
-Author: FoxfortMobile
-Icon: file:///Library/PreferenceBundles/facebookdarkmodesettings.bundle/icon@3x.png
-Depiction: https://tqm-mos.github.io/description.html?id=com.fbdark
-Description: Tinh chỉnh này giúp bạn đổi màu FaceBook,Tuỳ chọn có rất nhiều màu,tuỳ theo sở thích mỗi người
-Filename: ./debs/com.yourepo.tqm.facebookdarkmodecracked_2.3.4k_iphoneos-arm.deb
-Size: 435004
-MD5sum: a46f2e6c5bc7e3e2e3b08d72cc0d5261
 
 Package: tqm.textyl
 Name: Textyle Cracked
