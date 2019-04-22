@@ -1580,6 +1580,20 @@ Filename: ./debs/com.tqm-mos.aperturize_1.0.5_iphoneos-arm.deb
 Size: 157062
 MD5sum: 7de3e53f3f9eb903d54ef25b73291699
 
+Package: com.pulandres.foxforthack
+Name: FoxfortHack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Hack to Foxfort tweaks
+Depends: mobilesubstrate
+Maintainer: Pulandres
+Author: ReJail <rejail@rejail.ru>
+Priority: optional
+Section: Tweaks
+Filename: ./debs/com.pulandres.foxforthack_0.0.2_iphoneos-arm.deb
+Size: 69754
+MD5sum: 766758690bfca853868424cac5a6a2e5
+
 Package: com.tqm-mos.foxforthack
 Name: FoxfortHack
 Version: 0.0.2
