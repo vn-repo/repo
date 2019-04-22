@@ -1651,6 +1651,7 @@ Author: tykology <ticosalinas1@hotmail.com>
 Section: Utilities
 Description: Animatoon is an amazing and only theme with cartoon style animations
 Maintainer: QM
+Depiction: https://tqm-mos.github.io/description.html?id=com.animaton
 Filename: ./debs/com.tqm-mos.animatoon_1.1_iphoneos-arm.deb
 Size: 1077110
 MD5sum: 95c0f377a1d44b6a116efcd89862fc86
@@ -3938,6 +3939,7 @@ Version: 0.3
 Section: System
 Maintainer: Quang Minh
 Description: tweaks giúp bạn kích những người dùng khỏi wifi nhà bạn
+Depiction: https://tqm-mos.github.io/description.html?id=net
 Depends: mobilesubstrate, com.yourepo.qminh.arpscan1, com.yourepo.qminh.dsniffsuite1, network-cmds, com.yourepo.qminh.libpcap, gawk
 Conflicts: com.yourepo.kiiimo.arp-spoof
 Architecture: iphoneos-arm
@@ -4107,6 +4109,7 @@ Name: BytaFont 3
 Version: 1.1
 Architecture: iphoneos-arm
 Description: BytaFont iOS 10.3.x tweak thay đổi font hệ thống cho ios đã jb 32-64it
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.bytafont3
 Author: Mos <anhminhclub@gmail.com>
 Section: System
 Pre-Depends: firmware (>= 10.3), firmware (<= 10.3.3)
@@ -4421,7 +4424,8 @@ Package: com.tqm-mos.filzafilemanager12
 Name: Filza
 Version: 3.6.2
 Architecture: iphoneos-arm
-Description: Files Manager.
+Description: Quản lí tệp tin,tinh chỉnh này là gói đã được crack 
+Depiction: https://tqm-mos.github.io/description.html?id=filza
 Maintainer: QM
 Author: TIGI Software
 Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
@@ -8964,7 +8968,24 @@ Filename: ./debs/com.tqm-mos.igam_0.0.1-3+debug_iphoneos-arm.deb
 Size: 4548 
 MD5sum: 8487d39a6b90448434e581c9a1b9d29b
 
-
+Name: Succession
+Package: com.tqm-mos.successionrestore
+Priority: optional
+Depends: firmware (>= 11.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Khôi phục mà không cập nhật qua rootfilesystem DMG
+Author: Samg_is_a_Ninja <stgardner4@att.net>
+Section: IOS12
+Tag: purpose::extension, compatible::ios12
+Installed-Size: 1530
+dev: stgardner4
+Maintainer: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.de12
+Icon: file:///Applications/SuccessionRestore.app/AppIcon20x20@3x.png
+Filename: ./debs/com.tqm-mos.successionrestore_1.0_iphoneos-arm.deb
+Size: 829720 
+MD5sum: fcb237719f6e33ba0cbe66a5bc7af037
 
 
 
