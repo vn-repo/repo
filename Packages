@@ -7264,7 +7264,7 @@ MD5sum: 07332d8cc875789e531c89fd67dff6a2
 
 Package: com.tqm-mos.bioprotectxstqm
 Version: 1.0
-Section: TQM
+Section: IOS11
 Maintainer: QM
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
 Conflicts: net.limneos.bioprotect
