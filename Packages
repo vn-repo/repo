@@ -6641,7 +6641,7 @@ Size: 5713518
 MD5sum: c348e91addb560c4fa1f77077e85b8ed
 
 Package: com.tqm-mos.weatherpro
-Name: WeatherPro
+Name: WeatherPro (Plus)
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Gói tiện ích (Widgets) hiển thị thời tiết theo phong cách mới,được dùng qua xen html
