@@ -1594,6 +1594,20 @@ Filename: ./debs/com.tqm-mos.foxforthack_0.0.2_iphoneos-arm.deb
 Size: 69792
 MD5sum: ae85d9aa5a47bb1ffa465049050769d6
 
+Package: com.tqm-mos.foxforthack
+Name: FoxfortHack
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: Hack to Foxfort tweaks
+Depends: mobilesubstrate
+Maintainer: Tqm
+Author: ReJail <rejail@rejail.ru>
+Priority: optional
+Section: Utilities
+Filename: ./debs/com.pulandres.foxforthack_0.0.2_iphoneos-arm.deb
+Size: 69754
+MD5sum: 766758690bfca853868424cac5a6a2e5
+
 Package: com.tqm-mos.anemone3
 Name: Anemone 3
 Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, pincrush
