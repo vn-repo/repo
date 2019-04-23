@@ -168,6 +168,7 @@ Description: Giúp bạn tuỳ chỉnh thêm tiện ích vào màn (HS-LS) iWidg
 Section: IOS12
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.tqm-mos.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Conflicts: com.matchstic.libgithubissues
 Priority: optional
 Architecture: iphoneos-arm
 Author: Matt Clarke <matt@incendo.ws>
@@ -8372,23 +8373,6 @@ Filename: ./debs/com.tqm-mos.dvirtualhome_0.0.6_iphoneos-arm.deb
 Size: 30322
 MD5sum: f380ccc2243a9b3434ff9af700ce8714
 
-Package: sileoturkiye.anemoneinstaller
-Name: Anemone 3.0 (ios12)
-Version: 1.0.1
-Architecture: iphoneos-arm
-Description: unc0ver uyumlu Anemone 3.0
-Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic, org.coolstar.tweakinject, com.ex.libsubstitute
-Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic, org.coolstar.tweakinject, com.ex.libsubstitute
-Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
-Depends: pincrush, mobilesubstrate
-Pre-Depends: curl, jailbreak-resources (>= 0.7), ldid, firmware(>=12.0)
-Maintainer: Onder Azazi <onderazazi@hotmail.com>
-Author: Jake James <jakeashacks@gmail.com>
-Section: Applications
-Filename: ./debs/anemone3uncover.deb
-Size: 11312322
-MD5sum: 48ea1bf9ca981de754058ab27270924b
-
 Package: com.tqm-mos.sixls
 Name: Six (LS)
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
@@ -9036,19 +9020,129 @@ Filename: ./debs/com.tqm-mos.konban_0.1.1_iphoneos-arm.deb
 Size: 13270 
 MD5sum: 09ebe554e2519c720f7748f7682bd026
 
+Package: com.tqm-mos.konban
+Name: Konban
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: Replaces the "Today" view with an app of your choice.
+Maintainer: TQM
+Author: Nepeta
+Section: IOS11
+Version: 0.1.2
+Installed-Size: 308
+Depiction: https://tqm-mos.github.io/description.html?id=com.konban
+Filename: ./debs/com.tqm-mos.konban_0.1.2_iphoneos-arm.deb
+Size: 48292 
+MD5sum: 1f8d75180e824f28dcb12b37bea7ef0f
 
+Package: com.tqm-mos.PullOverPro
+Version: 1.2
+Priority: optional
+Section: IOS12
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Architecture: iphoneos-arm
+Name: PullOver Pro Cracked
+Author: c1d3r
+Maintainer: Quang Minh
+Description: Một tinh chỉnh giúp bạn mở nhanh các app dạng cửa sổ nhỏ bên cạnh ( hông ) máy 
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.pullover10
+Filename: ./debs/com.tqm-mos.PullOverPro_1.2_iphoneos-arm.deb
+Size: 5722686 
+MD5sum: 3103b7993abe8114aae2aa8997783351
 
+Package: com.matchstic.libgithubissues
+Name: libGitHubIssues
+Version: 0.0.3
+Description: GÓI phụ trợ cho Xen HTML
+Section: System
+Depends: firmware (>= 8.0)
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: TQM
+Filename: ./debs/com.matchstic.libgithubissues_0.0.3_iphoneos-arm.deb
+Size: 1006660 
+MD5sum: 0644cb7175170d98dd801125dea99d9c
 
+Package: com.matchstic.xenhtml
+Name: Xen HTML
+Version: 0.5-3
+Description: Unified HTML rendering; lockscreen and homescreen
+Section: IOS12
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Conflicts: com.tqm-mos.libgithubissues
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=xenhtml
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Filename: ./debs/com.matchstic.xenhtml_0.5-3_iphoneos-arm.deb
+Size: 1411690 
+MD5sum: 0954a93976add10f459253ef625be243
 
+Maintainer: TQM
+Author: phoenix3200
+Name: Bars
+Package: com.tqm-mos.bars
+Section: Tweaks
+Installed-Size: 248
+Version: 0.7.0
+Architecture: iphoneos-arm
+Description: An improved signal strength meter.
+Depends: mobilesubstrate, firmware (>= 5.0)
+dev: mos
+Tag: purpose::extension
+Depiction: https://tqm-mos.github.io/description.html?id=bars
+Filename: ./debs/com.tqm-mos.bars_0.7.0_iphoneos-arm.deb
+Size: 19192 
+MD5sum: e60917af39d128b6a724e072b1585cb0
 
+Maintainer: TQM
+Author: TQM
+Name: BarsClassic
+Package: com.tqm-mos.barsclassic
+Section: Tweaks
+Installed-Size: 248
+Version: 1.1
+Architecture: iphoneos-arm
+Description: mạng cột sóng của ios6 quay lại những đời ios mới
+Depends: mobilesubstrate, firmware (>= 5.0)
+dev: mos
+Tag: purpose::extension
+Depiction: https://tqm-mos.github.io/description.html?id=bars
+Filename: ./debs/com.tqm-mos.barsclassic_1.1_iphoneos-arm.deb
+Size: 15440
+MD5sum: 5e74dcf2ac6b6a1513a51e1ff2b673a8
 
+Package: com.tqm-mos.grady
+Name: Grady Alkaline
+Version: 1.1
+Architecture: iphoneos-arm
+Author: KVYSDESIGN
+Section: Utilities
+Description: Grady Alkaline For iOS Gói icon hiển thị pin ,xem hình bên dưới để hiểu rõ
+Maintainer: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=grady
+Filename: ./debs/com.tqm-mos.grady_1.1_iphoneos-arm.deb
+Size: 205402
+MD5sum: b9f07c00c7a4faeac2215a64e8a3ad49
 
-
-
-
-
-
-
+Package: com.tqm-mos.iconeffects
+Name: Anemone Icon AE
+Version: 1.1
+Architecture: iphoneos-arm
+Author: Ryu
+Section: TQM
+Description: Gói icon Mask AE hỗ trợ Anemone
+Maintainer: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=iconeffects
+Filename: ./debs/com.tqm-mos.iconeffects_1.1_iphoneos-arm.deb
+Size: 269878
+MD5sum: 4487ac304ec2f7c5b94a7b1de82ada99
 
 
 
