@@ -8987,11 +8987,54 @@ Filename: ./debs/com.tqm-mos.successionrestore_1.0_iphoneos-arm.deb
 Size: 829720 
 MD5sum: fcb237719f6e33ba0cbe66a5bc7af037
 
+Name: Succession
+Package: com.tqm-mos.successionrestore
+Priority: optional
+Depends: firmware (>= 10.0), firmware-sbin, rsync
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Restore without updating via rootfilesystem DMG
+Maintainer: TQM
+Author: Samg_is_a_Ninja <stgardner4@att.net>
+Section: IOS12
+Tag: purpose::uikit, compatible::ios10, compatible::ios11, compatible::ios12
+Installed-Size: 3220
+dev: stgardner4
+Icon: file:///Applications/SuccessionRestore.app/AppIcon20x20@3x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.de12
+Filename: ./debs/com.tqm-mos.successionrestore_1.1_iphoneos-arm.deb
+Size: 2263164 
+MD5sum: 1e0f134cebac874887a652fcc22fc830
 
+Package: com.tqm-mos.sixls
+Name: Six (LS)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: iOS 6 Style Lock Screen!
+Maintainer: TQM
+Author: Skitty
+Section: IOS11
+Version: 1.0.2
+Installed-Size: 1896
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sixls
+Filename: ./debs/com.tqm-mos.sixls_1.0.2_iphoneos-arm.deb
+Size: 1491878 
+MD5sum: a6b1bae3742c66bbb7d1fff11b593fb0
 
-
-
-
+Package: com.tqm-mos.konban
+Name: Konban
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist
+Architecture: iphoneos-arm
+Description: Thay thế chế độ xem "Hôm nay" bằng một ứng dụng bạn chọn.
+Maintainer: TQM
+Author: Nepeta
+Section: IOS11
+Version: 0.1.1
+Installed-Size: 188
+Depiction: https://tqm-mos.github.io/description.html?id=com.konban
+Filename: ./debs/com.tqm-mos.konban_0.1.1_iphoneos-arm.deb
+Size: 13270 
+MD5sum: 09ebe554e2519c720f7748f7682bd026
 
 
 
