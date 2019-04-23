@@ -9067,22 +9067,21 @@ MD5sum: 0644cb7175170d98dd801125dea99d9c
 
 Package: com.matchstic.xenhtml
 Name: Xen HTML
-Version: 0.5-3
+Version: 0.5.3
 Description: Unified HTML rendering; lockscreen and homescreen
 Section: IOS12
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
-Conflicts: com.tqm-mos.libgithubissues
 Priority: optional
 Architecture: iphoneos-arm
 Author: Matt Clarke <matt@incendo.ws>
 dev: Matt Clarke <matt@incendo.ws>
 Maintainer: TQM
-Depiction: https://tqm-mos.github.io/description.html?id=xenhtml
 Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
-Filename: ./debs/com.matchstic.xenhtml_0.5-3_iphoneos-arm.deb
-Size: 1411690 
-MD5sum: 0954a93976add10f459253ef625be243
+Depiction: https://tqm-mos.github.io/description.html?id=xenhtml
+Filename: ./debs/com.matchstic.xenhtml_0.5.3_iphoneos-arm.deb
+Size: 1366694 
+MD5sum: a6cd80739fe37d2f058cd6984a805895
 
 Maintainer: TQM
 Author: phoenix3200
