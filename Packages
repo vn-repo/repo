@@ -9067,7 +9067,7 @@ MD5sum: 0644cb7175170d98dd801125dea99d9c
 
 Package: com.matchstic.xenhtml
 Name: Xen HTML
-Version: 0.5.3
+Version: 0.5.5-3
 Description: Unified HTML rendering; lockscreen and homescreen
 Section: IOS12
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
@@ -9080,9 +9080,9 @@ dev: Matt Clarke <matt@incendo.ws>
 Maintainer: TQM
 Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
 Depiction: https://tqm-mos.github.io/description.html?id=xenhtml
-Filename: ./debs/com.matchstic.xenhtml_0.5.3_iphoneos-arm.deb
-Size: 1366694 
-MD5sum: a6cd80739fe37d2f058cd6984a805895
+Filename: ./debs/com.matchstic.xenhtml_0.5.5-3_iphoneos-arm.deb
+Size: 1366682 
+MD5sum: 82eeecaf92e8864210d195a4eaccfdb8
 
 Maintainer: TQM
 Author: phoenix3200
@@ -9144,11 +9144,49 @@ Filename: ./debs/com.tqm-mos.iconeffects_1.1_iphoneos-arm.deb
 Size: 269878
 MD5sum: 4487ac304ec2f7c5b94a7b1de82ada99
 
+Package: com.tqm-mos.selectowo
+Name: SelectOwO
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Select text to OwO
+Maintainer: TQM
+Author: Nepeta
+Section: Tweaks
+Version: 0.1.0
+Installed-Size: 72
+Filename: ./debs/com.tqm-mos.selectowo_0.1.0_iphoneos-arm.deb
+Size: 7152
+MD5sum: 4e59ac67b22ec08660cba7b189ca3187
 
+Package: com.tqm-mos.htcclock
+Name: HTC Clock (Plus)
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích (Widget),hiển thị thời tiết và giờ hoạt động qua - Tinh chỉnh Xen HTML
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: TQM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.htcclock
+Filename: ./debs/com.tqm-mos.htcclock_1.0_iphoneos-arm.deb
+Size: 261988
+MD5sum: 6072141500dfa797f4c6786e6ab5747f
 
-
-
-
+Package: com.tqm-mos.WeatherPro-Dark
+Name: WeatherPro-Dark (Plus)
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích (Widget),hiển thị thời tiết và giờ hoạt động qua - Tinh chỉnh Xen HTML
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: TQM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.WeatherPro-Dark
+Filename: ./debs/com.tqm-mos.WeatherPro-Dark_1.0_iphoneos-arm.deb
+Size: 9089814
+MD5sum: 26264d2e23bcfe86dead091ea22a1a2a
 
 
 
