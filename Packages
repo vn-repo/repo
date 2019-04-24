@@ -9067,7 +9067,7 @@ MD5sum: 0644cb7175170d98dd801125dea99d9c
 
 Package: com.matchstic.xenhtml
 Name: Xen HTML
-Version: 0.5.5-3
+Version: 0.6
 Description: Unified HTML rendering; lockscreen and homescreen
 Section: IOS12
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
@@ -9080,9 +9080,9 @@ dev: Matt Clarke <matt@incendo.ws>
 Maintainer: TQM
 Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
 Depiction: https://tqm-mos.github.io/description.html?id=xenhtml
-Filename: ./debs/com.matchstic.xenhtml_0.5.5-3_iphoneos-arm.deb
-Size: 1366682 
-MD5sum: 82eeecaf92e8864210d195a4eaccfdb8
+Filename: ./debs/com.matchstic.xenhtml_0.6_iphoneos-arm.deb
+Size: 1366676 
+MD5sum: 08d5dbc640cf10e84118e0e93a29cbd6
 
 Maintainer: TQM
 Author: phoenix3200
@@ -9107,16 +9107,33 @@ Name: BarsClassic
 Package: com.tqm-mos.barsclassic
 Section: Tweaks
 Installed-Size: 248
-Version: 1.1
+Version: 1.0
 Architecture: iphoneos-arm
 Description: mạng cột sóng của ios6 quay lại những đời ios mới
 Depends: mobilesubstrate, firmware (>= 5.0)
 dev: mos
 Tag: purpose::extension
 Depiction: https://tqm-mos.github.io/description.html?id=bars
-Filename: ./debs/com.tqm-mos.barsclassic_1.1_iphoneos-arm.deb
-Size: 15440
-MD5sum: 5e74dcf2ac6b6a1513a51e1ff2b673a8
+Filename: ./debs/com.tqm-mos.barsclassic_1.0_iphoneos-arm.deb
+Size: 15350
+MD5sum: 74c89835b277679f2c530331d3a3cd06
+
+Maintainer: TQM
+Author: TQM
+Name: Bars car
+Package: com.tqm-mos.barscar
+Section: Tweaks
+Installed-Size: 248
+Version: 1.0
+Architecture: iphoneos-arm
+Description: mạng cột sóng hình cột điện quay lại những đời ios mới
+Depends: mobilesubstrate, firmware (>= 5.0)
+dev: mos
+Tag: purpose::extension
+Depiction: https://tqm-mos.github.io/description.html?id=bars
+Filename: ./debs/com.tqm-mos.barscar_1.0_iphoneos-arm.deb
+Size: 11550
+MD5sum: 20e9bae41a48f058c4c7c27b53d6e446
 
 Package: com.tqm-mos.grady
 Name: Grady Alkaline
