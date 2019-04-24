@@ -9072,6 +9072,7 @@ Description: Unified HTML rendering; lockscreen and homescreen
 Section: IOS12
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Conflicts: com.tqm-mos.libgithubissues
 Priority: optional
 Architecture: iphoneos-arm
 Author: Matt Clarke <matt@incendo.ws>
