@@ -9247,19 +9247,207 @@ Filename: ./debs/com.tqm-mos.classicios6_1.1_iphoneos-arm.deb
 Size: 12130324
 MD5sum: ab552afb99e6ab9278849181c6e98699
 
+Package: com.tqm-mos.barclays-pwn
+Name: Barclays PWN
+Version: 1.0.1
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: MrJeff
+Section: Tweaks
+Description: Bypass jailbreak detection for Barclays Bank, Bỏ qua phát hiện bẻ khóa cho Ngân hàng Barclays
+Maintainer: TQM
+Filename: ./debs/com.tqm-mos.barclays-pwn_1.0.1_iphoneos-arm.deb
+Size: 3480
+MD5sum: df9146d04e98e2a258933d01f503f16e
 
+Package: com.tqm-mos.colorbadges12
+Name: ColorBadges
+Version: 1.3.1
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Author: David Goldman
+Section: IOS12
+Description: Colorize your badges,thay đổi biểu tượng thông báo bên trên đồng màu với màu ứng dụng
+Maintainer: TQM
+Filename: ./debs/com.tqm-mos.colorbadges12_1.3.1_iphoneos-arm.deb
+Size: 64526
+MD5sum: 0323c89257b3996bc52ad65057bc1e46
 
+Package: com.tqm-mos.colorbanners212
+Name: ColorBanners 2
+Version: 1.2.3
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
+Conflicts: com.golddavid.colorbanners, com.hackyouriphone.colorbanners, com.golddavid.colorbanners-cb, com.golddavid.colorbanners2
+Architecture: iphoneos-arm
+Author: David Goldman
+Section: IOS12
+Description: Color your notifications
+Maintainer: TQM
+Filename: ./debs/com.tqm-mos.colorbanners212_1.2.3_iphoneos-arm.deb
+Size: 692024
+MD5sum: a31fd5969b6768c4490060e7f3910424
 
+Name: CustomNoOlderNotifications
+Package: com.tqm-mos.cnon
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: Change the "No Older Notifications" text to a custom one!
+Maintainer: TQM
+Author: YaYPIXXO <viggo@lekdorf.com>
+Section: IOS11
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Installed-Size: 159
+dev: yaypixxo
+Filename: ./debs/com.tqm-mos.cnon_2.0.0_iphoneos-arm.deb
+Size: 11104
+MD5sum: 75752c7184be0cdfdb868970bf93b42b
 
+Package: com.tqm-mos.notifywifix
+Name: NotifyWiFi X
+Version: 1.0.0k
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.notifywifi, com.ichitaso.notifywifi7, com.ichitaso.notifywifi10, com.giorgioiavicoli.passby, com.julioverne.goodwifi, com.hackyouriphone.notifywifi10
+Architecture: iphoneos-arm
+Author: ichitaso
+Section: Tweaks
+Description: Wi-Fi Change Notification Manager for iOS 10 to 12
+Maintainer: TQM
+Filename: ./debs/com.tqm-mos.notifywifix_1.0.0k_iphoneos-arm.deb
+Size: 568
+MD5sum: 8cc482b3bc2b3545075b1a6e8eb34195
 
+Package: com.tqm-mos.s8edge
+Name: S8Edge
+Version: 1.1-3+debug
+Depends: mobilesubstrate, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Author: Bruno Andrade
+Section: Tweaks
+Description: Brings Galaxy S8 Infinity to iOS
+Maintainer: TQM
+Filename: ./debs/com.tqm-mos.s8edge_1.1-3+debug_iphoneos-arm.deb
+Size: 288512
+MD5sum: 7a65f2a80d5421568aad3a0c797cf406
 
+Package: com.tqm-mos.cham
+Name: Font Cham (TM)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Phông chữ được dùng qua Bytafont3-phông chữ hoa văn-Xem hình bên dưới
+Author: ‪TQM
+Section: Fonts
+Maintainer: ‪TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.cham
+Filename: ./debs/com.tqm-mos.cham_1.0_iphoneos-arm.deb
+Size: 140860
+MD5sum: ea5c21c3a14f8f767cf39adb7796aa3e
 
+Package: com.tqm-mos.dune
+Name: Dune
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Dune Bộ chủ đề mang phong cách nhã nhặn
+Maintainer: TQM
+Author: TQM
+Section: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.dune
+Filename: ./debs/com.tqm-mos.dune_1.0_iphoneos-arm.deb
+Size: 5388454
+MD5sum: baabed67012c51fe89bfe56f1ae9c30d
 
+Package: com.tqm-mos.exo
+Name: Font Exo (TM)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Phông chữ được dùng qua Bytafont3-phông chữ khoẻ khoắn-Xem hình bên dưới
+Author: ‪TQM
+Section: Fonts
+Maintainer: ‪TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.exo
+Filename: ./debs/com.tqm-mos.exo_1.0_iphoneos-arm.deb
+Size: 860638
+MD5sum: 177de0ddc9d075baa2bd1e6c471854e7
 
+Package: com.tqm-mos.face
+Name: Face Alkaline
+Version: 1.0
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Author: KVYSDESIGN 
+Section: Utilities
+Description: Face Alkaline For iOS 10&11,gói icon hiển thị pin cho alkaline
+Maintainer: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.facealkaline
+Filename: ./debs/com.tqm-mos.face_1.0_iphoneos-arm.deb
+Size: 253246
+MD5sum: 53d02eb7515e163d006109b13bd40c04
 
+Package: com.tqm-mos.gineso
+Name: Font Gineso (TM)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Phông chữ được dùng qua Bytafont3-phông chữ khoẻ khoắn-Xem hình bên dưới
+Author: ‪TQM
+Section: Fonts
+Maintainer: ‪TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.gineso
+Filename: ./debs/com.tqm-mos.gineso_1.0_iphoneos-arm.deb
+Size: 1295626
+MD5sum: aaccb4a7967eacc7649208277c2d3025
 
+Package: com.tqm-mos.ifun
+Name: Font IFun (TM)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Phông chữ được dùng qua Bytafont3-phông chữ ngộ nghĩnh-Xem hình bên dưới
+Author: ‪TQM
+Section: Fonts
+Maintainer: ‪TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.ifun
+Filename: ./debs/com.tqm-mos.ifun_1.0_iphoneos-arm.deb
+Size: 140720
+MD5sum: 18e4a0dfad34f8697f11061387b2fad4
 
+Package: com.tqm-mos.Opensans
+Name: Font Opensans (TM)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Phông chữ được dùng qua Bytafont3-phông chữ khoẻ khoắn-Xem hình bên dưới
+Author: ‪TQM
+Section: Fonts
+Maintainer: ‪TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.Opensans
+Filename: ./debs/com.tqm-mos.Opensans_1.0_iphoneos-arm.deb
+Size: 1140576
+MD5sum: 415f04bbf4ba4e9f59398eddc5417b5e
 
+Package: com.tqm-mos.roboto
+Name: Font Roboto (TM)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Phông chữ được dùng qua Bytafont3-phông chữ khoẻ khoắn-Xem hình bên dưới
+Author: ‪TQM
+Section: Fonts
+Maintainer: ‪TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.roboto
+Filename: ./debs/com.tqm-mos.roboto_1.0_iphoneos-arm.deb
+Size: 720810
+MD5sum: 6af21d80ae80cf6608f0cf139276cd6a
+
+Package: com.tqm-mos.texgyre
+Name: Font Texgyre (TM)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Phông chữ được dùng qua Bytafont3-phông chữ khoẻ khoắn-Xem hình bên dưới
+Author: ‪TQM
+Section: Fonts
+Maintainer: ‪TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.texgyre
+Filename: ./debs/com.tqm-mos.texgyre_1.0_iphoneos-arm.deb
+Size: 802376
+MD5sum: a3104e515d6a934b610aea6391347625
 
 
 
