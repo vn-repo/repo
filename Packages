@@ -578,6 +578,8 @@ Depiction: http://tqm-mos.github.io/description.html?id=moswhitepro
 Filename: ./debs/TQM.moswhitepro_1.0_iphoneos-arm.deb
 Size: 15661192
 MD5sum: 9bc2ff08515854ee3646833dd9ad4195
+SHA1: a5f4b680e729ea701da133c8be48cfb273587bf6
+SHA256: ea7ebdc875b45da9d86c3fe31aa1b05dca90460bbe85b668956338e0b84294ec
 
 Package: com.yourepo.tqm.callbarxsios12tqm
 Name: CallBar XS Cracked
@@ -1408,7 +1410,7 @@ Filename: ./debs/com.tqm-mos.bazzi_2.0.4_iphoneos-arm.deb
 Size: 32228
 MD5sum: 6ed74d38b62fa23f27dd2770d5da66f9
 
-Package: com.tqm-mos.proudlockxr
+Package: com.tam-mos.proudlockxr
 Name: ProudLock Xr
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -1567,20 +1569,6 @@ Filename: ./debs/com.tqm-mos.talion_1.3_iphoneos-arm.deb
 Size: 111520
 MD5sum: 0f3f19cb49cc5c420be832f407de09f7
 
-Package: com.tqm-mos.aperturize
-Name: Aperturize VH
-Version: 1.0.5
-Architecture: iphoneos-arm
-Description: New portrait mode for unsupported devices
-Maintainer: QM
-Author: FoxfortMobile
-Depends: mobilesubstrate, preferenceloader, com.pulandres.foxforthack
-Icon: file:///Library/PreferenceBundles/aperturizesettings.bundle/icon@3x.png
-Section: IOS12
-Filename: ./debs/com.tqm-mos.aperturize_1.0.5_iphoneos-arm.deb
-Size: 157062
-MD5sum: 7de3e53f3f9eb903d54ef25b73291699
-
 Package: com.pulandres.aperturize
 Name: Aperturize Cracked
 Version: 1.0.5
@@ -1606,7 +1594,7 @@ Maintainer: TQM
 Author: FoxfortMobile
 Depends: mobilesubstrate, preferenceloader, com.pulandres.foxforthack
 Icon: file:///Library/PreferenceBundles/aperturizesettings.bundle/icon@3x.png
-Section: Tweaks
+Section: IOS12
 Filename: ./debs/com.tqm-mos.aperturizeCracked_1.0.5_iphoneos-arm.deb
 Size: 234442
 MD5sum: 59272303dfc7f2ed69b5b276021f23c3
@@ -4372,6 +4360,7 @@ Author: Matt Clarke
 Section: System
 Description: Re-sign applications on your device
 Maintainer: QM
+Depiction: http://tqm-mos.github.io/description.html?id=com.repro
 Filename: ./debs/com.tqm-mos.reprovision_0.4.1_iphoneos-arm.deb
 Size: 10555554
 MD5sum: 8ea1d2879857665a86d79532d00a543e
@@ -9449,25 +9438,224 @@ Filename: ./debs/com.tqm-mos.texgyre_1.0_iphoneos-arm.deb
 Size: 802376
 MD5sum: a3104e515d6a934b610aea6391347625
 
+Package: com.c1d3r.messageheadsxi
+Name: Chat Bong Bóng 
+Version: 2.0.8
+Architecture: iphoneos-arm
+Description: Chát messager bong bóng như android ,tiện hơn khi bạn là ng hay nt
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.chatxi
+Author: C1d3 <anhminh311105@gmail.com>
+Section: IOS12
+Depends: firmware (>= 10), mobilesubstrate, com.rpetrich.rocketbootstrap, com.tqm-mos.crack, com.tqm-mos.mhfbsupport, com.tqm-mos.mhwasupport, com.tqm-mos.mhsmssupport
+Conflicts: com.c1d3r.mhfbsupport, com.c1d3r.mhwasupport, com.c1d3r.mhsmssupport
+Maintainer: Tqm-minh <anhminh311105@gmail.com>
+Filename: ./debs/com.c1d3r.messageheadsxi_2.0.8_iphoneos-arm.deb
+Size: 6420964
+MD5sum: 482353bf75b7a054211765dbcdc877e5
+SHA1: 024773de75c46cfadd73a08d03c71ac5e42e4bda
+SHA256: 8fd5b6290f4ad019f374dfa70cbcba036b71f5a1c0a0e2a2891b3cfa3615a4a2
 
+Package: com.tqm-mos.PullOverPro
+Version: 1.2-1
+Priority: optional
+Section: IOS12
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Architecture: iphoneos-arm
+Name: PullOver Pro Cracked
+Author: c1d3r
+Maintainer: Quang Minh
+Description: Một tinh chỉnh giúp bạn mở nhanh các app dạng cửa sổ nhỏ bên cạnh ( hông ) máy
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.pullover10
+Filename: ./debs/com.tqm-mos.PullOverPro_1.2-1_iphoneos-arm.deb
+Size: 5736648
+MD5sum: ea1fa2c3be837fad9282b9a170b54652
+SHA1: 1a7cf8b18c4b55ec3e83b1e7d207868b6d9a4982
+SHA256: 6aba652b6d232c461368a5c7bdaf6d9be02d7cdb11a1accaa23f6f4f96cc8e55
 
+Package: com.tqm-mos.filzafilemanager12
+Name: Filza File Manager
+Version: 3.6.5-4k
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza64bit, cydia.kiiimo.org.filza64bit
+Architecture: iphoneos-arm
+Author: TIGI Software
+Section: IOS12
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices 
+Maintainer: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=filza
+Filename: ./debs/com.tqm-mos.filzafilemanager12_3.6.5-4k_iphoneos-arm.deb
+Size: 20165562
+MD5sum: 1f44d7bdca88e1be132b75b1df3f9553
+SHA1: c1e7ad1cad7184de26db10d59ba75a780966f210
+SHA256: ab41f83db3a36f53fc3126ed32da50d031eda4ca054ccff4aa6f6b73c104a9e2
 
+Package: com.tqm-mos.sixls
+Name: Six (LS)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: iOS 6 Style Lock Screen!
+Maintainer: TQM
+Author: Skitty
+Section: IOS11
+Version: 1.0.3
+Installed-Size: 1896
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sixls
+Filename: ./debs/com.tqm-mos.sixls_1.0.3_iphoneos-arm.deb
+Size: 1554156
+MD5sum: 073bc95fff53b53d26448cf21cf04c9f
+SHA1: 0afd0b4e0993ffb57baad313bd7a3ec9c037e8a4
+SHA256: bff4ccddd64ddc53654743110455cd15cffc88996d37463ae9d69ee27a51b03c
 
+Package: com.tqm-mos.anemone3
+Name: Anemone 3
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, pincrush, com.tqm-mos.anemone3-extsb
+Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Version: 3.0~beta6
+Architecture: iphoneos-arm
+Description: An awesome theme manager!
+Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
+Maintainer: TQM
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Section: IOS11
+Depiction: https://tqm-mos.github.io/description.html?id=anemone3
+Filename: ./debs/com.tqm-mos.anemone3_3.0~beta6_iphoneos-arm.deb
+Size: 16865044
+MD5sum: e24facd67333cac54a3ae4b8747344cb
+SHA1: 070109339d2dcca25274d860529bdd0a8f5a3c08
+SHA256: 5bd0663d0669d82be63c1135741d93ae2dc914c859ccfb1fbc22328f15e4b724
 
+Package: com.tqm-mos.anemone3-extsb
+Name: Anemone 3 SpringBoard Extension Pack
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute
+Provides: org.coolstar.classicdock, org.coolstar.classicbadges
+Replaces: org.coolstar.classicdock, org.coolstar.classicbadges
+Version: 3.0~beta4
+Architecture: iphoneos-arm
+Description: An awesome theme manager!
+Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
+Maintainer: TQM
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Section: IOS11
+Filename: ./debs/com.tqm-mos.anemone3-extsb_3.0~beta4_iphoneos-arm.deb
+Size: 39686
+MD5sum: 53be3c0bc4d9c1e5efabfa1fa0550689
+SHA1: f266570c5e8b29b3787e0848f651d1924351eda1
+SHA256: 4e328c2cac690e70aea2b32bb00772f2a2c695ab9f00214aff8542108f84d420
 
+Package: com.tqm-mos.reprovision
+Name: ReProvision
+Version: 0.4.2
+Depends: firmware (>= 9.0)
+Architecture: iphoneos-arm
+Author: Matt Clarke
+Section: System
+Description: Re-sign applications on your device
+Maintainer: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.repro
+Filename: ./debs/com.tqm-mos.reprovision_0.4.2_iphoneos-arm.deb
+Size: 10555816
+MD5sum: 74c29418af4f23d11459af50cf5b4b10
+SHA1: beb020e96d3d2beae0e456277e4f6624158bee85
+SHA256: 3b82507519bf8d20d7733d251ae527547d64af7c4b73851b3e547292ecd98fe5
 
+Package: com.tqm-mos.clockx
+Name: ClockX
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Widget for Xen Html
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: TQM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.clockx
+Filename: ./debs/com.tqm-mos.clockx_1.0_iphoneos-arm.deb
+Size: 1643256
+MD5sum: 794ab227a2532248d9f14dc0d42a3841
+SHA1: 4d3b1b3255907b78d0522232a837855216d84f64
+SHA256: 5c6358513271030fb64bc3fec22906136417c359e2eac66dfde4c709e9c6e8fa
 
+Package: com.tqm-mos.fbadblck
+Name: FacebookAdBlocker Cracked
+Version: 1.4~1
+Architecture: iphoneos-arm
+Description: The BEST ad-blocker for Facebook.
+Maintainer: TQM
+Author: Rishanan
+Depends: mobilesubstrate
+Conflicts: jaja.jaja.jajaja
+Replaces: com.rishanan.fbadblock
+Section: Tweaks
+Filename: ./debs/com.tqm-mos.fbadblck_1.4~1_iphoneos-arm.deb
+Size: 5244
+MD5sum: 7b7e8387fe7d6d35c8a2fb3a7bc7c61b
+SHA1: fb923bedf4a486edd5fc1ca371f7510bcebe89ee
+SHA256: ce6df651a33a5fb5398e217cfc41da38e0ab5afb889e079bbed5cf444f5d426c
 
+Package: com.tqm-mos.fugap
+Name: FUGap
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Close the gap at the top of the cc !
+Maintainer: TQM
+Author: smokin1337
+Section: IOS11
+Version: 2.2
+Installed-Size: 520
+Filename: ./debs/com.tqm-mos.fugap_2.2_iphoneos-arm.deb
+Size: 38536
+MD5sum: 55d8dc0e78d87f0e3dcda16857ceb83e
+SHA1: 4f7e42f166da464bb14f55cb5bfef207e81fa714
+SHA256: 14bc68924ee91e16b9069c9685111b7eccfd59775fdbb42d8152f2d8bc022717
 
+Package: com.tqm-mos.locknew
+Name: Lock New
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Widget for Xen Html
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: TQM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.locknew
+Filename: ./debs/com.tqm-mos.locknew_1.0_iphoneos-arm.deb
+Size: 1936
+MD5sum: a947abc2d35eb9e53caf273f8634c1e5
+SHA1: 279a680a9f49fffe55763a9a39f3ddffff7f87b6
+SHA256: 496af8ebb27b0bb1cc34115eff029df5dc75b2b9ac6eca877b774346eff8116c
 
+Package: com.tqm-mos.munewidgetneon
+Name: Mune - Neon Edition
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Simple Lockscreen & Homescreen widgets
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.munewidgetneon
+Author: Mos
+Maintainer: QM
+Section: Iwidgets
+Filename: ./debs/com.tqm-mos.munewidgetneon_1.1_iphoneos-arm.deb
+Size: 545852
+MD5sum: bc123d3a78fb9c471933424f85835db6
+SHA1: b3eb3c9a6651fdc056598ac2551ba194c36365a2
+SHA256: 688927aaa095a213993a411362edcd8cc9e4a36a2f20581e3a13ce202046fbea
 
-
-
-
-
-
-
-
+Package: com.tqm-mos.stackspro
+Version: 1.0
+Section: TQM
+Maintainer: QM <devmos388373@gmail.com>
+Architecture: iphoneos-arm
+Name: StacksPro
+Author: Mos
+Description: Một bộ themes khá lạ giống hoạt hình
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.stackspro
+Filename: ./debs/com.tqm-mos.stackspro_1.0_iphoneos-arm.deb
+Size: 8257154
+MD5sum: 47a145a4a5c79fe66f132e49afe3b9dc
+SHA1: 7d0887849d8486058791c8288a7bf17d9b36d43c
+SHA256: 926f192a7fc2f396f56b1e150c9bd56ee67b52c45569198c492a80042e487c60
 
 
 
