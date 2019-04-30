@@ -9657,11 +9657,77 @@ MD5sum: 47a145a4a5c79fe66f132e49afe3b9dc
 SHA1: 7d0887849d8486058791c8288a7bf17d9b36d43c
 SHA256: 926f192a7fc2f396f56b1e150c9bd56ee67b52c45569198c492a80042e487c60
 
+Package: ga.jakeashacks.substitutedummy
+Name: Substitute Dummy for unc0ver
+Version: 1.0
+Architecture: iphoneos-arm
+Provides: org.coolstar.tweakinject, com.ex.libsubstitute
+Replaces: org.coolstar.tweakinject, com.ex.libsubstitute
+Description: Add Substrate support to Substitute tweaks! And by that I mean, tweaks made by coolstar!
+Maintainer: Jake James <jakeashacks@gmail.com>
+Author: Jake James <jakeashacks@gmail.com>
+Section: System
+Filename: ./debs/ga.jakeashacks.substitutedummy_1.0_iphoneos-arm.deb
+Size: 6294
+MD5sum: 954adf6afaefbeec2130b76d7d8950f0
+SHA1: 2da6c8c4938d4a99f75a604d07079a8e7955c47b
+SHA256: c0f6aba41265143784e4a7627a591b9461712bbb15a295f9520f7ee12283a8da
 
+Package: ga.jakeashacks.anemoneinstaller
+Name: Anemone 3.0 for unc0ver
+Version: 1.0.1
+Architecture: iphoneos-arm
+Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Depends: pincrush, mobilesubstrate
+Pre-Depends: curl, ga.jakeashacks.substitutedummy, jailbreak-resources (>= 0.7), ldid
+Description: Anemone 3.0 for unc0ver!
+Maintainer: TQM
+Author: Jake James <jakeashacks@gmail.com>
+Section: IOS12
+Depiction: https://tqm-mos.github.io/description.html?id=anemone3
+Filename: ./debs/ga.jakeashacks.anemoneinstaller_1.0.1_iphoneos-arm.deb
+Size: 17830
+MD5sum: a363b71248385091769f83d658f0be3e
+SHA1: 287c0c84a5fbb7c99388218366218f08267f06c6
+SHA256: d9712551724f15a6a36717cd09f2ae06d4763555cabdb0c3c88c542dd4aa2619
 
+Package: com.tqm-mos.anemone
+Name: Anemone
+Version: 2.1.8-1
+Architecture: iphoneos-arm
+Description: Tweaks are updated the fastest at ftCydia
+Maintainer: QM
+Author: AnemoneTeam
+Section: System
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, pincrush
+Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Depiction: https://tqm-mos.github.io/description.html?id=anemone3
+Filename: ./debs/com.tqm-mos.anemone_2.1.8-1_iphoneos-arm.deb
+Size: 3992802
+MD5sum: 88e82fc1ee6db1750fe0e81f43053db9
+SHA1: 583049b173296f4efadcd834e543b28979861396
+SHA256: 5756dd742d101e4b87eb204880370cbb568ee82e06a1b3b350e73cf7cd4f9699
 
-
-
+Package: com.anemonetheming.anemone
+Name: Anemone
+Version: 2.1.8-3~FixFont
+Architecture: iphoneos-arm
+Description: An awesome theme manager!đac đk fix lại để hiển thị font
+Author: Mos
+Maintainer: QM <devmos388373@mail.com>
+Section: System
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, pincrush, tqm-mos.iconrepo
+Icon: file:///Applications/Anemone.app/icon.png
+Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, com.codethemed.iconbundles, com.idd.iconomatic
+Depiction: https://tqm-mos.github.io/description.html?id=anemone3
+Filename: ./debs/com.anemonetheming.anemone_2.1.8-2~FixFont_iphoneos-arm.deb
+Size: 4236402
+MD5sum: 11223c56768f1b04ceb5ba85b9462ed1
+SHA1: 43b854389aa4f79f90b7b083dd9da071286b79e5
+SHA256: 6c748b16b3dd3e2e49945e92568e21200411ae435384ed8d486c7f39c5525718
 
 
 
