@@ -3812,6 +3812,23 @@ MD5sum: 341b843a6ce64f10f41a14ff03bc5bf8
 SHA1: 87e9a7d37794360942c5991b885ee835a75dec8f
 SHA256: d6e5dc10da6443200099b989a3006db718144d24b2d22dfeaed4a81f972ff64c
 
+Package: tqm.thanhngu
+Name: Thành Ngữ
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích (widgets),Hiển thị chữ cuộn theo hàng dọc,có hơn 70 phông chữ
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.thanhngu
+Filename: ./debs/tqm.thanhngu_1.0_iphoneos-arm.deb
+Size: 5374670
+MD5sum: 842ea408614e9cd993cb5a08a3c876e2
+SHA1: 08db8ca391b01a12b346ef7ea68e1bd670c753df
+SHA256: 4d0841c69974a867f4206e47a14d1e8b872042cdc308298fad931faf0320e4df
+
 Package: com.tqm-mos.man
 Version: 1.0
 Section: Fonts
