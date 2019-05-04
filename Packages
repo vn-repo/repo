@@ -3829,6 +3829,111 @@ MD5sum: 842ea408614e9cd993cb5a08a3c876e2
 SHA1: 08db8ca391b01a12b346ef7ea68e1bd670c753df
 SHA256: 4d0841c69974a867f4206e47a14d1e8b872042cdc308298fad931faf0320e4df
 
+Package: com.tqm-mos.dock+
+Name: Dock+
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Widget for Xen Html
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: TQM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.dock+
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm.dock+
+Filename: ./debs/com.tqm-mos.dock+_1.0_iphoneos-arm.deb
+Size: 9228
+MD5sum: f2241c58370d4317a7a75c382d5ba610
+SHA1: d15c400513fbb7d16a74c736834edea55d342f7b
+SHA256: 0841a2963b9df9f163ac88b1e7f199332e9942def70be3d4c3b19f4c4e11647b
+
+Package: com.tqm-mos.DockStack
+Name: DockStack
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Widget for Xen Html
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: TQM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.DockStack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm.DockStack
+Filename: ./debs/com.tqm-mos.DockStack_1.0_iphoneos-arm.deb
+Size: 7718
+MD5sum: df710cfa3b6370332a53a2c0eda50d49
+SHA1: 8ae43bd7979cc84b7678c892e0ce490a32b145c2
+SHA256: 5a187c4537df62529d0bfd5fea080cc550d2790abba9d69acef3f5b4150b0ced
+
+Package: com.tqm-mos.weatherbar
+Name: WeatherBar
+Author: TQM
+Version: 1.1
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Widget for Xen Html
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: TQM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.weatherbar
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm.weatherbar
+Filename: ./debs/com.tqm-mos.weatherbar_1.1_iphoneos-arm.deb
+Size: 2980452
+MD5sum: 6fb79eb2a6a4ebfe17fc1d78346122f3
+SHA1: 53c16c6737307d56767f4cd20383d13f33e439d6
+SHA256: 39ae6745693b850d1c261dc0c5f3ccbba7044d414900f35e662b3d7e15ba1532
+
+Package: com.tqm-mos.weatherbarpro
+Name: WeatherBar-Pro
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Widget for Xen Html
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: TQM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.weatherbar
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm.weatherbarpro
+Filename: ./debs/com.tqm-mos.weatherbarpro_1.0_iphoneos-arm.deb
+Size: 1127090
+MD5sum: 9e790b949ce7adc8867af9b6b197ea2b
+SHA1: 6d6023556b329a9b8f448ea4dd8ecece3d52b728
+SHA256: 055429fee1d8fb6b53cd10cb1abbb761c4001ed6a0ff4722567a7d17fba6baec
+
+Package: com.tqm-mos.pridebars
+Name: PrideBars
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Show pride in your carrier signal bars!
+Maintainer: TQM
+Author: Blake Boxberger
+Section: Tweaks
+Version: 1.0.3
+Installed-Size: 136
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.weatherbar
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm.weatherbarprox
+Filename: ./debs/com.tqm-mos.pridebars_1.0.3_iphoneos-arm.deb
+Size: 9404
+MD5sum: 4672842e7dcff330941b9efef9ad1bb3
+SHA1: ccdbea9f069efdda5a06a1055ed82431c4c1bc2d
+SHA256: 07468ca678249245e1c39fcc13c392e13b60f0ebd9f23063abf89afbf90f41ca
+
+Package: com.tqm-mos.libmos
+Name: libmos
+Architecture: iphoneos-arm
+Description: Mos color utils
+Maintainer: QM
+Author: nepeta
+Section: Development
+Version: 0.1.0
+Installed-Size: 148
+Filename: ./debs/com.tqm-mos.libmos_0.1.0_iphoneos-arm.deb
+Size: 18444
+MD5sum: 4f5883752cb2de070b9452add16376e1
+SHA1: 4be72a32ed085174ad4a2a20a548e14b9b0c464f
+SHA256: 968ce039e3f155479e194c8e27166b0856ddd7494a13764557f5feed63220b94
+
 Package: com.tqm-mos.man
 Version: 1.0
 Section: Fonts

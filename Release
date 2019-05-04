@@ -7,11 +7,5 @@ Architectures: iphoneos-arm
 Components: main
 Description: Repo By TQM-Mos
 MD5sum:
- cb581d1a69eb7c8b92a32a5aef3ea69f Packages
- 44466fa23e4b65de86ae6aa4dad00cf6 Packages.bz2
-SHA1:
- bc5cc3ea9dd7fab99ca6ec667b17a5f162b524dc Packages
- 13405c87a4b5e20fb8b7f59aa19fff7550b3b806 Packages.bz2
-SHA256:
- ddfbf7ec3ad1811874197c4320283c8cece63831424ec284a4a505ada3da52d8 Packages
- 620f04f229c35f093386abca504bb5ccbc056aa6c74bda3efeabe99a761521ba Packages.bz2
+ 1d3fbae88a3222282195deec47293d3a Packages
+ d0a13206c6dea72c75e10b4b180a35b0 Packages.bz2
