@@ -4083,6 +4083,684 @@ MD5sum: 4f5883752cb2de070b9452add16376e1
 SHA1: 4be72a32ed085174ad4a2a20a548e14b9b0c464f
 SHA256: 968ce039e3f155479e194c8e27166b0856ddd7494a13764557f5feed63220b94
 
+Package: com.tqm.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: Tweaks
+Version: 1.1.7
+Installed-Size: 1652
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Filename: ./debs/com.tqm.snowboard_1.1.7_iphoneos-arm.deb
+Size: 661988
+MD5sum: 2a566711ed49f8146df26948b5ad4ff3
+SHA1: 4a5f833b162af05f410a13ffeaa2e79a02ad1c03
+SHA256: 4dedef7bf63ef0aeded124de857a91fb5098e088b0f84ebb9ec493edc1dd4e6e
+
+Package: com.tqm.snowboard12
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: IOS12
+Version: 1.1.7
+Installed-Size: 1652
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Filename: ./debs/com.tqm.snowboard12_1.1.7_iphoneos-arm.deb
+Size: 661992
+MD5sum: 5f0ebaf8e9bbf9ecd47b7e7063595ff8
+SHA1: 53023e8289c0fcb95000d987f4d29858509224f8
+SHA256: cb8d3651ae1534135e980f0a24ece75fdf9e8fe692df81da1d74b5915c8133e2
+
+Package: com.tqm-mos.zeppelicator
+Name: Zeppelicator
+Architecture: iphoneos-arm
+Description: Make custom icons for Zeppelin!
+Maintainer: TQM
+Author: qwertyuiop1379
+Section: Utilities
+Version: 0.0.2
+Installed-Size: 260
+Filename: ./debs/com.tqm-mos.zeppelicator_0.0.2_iphoneos-arm.deb
+Size: 84120
+MD5sum: c84b523edb8a140afa88a4859a316b59
+SHA1: 6d64a8d495f74377d27ce0905d0fd53657796b6a
+SHA256: a79fdcba780f5d3991ca63a8be6b3d8eb50935cbfe7636c5d9a81bce01a0f534
+
+Package: com.tqm-mos.3gunrestrictor5
+Name: 3G Unrestrictor 5
+Version: 5.9.10
+Architecture: iphoneos-arm
+Description: Xóa giới hạn tải xuống trên AppStore thông qua dữ liệu di động.
+Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.12), com.rpetrich.rocketbootstrap (>=1.0.5)
+Conflicts: com.crashx.unrestrictor3g, com.kstreich-dev.3gunrestrictor5, sileoturkiye.appstoreunrestrict
+Maintainer: TQM
+Author: Kim Streich
+Section: System
+Filename: ./debs/com.tqm-mos.3gunrestrictor5_5.9.10_iphoneos-arm.deb
+Size: 3055142
+MD5sum: 1123272d6356553a767876aab361eee8
+SHA1: 496950ef144eeaf3799062162d4a857141fc1649
+SHA256: 87434bd388beb3e51610bd28ba76368395d71075004385764b47a46149f74c00
+
+Package: com.tqm-mos.appcake
+Name: AppCake
+Version: 6.0.8
+Architecture: iphoneos-arm
+Description: Kho ứng dụng crack rất phong phú ,nó tương tự như kho ứng dụng appvn
+Pre-Depends: firmware (>= 10.0)
+Depends: mobilesubstrate, sileoturkiye.appsyncunified
+Maintainer: TQM
+Author: hotsjf
+Section: Applications
+Filename: ./debs/com.tqm-mos.appcake_6.0.8_iphoneos-arm.deb
+Size: 20103710
+MD5sum: 3dd8b7600d36f6ff6cdc0f264019f657
+SHA1: 540d6bce2e6a6c329c1ae90214a52fe3a211b738
+SHA256: abcafe4b94c52bf8e1501ed335c8906c1ca65f15e769113d02bdd111735d084f
+
+Package: com.tqm-mos.appcake
+Name: AppCake
+Version: 6.1.2
+Architecture: iphoneos-arm
+Description: Kho ứng dụng crack rất phong phú ,nó tương tự như kho ứng dụng appvn
+Depends: mobilesubstrate, sileoturkiye.appsyncunified
+Maintainer: TQM
+Author: hotsjf
+Section: Applications
+Filename: ./debs/com.tqm-mos.appcake_6.1.2_iphoneos-arm.deb
+Size: 20776040
+MD5sum: 312faee06358c2288e9241f4fd71ee83
+SHA1: 29ecaa7aaacff9e83b9a9a9eb8650c6ab7922be2
+SHA256: bd44f5af1a4562a44a5b96bb98bcbfbf933cbd6ca2cd22838d205e347293a1ce
+
+Package: com.tqm-mos.autotouch
+Name: AutoTouch
+Version: 5.0.6-1
+Architecture: iphoneos-arm
+Description: Automatization for iOS
+Maintainer: TQM
+Author: Kent Krantz
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Section: Utilities
+Filename: ./debs/com.tqm-mos.autotouch_5.0.6-1_iphoneos-arm.deb
+Size: 15943696
+MD5sum: e9773ab717aed75b3d8770bdfd4cf2cc
+SHA1: 5810564de1c0cac056ae4177b382fe9396370e2a
+SHA256: 0b8069f5538761ceb7ecf646a9676490ac3abf6e3ea30203b4980ec7280699be
+
+Package: com.tqm-mos.bazzi
+Name: Bazzi
+Version: 2.0.5
+Architecture: iphoneos-arm
+Description: The ultimate iPhone X battery icon customizer tweak.
+Maintainer: TQM
+Author: Blake Boxberger
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1)
+Conflicts: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Installed-Size: 200
+Section: IOS11
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.bazzi
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm.bazzi
+Filename: ./debs/com.tqm-mos.bazzi_2.0.5_iphoneos-arm.deb
+Size: 56086
+MD5sum: ddd28cd7af1ea13cb658125ad03508cb
+SHA1: f82d65d3956d28bf488a3fbd7880642727757359
+SHA256: e6dfb16c593df50a66d1466451cff2625d40dc3f65bbe9c04e47000217c56279
+
+Package: com.tqm-mos.bazzi
+Name: Bazzi 
+Version: 2.0.6k
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1)
+Conflicts: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Architecture: iphoneos-arm
+Author: Blae Boxberger
+Section: IOS11
+Description: The ultimate iPhone X battery icon customizer tweak.
+Maintainer: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.bazzi
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm.bazzi
+Filename: ./debs/com.tqm-mos.bazzi_2.0.6k_iphoneos-arm.deb
+Size: 56098
+MD5sum: 9216e82bd74bf3e690005e386cca1b99
+SHA1: df73b7f4efb35f17a41c3d9b4b2a9d0bfcc5fb9d
+SHA256: 65fa9cff68d939512f0326012bd026b2aa09fce755f8d6c51bccdcc385abe5dc
+
+Package: com.tqm-mos.betterrotate
+Name: BetterRotate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Khóa định hướng thông minh hơn!
+Maintainer: TQM
+Author: LaughingQuoll
+Depends: mobilesubstrate
+Installed-Size: 356
+Section: Tweaks
+Filename: ./debs/com.tqm-mos.betterrotate_1.1_iphoneos-arm.deb
+Size: 35638
+MD5sum: 641c954083fc6293cf24f17e11de6148
+SHA1: d0725f967b8ee96d098e6c8bec921d162e9aa394
+SHA256: 04ea8b16f2798250f102ca3c04947e4e115fb71ec9b9bc9a70e21f7ff75b135f
+
+Package: com.tqm-mos.cleantab
+Name: Clean Tab
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Remove iOS Tab Bar Labels
+Maintainer: TQM
+Author: midnightchips
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 328
+Filename: ./debs/com.tqm-mos.cleantab_0.0.2_iphoneos-arm.deb
+Size: 32368
+MD5sum: 6985345a13c0e734d348368c7a3f10fa
+SHA1: b094e40b4cdd9b2b67811b13756518a62d6fb208
+SHA256: 70e8bdabeb6e52d29d034da291cd38885e6c0242e00e77c36a6f6bf767d5bdd9
+
+Architecture: iphoneos-arm
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Name: Cylinder (A12)
+Version: 1.0.7~beta1
+Package: com.tqm-mos.cylindera12
+Section: IOS12
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
+Maintainer: TQM
+Description: Make your icons dance
+Filename: ./debs/com.tqm-mos.cylindera12_1.0.7~beta1_iphoneos-arm.deb
+Size: 488900
+MD5sum: 52642a0076341cf9eba90de3ca74a3b0
+SHA1: a13f6518a07110071b7b60d000213ea7b2b9d401
+SHA256: 198171b7501b20fcf382024aa0daa84492aa40afe220da768072e9fb70dee686
+
+Package: com.tqm-mos.easyswitcherx
+Name: EasySwitcherX
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Vuốt lên trên các ứng dụng trong trình chuyển đổi để tiêu diệt chúng mà không cần phải nhấn và giữ (iPhone X - cách nó phải có)
+Maintainer: TQM
+Author: Spark
+Section: IOS11
+Version: 0.0.4-5
+Installed-Size: 308
+Filename: ./debs/com.tqm-mos.easyswitcherx_0.0.4-5_iphoneos-arm.deb
+Size: 64436
+MD5sum: 7149fd1b20f41352a70417100ec3f130
+SHA1: f1aab081b1f323d1c2013c1aab4b3051fe8b4a4d
+SHA256: 9e838d02f72b21c3d742496c4ca35638693f1a0b927af2d3ced1a3214a493a23
+
+Package: com.tqm-mos.fugap
+Name: FUGap
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Close the gap at the top of the cc !
+Maintainer: TQM
+Author: smokin1337
+Section: IOS11
+Version: 2.2.2
+Installed-Size: 520
+Filename: ./debs/com.tqm-mos.fugap_2.2.2_iphoneos-arm.deb
+Size: 40690
+MD5sum: 8272968c5aa13b39a2c4ddc9c9719667
+SHA1: 60f2ef981339839b55949246bd4f47365de46eaf
+SHA256: 0693ffac3a3bc00f89760af1092dadd2d1051728c92b650e128b774673432a3f
+
+Package: com.tqm-mos.fugap
+Name: FUGap
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Close the gap at the top of the cc !
+Maintainer: TQM
+Author: smokin1337
+Section: IOS11
+Version: 2.2.3
+Installed-Size: 520
+Filename: ./debs/com.tqm-mos.fugap_2.2.3_iphoneos-arm.deb
+Size: 45072
+MD5sum: 65b267c3aaf34fdc69c37e0c5da27598
+SHA1: 53a5f55c9202fdb94e75cf5f816f22abedf466c9
+SHA256: 6ff5809089aecbb2fb1261de08d4ce94610e4217409f5667ad4fbadead64249c
+
+Package: com.tqm-mos.harlem
+Name: Harlem Shake
+Version: 0.5
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, libactivator
+Installed-Size: 720
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Maintainer: TQM
+Description: SpringBoard Harlem Shake!
+Filename: ./debs/com.tqm-mos.harlem_0.5_iphoneos-arm.deb
+Size: 528770
+MD5sum: 2fbec6543816b8893e5c58ab45adeb87
+SHA1: 790debbee3fe026f2b7f240b38ccfcdad211ab16
+SHA256: fa629cd1560efc70199819584711f931e2c949968015eccc5a9b23926e832f9b
+
+Package: com.tqm-mos.hidestatusbaritemsx
+Name: Hide Statusbar Items X
+Version: 0.3.4
+Architecture: iphoneos-arm
+Description: Cho phép bạn ẩn các mục Statusbar nhất định
+Maintainer: TQM
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depends: mobilesubstrate
+Conflicts: com.junesiphone.hidestatusbaritems, sad.asd.as
+Installed-Size: 316
+Section: IOS12
+Filename: ./debs/com.tqm-mos.hidestatusbaritemsx_0.3.4_iphoneos-arm.deb
+Size: 40906
+MD5sum: 2146b0b63da510f6c6efaf647bb432f6
+SHA1: f1f510ab783eca0786bf92e260be7f80957b1e6c
+SHA256: 4d905f68c88d98846f4867d216323611a76cf5f8a7b9d3624da444d799cd3bae
+
+Package: com.tqm-mos.homeswitcher
+Name: HomeSwitcher
+Version: 2.3.0
+Architecture: iphoneos-arm
+Description: Thay thế hệ thống thay đổi ứng dụng rộng.
+Depends: mobilesubstrate, preferenceloader, firmware(>=10.0)
+Conflicts: com.kaneb.kbapplist, com.kaneb.kbpreferences, com.indieDev.homeSwitcher
+Maintainer: TQM
+Author: Kane Buckthorpe
+Section: IOS11
+Filename: ./debs/com.tqm-mos.homeswitcher_2.3.0_iphoneos-arm.deb
+Size: 400788
+MD5sum: 8f844b971ac2235e88d5cf2fa7e637a5
+SHA1: e2113a95b9b58f7e5944dd59a929a8e5e8a59ac8
+SHA256: c3b1d4407158f06076da4215d1c8bfb449333830b81f97346a339250851590e3
+
+Package: com.tqm-mos.icaughtuxii
+Name: iCaughtU 12
+Version: 1.2.0
+Architecture: iphoneos-arm
+Description: Anti-Theft system
+Maintainer: TQM
+Author: Itay <support@itaysoft.com>
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader, firmware (>= 11.0), com.rpetrich.rocketbootstrap
+Conflicts: com.itaysoft.icaughtu, com.itaysoft.icaughtupro, com.itaysoft.icaughtupro8, com.itaysoft.icaughtupro9, com.itaysoft.icaughtupro10
+Replaces: com.itaysoft.icaughtu, com.itaysoft.icaughtupro, com.itaysoft.icaughtupro8, com.itaysoft.icaughtupro9, com.itaysoft.icaughtupro10
+Icon: file:///Library/PreferenceBundles/iCaughtUXII.bundle/iCaughtU_12@2x.png
+Section: IOS11
+Filename: ./debs/com.tqm-mos.icaughtuxii_1.2.0_iphoneos-arm.deb
+Size: 560450
+MD5sum: f1ddef16008dbb8c8ae9321c273d213b
+SHA1: a97d9f3381196b71148b4c582d0144ce96da76df
+SHA256: c19704ba9b0942ab92b9706d37be89f1030bf06a81aa18590e5e2b7ba88e4699
+
+Package: com.tqm-mos.icleanerdarktheme
+Name: iCleaner Dark Theme
+Description: Dark theme for the iCleaner and iCleaner Pro apps.
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: TQM
+Version: 1.0.2
+Architecture: iphoneos-arm
+Section: TQM
+Pre-Depends: winterboard
+Depiction: https://tqm-mos.github.io/description.html?id=com.darkiclea
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.darkiclea
+Filename: ./debs/com.tqm-mos.icleanerdarktheme_1.0.2_iphoneos-arm.deb
+Size: 1280
+MD5sum: 7b42e008069df72d7244a5378f78e564
+SHA1: f779c076559f6bb080b21acf709b3bed8ca3289e
+SHA256: ca79a36a07dc4aecab07d4048e21fc05a7058f56c88718f4ada3237ef1fe1cac
+
+Package: com.tqm-mos.icleanerprobeta
+Name: iCleaner Pro Beta for iOS 10.3.X
+Version: 7.6.3~beta2
+Depends: firmware (>= 4.0)
+Pre-Depends: apt, findutils, shell-cmds
+Conflicts: org.altervista.exilecom.icleaner, com.hackyouriphone.icleanerpro
+Replaces: org.altervista.exilecom.icleaner, com.hackyouriphone.icleanerpro, com.yourepo.tqm.icleanerpro
+Architecture: iphoneos-arm
+Author: Ivano Bilenchi
+Section: Applications
+Description: The first real iOS system cleaner & optimizer --- WARNING: BETA VERSION FOR iOS 10.3.X
+Maintainer: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=iclean
+SileoDepiction: https://tqm-mos.github.io/description.html?id=iclean
+Filename: ./debs/com.tqm-mos.icleanerprobeta_7.6.3~beta2_iphoneos-arm.deb
+Size: 5208106
+MD5sum: 89dcac9a8ab7d2dcab42de200111020e
+SHA1: 0f34da4b523e1bd0955addc9ee1c6bf2253833ae
+SHA256: 2debb7192c625ea245df61c9cd431854972be4951b65807fc957ffdedd943259
+
+Package: com.tqm-mos.igameguardian
+Name: iGameGuardian
+Version: 8.3k
+Architecture: iphoneos-arm
+Description: iOS là công cụ gian lận trò chơi tốt nhất cho phiên bản.
+Depends: firmware (>= 8.0), mobilesubstrate
+Conflicts: idv.aqua.iGameGuardian
+Priority: optional
+Maintainer: TQM
+Author: crack
+Section: IOS11
+Filename: ./debs/com.tqm-mos.igameguardian_8.3k_iphoneos-arm.deb
+Size: 448156
+MD5sum: beab56f277dffb03c3cda6e9ce099f6c
+SHA1: 05c6ca5a0c7e179295e0125cb1e9658f6eb89c75
+SHA256: f9cb082e77cd31d3027f5893dd5ee4c98ca426e8340b20c09982e27f44258e08
+
+Package: com.tqm-mos.igameguardian12
+Name: iGameGuardian 12
+Version: 12.0.1k
+Architecture: iphoneos-arm
+Description: iOS là công cụ gian lận trò chơi tốt nhất cho phiên bản.
+Depends: firmware (>= 12.0), mobilesubstrate
+Conflicts: idv.aqua.iGameGuardian.iOS12
+Priority: optional
+Maintainer: TQM
+Author: DEV
+Section: IOS12
+Filename: ./debs/com.tqm-mos.igameguardian12_12.0.1k_iphoneos-arm.deb
+Size: 502764
+MD5sum: 5fa5a217af6f090bed463d85a879a1a3
+SHA1: 18db238eabf7a12f68dffd981e8160d18f81d8b1
+SHA256: c92013ac66c0b7e5fa6047daef4187ffb4e6184fa28508ff01305e81f3b72d78
+
+Package: com.tqm-mos.malleus
+Name: malleus
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Âm thanh cảm ứng iOS 12.1 3D
+Maintainer: TQM
+Author: Sam Gardner
+Section: Tweaks
+Version: 1.1-6+debug
+Installed-Size: 104
+Filename: ./debs/com.tqm-mos.malleus_1.1-6+debug_iphoneos-arm.deb
+Size: 5480
+MD5sum: 3edc7824e989e505072b6196f5be5b2f
+SHA1: e53cc72915e7c100ff7635cd2df86de64ca490a9
+SHA256: 018b549dd34112f1ab864c3115e516bc4ef082207808e78bde21dbc608393846
+
+Package: com.tqm-mos.melior
+Name: Melior
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Conflits: com.ruler225.videohud, com.jeffrey.pikabulite, com.jeffrey.pikabu
+Architecture: iphoneos-arm
+Description: Custom volume HUD
+Maintainer: TQM
+Author: Spark & Dennis Bednarz
+Section: IOS11
+Version: 1.0.9-4
+Installed-Size: 840
+Filename: ./debs/com.tqm-mos.melior_1.0.9-4_iphoneos-arm.deb
+Size: 273970
+MD5sum: 55a675dc1f0c607f5de8a7dc3e33ca5d
+SHA1: 9f0b2226c76e23c93cf3c92498e0f070a524b94c
+SHA256: 06f4a725503dfce3f9a8572ea004c67498ce5f2e372c8ab4499eaabd6a93dd25
+
+Package: com.tqm-mos.myriad
+Name: Myriad
+Version: 0.2.6
+Architecture: iphoneos-arm
+Description: Split your screen
+Maintainer: TQM
+Author: Spark
+Depends: mobilesubstrate, com.spark.libsparkapplist, preferenceloader, jp.ashikase.techsupport
+Conflicts: com.spark.splitview
+Replaces: com.spark.myriad
+Installed-Size: 2020
+Section: Tweaks
+Filename: ./debs/com.tqm-mos.myriad_0.2.6_iphoneos-arm.deb
+Size: 1402248
+MD5sum: a73bf89280eaa5d287f61a3796140702
+SHA1: d7a27b2db8a9201369b1bc1cca36f68d98460d6b
+SHA256: 7c0209630e77cfd1b521b189b01685bd1d31984b18b513234100d9508b227ddf
+
+Package: com.tqm-mos.nicebarx
+Version: 2.0.0.1
+Section: IOS12
+Maintainer: TQM
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 2072
+Name: NiceBarX (VH)
+Author: niceios
+Description: tinh chỉnh này cho phép bạn tùy biến được nhiều thứ,khuyết điểm là toàn tiếng trung,phí kích hoạt là 5 đô
+Icon: http://apt.niceios.com/icon/nicebarx.png
+Filename: ./debs/com.tqm-mos.nicebarx_2.0.0.1_iphoneos-arm.deb
+Size: 633456
+MD5sum: 3a8fa118f103b6aac0acbb47b397d621
+SHA1: f1dfac288581fde2de233287d2e25dc093c36ed9
+SHA256: 40f802cb8d7dbbea0eedda37aab5eb637da1a4c228daa0f017f99dee6b8babdc
+
+Package: com.tqm-mos.nicebarx
+Version: 2.0.0.7-1+debug
+Priority: optional
+Section: IOS12
+Maintainer: TQM
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 4988
+Name: NiceBarX
+Author: niceios
+Description: tinh chỉnh này cho phép bạn tùy biến được nhiều thứ,khuyết điểm là toàn tiếng trung,phí kích hoạt là 5 đô
+Icon: http://apt.niceios.com/icon/nicebarx.png
+Filename: ./debs/com.tqm-mos.nicebarx_2.0.0.7-1+debug_iphoneos-arm.deb
+Size: 1510380
+MD5sum: 97cdb99e30f51cb197e34d8e921a3465
+SHA1: f92b12be623f1cc605d64f0870765a924d91952a
+SHA256: ac633e95c1a58428f21dbcaeb1016279dded99c2aae78d28ddccd62710cc245a
+
+Package: com.tqm-mos.nocturnal11
+Name: nocturnal (iOS 11)
+Depends: mobilesubstrate, com.tqm-mos.ccsupport
+Architecture: iphoneos-arm
+Description: Control Center Module for Eclipse!
+Maintainer: TQM
+Author: Samg_is_a_Ninja
+Section: IOS11
+Version: 1.1-1+debug
+Installed-Size: 100
+Filename: ./debs/com.tqm-mos.nocturnal11_1.1-1+debug_iphoneos-arm.deb
+Size: 21658
+MD5sum: 1676cfa88dc72c503e343adf87d3a889
+SHA1: 68b789b71f13974c530cb670f079b9a64000c0fb
+SHA256: 881f12b3273a82cf10dc6ef2981939ff82fc43bb1b079d2e35f696f7def0d711
+
+Package: com.tqm-mos.pubgmobile
+Name: PUBG MOBILE Cheats
+Version: 0.7.0
+Architecture: iphoneos-arm
+Description: PUBG MOBILE için hack tweaki.
+Depends: mobilesubstrate
+Conflicts: org.cydia.kiimo.PUBGMobile
+Maintainer: TQM
+Author: Önder Azazi <onderazazi@hotmail.com>
+Section: IOS11
+Filename: ./debs/com.tqm-mos.pubgmobile_0.7.0_iphoneos-arm.deb
+Size: 938436
+MD5sum: cf8597292bd846dcf91a4efff9df68e5
+SHA1: 9f09cd6be034f28642765fccffedde644cd36507
+SHA256: 80598b9c91d84f543d1d76230cea17d674a312776f7bbcec7e59771e48733e7c
+
+Package: com.tqm-mos.rocket
+Name: Rocket for Instagram
+Version: 3.0.20k
+Architecture: iphoneos-arm
+Description: Một tinh chỉnh rất đẹp được phát triển cho Instagram.
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
+Conflicts: me.alfhaily.rocket
+Replaces: me.alfhaily.rocket.lib
+Maintainer: TQM
+Author: CRACK
+Section: Tweaks
+Filename: ./debs/com.tqm-mos.rocket_3.0.20k_iphoneos-arm.deb
+Size: 5849812
+MD5sum: 07f8e5e09e8e483fdf6791c37fc396d5
+SHA1: bbab0e110de654d6b7cfddd68b482b2d9945d6f7
+SHA256: 02c0bccf56951b0931abb4b8d519550879a393de0e745799227294f526aace50
+
+Package: com.tqm-mos.sillyo
+Name: Sileo Compatibility Layer
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Lớp tương thích cho Sileo / uns0ver
+Maintainer: TQM
+Author: Samg_is_a_Ninja & sbingner
+Section: System
+Conflicts: com.pixelomer.u0sileo.backend, com.pixelomer.u0sileo
+Version: 1.2.1
+Installed-Size: 117
+Filename: ./debs/com.tqm-mos.sillyo_1.2.1_iphoneos-arm.deb
+Size: 11902
+MD5sum: cdf0a64c8a27d4e520fa9ea281d97771
+SHA1: 41aa7fd1cdcec819ea49e8cf3a1535275183e72b
+SHA256: 42e1ef4a4d19ad6aae1bbebe0ef37c9c7872e1c408468cf9eefecf03005ea2af
+
+Package: com.tqm-mos.sixls
+Name: Six (LS)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: iOS 6 Style Lock Screen!
+Maintainer: TQM
+Author: Skitty
+Section: IOS11
+Version: 1.0.4-1
+Installed-Size: 1896
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sixls
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sixls
+Filename: ./debs/com.tqm-mos.sixls_1.0.4-1_iphoneos-arm.deb
+Size: 1566604
+MD5sum: 334a5dc0d87d1b2abdbe1b6c2f7841cd
+SHA1: e596395845aae0c4a59a7837982f0a6935e90ed8
+SHA256: 84fe2383df6fd4742546195dcd5249b4638e82725c6235dc9437c2902146490a
+
+Package: com.tqm-mos.spotlightless11
+Name: Spotlightless11
+Version: 1.0.4
+Architecture: iphoneos-arm
+Description: Thoát khỏi Spotlight trên iOS 10 và 11!
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Conflicts: com.cydiageek.spotlightless11
+Maintainer: TQM
+Author: devm
+Section: IOS11
+Filename: ./debs/com.tqm-mos.spotlightless11_1.0.4_iphoneos-arm.deb
+Size: 74838
+MD5sum: fbc9928b3b4bfac19ae88b120d2149e9
+SHA1: 6da5d4f79209f27109ca321be76d68526dfe7161
+SHA256: 7c01c138f47c7971d21566ef83dc39daa50ebc7ac3cba0d76be1b25610c78da4
+
+Name: Spotlightless11
+Package: com.tqm-mos.spotlightless11
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Version: 1.0.9
+Architecture: iphoneos-arm
+Description: Get Rid of the Spotlight on iOS 10/11/12!
+Maintainer: TQM
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+Installed-Size: 561
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/Spotlightless11.bundle/Spotlightless11@2x.png
+Filename: ./debs/com.tqm-mos.spotlightless11_1.0.9_iphoneos-arm.deb
+Size: 106920
+MD5sum: 261ccb9bbcbc4b74ccd7d54d7f4049cc
+SHA1: 251291648779ad00257a1f9185222436eb0f6a15
+SHA256: 13fe1080a5f8bb7935ddfbdce5146022ccb5f3223417c6d598c295e9b6abc485
+
+Package: com.tqm-mos.wicarrier
+Name: WiCarrier
+Architecture: iphoneos-arm
+Description: Display WiFi network in status bar
+Maintainer: TQM
+Author: Ryan Petrich <rpetrich+wicarrier@gmail.com>
+Depends: mobilesubstrate, firmware (>= 3.0)
+Section: Tweaks
+dev: MOS
+Version: 1.1.5
+Installed-Size: 184
+Filename: ./debs/com.tqm-mos.wicarrier_1.1.5_iphoneos-arm.deb
+Size: 20226
+MD5sum: c49f522a00d92c0da8a8b5b92dfdf88b
+SHA1: b137f7532fdf23c30600d630c45158833391630f
+SHA256: 3b5e681cbb8d498bf512c1df12e3f1b8f0dff922ef2ae1582ee0e0ef7321e0e1
+
+Package: com.yourepo.tqm.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: TQM
+Version: 7.7.3
+Architecture: iphoneos-arm
+Section: Applications
+Depends: firmware (>= 4.0), com.yourepo.tqm.crackicleanerpro, findutils, shell-cmds, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, com.hackyouriphone.icleanerpro, com.hackyouriphone.icleanerprobeta
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Depiction: https://tqm-mos.github.io/description.html?id=iclean
+SileoDepiction: https://tqm-mos.github.io/description.html?id=iclean
+Filename: ./debs/com.yourepo.tqm.icleanerpro_7.7.3_iphoneos-arm.deb
+Size: 9888558
+MD5sum: 08552ed3be2b99c2ef44af67d736f7c2
+SHA1: de889567cc5d2cd8c2038b2892dc90eeb5669fcc
+SHA256: 64a5de2cd50d45e2514fccc5e83e351062cad7d7c3c151295bd6019c186d3084
+
+Package: ga.jakeashacks.anemoneinstaller
+Name: Anemone 3.0 for unc0ver
+Version: 1.0.2
+Architecture: iphoneos-arm
+Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Depends: pincrush, mobilesubstrate
+Pre-Depends: curl, ga.jakeashacks.substitutedummy, jailbreak-resources (>= 0.7), ldid
+Description: Anemone 3.0 for unc0ver!
+Maintainer: Jake James <jakeashacks@gmail.com>
+Author: Jake James <jakeashacks@gmail.com>
+Section: IOS12
+Depiction: https://tqm-mos.github.io/description.html?id=anemone3
+SileoDepiction: https://tqm-mos.github.io/description.html?id=anemone3
+Filename: ./debs/ga.jakeashacks.anemoneinstaller_1.0.2_iphoneos-arm.deb
+Size: 17864
+MD5sum: a3b6812b6c0143aa2b14c03d72e6bee3
+SHA1: f7b5173ed734305b69fbba4ba61fd5f5e1818715
+SHA256: 1a9df58d292f0f0b5d561c9ebaf893dbda5cf49ced839b69c69717d978f861c8
+
+Package: ga.jakeashacks.anemoneinstaller
+Name: Anemone 3.0 for unc0ver
+Version: 1.0.4
+Architecture: iphoneos-arm
+Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Depends: pincrush, mobilesubstrate
+Pre-Depends: curl, ga.jakeashacks.substitutedummy, jailbreak-resources (>= 0.7), ldid
+Description: Anemone 3.0 for unc0ver!
+Maintainer: Jake James <jakeashacks@gmail.com>
+Author: Jake James <jakeashacks@gmail.com>
+Section: IOS12
+Depiction: https://tqm-mos.github.io/description.html?id=anemone3
+SileoDepiction: https://tqm-mos.github.io/description.html?id=anemone3
+Filename: ./debs/ga.jakeashacks.anemoneinstaller_1.0.4_iphoneos-arm.deb
+Size: 17934
+MD5sum: 392114be29c67e4e7980892d9fe61aeb
+SHA1: 05d3e6461a33166f125d509fb71aae584f2ad483
+SHA256: 225fef31ed5ef725faf231443995801af8c91da39443e56b28f13b32b875f4f3
+
 Package: com.tqm-mos.man
 Version: 1.0
 Section: Fonts
@@ -4091,10 +4769,13 @@ Name: Fonts Man
 Author: Mos
 Description: Font Man hoạt động qua anemone
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fontproman
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fontproman
 Maintainer: QM
 Filename: ./debs/com.tqm-mos.man_1.0_iphoneos-arm.deb
 Size: 10878678
 MD5sum: cf246d61ce100cb70d61d2326d96a467
+SHA1: ea4492a95ef3115bc0b00fae9dd5a260acd3399c
+SHA256: 356cb80c4c051f5422d6c91b440921038415d727245237afa56f67b2f41db042
 
 Package: com.tqm-mos.nova
 Version: 1.0
@@ -4104,10 +4785,13 @@ Name: Fonts Nova
 Author: Mos
 Description: Font NoVa hoạt động qua anemone
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fontnovapro
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fontnovapro
 Maintainer: QM
 Filename: ./debs/com.tqm-mos.nova_1.0_iphoneos-arm.deb
 Size: 14823516
 MD5sum: 02f3aa09ce5558cafaa7762ca214d9aa
+SHA1: 1bd414652fb774abc15ea3ec8bb010c21c3ef0be
+SHA256: 09351b69095a1f37119e49b2c3c01ad34815fd89c1aff6f016257ce52b6d77a1
 
 Package: com.tqm-mos.bongtm
 Name: Bông (TM)
@@ -4116,12 +4800,15 @@ Section: Fonts
 Architecture: iphoneos-arm
 Depends: firmware (>= 10), mobilesubstrate
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.bongtm
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.bongtm
 Description: Font Dùng qua Bytafont3
 Author: Mos <devmos388373@gmail.com>
 Maintainer: QM <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.bongtm_1.0_iphoneos-arm.deb
 Size: 604462
 MD5sum: 662605154106b319ef63165386b952b4
+SHA1: ae130cad13ac3999acd62a2219aaa76ac1e7349a
+SHA256: a8914b497cb66df21376eafb0bec93860b1f6c9fcdaa36f97bafe4ab4ad3004c
 
 Package: com.tqm-mos.chocokytm
 Name: Chocoky (TM)
@@ -4130,12 +4817,15 @@ Section: Fonts
 Architecture: iphoneos-arm
 Depends: firmware (>= 10), mobilesubstrate
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.chocokytm
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.chocokytm
 Description: Font Dùng qua Bytafont3
 Author: Mos <devmos388373@gmail.com>
 Maintainer: QM <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.chocokytm_1.0_iphoneos-arm.deb
 Size: 728268
 MD5sum: c0d04844e3cfeadb1dad7bef0000a491
+SHA1: 47680de93325086113d1ff73702a8b9c3b2b20f0
+SHA256: 82be21ec4ed49157773ff5f44fd649d7c564cc7a7a30fb2e8d870b517248e24b
 
 Package: com.tqm-mos.edgytm
 Name: Edgy (TM)
@@ -4144,12 +4834,15 @@ Section: Fonts
 Architecture: iphoneos-arm
 Depends: firmware (>= 10), mobilesubstrate
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.edgytm
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.edgytm
 Description: Font Dùng qua Bytafont3
 Author: Mos <devmos388373@gmail.com>
 Maintainer: QM <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.edgytm_1.0_iphoneos-arm.deb
 Size: 627860
 MD5sum: a45d2061a402ee57a856a8623d055229
+SHA1: 925941500f7a5b9c439eae07235da8c9787d1cf0
+SHA256: 3bde319a72aab1c68012390b164a54a9b47cb2d1b1ae4c604a443e424e9f2740
 
 Package: com.tqm-mos.coitm
 Name: Coi (TM)
