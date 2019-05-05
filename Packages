@@ -3893,7 +3893,7 @@ Description: Widget for Xen Html
 Homepage: https://www.facebook.com/quangminhdx
 Maintainer: TQM
 Section: Iwidgets
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.weatherbar
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.weatherbarpro
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm.weatherbarpro
 Filename: ./debs/com.tqm-mos.weatherbarpro_1.0_iphoneos-arm.deb
 Size: 1127090
@@ -3911,13 +3911,162 @@ Author: Blake Boxberger
 Section: Tweaks
 Version: 1.0.3
 Installed-Size: 136
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.weatherbar
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.weatherbarprox
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm.weatherbarprox
 Filename: ./debs/com.tqm-mos.pridebars_1.0.3_iphoneos-arm.deb
 Size: 9404
 MD5sum: 4672842e7dcff330941b9efef9ad1bb3
 SHA1: ccdbea9f069efdda5a06a1055ed82431c4c1bc2d
 SHA256: 07468ca678249245e1c39fcc13c392e13b60f0ebd9f23063abf89afbf90f41ca
+
+Package: com.tqm-mos.StackingDock
+Name: StackingDock
+Author: TQM
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Gói tiện ích (Widgets),hiển thị dock theo phong cách mới,hoạt động qua Xen Html
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: TQM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.StackingDock
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.StackingDock
+Filename: ./debs/com.tqm-mos.StackingDock_1.0_iphoneos-arm.deb
+Size: 34506
+MD5sum: dbffd55218b5228d3207ab83da880b9a
+SHA1: f9f44cde1a0115021bc1e4dbae554e471382c485
+SHA256: fe42319f413613a843a2e9fdb9e1846e580c0519856dfffa367490eca5ccdd58
+
+Package: com.tqm-mos.PullOverPro
+Version: 1.4-2
+Priority: optional
+Section: IOS12
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Architecture: iphoneos-arm
+Name: PullOver Pro Cracked
+Author: c1d3r
+Maintainer: Quang Minh
+Description: Một tinh chỉnh giúp bạn mở nhanh các app dạng cửa sổ nhỏ bên cạnh ( hông ) máy 
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pullover10
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pullover10
+Filename: ./debs/com.tqm-mos.PullOverPro_1.4-2_iphoneos-arm.deb
+Size: 5744210
+MD5sum: 08bdba12f7c9d84dfdee8688154268ef
+SHA1: 927f5689530d91fb4f1d6cd8bd89d2bc85d03366
+SHA256: dbc2c977dcd0f0d0a5f664b3715cc1413477a872b3ef0e0da14c391f49fb03ad
+
+Package: com.tqm-mos.PullOverPro
+Version: 1.4-1
+Priority: optional
+Section: IOS12
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Architecture: iphoneos-arm
+Name: PullOver Pro Cracked
+Author: c1d3r
+Maintainer: Quang Minh
+Description: Một tinh chỉnh giúp bạn mở nhanh các app dạng cửa sổ nhỏ bên cạnh ( hông ) máy 
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pullover10
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pullover10
+Filename: ./debs/com.tqm-mos.PullOverPro_1.4-1_iphoneos-arm.deb
+Size: 5744408
+MD5sum: 7ba20242e4ce176800e0ef41408ff468
+SHA1: 9527bc0796855f5bec0f0ea7f3e9cbc3045a150e
+SHA256: 0a5e40322829155f0f9c6ec9b5d696681fd5d8b87d199a349c7af293214bdf54
+
+Package: com.tqm-mos.libmos
+Name: libmos
+Architecture: iphoneos-arm
+Description: Nepeta's color utils
+Maintainer: TQM
+Author: Nepeta
+Section: Development
+Version: 0.1.1
+Installed-Size: 208
+Filename: ./debs/com.tqm-mos.libmos_0.1.1_iphoneos-arm.deb
+Size: 26764
+MD5sum: 20575dde3b3f008d8f6d2bdacf051114
+SHA1: 50b92372bde594e426bd7037aaa495cac6461537
+SHA256: b4d02ab44a4c475c7c685bf00e27435379bef60768f95930374f2a50529678c1
+
+Package: com.tqm-mos.dockoutline
+Name: DockOutline
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Description: Turn the dock into an outline
+Maintainer: TQM
+Author: qwertyuiop1379
+Section: Tweaks
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.dockoutline
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm.dockoutline
+Version: 1.1.4
+Installed-Size: 360
+Filename: ./debs/com.tqm-mos.dockoutline_1.1.4_iphoneos-arm.deb
+Size: 17354
+MD5sum: f216d4a3f625acc8769245688f6a8a88
+SHA1: adef44a9d303202a2708ef11003c3f5581c03f41
+SHA256: 24717d295d6dc99dd0db99ea5ada1a0645685723c13f6fa1d375ec23726406c6
+
+Package: com.tqm-mos.notifica
+Name: Notifica
+Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), com.tqm-mos.libmos (>= 0.1.1), firmware (>= 11.0)
+Conflicts: io.ominousness.modernxi
+Architecture: iphoneos-arm
+Description: Notification customizer
+Maintainer: TQM
+Author: Nepeta
+Section: IOS11
+Version: 0.2.8-1
+Installed-Size: 1100
+Filename: ./debs/com.tqm-mos.notifica_0.2.8-1_iphoneos-arm.deb
+Size: 454452
+MD5sum: 73873b04a89ae1bcb24cc051037e408b
+SHA1: 64c383ff8b678fe015d08b8cb997834dbdab2361
+SHA256: 24c44033469ddec2176961ea80ba49a3be4049e6b9bc3522aa42313a77764e20
+
+Package: com.tqm-mos.pubgmobile012
+Name: PUBG MOBILE Cheats v0.12.0
+Version: 0.12.0-1
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: 0xS14T3R & DiDA
+Section: Hack Games
+Description: PUBG MOBILE iGMM 
+Maintainer: TQM
+Filename: ./debs/com.tqm-mos.pubgmobile012_0.12.0-1_iphoneos-arm.deb
+Size: 1144800
+MD5sum: 453348b0ac01325b29ba30282e774fbc
+SHA1: f79f04dc2cf3e9ce8eae6b074296c685a39b6269
+SHA256: 878cb2f09ad911a463510dfe10367b321145c323087d6fc977f0866be3a0ed96
+
+Package: com.tqm-mos.pubgmobilenoblockingkr
+Name: PUBG HACK NO BLOCKING KR(HQ)
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: KIIIMO
+Section: Hack Games
+Description: 배틀그라운드 PUBG HACK Korean SLIDER OR MORE ONLY!
+Maintainer: TQM
+Filename: ./debs/com.tqm-mos.pubgmobilenoblockingkr_1.0_iphoneos-arm.deb
+Size: 1833830
+MD5sum: 095d00038f932584c8733dfb65cdb8f7
+SHA1: 0e89e5552e1a22876453810254730a803a131dbe
+SHA256: e285a60d675cfcbec0d71734ee737a25c6a2c5f3ec990300a300e96d94d8293b
+
+Package: com.tqm-mos.statuscolor
+Name: StatusColor
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Description: Color your status bar!
+Maintainer: TQM
+Author: qwertyuiop1379
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 312
+Filename: ./debs/com.tqm-mos.statuscolor_1.0.0_iphoneos-arm.deb
+Size: 160612
+MD5sum: 258e4eaa5958e54c5b76caca7a0a7d98
+SHA1: 33beaaf2a45f9dafadcf11e5c0fd8d774cc003b5
+SHA256: 346d194ecf0ee5c234693a25d6c6593f3880c7eb523f9df0dbd8e144ed122a19
 
 Package: com.tqm-mos.libmos
 Name: libmos
