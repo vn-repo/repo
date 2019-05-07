@@ -4851,12 +4851,15 @@ Section: Fonts
 Architecture: iphoneos-arm
 Depends: firmware (>= 10), mobilesubstrate
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.coitm
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.coitm
 Description: Font Dùng qua Bytafont3
 Author: Mos <devmos388373@gmail.com>
 Maintainer: QM <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.coitm_1.0_iphoneos-arm.deb
 Size: 682334
 MD5sum: 68a0c0d6eef5e0091ccf3464f25c0ddd
+SHA1: 689cc11d6d65968c2c3d600a157e80d6be0e25b8
+SHA256: a900ff5e72c5029992f77ee9e0e913c61eddda4c3fe0037f43dc1d78e70f7af9
 
 Package: com.tqm-mos.futuratm
 Name: Futura (TM)
@@ -4865,12 +4868,15 @@ Section: Fonts
 Architecture: iphoneos-arm
 Depends: firmware (>= 10), mobilesubstrate
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.futuratm
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.futuratm
 Description: Font Dùng qua Bytafont3
 Author: Mos <devmos388373@gmail.com>
 Maintainer: QM <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.futuratm_1.0_iphoneos-arm.deb
 Size: 567598
 MD5sum: b74b561ef391cc48d101ab0e9ea91d3a
+SHA1: e185cabf30b6b4dd69b6dfb8ae3faa7af505cb1d
+SHA256: b4b7242040d2e92c68cc5a4e9debd42119bcb81d822796b55530939cde4731f8
 
 Package: com.tqm-mos.gyretm
 Name: Gyre (TM)
@@ -4879,12 +4885,15 @@ Section: Fonts
 Architecture: iphoneos-arm
 Depends: firmware (>= 10), mobilesubstrate
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.gyretm
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.gyretm
 Description: Font Dùng qua Bytafont3
 Author: Mos <devmos388373@gmail.com>
 Maintainer: QM <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.gyretm_1.0_iphoneos-arm.deb
 Size: 808918
 MD5sum: 3dc9cc61c0ad072cf4cf8053e0a48b79
+SHA1: afc9e25103987c9cae3a7f0fbcbd25f548675860
+SHA256: 85c3389e7a432eb405f29a77f54cb175b124793167807c78f97e920db8c92cec
 
 Package: com.tqm-mos.loratm
 Name: Lora (TM)
@@ -4893,12 +4902,376 @@ Section: Fonts
 Architecture: iphoneos-arm
 Depends: firmware (>= 10), mobilesubstrate
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.loratm
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.loratm
 Description: Font Dùng qua Bytafont3
 Author: Mos <devmos388373@gmail.com>
 Maintainer: QM <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.loratm_1.0_iphoneos-arm.deb
 Size: 9251682
 MD5sum: 7f5885bdd610790b8609215a1e6b584f
+SHA1: 6ed63e5eb7d30d554c89fc7067a20313e3c57a0b
+SHA256: 5e8fe4ca32a6a15ee2f99d88a8696a4f174f78463f5506e7809494995a0bceca
+
+Maintainer: TQM
+Name: iNoOTA 10
+Package: com.iapps4u.inoota
+Section: System
+Version: 1.0.1
+Architecture: iphoneos-arm 
+Description: Disables OTA updates on the iOS 10.1.1 Jailbreak. To get OTA updates again install 'jbOTA' from my repo (not reccomended)
+Depends: firmware (>=10.0)
+Author: dev
+Filename: ./debs/com.iapps4u.inoota_1.0.1_iphoneos-arm.deb
+Size: 786
+MD5sum: 02463b40cfc705591cd692d6086af0fe
+SHA1: bdddb061e0032e78b09fbafe17005ea7be7af963
+SHA256: 5b4c58941abd546022935e24a585c5679c9ee4a15c013564323958d60aabc997
+
+Package: com.tqm-mos.barmojix
+Name: Barmoji
+Version: 1.7
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Author: CP Digital Darkroom
+Section: IOS11
+Description: Quick emoji access for iPhone X
+Maintainer: TQM
+Filename: ./debs/com.tqm-mos.barmojix_1.7_iphoneos-arm.deb
+Size: 52310
+MD5sum: b5b43bce282db0f231d390b3d972a483
+SHA1: badc70209d042d88388cd9bcfd7a4bbaf06a56ca
+SHA256: d4c2ede4fab436682628e9c7ecc89bf21c8ab4ff246dca3d0eab93660c4cf5bd
+
+Author: rbt <batterylife1.7.x@rbtdigital.com>
+Maintainer: TQM
+Name: BatteryLife
+Package: com.tqm-mos.batterylife
+Conflicts: BatteryLife
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader, iokittools
+Section: Utilities
+Installed-Size: 10525
+Version: 1.7.0
+Architecture: iphoneos-arm
+Description: Displays useful information about battery health
+dev: rbtdigital
+Tag: purpose::uikit, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Applications/BatteryLife.app/AppIcon57x57.png
+Filename: ./debs/com.tqm-mos.batterylife_1.7.0_iphoneos-arm.deb
+Size: 3856582
+MD5sum: 9ae5e7243561048a1a85e3a03abf4d78
+SHA1: 1ba5189a2f121879c76fa5a38352a175dfc7ec49
+SHA256: 76e4c210ec603ea5f654713259ea939c8387e02ae3ba1ace77d726e96792a872
+
+Package: com.tqm-mos.bounceit
+Name: Bounce It!
+Depends: mobilesubstrate, firmware(>=11.0)
+Architecture: iphoneos-arm
+Description: iOS 11/12 bounce effects
+Maintainer: TQM
+Author: Jake James
+Section: IOS11
+Version: 0.0.2
+Installed-Size: 128
+Filename: ./debs/com.tqm-mos.bounceit_0.0.2_iphoneos-arm.deb
+Size: 7304
+MD5sum: d15dee80812f6fafe08330c255914a3e
+SHA1: 4d08d26728a0ab68228ec85311ab1938497925fb
+SHA256: 4d5ea79c3defcdcfe8d5870861f4f1ef2c668358c3ca4bf0385b052685331789
+
+Author: Jake James <jakeashacks@gmail.com>
+Maintainer: TQM
+Name: Bounce It!
+Package: com.tqm-mos.bounceit
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Section: IOS11
+Installed-Size: 109
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Add bouncing effect animations on iOS 11
+dev: jakeashacks
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Filename: ./debs/com.tqm-mos.bounceit_1.0.2_iphoneos-arm.deb
+Size: 7402
+MD5sum: 506e5ec5341bea685b81a63009c03b17
+SHA1: 979ad1859a68c77d5d12c755aeec819bb9d65320
+SHA256: 36932a51915bd31ccb7da8efb438b7f1e4c4e09e9b2e15f4018ed967336e0e15
+
+Package: com.tqm-mos.cylinderfix
+Name: CylinderFix
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Fixes Cylinder randomly disabling on iOS 11 and 12.
+Maintainer: TQM
+Author: Jake James
+Section: IOS12
+Version: 0.0.2
+Installed-Size: 124
+Filename: ./debs/com.tqm-mos.cylinderfix_0.0.2_iphoneos-arm.deb
+Size: 5392
+MD5sum: a36942c903b7a0164089961e2a74ed4d
+SHA1: 07e2d9add70f68e8d1f11fdde80eb7ee504f3346
+SHA256: d56313a34fff1582b5fc11fae7633cbcea6564dca2ac504baa124c29ebe821ca
+
+Name: Delete Contact
+Package: com.tqm-mos.deletecontact
+Priority: optional
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, com.iarrays.libiarrays (>= 1.0.9)
+Version: 1.5.1
+Architecture: iphoneos-arm
+Description: single or multi-delete contacts; trash icon
+Maintainer: TQM
+Author: IArrays <support@iarrays.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Installed-Size: 787
+dev: iarrays
+Icon: file:///System/Library/PreferenceBundles/DeleteContactSettings.bundle/DeleteContact@2x.png
+Filename: ./debs/com.tqm-mos.deletecontact_1.5.1_iphoneos-arm.deb
+Size: 223754
+MD5sum: 5f2ecedb19d8d0e92d3f27ee8758965f
+SHA1: ea457e79ba95e13ba2fbbd463c31ab9707101228
+SHA256: 50c49161c7b3099be2659ce1b01bf414f279130a143a48441d80601c58a2cc75
+
+Package: com.tqm-mos.haptickeys
+Name: HapticKeys
+Version: 1.8
+Architecture: iphoneos-arm
+Description: Haptic feedback for keyboard touches.
+Maintainer: TQM
+Author: colecabral
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, ws.hbang.common (>= 1.2), firmware (>= 10.0)
+Section: Tweaks
+Filename: ./debs/com.tqm-mos.haptickeys_1.8_iphoneos-arm.deb
+Size: 38508
+MD5sum: 7fb97c29c0610730aa02ef1c69771947
+SHA1: ae60ec9b58ee45ab17d076817494582dbd92f003
+SHA256: 59d7656802244f718fb7a4a490bddad1de6eaf4b74df878624c642a3720c21c6
+
+Package: com.tqm-mos.haptickeys
+Name: HapticKeys
+Version: 2.2
+Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common (>= 1.2), firmware (>= 10.0)
+Conflicts: com.cabralcole.haptickeyboard
+Architecture: iphoneos-arm
+Author: colecabral
+Section: Tweaks
+Description: Haptic feedback for keyboard touches.
+Maintainer: TQM
+Filename: ./debs/com.tqm-mos.haptickeys_2.2_iphoneos-arm.deb
+Size: 38450
+MD5sum: 2de2b56ad817ffa804882fe052587660
+SHA1: 2e449adae9aaaef98c04f3fc5f4d1008d5bf1221
+SHA256: 3422caf0ebf46e9cb652b4c4c28c72be76dfe40ce4c1cada29516ef7c3b1c893
+
+Package: com.tqm-mos.iconslide
+Name: IconSlide
+Version: 0.0.1-6
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Author: i0s_tweak3r
+Section: IOS11
+Description: Moves home screen icons down further on the page, to make room for widgets or other content. Super light weight Boxy style tweak compatible with FolderControllerXII. Hope to add custom rows and columns as well eventually.
+Maintainer: TQM
+Filename: ./debs/com.tqm-mos.iconslide_0.0.1-6_iphoneos-arm.deb
+Size: 41426
+MD5sum: d96826ee6e1880f6bcf3cd8be118ba7a
+SHA1: f4cd00262c8460915fafe8a0af2767ecffaf6e30
+SHA256: a61b5bd13c199548da4f5ecea973fc9c31a472ba9b2708b177913e892ce4184e
+
+Package: com.tqm-mos.localiapstoreios12
+Name: LocalIAPStore
+Version: 1.4-6
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Author: anondev
+Section: IOS12
+Description: Pwns In-App purchases on iOS 5.1.1 - 12.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!
+Maintainer: TQM
+Filename: ./debs/com.tqm-mos.localiapstoreios12_1.4-6_iphoneos-arm.deb
+Size: 71008
+MD5sum: 8134193670c5270fa6af7416aef17d7e
+SHA1: c596b2c920f4608e1a17a0a4308a618d5291a2b2
+SHA256: 07d0914d5568899fcdd8d78589254699d56816f33d1314834c221a03b0db7851
+
+Package: com.tqm-mos.localizationinjector
+Name: LocalInject
+Version: 0.5.1
+Depends: mobilesubstrate, preferenceloader, firmware (>=6.0), com.tqm-mos.liblocalinject (>=0.5.1)
+Architecture: iphoneos-arm
+Author: PixelOmer
+Section: Tweaks
+Description: Inject localizations to apps
+Maintainer: TQM
+Filename: ./debs/com.tqm-mos.localizationinjector_0.5.1_iphoneos-arm.deb
+Size: 24658
+MD5sum: fcb8db4288ec7927cdccfc3bb7aa3fc9
+SHA1: b3658715fafca5f6c3427f13cbdb523d38896389
+SHA256: 4231155faeec9bdf173a0bbad46ab00308bd367b070ad70475f35eda4c8a49f0
+
+Package: com.tqm-mos.ohwinstaller
+Name: OneHandWizard Installer (iOS 11)
+Depends: mobilesubstrate, firmware(>= 11.0), curl
+Conflicts: com.jakeashacks.ohwfix
+Architecture: iphoneos-arm
+Description: Downloads, fixes & installs OneHandWizard on iOS 11. Use with Activator (& latest ActivatorFix). *Must have purchased OneHandWizard already*. Source code: github.com/jakeajames/OneHandWizardFix
+Maintainer: TQM
+Author: Jake James
+Section: IOS11
+Version: 0.0.3
+Installed-Size: 128
+Filename: ./debs/com.tqm-mos.ohwinstaller_0.0.3_iphoneos-arm.deb
+Size: 73738
+MD5sum: 8ad2ae256d26ebd76b0e8851ac0c44c7
+SHA1: 85d35049899eeeacb036d5a1030d87b6f2548da5
+SHA256: 3c48d02ad9955f82d90d57f235c5f08e8f7d95e38b69762215dceff1cc84aaeb
+
+Author: Jake James <jakeashacks@gmail.com>
+Maintainer: TQM
+Name: RealCC
+Package: com.tqm-mos.realcc
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Section: IOS11
+Installed-Size: 102
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Actually disable Wi-Fi from the iOS 11 CC
+dev: jakeashacks
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Filename: ./debs/com.tqm-mos.realcc_1.0.2_iphoneos-arm.deb
+Size: 6542
+MD5sum: c9fc2cf2b18f1272e4e7ab9da5f10ca7
+SHA1: cd53729d724246a1b698573b2e4de5fce2727a90
+SHA256: 731e75ae7514bfd78e3d34e2cf725dc0a9db74e18b35b52925b6e3bf88dcd7a8
+
+Author: merdok <merdok87@o2.pl>
+Maintainer: TQM
+Name: Wake Info 2
+Package: com.tqm-mos.wakeinfo2
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Version: 1.4.10
+Architecture: iphoneos-arm
+Description: Wake with custom information messages (weather, date, time, device info) and actions
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: merdok
+Installed-Size: 557
+Icon: file:///Library/PreferenceBundles/wakeinfo2prefs.bundle/wakeinfo2@2x.png
+Filename: ./debs/com.tqm-mos.wakeinfo2_1.4.10_iphoneos-arm.deb
+Size: 171484
+MD5sum: b1189fc6e97cc5e15967f5dbfb050828
+SHA1: 32b5e34b2b9d79a2ad4836ca3f06b91636770b73
+SHA256: f2eaf097fb953db9c8f4875557f5023c47558d5b91c5c504729cf242e65f905d
+
+Package: com.tqm-mos.xeninfo
+Name: XenInfo
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Description: Music, Weather, and battery info for XenHTML
+Maintainer: QM
+Author: Mos
+Section: Tweaks
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xeninfo
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xeninfo
+Version: 2.2.4
+Installed-Size: 372
+Filename: ./debs/com.tqm-mos.xeninfo_2.2.4_iphoneos-arm.deb
+Size: 262638
+MD5sum: df123b7ec6fe488cf2bf1ba386324bb7
+SHA1: 2db827ab46b1fb597da8b462ddc71534f374a7c4
+SHA256: 0097fee6ce75ac760163e39aa52c2428760ceeac21e06e9175c8adaaf317214a
+
+Package: com.tqm-mos.xeninfo
+Name: XenInfo
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Description: Music, Weather, and battery info for XenHTML
+Maintainer: QM
+Author: Mos
+Section: Tweaks
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xeninfo
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xeninfo
+Version: 2.2.5
+Installed-Size: 372
+Filename: ./debs/com.tqm-mos.xeninfo_2.2.5_iphoneos-arm.deb
+Size: 262462
+MD5sum: e47b4d4e94f264361a2f7ba55c2bd589
+SHA1: 22fe99525694eca9c40dcf459c195375f15df785
+SHA256: 48c11fe58135c6c8d386d23dcbad508ddcc6796d8fbc671316c17109506ed3be
+
+Package: com.yourepo.tqm.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: TQM
+Version: 7.7.4
+Architecture: iphoneos-arm
+Section: Applications
+Depends: firmware (>= 4.0), com.yourepo.tqm.crackicleanerpro, findutils, shell-cmds, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Depiction: http://tqm-mos.github.io/description.html?id=iclean
+SileoDepiction: http://tqm-mos.github.io/description.html?id=iclean
+Filename: ./debs/com.yourepo.tqm.icleanerpro_7.7.4_iphoneos-arm.deb
+Size: 9894030
+MD5sum: 94c9646fe406f4fdb83c982c884dad1b
+SHA1: 08001ed23951bbacd02e88d6cd5b61624f5e7beb
+SHA256: 01fc4b0e134b2af82b043dbd3fe8b5ba08e60597afa832beb3d2000355285df8
+
+Author: merdok <merdok87@o2.pl>
+Maintainer: TQM
+Name: Speak Notification
+Package: com-qm-mos.speaknotification
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Version: 1.8.17
+Architecture: iphoneos-arm
+Description: Siri speaks out any notifications in a fully customised way.
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: merdok
+Installed-Size: 882
+Icon: file:///Library/PreferenceBundles/speaknotificationprefs.bundle/speaknotification@2x.png
+Filename: ./debs/com-qm-mos.speaknotification_1.8.17_iphoneos-arm.deb
+Size: 305882
+MD5sum: 1f76b129ffc7187eddbe5dd72a2238c7
+SHA1: 57a3639b7feb6740ea85039c75cb006c5381ff20
+SHA256: 47bf28436062f8b20a02b3d32797902e543fe4863dd3cc99d1bbf1e2cfa0a483
+
+Package: TQM.GrayWhite
+Name: GrayWhite-Pro
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Bộ chủ đề mang phong cách khá thụ vị ,rất nhac nhặn ( Đẹp)
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.GrayWhite
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.GrayWhite
+Filename: ./debs/TQM.GrayWhite_1.0_iphoneos-arm.deb
+Size: 27205892
+MD5sum: 7580169f6a40e3ac7281e9ab5a44d494
+SHA1: 7309a5337eecba43f1b6c1a9d0f256ba906cd492
+SHA256: 0cb1a301c281f1f302af4f225cbb93c4375abfc4d399f64e8c77e5651aae7417
+
+Package: TQM.moswhitepro
+Name: MosWhite-Pro
+Author: TQM
+Version: 1.1
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Bộ chủ đề mang phong cách khá thụ vị ,rất nhac nhặn ( Đẹp)
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=moswhitepro
+SileoDepiction: http://tqm-mos.github.io/description.html?id=moswhitepro
+Filename: ./debs/TQM.moswhitepro_1.1_iphoneos-arm.deb
+Size: 15978062
+MD5sum: 44f650e4c9c6f05592f095db4ced0227
+SHA1: fc427191e2def6c871925d0bd410becbb0ffa6e4
+SHA256: 5275fa820cfd1c8f7ab790f474174c36db5caba90fba1134b6452d844a9d039e
 
 Package: com.tqm-mos.novembertm
 Name: November (TM)
@@ -4907,12 +5280,15 @@ Section: Fonts
 Architecture: iphoneos-arm
 Depends: firmware (>= 10), mobilesubstrate
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.novembertm
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.novembertm
 Description: Font Dùng qua Bytafont3
 Author: Mos <devmos388373@gmail.com>
 Maintainer: QM <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.novembertm_1.0_iphoneos-arm.deb
 Size: 612150
 MD5sum: 443e7f4da8a5495a57ef2d2a309ce353
+SHA1: 86e53fcef49a1e5c112996b7a2c909a789dbe400
+SHA256: ac080f5da4758225b8bda6f07511b4b39645cdae2388279457f3f953ea271e57
 
 Package: com.tqm-mos.romantm
 Name: Roman (TM)
@@ -4921,12 +5297,15 @@ Section: Fonts
 Architecture: iphoneos-arm
 Depends: firmware (>= 10), mobilesubstrate
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.romantm
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.romantm
 Description: Font Dùng qua Bytafont3
 Author: Mos <devmos388373@gmail.com>
 Maintainer: QM <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.romantm_1.0_iphoneos-arm.deb
 Size: 648300
 MD5sum: dffe4393c615ee2d21432c7f911d245a
+SHA1: b33da2c7b54aa7916b5402bf66b21142c700550a
+SHA256: 17837a31dc29d4379e419f9e069744f4c757def68b3174b5da3e2b0b83046ff4
 
 Package: com.tqm-mos.uanditm
 Name: U and I (TM)
@@ -4935,12 +5314,15 @@ Section: Fonts
 Architecture: iphoneos-arm
 Depends: firmware (>= 10), mobilesubstrate
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.uanditm
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.uanditm
 Description: Font Dùng qua Bytafont3
 Author: Mos <devmos388373@gmail.com>
 Maintainer: QM <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.uanditm_1.0_iphoneos-arm.deb
 Size: 664860
 MD5sum: 8ebac12d5969a757005ded2f17e29571
+SHA1: 40be75965ec60404104342a85f10983c27cb0283
+SHA256: afbfd1d96596cf0a098ce598d121945413791bb43dbba1acac4cb92f19f80d7f
 
 Package: com.tqm-mos.verlagtm
 Name: Verlag (TM)
@@ -4949,12 +5331,15 @@ Section: Fonts
 Architecture: iphoneos-arm
 Depends: firmware (>= 10), mobilesubstrate
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.verlagtm
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.verlagtm
 Description: Font Dùng qua Bytafont3
 Author: Mos <devmos388373@gmail.com>
 Maintainer: QM <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.verlagtm_1.0_iphoneos-arm.deb
 Size: 812360
 MD5sum: 76b6c8eaffd27ecafccc02d26a8885ac
+SHA1: 0ee1bdbfbe2aeb7a9d96db21271ce546d72eb388
+SHA256: 5ca3d2468472510af34eef6eb71fcaad8ccdde66c7da106df550195f3f53cf80
 
 Package: com.tqm-mos.iwdong
 Name: Iwidgets Động Tổng Hợp
