@@ -5250,10 +5250,46 @@ Section: TQM
 Depiction: http://tqm-mos.github.io/description.html?id=com.GrayWhite
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.GrayWhite
 Filename: ./debs/TQM.GrayWhite_1.0_iphoneos-arm.deb
-Size: 27205892
-MD5sum: 7580169f6a40e3ac7281e9ab5a44d494
-SHA1: 7309a5337eecba43f1b6c1a9d0f256ba906cd492
-SHA256: 0cb1a301c281f1f302af4f225cbb93c4375abfc4d399f64e8c77e5651aae7417
+Size: 28597358
+MD5sum: 4a61309446e5be727af78774e975385b
+SHA1: 02967f510ddcb138d04dad041cb400f0178df5d3
+SHA256: 48e8ed0dc8089e35f349b55317d8061466af42213f6d3f592722aadb3e0385bf
+
+Package: com.tqm-mos.WeatherStack
+Name: WeatherStack
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Widget for Xen Html
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: TQM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.WeatherStack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm.WeatherStack
+Filename: ./debs/com.tqm-mos.WeatherStack_1.0_iphoneos-arm.deb
+Size: 4790852
+MD5sum: 192826468540a0ae648d99e99d82c5c1
+SHA1: 3edc8e6c8a350b1605ffe2e0258f8af9177423d3
+SHA256: 1812b69a1965b5a0487779755d795d2d9ca97626ea270bc0ed36935b80f250b9
+
+Package: com.tqm-mos.clock18+
+Name: Clock18+
+Author: TQM
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Widget for Xen Html
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: TQM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.clock18+
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm.clock18+
+Filename: ./debs/com.tqm-mos.clock18+_1.0_iphoneos-arm.deb
+Size: 1019596
+MD5sum: 30d2a9823b40cfdf268a5442b2259bfd
+SHA1: e862ca72f3402f23fa9163caf3d1aeaf42450d20
+SHA256: 2e9f55de3b61381e2e6d7a94bb678cf368ccc86c5d5ceff53dd843c0864c4177
 
 Package: TQM.moswhitepro
 Name: MosWhite-Pro
