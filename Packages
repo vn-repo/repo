@@ -5446,6 +5446,47 @@ MD5sum: c309f4af1c7dbe2a215c5d474bec1f8f
 SHA1: 00c3f3eb6ac77e2494cb734d45020919a4ea5bee
 SHA256: 2cd42949754cea02a28e51fb32b424dd9c8a7c22884d9e7523d79115dae3f95e
 
+Package: com.tqm-mos.anemone3
+Name: Anemone 3
+Depends: firmware (>=11.0), com.tqm-mos.anemone3-extsb, org.coolstar.tweakinject, com.ex.libsubstitute, pincrush
+Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Version: 3.0~beta7
+Architecture: iphoneos-arm
+Description: An awesome theme manager!
+Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
+Maintainer: TQM
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Section: IOS11
+Depiction: https://tqm-mos.github.io/description.html?id=anemone3
+SileoDepiction: https://tqm-mos.github.io/description.html?id=anemone3
+Filename: ./debs/com.tqm-mos.anemone3_3.0~beta7_iphoneos-arm.deb
+Size: 16865476
+MD5sum: 23d787ddd15befd269c52512d0e0aa6d
+SHA1: 012345a1458213e9b4715cbd73f39a2a1f9119f8
+SHA256: fdcc0c4c1c366791930c042685f8e0f0f85bcc67acc23b60cedf634fcbe27243
+
+Package: com.tqm-mos.anemone3-extsb
+Name: Anemone 3 SpringBoard Extension Pack
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, com.anemonetheming.anemone3 (>=3.0~beta3)
+Provides: org.coolstar.classicdock, org.coolstar.classicbadges
+Replaces: org.coolstar.classicdock, org.coolstar.classicbadges
+Version: 3.0~beta5
+Architecture: iphoneos-arm
+Description: An awesome theme manager!
+Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
+Maintainer: TQM
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Section: IOS11
+Depiction: https://tqm-mos.github.io/description.html?id=anemone3
+SileoDepiction: https://tqm-mos.github.io/description.html?id=anemone3
+Filename: ./debs/com.tqm-mos.anemone3-extsb_3.0~beta5_iphoneos-arm.deb
+Size: 48680
+MD5sum: 78dd44472fa36f5572e108a57290506e
+SHA1: cb373cb0a9a398bd1fb7d9a0611ef260279800d4
+SHA256: 0689154736cff81f30a754d843ac12dfb2d728884ee442c9620ab12d759d28a3
+
 Package: com.tqm-mos.proking
 Version: 1.4
 Section: TQM
