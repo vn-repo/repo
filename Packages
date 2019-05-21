@@ -5389,6 +5389,27 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.iwdong_1.0.1_iphoneos-arm.deb
 Size: 2492838
 MD5sum: 7807720cc40b73b4ca3cccda0b90f616
+SHA1: 7cf699165f8c60031c93899c52d24d721340d9e6
+SHA256: 18d8c3dd4f9b1f59efa5ce630f6858bf14f8bf595176cacadca3510c0ae415ab
+
+Package: com.tqm-mos.ithemer
+Version: 0.0.1-20b
+Section: Tweaks
+Maintainer: TQM
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.anemonetheming.anemone, winterboard, com.spark.snowboard, com.yourepo.mamajaay.iconomatic, com.anemonetheming.anemone3
+Architecture: iphoneos-arm
+Name: iThemer
+Author: DODGraphics <Dashea1981@gmail.com>
+Description: Tỉnh chỉnh này giúp bạn thay đổi (Themes), chủ đề mặc định cho thiết bị của bạn ,đặc biệt gói này đã bị crack 
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.itheme
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.itheme
+Filename: ./debs/com.tqm-mos.ithemer_0.0.1-20b_iphoneos-arm.deb
+Size: 130560
+MD5sum: 6659cd45e21bc2acbf9d676456babe6e
+SHA1: 9c82f5ee2e0811ce5f10f9e5cf6697fcff88da51
+SHA256: f4414be1bae85516c21be0ccb2d452f0afc0fd3e50e513a5f7e7b71ee91b322b
+
 
 Package: com.tqm-mos.proking
 Version: 1.4
