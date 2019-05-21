@@ -5410,6 +5410,41 @@ MD5sum: 6659cd45e21bc2acbf9d676456babe6e
 SHA1: 9c82f5ee2e0811ce5f10f9e5cf6697fcff88da51
 SHA256: f4414be1bae85516c21be0ccb2d452f0afc0fd3e50e513a5f7e7b71ee91b322b
 
+Package: com.tqm-mos.ithemer
+Version: 0.0.1-21b
+Section: Tweaks
+Maintainer: TQM
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.anemonetheming.anemone, winterboard, com.spark.snowboard, com.yourepo.mamajaay.iconomatic, com.anemonetheming.anemone3
+Architecture: iphoneos-arm
+Name: iThemer
+Author: DODGraphics <Dashea1981@gmail.com>
+Description: Tỉnh chỉnh này giúp bạn thay đổi (Themes), chủ đề mặc định cho thiết bị của bạn ,đặc biệt gói này đã bị crack 
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.itheme
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.itheme
+Filename: ./debs/com.tqm-mos.ithemer_0.0.1-21b_iphoneos-arm.deb
+Size: 130572
+MD5sum: 1254e653f1f87afa88832f7e89158754
+SHA1: bc305c7a32831b37bed128b312bef63c2bd38be7
+SHA256: b3c0115c34d568c82b554cfce437c4acb5b6622a62bbda0799cdc7cbfbc593cb
+
+Package: com.tqm-mos.pubgvng
+Version: 0.1-B1
+Section: Hack Games
+Maintainer: TQM
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm
+Installed-Size: 954
+Name: PUBG Hack ( VNG )
+Author: KIIIMO
+Description: Tỉnh chỉnh này giúp bạn xóa bỏ bớt cấu hình,làm mờ cỏ cây nhà ,giúp dễ nhìn hơn 
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.itheme
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.pubgvng
+Filename: ./debs/com.tqm-mos.pubgvng_0.1-B1_iphoneos-arm.deb
+Size: 874728
+MD5sum: c309f4af1c7dbe2a215c5d474bec1f8f
+SHA1: 00c3f3eb6ac77e2494cb734d45020919a4ea5bee
+SHA256: 2cd42949754cea02a28e51fb32b424dd9c8a7c22884d9e7523d79115dae3f95e
 
 Package: com.tqm-mos.proking
 Version: 1.4
