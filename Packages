@@ -5469,7 +5469,7 @@ SHA256: fdcc0c4c1c366791930c042685f8e0f0f85bcc67acc23b60cedf634fcbe27243
 
 Package: com.tqm-mos.anemone3-extsb
 Name: Anemone 3 SpringBoard Extension Pack
-Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, com.anemonetheming.anemone3 (>=3.0~beta3)
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, com.tqm-mos.anemone3 (>=3.0~beta3)
 Provides: org.coolstar.classicdock, org.coolstar.classicbadges
 Replaces: org.coolstar.classicdock, org.coolstar.classicbadges
 Version: 3.0~beta5
@@ -5482,10 +5482,10 @@ Section: IOS11
 Depiction: https://tqm-mos.github.io/description.html?id=anemone3
 SileoDepiction: https://tqm-mos.github.io/description.html?id=anemone3
 Filename: ./debs/com.tqm-mos.anemone3-extsb_3.0~beta5_iphoneos-arm.deb
-Size: 48680
-MD5sum: 78dd44472fa36f5572e108a57290506e
-SHA1: cb373cb0a9a398bd1fb7d9a0611ef260279800d4
-SHA256: 0689154736cff81f30a754d843ac12dfb2d728884ee442c9620ab12d759d28a3
+Size: 48676
+MD5sum: d9ad77cea69ae21f7b34be8998dd7388
+SHA1: 6fc81ad00b1a378e1843e20f90129c97cd153095
+SHA256: cbf82612a4a1ebdc4f7bdf586ca179b1db7df60be862b458e8520779ea983e6b
 
 Package: com.tqm-mos.proking
 Version: 1.4
