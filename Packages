@@ -5448,11 +5448,11 @@ SHA256: 2cd42949754cea02a28e51fb32b424dd9c8a7c22884d9e7523d79115dae3f95e
 
 Package: com.tqm-mos.anemone3
 Name: Anemone 3
-Depends: firmware (>=11.0), com.tqm-mos.anemone3-extsb, org.coolstar.tweakinject, com.ex.libsubstitute, pincrush
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, pincrush, com.tqm-mos.anemone3-extsb
 Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
-Version: 3.0~beta7
+Version: 3.0~beta7K
 Architecture: iphoneos-arm
 Description: An awesome theme manager!
 Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
@@ -5461,11 +5461,11 @@ Author: AnemoneTeam <anemonetheming@gmail.com>
 Section: IOS11
 Depiction: https://tqm-mos.github.io/description.html?id=anemone3
 SileoDepiction: https://tqm-mos.github.io/description.html?id=anemone3
-Filename: ./debs/com.tqm-mos.anemone3_3.0~beta7_iphoneos-arm.deb
-Size: 16865476
-MD5sum: 23d787ddd15befd269c52512d0e0aa6d
-SHA1: 012345a1458213e9b4715cbd73f39a2a1f9119f8
-SHA256: fdcc0c4c1c366791930c042685f8e0f0f85bcc67acc23b60cedf634fcbe27243
+Filename: ./debs/com.tqm-mos.anemone3_3.0~beta7K_iphoneos-arm.deb
+Size: 16865460
+MD5sum: 65af774672b1351d78a6c085685c1ce6
+SHA1: 5f0d7186cd229501fbeb5e2917319216f4510e49
+SHA256: 6aa36e4c3eca0d4cff78d6ba76953854a1720d9d8bdcba8b65b6f89fcf2dd4e2
 
 Package: com.tqm-mos.anemone3-extsb
 Name: Anemone 3 SpringBoard Extension Pack
@@ -5486,6 +5486,77 @@ Size: 48676
 MD5sum: d9ad77cea69ae21f7b34be8998dd7388
 SHA1: 6fc81ad00b1a378e1843e20f90129c97cd153095
 SHA256: cbf82612a4a1ebdc4f7bdf586ca179b1db7df60be862b458e8520779ea983e6b
+
+Package: tqm.namevip
+Name: NameVip
+Author: TQM
+Version: 1.2
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gói tiện ích (widgets) bản cập nhật mới với tốc độ chữ chạy nhanh hơn bản (NamePro)
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.Namevip
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.Namevip
+Filename: ./debs/tqm.namevip_1.2_iphoneos-arm.deb
+Size: 5373526
+MD5sum: 8837279efb5572ebb0369be57f9d0b65
+SHA1: 854ac0e75e67b751034ac912e189b5bb1f0d37e0
+SHA256: ecbf2d222c38097ff9cb95d3f75b5a2f0d02ee5061faaab5c71f28a2f112b967
+
+Package: com.yourepo.tqm.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: TQM
+Version: 7.7.5
+Architecture: iphoneos-arm
+Section: Applications
+Depends: firmware (>= 4.0), findutils, com.yourepo.tqm.crackicleanerpro, shell-cmds, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Depiction: http://tqm-mos.github.io/description.html?id=iclean
+SileoDepiction: http://tqm-mos.github.io/description.html?id=iclean
+Filename: ./debs/com.yourepo.tqm.icleanerpro_7.7.5_iphoneos-arm.deb
+Size: 9901356
+MD5sum: 8c62b4771dac5a75f5a08738f09e8048
+SHA1: 624b79219ce99e27cbb02163e9ff0724778a92c3
+SHA256: 32694a8ee0525c980a0c6637d10e9ef74dd642e3f826a0bf781b08fe26696988
+
+Package: com.tqm-mos.vivavideovip
+Version: 5.9.7
+Section: Applications
+Maintainer: QM
+Architecture: iphoneos-arm
+Name: Viva Videos Vip
+Author: MosUpDeb
+Depends: mobilesubstrate
+Description: Đây là App Viva Videos Vip đã được TQM-Mos buil sang dạng Tweaks (lưu ý chỉ hoạt động trong môi trường máy đã jailbreak) chỉ cần cài Tweaks này , không cần nên AppStore tải nữa 
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.vivavideovip
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.vivavideovip
+Filename: ./debs/com.tqm-mos.vivavideovip_5.9.7_iphoneos-arm.deb
+Size: 43720286
+MD5sum: 40cf4ba5c40b001db0cb7041a10474a6
+SHA1: 63df7f1eea2f7dc4d8c00f2e236908fb4f8f4e62
+SHA256: f3e593c9d4cf763e82ba6b157eed41f46d6b111418256f13ef042a604deed32a
+
+Package: com.tqm-mos.iCleanerNoAD
+Version: 0.0.1
+Section: Tweaks
+Maintainer: TQM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 120
+Description: TINH chỉnh này giúp loại bỏ QC trong Iclean Pro
+Name: iCleaner No AD
+Author: Mos
+Filename: ./debs/com.tqm-mos.iCleanerNoAD_0.0.1_iphoneos-arm.deb
+Size: 4986
+MD5sum: a952adcdf7f2d7a9bc4b7dbed1d62fc5
+SHA1: a654bd74ab2db812a728d4be05d90fb5e8c30b3e
+SHA256: 0f40ff042c143464e00d190e398049502cfcc690ca7f2ca7c50036f7d0aa5b11
 
 Package: com.tqm-mos.proking
 Version: 1.4
