@@ -5482,6 +5482,82 @@ MD5sum: bc1a9dee37d19dcdc569bad5dfce8fc9
 SHA1: d28dcbbb1a7ea98d151e09172be5af8a238682e6
 SHA256: cba90530b1594f3db679dfb2bf209f5d0c5ec9e4d29bf9c617c85f05dbb2781f
 
+Package: com.tqm-mos.appstoreplusplus12
+Name: AppStore++
+Version: 0.7-4
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.appadmin
+Architecture: iphoneos-arm
+Author: CokePokes
+Section: IOS12
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.1.2
+Maintainer: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.appstore
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.appstore
+Filename: ./debs/com.tqm-mos.appstoreplusplus12_0.7-4_iphoneos-arm.deb
+Size: 1501256
+MD5sum: a9e10886452bf6e8d4edd248b9a60534
+SHA1: 7d3dc9b55763f891542ca4d31ceb9de7a9f28fdc
+SHA256: 62853f62e0f40e60365ce09691320fce025376c764ae6940296ed35c0d8938ea
+
+Package: com.tqm-mos.appstoreplusplus12
+Name: AppStore++
+Version: 0.9-12
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.1.2
+Section: IOS12
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces:
+Priority: optional
+Architecture: iphoneos-arm
+Author: CokePokes
+dev: mos
+Maintainer: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.appstore
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.appstore
+Filename: ./debs/com.tqm-mos.appstoreplusplus12_0.9-12_iphoneos-arm.deb
+Size: 1628250
+MD5sum: 70e5e527783c1dde936bcd83da52cbfe
+SHA1: 673a15f21c63c57a6888b1285623a7ebdd06dc8d
+SHA256: b53f3bb46c91605c0989b057f949f11abc38eadffe5632ee20a3093ab259cd0b
+
+Package: com.tqm-mos.nicebarx
+Name: NiceBarX
+Author: niceios
+Version: 2.0.2.7-11+debug
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: TQM
+Section: IOS12
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicebarx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicebarx
+Filename: ./debs/com.tqm-mos.nicebarx_2.0.2.7-11+debug_iphoneos-arm.deb
+Size: 1603886
+MD5sum: c32835243faf2cddba1eb2e413e6de1a
+SHA1: a55e2b9a7c198af45718609d1cd67168b8843062
+SHA256: 0b9d86bdb2a7826cded4a1a94e364e482845f37f62c4819b5ee25b983704294e
+
+Package: com.tqm-mos.nicebarx
+Name: NiceBarX
+Author: niceios
+Version: 2.0.3.0-9+debug
+Installed-Size: 5404
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: TQM
+Section: IOS12
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicebarx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicebarx
+Filename: ./debs/com.tqm-mos.nicebarx_2.0.3.0-9+debug_iphoneos-arm.deb
+Size: 1622112
+MD5sum: b60299d6c6be81d2749c63aadf751810
+SHA1: d2544a4ae503fb36f0e984d490f9e571114ea6b9
+SHA256: bbbf40b6aec63671486a819af646602bc4e77e62c342afbc1be09ec9aed8b84d
+
 Package: com.tqm-mos.pubgvng
 Version: 0.1-B1
 Section: Hack Games
@@ -11188,6 +11264,8 @@ Maintainer: TQM
 Filename: ./debs/com.matchstic.libgithubissues_0.0.3_iphoneos-arm.deb
 Size: 1006660 
 MD5sum: 0644cb7175170d98dd801125dea99d9c
+SHA1: b28082718698f780d267b8344c3caae43460a9f4
+SHA526: 0735763cb88005f36b00cbc67f1b89ad28982e9748271df056792507bd6ad9c4
 
 Package: com.matchstic.xenhtml
 Name: Xen HTML
@@ -11206,6 +11284,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=xenhtml
 Filename: ./debs/com.matchstic.xenhtml_0.6-3_iphoneos-arm.deb
 Size: 1366692 
 MD5sum: b833f44d308c08cbee70294e3f526a5d
+SHA1: 3420eb5f8413a4d7d2813269679147867c7625ea
+SHA526: ec0c179d424fce0dfbfab3e6fdc2cf9405aa3bb96bff669ebfe964f4fb7e8206
 
 Maintainer: TQM
 Author: phoenix3200
