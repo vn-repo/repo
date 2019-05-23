@@ -5428,6 +5428,24 @@ MD5sum: 1254e653f1f87afa88832f7e89158754
 SHA1: bc305c7a32831b37bed128b312bef63c2bd38be7
 SHA256: b3c0115c34d568c82b554cfce437c4acb5b6622a62bbda0799cdc7cbfbc593cb
 
+Package: com.tqm-mos.ithemer
+Version: 0.0.1-21b-1
+Section: Tweaks
+Maintainer: TQM
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.anemonetheming.anemone, winterboard, com.spark.snowboard, com.yourepo.mamajaay.iconomatic, com.anemonetheming.anemone3
+Architecture: iphoneos-arm
+Name: iThemer
+Author: DODGraphics <Dashea1981@gmail.com>
+Description: Tỉnh chỉnh này giúp bạn thay đổi (Themes), chủ đề mặc định cho thiết bị của bạn ,đặc biệt gói này đã bị crack 
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.itheme
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.itheme
+Filename: ./debs/com.tqm-mos.ithemer_0.0.1-21b-1_iphoneos-arm.deb
+Size: 201520
+MD5sum: 3fdeaa6711df8b4c4a46a61630f2a934
+SHA1: 47e67a8110fca1737c048fcd18a4d73663d6d258
+SHA256: 25fcb14dd7f23f81092a4a09fb06be38f3bde5d97d28478f8fb164563002192d
+
 Package: com.tqm-mos.pubgvng
 Version: 0.1-B1
 Section: Hack Games
@@ -5452,7 +5470,7 @@ Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, pinc
 Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
-Version: 3.0~beta7K
+Version: 3.0~beta7-1
 Architecture: iphoneos-arm
 Description: An awesome theme manager!
 Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
@@ -5461,11 +5479,11 @@ Author: AnemoneTeam <anemonetheming@gmail.com>
 Section: IOS11
 Depiction: https://tqm-mos.github.io/description.html?id=anemone3
 SileoDepiction: https://tqm-mos.github.io/description.html?id=anemone3
-Filename: ./debs/com.tqm-mos.anemone3_3.0~beta7K_iphoneos-arm.deb
+Filename: ./debs/com.tqm-mos.anemone3_3.0~beta7-1_iphoneos-arm.deb
 Size: 16865460
-MD5sum: 65af774672b1351d78a6c085685c1ce6
-SHA1: 5f0d7186cd229501fbeb5e2917319216f4510e49
-SHA256: 6aa36e4c3eca0d4cff78d6ba76953854a1720d9d8bdcba8b65b6f89fcf2dd4e2
+MD5sum: e377ee35d7ba4ce953a5e293c074c45b
+SHA1: eb3444939e4584707cf5775908135d5bc3c97275
+SHA256: 08a0efc070f213733f2d0bb34478720b950aff8f7b429a8d14cf6644789539e3
 
 Package: com.tqm-mos.anemone3-extsb
 Name: Anemone 3 SpringBoard Extension Pack
