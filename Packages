@@ -5446,6 +5446,42 @@ MD5sum: 3fdeaa6711df8b4c4a46a61630f2a934
 SHA1: 47e67a8110fca1737c048fcd18a4d73663d6d258
 SHA256: 25fcb14dd7f23f81092a4a09fb06be38f3bde5d97d28478f8fb164563002192d
 
+Package: com.tqm-mos.youtube++
+Version: 13.02.10
+Section: Applications
+Maintainer: QM
+Architecture: iphoneos-arm
+Name: Youtube++
+Author: ipaS
+Depends: mobilesubstrate
+Description: Đây là App đã được TQM-Mos buil sang dạng Tweaks (lưu ý chỉ hoạt động trong môi trường máy đã jailbreak) chỉ cần cài Tweaks này , không cần nên AppStore tải nữa 
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.youtube++
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.youtube++
+Filename: ./debs/com.tqm-mos.youtube++_13.02.10_iphoneos-arm.deb
+Size: 91245254
+MD5sum: b139e5d37594e3318ebf8fd7e055ac81
+SHA1: 3f993087b6ce95a8f298cb2696d719b1adb2d9c7
+SHA256: f573ba86dbb225690892fee46b609b9e4423450428851511d6fbaec7ce864b8b
+
+Package: com.tqm-mos.centaur
+Version: 1.0.2k
+Section: IOS12
+Maintainer: TQM
+Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Installed-Size: 1392
+Name: Centaur
+Author: Muirey03
+Icon: file:///Library/PreferenceBundles/Centaur.bundle/Icon-Large.png
+Description: Tinh chỉnh này cho phép bạn thay đổi kiểu hiển thị của ,trung tâm thông báo
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.centaur
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.centaur
+Filename: ./debs/com.tqm-mos.centaur_1.0.2k_iphoneos-arm.deb
+Size: 788294
+MD5sum: bc1a9dee37d19dcdc569bad5dfce8fc9
+SHA1: d28dcbbb1a7ea98d151e09172be5af8a238682e6
+SHA256: cba90530b1594f3db679dfb2bf209f5d0c5ec9e4d29bf9c617c85f05dbb2781f
+
 Package: com.tqm-mos.pubgvng
 Version: 0.1-B1
 Section: Hack Games
