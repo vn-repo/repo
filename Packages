@@ -14,6 +14,244 @@ MD5sum: 544ed5453f34748387fe73ec05bed10f
 SHA1: f257add3426bb2039ded269fb2965e9ca2cf54b5
 SHA256: bb10ed8b9e4a763e8f25bcc8871cc0d32cf1bf608d94888cb45e3995f4707a8f
 
+Package: tqm-mos.iconrepo
+Name: TQM-Icon
+Version: 1.1
+Architecture: iphoneos-arm
+Essential: yes
+Description: iCon Repo of Tqm-mos
+Depiction: Gói icon cho source TQM-Mos
+Author: Mos
+Maintainer: QM 
+Section: System
+Filename: ./debs/tqm-mos.iconrepo_1.1_iphoneos-arm.deb
+Size: 248232
+MD5sum: 7fef783fc6696b67e1ebeab60acdcb0d
+SHA1: b475f2a1b1465ee5b43e19699186004e7147c538
+SHA256: 342afdf5341565b11ce4418e0b2066830bbe3ed5b0e180f4756b18fae484475c
+
+Package: com.tqm-mos.snowboard.dock
+Name: SnowBoard Dock
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Dock for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.0~Beta1
+Installed-Size: 500
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.dock_1.0.0~Beta1_iphoneos-arm.deb
+Size: 48596
+MD5sum: 0acbf8d613e960fb53c99201c2f3d68f
+SHA1: f7e2e2ca6d437de30e7157d70b547c0747825868
+SHA256: c3dc905e0e5b6fc2e5514c0a880927c07683fb80493fc2b2be58320fdf04febf
+
+Package: com.tqm-mos.snowboard.effects
+Name: SnowBoard Icon Effects
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon Effects for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.0~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.effects_1.0.0~Beta1_iphoneos-arm.deb
+Size: 41444
+MD5sum: 1fb57edf0fa6879559bbc9557c89fc83
+SHA1: 66ad66214989ab149511e0c23c5bdb5a7c435ec7
+SHA256: 81eb054fdf2ea0f5f11aab723d7ca221831cf6bdf124a4d771f5100c0277a989
+
+Package: com.tqm-mos.snowboard.fonts
+Name: SnowBoard Fonts
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Fonts for SnowBoard
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.0~Beta1
+Installed-Size: 400
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.fonts_1.0.0~Beta1_iphoneos-arm.deb
+Size: 27980
+MD5sum: d7d5103e280f4efd8c8b52ffd1676e3e
+SHA1: 5b66f6b1eb0db6c755fb3e79620c063b1d60a57b
+SHA256: 17e14c5e417df89dcddc77937c55b6ad54ef6fdb912762198d30e04c04bc7dd5
+
+Package: com.tqm-mos.snowboard.labels
+Name: SnowBoard Labels
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Labels for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.0~Beta1
+Installed-Size: 400
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.labels_1.0.0~Beta1_iphoneos-arm.deb
+Size: 30256
+MD5sum: a2921aa93e389de0edc990b7e2353bcc
+SHA1: 63251eee7399fb550ac1c59f27741309c55c4dd8
+SHA256: c2035234f778e1be85547c487319e10539bffd0c1d69d8b08a6460cf0ce052a5
+
+Package: com.tqm-mos.snowboard.masks
+Name: SnowBoard Icon Masks
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon masks for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.0~Beta1
+Installed-Size: 468
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.masks_1.0.0~Beta1_iphoneos-arm.deb
+Size: 31508
+MD5sum: 8bee4f03dfac4f92924051729eac5c34
+SHA1: e1843dc3ca1ca9a87f53f389ba1f399f4e48bcee
+SHA256: d78cd84d55f4f9669dc6dbca22edda4ae284306faf5a9c709804b70d5fc0544b
+
+Package: com.tqm-mos.snowboard.pagedots
+Name: SnowBoard Page Dots
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Page Dots for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.0~Beta1
+Installed-Size: 400
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.pagedots_1.0.0~Beta1_iphoneos-arm.deb
+Size: 30872
+MD5sum: 415171f4dbc9d9460e1d05579315319c
+SHA1: 1e7701f89ce7e01fa7bd11c36e2479a54b40d6c1
+SHA256: 1805ac57cdebf2811426520b262c26cded16bedb6ff3e35c807a35b6a5e8af4b
+
+Package: com.tqm-mos.snowboard.proceduralwallpapers
+Name: SnowBoard Procedural Wallpapers
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon proceduralwallpapers for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.0~Beta1
+Installed-Size: 404
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.proceduralwallpapers_1.0.0~Beta1_iphoneos-arm.deb
+Size: 27472
+MD5sum: c9711362ed0a3fd075f339bf24395729
+SHA1: 362545f9ac4cfda2a41aa5e8b95246de1de48dfc
+SHA256: f5329a2aaa610103b0ecd86b7597ad170c0aaaef77a6c9fe3c336ca32f1b17e0
+
+Package: com.tqm-mos.snowboard.respringextension
+Name: SnowBoard Respring
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Respring icon extension for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.0~Beta1
+Installed-Size: 516
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.respringextension_1.0.0~Beta1_iphoneos-arm.deb
+Size: 27768
+MD5sum: 56062ce0cc3dcbe74ae46131468e2de5
+SHA1: 35ab2e672a83e943a85fa43149c08af505dbb5eb
+SHA256: 01321db9e4901c8b2bd3fca7aba05d0065eb3b8e3bdabc681d7a87f2f6da552a
+
+Package: com.tqm-mos.snowboard.settingsicons
+Name: SnowBoard Settings Icons
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Settings Icons for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.0~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.settingsicons_1.0.0~Beta1_iphoneos-arm.deb
+Size: 27240
+MD5sum: 6f59186d91a683fcc2f19db0886e5eba
+SHA1: a7471353f4947f2ce91220f6c629b77eb6a4735b
+SHA256: 31e95209ec974150a8fef95a3aa3071f92bab3a2d213eeb4a7ec82502993145a
+
+Package: com.tqm-mos.snowboard.statusbar
+Name: SnowBoard Icon StatusBar
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon StatusBar for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.0~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.statusbar_1.0.0~Beta1_iphoneos-arm.deb
+Size: 43764
+MD5sum: 9928b64c4a5e47cf0ddde670061dff7e
+SHA1: 662eb8833f2854d3906018171d899e0ca329d6fb
+SHA256: 8c327182df0896a5852f3cda9fc4b78bd94fde711913159578988319ffaf4c37
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.efects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.dock
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.7~Beta1
+Installed-Size: 3008
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard_1.2.7~Beta1_iphoneos-arm.deb
+Size: 556064
+MD5sum: fbc88e5b8eabc256aff69c0518586e27
+SHA1: ef125f532ac2d0eeb376481fe5392cbd1c6e54f8
+SHA256: 14c36e10135d35df721cfbd75e194eddbcb33a5c3b194ec4969cd97ccf292fcf
+
+Package: com.tqm-mos.snowboardapplication
+Name: SnowBoard Application
+Depends: com.tqm-mos.snowboard
+Architecture: iphoneos-arm
+Description: SnowBoard application
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.1~Beta1
+Installed-Size: 1088
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboardapplication_1.0.1~Beta1_iphoneos-arm.deb
+Size: 611276
+MD5sum: c9ef300677de777737693ed929b0735f
+SHA1: 7dc5fdda86be63cc3bc83d7d05c557186512a137
+SHA256: 323d1f06bc04ee48bffb2900a801b6d9d59d1c1dd8f9620510d20e6129bccc25
+
 Package: com.tqm-mos.anemonefonts1
 Name: AnemoneFonts Enable
 Version: 1.0-Electra2
