@@ -215,7 +215,7 @@ SHA256: 8c327182df0896a5852f3cda9fc4b78bd94fde711913159578988319ffaf4c37
 
 Package: com.tqm-mos.snowboard
 Name: SnowBoard
-Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.efects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.dock
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.dock
 Architecture: iphoneos-arm
 Description: Snowboard theming engine
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
