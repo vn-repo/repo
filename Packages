@@ -252,6 +252,47 @@ MD5sum: c9ef300677de777737693ed929b0735f
 SHA1: 7dc5fdda86be63cc3bc83d7d05c557186512a137
 SHA256: 323d1f06bc04ee48bffb2900a801b6d9d59d1c1dd8f9620510d20e6129bccc25
 
+Package: com.tqm-mos.anemone3
+Name: Anemone 3
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, pincrush, com.tqm-mos.anemone3-extsb
+Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Version: 3.0~beta9-1
+Architecture: iphoneos-arm
+Description: An awesome theme manager!
+SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.anemonetheming.anemone3
+Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
+Maintainer: TQM
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Section: IOS11
+Depiction: http://tqm-mos.github.io/description.html?id=anemone3
+Filename: ./debs/com.tqm-mos.anemone3_3.0~beta9-1_iphoneos-arm.deb
+Size: 11009396
+MD5sum: 3dd6d71a811d50780179995989dd34f8
+SHA1: 248caafcdc9d453744d7902f540d2d78075c8744
+SHA256: 0853e79bd2b812e498b11f4ca1b115bb6170fe9abfb1e0e0cec333a2e7913190
+
+Package: com.tqm-mos.anemone3-extsb
+Name: Anemone 3 SpringBoard Extension Pack
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, com.tqm-mos.anemone3 (>=3.0~beta8)
+Provides: org.coolstar.classicdock, org.coolstar.classicbadges
+Replaces: org.coolstar.classicdock, org.coolstar.classicbadges
+Version: 3.0~beta7
+Architecture: iphoneos-arm
+Description: An awesome theme manager!
+SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.anemonetheming.anemone3-extsb
+Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
+Maintainer: AnemoneTeam <anemonetheming@gmail.com>
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Section: IOS11
+Depiction: http://tqm-mos.github.io/description.html?id=anemone3
+Filename: ./debs/com.tqm-mos.anemone3-extsb_3.0~beta7_iphoneos-arm.deb
+Size: 35972
+MD5sum: 9b65c9284903f956f4202fd47cd5e378
+SHA1: 5ab81cb742e9bfbf8c7246fa6986c9038b49bc64
+SHA256: e411dee08f7c4bf3d257a8d92d0683fbc05ee4728d39b8061e37e31f72bd8227
+
 Package: com.tqm-mos.anemonefonts1
 Name: AnemoneFonts Enable
 Version: 1.0-Electra2
