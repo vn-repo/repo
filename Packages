@@ -8104,6 +8104,8 @@ Description: hack pubg mobile
 Filename: ./debs/com.tqm-mos.pubgmobilenoblocking_1.0~full_iphoneos-arm.deb
 Size: 1831590
 MD5sum: 79aa72d047bb946cf83018f727ea0b60
+SHA1: 2404ed06a8678637bbe7e0b8f3034ec7a51185f5
+SHA526: 118194587f0eb8bd71bf424494fcc86936598d3dd32a64b0d9adfd621ccf7581
 
 Package: com.tqm-mos.bioprotectxs
 Version: 4.0-28k
@@ -8887,6 +8889,8 @@ Tag: purpose::extension, compatible::ios11
 Filename: ./debs/com.tqm-mos.ccsupport_1.1.2_iphoneos-arm.deb
 Size: 33502
 MD5sum: 6b11bf15575bd88d6c35162ad091957c
+SHA1: a376f990480b7bde498a817aba4b360427425d7d
+SHA526: 374595530b6a0413dfb3f88c2cdf88223d26436811aff429eb7a17c9d2e199cd
 
 Author: Mos <devmos388373@gmail.com>
 Maintainer: QM <devmos388373@gmail.com>
@@ -8904,6 +8908,8 @@ Icon: file:///Library/PreferenceBundles/CoolCCPref.bundle/icon@2x.png
 Filename: ./debs/com.tqm-mos.coolcc_1_2.0_iphoneos-arm.deb
 Size: 215300
 MD5sum: 3d472d4632f27bc680b10325d01eaec6
+SHA1: 3938eff4e020ddbb7a2000e8b91c1ba0632da33e
+SHA526: dfe69bf1b0226dac51df9805a0b12488289df2c6034c74b34c33dac720eab503
 
 Name: FloatingDock
 Package: com.tqm-mos.floatingdock
@@ -8974,6 +8980,8 @@ Tag: purpose::extension, compatible::ios11
 Filename: ./debs/com.tqm-mos.safeccmodules_1.3-2_iphoneos-arm.deb
 Size: 1523992
 MD5sum: d75d48667c9d238bb40b4690f1bc4eb8
+SHA1: a84aa59a6ea49b7c9a95dcf9757877275ae0e540
+SHA526: 89db0ec334cc006c1aad886b82b2a00bb73d25f78150e9fd16d837c15cb9d8d8
 
 Package: com.tqm-mos.safeccmodules 
 Name: CCModules
@@ -8987,6 +8995,8 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.safeccmodules_1.6-3_iphoneos-arm.deb
 Size: 849792
 MD5sum: a56fcab8d8bd297f764d7be82d29073f
+SHA1: 8741291894aa56f34ecf3db62c5d28d071061809
+SHA526: a7ad7c342434b7a7a69baf3d17c13069f90c29ac5f25fdc74309beae236d437e
 
 Package: com.tqm-mos.camerabar
 Name: TransparentCameraBar
@@ -9212,6 +9222,8 @@ Author: FoxfortMobile
 Filename: ./debs/com.tqm.facebookdarkmodek_2.1.13_iphoneos-arm.deb
 Size: 559576
 MD5sum: af42df4f837a6f1762db190bfc164249
+SHA1: 1cbf5da3944e69c32bf57070b374a4cd303b24fb
+SHA526: 86865f3430e42b6bd578f4d5afa0cadf3cb463f878baa6185eb423202625a76f
 
 Package: com.tqm-mos.notchificationx12
 Version: 1.4.2k
@@ -9423,6 +9435,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.activa
 Filename: ./debs/com.tqm-mos.AssistiveTouch1_0.1_iphoneos-arm.deb
 Size: 513266
 MD5sum: 379b7879b87a355afb274ec13d5ab8b5
+SHA1: cfcae4c91f3c51a6d9a0bde97a54ef90f7fc1e3e
+SHA526: 9554cc57162a60050224ddc72398d27ac978a190f0bf7aeb8e249c88d6daa4e9
 
 Package: com.tqm-mos.AssistiveTouch2
 Name: AssistiveTouch || 2
@@ -9436,6 +9450,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.activa
 Filename: ./debs/com.tqm-mos.AssistiveTouch2_0.1_iphoneos-arm.deb
 Size: 565360
 MD5sum: b66e09407d51cde67e51bf170f77be1b
+SHA1: f029f4aa9951c92642dccb271ba70e37ac414175
+SHA526: 808a93772dc4e15a5ae3539e7a8305aff23410d6e1d9ab615b46e74fa02b8683
 
 Package: com.tqm-mos.AssistiveTouchip55c5s
 Name: AssistiveTouch IP5/5c/5s
@@ -9449,9 +9465,11 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.activa
 Filename: ./debs/com.tqm-mos.AssistiveTouchip55c5s_0.1_iphoneos-arm.deb
 Size: 425730
 MD5sum: 4a11ea73e6e6cb1be51e72010fe849ae
+SHA1: 60bb88352512a0da7cbabebf1ca5ef4339e63ff6
+SHA526: 7536fa59babbf5c1c8084052b0e80c7c36aa5ad285d2f304f82007ecd89cc6ac
 
 Package: com.tqm-mos.AssistiveTouchip67
-Name: AssistiveTouch IP6/7
+Name: AssistiveTouch IP6/7/8
 Version: 0.1
 Architecture: iphoneos-arm
 Description: Signal Bars from                    
@@ -9462,6 +9480,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.activa
 Filename: ./debs/com.tqm-mos.AssistiveTouchip67_0.1_iphoneos-arm.deb
 Size: 474032
 MD5sum: 47979258df2e522486c3fb816fa35967
+SHA1: 867e7745fd1f2318bb5a31bd669b48ce9574d094
+SHA526: 9a16d20301961854c09cd531bd3dd31a447bf9253a6f89f52ecd34d294baca57
 
 Package: com.tqm-mos.chuongcafe
 Name: Car Volume Cafe
@@ -9475,6 +9495,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.chgcafe
 Filename: ./debs/com.tqm-mos.chuongcafe_0.1_iphoneos-arm.deb
 Size: 265238
 MD5sum: 6f0f80388b86c96e92a937e4edf6eabb
+SHA1: dd5d35adb881b55ece22d4190dd62cb9f53d031f
+SHA526: 19ff10fa10884cd28ef103c95e1d8a9ab4ce2349118eeb151aaa7ba6720740a7
 
 Package: com.tqm-mos.chuonglove
 Name: Car Volume Love
@@ -9488,6 +9510,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.chglove
 Filename: ./debs/com.tqm-mos.chuonglove_0.1_iphoneos-arm.deb
 Size: 409310
 MD5sum: 77be9f4cb3ed65e918c5707aa5c55026
+SHA1: 4a0640ccf8e51e0a4ca46061e6ce745aa0a8f462
+SHA526: 24712556a6341ee61d9a77e0a69d68a4d5dee1963519f4100fd23538bdeaa07f
 
 Package: com.tqm-mos.localiapstoreios12
 Version: 1.4-5b
@@ -9547,6 +9571,8 @@ Description: Make your icons dance
 Filename: ./debs/com.tqm-mos.cylinderios12_1.0.8_iphoneos-arm.deb
 Size: 269236
 MD5sum: 71b1fab1cddd3cf49c96480d0d9f11ca
+SHA1: 2c5f95f9c6a275046ffc5094afc5f2858f688787
+SHA526: 1b4017b077d6a138aba9942b082b119982518737404a1beffad75f18b71e73c8
 
 Package: com.tqm-mos.jellyfish
 Name: Jellyfish
@@ -9560,6 +9586,8 @@ Maintainer: QM  <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.jellyfish_0.1.9b_iphoneos-arm.deb
 Size: 170188
 MD5sum: 2728597e29be5ab684287b9b819da623
+SHA1: d2f18ba5914e4f37e0d97383b6d0b8e69ed78772
+SHA526: 5e402bae4fb6236bb1e6acf90f00bcf74c6a8d73037a79e58b21de26285f5ac4
 
 Package: com.tqm-mos.jellyfishcrack
 Name: Jellyfish
@@ -9574,6 +9602,8 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.jellyfishcrack_1.0.2_iphoneos-arm.deb
 Size: 15916
 MD5sum: f19cd80053b8cc39b18948119feba545
+SHA1: d7dd06f0f870d52748e242cd5ec255f1c8f7a5af
+SHA526: b1a3db3c13af88e03fa2cbac1bea607384f78dfd966a185a780321aeb9b27071
 
 Package: com.tqm-mos.jellyfishcrack
 Name: Jellyfish
@@ -9589,6 +9619,8 @@ Section: IOS12
 Filename: ./debs/com.tqm-mos.jellyfishcrack_1.1.1_iphoneos-arm.deb
 Size: 126850
 MD5sum: 2868c2f51eaf1b7dbdac1cdd52b84806
+SHA1: 9b6dfb30fb36c1868950dcaa346ea8790a20b5eb
+SHA526: e30badead2938acd9ee1af92b2c64983c2d4a63c3496c6611adfd59bccbf8362
 
 Package: com.tqm-mos.jellyfishcrack
 Name: Jellyfish
@@ -9604,6 +9636,8 @@ Section: Tweaks
 Filename: ./debs/com.tqm-mos.jellyfishcrack_1.0.3_iphoneos-arm.deb
 Size: 16166
 MD5sum: 9857221ef7e7972db6ea7058f31e6190
+SHA1: d023ab2ce5bef50271815f0417d4ed43bf04d4bd
+SHA526: 29419c0c318db346fec156cd9e940446a9ed38e8c877af80322e09c5253c967c
 
 Package: com.tqm-mos.fugap
 Name: FUGap
@@ -9617,6 +9651,8 @@ Depends: mobilesubstrate
 Filename: ./debs/com.tqm-mos.fugap_1.1.2_iphoneos-arm.deb
 Size: 86322
 MD5sum: 6c6315c652d33d63781efb3d4d38ec6c
+SHA1: 300c0cc83a48e53ea45db1f9dd216968c449a84e
+SHA526: d746939cdf038ca91e5785e95287949140f58e638cfa06d5e2d1bff7900e3f16
 
 Package: com.tqm-mos.waves
 Name: Waves
@@ -9632,6 +9668,8 @@ Installed-Size: 330
 Filename: ./debs/com.tqm-mos.waves_1.0.0-2_iphoneos-arm.deb
 Size: 52368
 MD5sum: b5e53ceedc3c0027adcbd2c1a29959d6
+SHA1: cfa3d230839c6735556a4d76a54454f117aaf97d
+SHA526: b10cd9ae601f16affcde67c0f2042fd8a084390de24e1914c525d26b4befc800
 
 Package: com.tqm-mos.colorbanners212
 Version: 1.2.0
@@ -9646,6 +9684,8 @@ Icon: file:///Library/PreferenceBundles/ColorBanners2Prefs.bundle/ColorBanners@2
 Filename: ./debs/com.tqm-mos.colorbanners212_1.2.0_iphoneos-arm.deb
 Size: 689830
 MD5sum: 74a4d620149d3c29bac40b069fb06ac9
+SHA1: 4b06083efbd293e10a7529e40b047dc2faf0fab5
+SHA526: bded5eb51daa4dc3ad97325d7e97aaf7115e6f124c5914d29b13819574ed5842
 
 Package: com.tqm-mos.notifica
 Name: Notifica
@@ -9660,6 +9700,8 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.notifica_0.1.9_iphoneos-arm.deb
 Size: 375782
 MD5sum: 8678c2f7347b95171632223afcb0de8f
+SHA1: 3f8e87d643727fac041f45bdd81e765719225e37
+SHA526: 2d0bf8773fc588a25ead0e423ce4276dad2bb23cdbad6ed4a5319e3b11f247bf
 
 Package: com.tqm-mos.undertime12
 Name: Undertime
@@ -9674,6 +9716,8 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.undertime12_1.6-21+debug_iphoneos-arm.deb
 Size: 15372
 MD5sum: 28f4d0c660cf1c448303ffd58a3fa0be
+SHA1: 4d8334022fc8981eb43b83222f5588e8337bd405
+SHA526: e397e7ccce7637c635d5c5c88d3cd71b97bce0a09a3cbe63fb6871e7f8238d43
 
 Package: com.tqm-mos.mterminal
 Priority: standard
@@ -9733,6 +9777,8 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.linktunesios9_2.0-1_iphoneos-arm.deb
 Size: 2323024
 MD5sum: 094485d1e6b2bdb824767334ddc1e02e
+SHA1: 4e23c97dfdb03a264e26d4e5859d97ea284911a6
+SHA526: 531ff683d991b1ce40643820244ca25d512443a6cecb940be4ea3aa60e6c0269
 
 Package: com.tqm-mos.linktunesios9plugins
 Name: LinkTunes plugins
@@ -9747,6 +9793,8 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.linktunesios9plugins_2.1-2_iphoneos-arm.deb
 Size: 3528
 MD5sum: 07332d8cc875789e531c89fd67dff6a2
+SHA1: 74160d9c9fe954f7a7bc2efe16476cf26b0a6f60
+SHA526: 83cb8492919ace8715f051e420fea7c1090279abdb885f1ab6981132d0146243
 
 Package: com.tqm-mos.bioprotectxstqm
 Version: 1.0
@@ -9761,6 +9809,8 @@ Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
 Filename: ./debs/com.tqm-mos.bioprotectxstqm_1.0_iphoneos-arm.deb
 Size: 660228
 MD5sum: cafcfd67db7d15fd5baad6cc0416bf21
+SHA1: e7e02312e2d7aa784f7ce6185e0472b8ab4a9304
+SHA526: 85a12a02b8cb99751b4c194446fcd3354f3144c351cdadd4fda14ec8939df35c
 
 Package: com.tqm-mos.glacier
 Name: Glacier
@@ -9826,6 +9876,8 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.bettersettings12_1.0_iphoneos-arm.deb
 Size: 1237510
 MD5sum: b68d81506512b01114645fbcb11bdf9a
+SHA1: b23457f5b96903842dfe0b8ca1fa6238a3b20b1b
+SHA526: 2ca934ea08643ac5ad9215d1924952cc2e2f2a15fd3a44ac7e8b23d3ec3d16a9
 
 Author: kunderscore <kunderscore3@gmail.com>
 Maintainer: QM
@@ -9843,6 +9895,8 @@ Icon: file:///Library/PreferenceBundles/AvertasPreferences.bundle/Avertas@2x.png
 Filename: ./debs/com.tqm-mos.avertas_10.1.2_iphoneos-arm.deb
 Size: 48674
 MD5sum: d83c511e6b8a60c425a80e680030987a
+SHA1: f12a6fde0300daf64da2ca770553e2245a05fa25
+SHA526: eced0d91564fcb9eb44edf313c927ddf1cdaf19ddfa78e5f71d694304b5444ca
 
 Package: com.tqm-mos.simplels
 Name: SimpleLS (12)
@@ -9856,6 +9910,8 @@ Maintainer: QM <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.simplels_1.1_iphoneos-arm.deb
 Size: 202790
 MD5sum: f9af50cd17bda1174de950b9d1fffec2
+SHA1: 9026678176ef4d1e7bbf18f094bd41f04203d3f3
+SHA526: f18dffbfdc3abc12ea245cd3cae1dbd3be9dfad9f1c4593f5fc9b8bc44c74804
 
 Package: com.tqm-mos.muze
 Name: Muze
@@ -9870,6 +9926,8 @@ Depends:
 Filename: ./debs/com.tqm-mos.muze_1.3_iphoneos-arm.deb
 Size: 14720304
 MD5sum: 0cff66cfe711eaa1ba49b219789c0a85
+SHA1: ca3d0e5c6f0531ef0d2ed45f3d9d00409431e134
+SHA526: 012e7789c8e3c9510587dbe3179d9de0152f5ec7f59b14d9dd4dd76602a605c2
 
 Package: com.tqm-mos.muze2
 Name: Muze 2
@@ -9884,6 +9942,8 @@ Depends:
 Filename: ./debs/com.tqm-mos.muze2_1.1_iphoneos-arm.deb
 Size: 14770430
 MD5sum: 4325cfaff3c039e72a7509a7f086bdaa
+SHA1: cec6c52673921726699ce0ac46712d72f38c0f3c
+SHA526: 313779b4d88da079b662776ec396921f8c1f3901643897d0e21646e2fa535b70
 
 Package: com.tqm-mos.muze3
 Name: Muze 3
@@ -9898,6 +9958,8 @@ Depends:
 Filename: ./debs/com.tqm-mos.muze3_1.1_iphoneos-arm.deb
 Size: 1702868
 MD5sum: 0b170a75b7006d541c4aab946a3b7852
+SHA1: a3bd550476143434b5e0b45f4f70ea1f042afe92
+SHA526: a335caa8a7f943d252927672d37de5f9429c44732f454e0ea71a4b75a11dfc68
 
 Package: com.tqm-mos.muze4
 Name: Muze 4
@@ -9911,6 +9973,8 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.muze4_1.04_iphoneos-arm.deb
 Size: 28698306
 MD5sum: efa3903779fb1fab69706c75be9d4d87
+SHA1: 72383a4bd1d46a5de97c35340dd9918ef2e5b102
+SHA526: 9344fae41b168f882813dc968555ad9b0e584be2218501305a42da7f3cd40fb6
 
 Package: com.tqm-mos.togglow
 Name: Togglow
@@ -9925,6 +9989,8 @@ Installed-Size: 872
 Filename: ./debs/com.tqm-mos.togglow_1.0.5_iphoneos-arm.deb
 Size: 249292
 MD5sum: 189613dca3fab7c1dc1ab84de87763f6
+SHA1: 92d960e987e6e7a59775d4eb5a268d1243ea496e
+SHA526: daf55a2a7e6ea29de7e78f30ce146891c60c62e718f02f96e7339799346d8294
 
 Author: Mos
 Maintainer: QM
@@ -9976,6 +10042,8 @@ Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, c
 Filename: ./debs/com.tqm-mos.otrlocation_5.0.0-1_iphoneos-arm.deb
 Size: 47078188
 MD5sum: 2188725d572fa0f67545579087977a35
+SHA1: 7dec537a49ca97b25943055bdb64727b1ee3409b
+SHA526: c7ca44a796c0558477d2baaa98b5e3a511e3e36a0177f020e9f56707001f47d9
 
 Author: Brayden Traas <btraas@gmail.com>
 Maintainer: QM
@@ -10052,6 +10120,8 @@ Tag: purpose::extension, compatible::ios11
 Filename: ./debs/com.tqm-mos.bounceit_1.0_iphoneos-arm.deb
 Size: 7972
 MD5sum: 7f029fa6c51579b80a32fbd3bde140c6
+SHA1: bf4990f48803a3f1308065d3c36b0618df91c015
+SHA526: b3aa8c417b75900a837748d53a53bfd872047661dfb4908e0fecba81b7f69562
 
 Package: com.tqm-mos.callrecorderios
 Name: Call Recorder (iOS8-11)
@@ -10067,6 +10137,8 @@ Author: hAcx
 Filename: ./debs/com.tqm-mos.callrecorderios_2.40-3_iphoneos-arm.deb
 Size: 7845454
 MD5sum: 5066e132ab8a0aaab2de00ce0c8360cb
+SHA1: cd6c12e942b0d8a6f4c4a933d305e4b803df0c7a
+SHA526: f59151c5ebe7ee46a273f2f9d6a7855591c0d4082156779678efdc36a29f6f26
 
 Package: com.tqm-mos.audiorecorderxs
 Name: AudioRecorder XS (iOS 12)
@@ -10082,6 +10154,8 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.audiorecorderxs_3.0-9k1_iphoneos-arm.deb
 Size: 2096902
 MD5sum: 63fed03bfa824a26243f9efaa49e100d
+SHA1: 02a2b63d9cfa17c6bfc5b8b7df3a16b5aa081b29
+SHA526: 103ea85bff52d151d1c959d118222ffafedd87059f1f009945b4f44bfc119daf
 
 Package: com.tqm-mos.pikabubeta
 Name: Pikabu (12)
@@ -10095,6 +10169,8 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.pikabubeta_1.0_iphoneos-arm.deb
 Size: 147060
 MD5sum: 958dd72c41968403765f3ba30980d480
+SHA1: 9a0004381de8d44b134eb6b7091ca372453ef8c1
+SHA526: c83c4c0520b478784f0c9af9155b4608a10579a57317efa4ea6b15d21e1c9453
 
 Package: com.tqm-mos.notifierdots
 Name: NotifierDots
@@ -10108,6 +10184,8 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.notifierdots_0.2-1_iphoneos-arm.deb
 Size: 129344
 MD5sum: 730d566bc6724c53a6b567b26504240c
+SHA1: 2a3b39d3578704ada68b46736361ff272ee63c90
+SHA526: bacf654d61494a2dd738f3574beb2dc4fbfbaa8f55a214b8e1246b7134226da4
 
 Package: com.tqm-mos.dots
 Name: Dots
@@ -10121,6 +10199,8 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.dots_1.2_iphoneos-arm.deb
 Size: 360344
 MD5sum: 7c6fc6183ab4cc3fb7b12dae5e26997a
+SHA1: b0e4928b1aa2fc37ee747857aec49064029d2351
+SHA526: 00c85fdbed468668ea9aadd11a874b121257ba5c1714fb235eaaa000774e784b
 
 Package: com.tqm-mos.notifierdots
 Name: NotifierDots
@@ -10134,6 +10214,8 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.notifierdots_0.1-1_iphoneos-arm.deb
 Size: 69200
 MD5sum: bff300e1f58d9c41536bd4bbf2a043b9
+SHA1: 132776d0d494d90026e974fc4990a153dc610110
+SHA526: 7a246fb2a94337d4114d290d02f71b146f009452c5aaaa34fc7dc567d7f60e9a
 
 Package: com.tqm-mos.jumper
 Name: Jumper
@@ -10148,6 +10230,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.phimtat
 Filename: ./debs/com.tqm-mos.jumper_1.2.1_iphoneos-arm.deb
 Size: 138986
 MD5sum: bcc3f4f8d05df6c4f05e98dfcffc1dab
+SHA1: b1881ce78be2f2c94fc377695e96952f7bf9e174
+SHA526: 1d68f78b14c80618d021adc615291c7b8582f76ee4a38672e4675fd2e08fb037
 
 Package: com.tqm-mos.jumper
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.12), com.rpetrich.rocketbootstrap (>= 1.0.3), applist
@@ -10166,6 +10250,8 @@ Icon: file:///Library/PreferenceBundles/Jumper.bundle/icon@2x.png
 Filename: ./debs/com.tqm-mos.jumper_1.0.0_iphoneos-arm.deb
 Size: 83178
 MD5sum: 0c3f676d3f86b1e1def398d8fc5731bc
+SHA1: 0c47a535e1f7520fe610fe2a8824c5c1bbfddb1a
+SHA526: db6f8e3158dde9118c6d857b2d47bb5a88f6ae2381f6549b9c0bfe4c9c53fbb5
 
 Package: com.tqm-mos.eclipse12
 Name: Eclipse 12 (iOS 12)
@@ -10179,6 +10265,8 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.eclipse12_6.0.2_iphoneos-arm.deb
 Size: 168530
 MD5sum: 63db7815e02a3949d6d4f686ddebe41b
+SHA1: e64914489ed767fc6d09a475bcf70ae6e2085202
+SHA526: 49ccdf2cc6beae0f1bf7a333f7d9cb3b937b7319662addc6a9a00d908655756d
 
 Name: ColorMyCCModules
 Package: com.tqm-mos.colormyyccmodules
@@ -10196,6 +10284,8 @@ dev: ikilledappl3
 Filename: ./debs/com.tqm-mos.colormyyccmodules_1.1-1_iphoneos-arm.deb
 Size: 2845606
 MD5sum: 8a56587aea68bbc4bb4ded68d095b683
+SHA1: f75b9db12d8cc96a0920240290836378a6f41d63
+SHA526: 8a971895bbc4e7b5d39e24fe4900e7d19cd6695cfbd2775e4c5d88611281a977
 
 Package: com.tqm-mos.colorflow4
 Name: ColorFlow 4 (iOS 11 – 12)
@@ -10211,6 +10301,8 @@ Maintainer: Xarold <contact@xarold.com>
 Filename: ./debs/com.tqm-mos.colorflow4_1.2.1_iphoneos-arm.deb
 Size: 795680
 MD5sum: 8c6fa25ee9ba082a13657df29d2c35d5
+SHA1: 19b3ac72df35dd24a7365f4ba65e1ccbc1ea3ed3
+SHA526: 6f93b711b30639b393558026148e5891760935f3694613d37b9a0c637b4e349f
 
 Name: Gyration
 Package: com.tqm-mos.gyration
@@ -10268,6 +10360,8 @@ Description: Supots ios12
 Filename: ./debs/com.tqm-mos.twig12_1.0.1_iphoneos-arm.deb
 Size: 10162
 MD5sum: 89cb9b9e399291cd833678dd4e72f506
+SHA1: 7175c006dfbfb32f13ba06efde9e310f1eab57e3
+SHA526: 031448a30b8adb09002ad27f23d7801ad1fe6dff837295a53457dcf57396030a
 
 Package: com.tqm-mos.taptickeys12
 Version: 3.0.3-1-2k
@@ -10282,6 +10376,8 @@ Description: Supots ios12
 Filename: ./debs/com.tqm-mos.taptickeys12_3.0.3-1-2k_iphoneos-arm.deb
 Size: 225654
 MD5sum: f8c441071231a669455ef029c74e6eee
+SHA1: b37f2102cbc0e18ce656b1ac4c8ab9df2518ecb8
+SHA526: b8f908011e1cf48bde3d8923f0baab009071f596b881fa94e2ada431895b55fa
 
 Package: com.tqm-mos.swipeSelection12
 Version: 1.0.3-1
@@ -10310,6 +10406,8 @@ Description: Supots ios12
 Filename: ./debs/com.tqm-mos.slyd12_0.1.1_iphoneos-arm.deb
 Size: 18620
 MD5sum: 348182a8e0b27fb9a91f3e2a384c3c03
+SHA1: ea6e4b3cb028715e499164bf70f11b97bb29d80d
+SHA526: 2725f5c5ab4597c1e2003908f4186409efc957d819cf7c297a074fbfd63e15d5
 
 Package: com.tqm-mos.nopagedots12
 Version: 1.0
@@ -10452,6 +10550,8 @@ Author: Mos
 Filename: ./debs/com.tqm-mos.haptickeypad12_1.2.1_iphoneos-arm.deb
 Size: 14274
 MD5sum: 6ccdd83379a6a038472008c464d17c58
+SHA1: b0d8cbc6eab8148b800b8c6a52634dd4be2e85ef
+SHA526: a7a756e0a27457b7575be4e5375b4ee27e0f8756868d786ab545469ba5806393
 
 Package: com.tqm-mos.hidebarx12
 Version: 1.0
@@ -10658,6 +10758,8 @@ Maintainer: QM Mos <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.caronoff12_0.1_iphoneos-arm.deb
 Size: 1801480
 MD5sum: 5c321c2e21bee8a9f93b6a3226cd1e3a
+SHA1: 5c5e67544551f2d025f41b7069bbeb4a698dd57e
+SHA526: c541fb59d28c07bea7c00601a22ab3e347196a0150f8bf90baa3f35baba1fd5e
 
 Package: com.tqm-mos.filzafilemanager12
 Name: Filza
@@ -10672,6 +10774,8 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.filzafilemanager12_3.6.0-38k_iphoneos-arm.deb
 Size: 20141792
 MD5sum: dbc5846de860e7abde1834f06f2712ae
+SHA1: e18efecb181c1d01c023fa1a910e357da0c53d80
+SHA526: b8dd1e9af7c25576425fe0551712001553a187729b72efbb73e224b023905364
 
 Package: com.tqm-mos.semi11
 Architecture: iphoneos-arm
@@ -10705,6 +10809,8 @@ Description: Tweak Mode font by BytaFont.com
 Filename: ./debs/com.tqm-mos.cat_1.0_iphoneos-arm.deb
 Size: 188642
 MD5sum: d564d03c8294b509b2e9dc30f296cfb1
+SHA1: 2bbea22cc68a4e24775950af8d142137e645f050
+SHA526: 8ba8febe34f9ebc3cfc0fb2447e4b339fb16b3c8dd5659f0d11daff0fef7360b
 
 Package: com.tqm-mos.bellevolume
 Name: BelleVolume
@@ -10732,6 +10838,8 @@ Installed-Size: 236
 Filename: ./debs/com.tqm-mos.littlex_1.3.7_iphoneos-arm.deb
 Size: 38224
 MD5sum: 3cfc7e452f8e0d7ed7d0972e0422d343
+SHA1: 221ac318ebb191f4f0bf2123aad615888faf9123
+SHA526: 8bbea9a3a3e275cc2ea1fbe84c8d73201133c016a7b22297803c6a859757e75c
 
 Package: com.muris.libgraphite
 Name: libgraphite
@@ -11227,6 +11335,8 @@ Icon: file:///Library/Application%20Support/Lamo/icon-small@2x.png
 Filename: ./debs/com.tqm-mos.mirmir_1.2_iphoneos-arm.deb
 Size: 874894 
 MD5sum: 0661fba2c0809312f79d303656162fe0
+SHA1: 22d549169da94b96501fdd29a5c1bc5831fa47e7
+SHA526: e4fb915d2845e30b5ff3c37b3c0b1b022ad64dff046270530105f5ea49fb69c4
 
 Package: com.tqm-mos.harbor10
 Name: Harbor (iOS 10)
@@ -11376,6 +11486,8 @@ Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.Tqm-mos.DeleteForever_0.0.1-57_iphoneos-arm.deb
 Size: 275618 
 MD5sum: d46cdd70c59d0ba281b96686eb52e647
+SHA1: d6118f45219755d219bbabe2d9098781139a16eb
+SHA526: bba04d3d80be091ef77f2eeab71d8b129e267c496deec6138aa79ea20325a5a5
 
 Package: com.Tqm-mos.FullFolder
 Name: FullFolder11
@@ -11390,6 +11502,8 @@ Conflicts: com.lizynz.folder6plus, com.yllier.foldercloser, com.lizynz.foldercol
 Filename: ./debs/com.Tqm-mos.FullFolder_1.1-3_iphoneos-arm.deb
 Size: 31496 
 MD5sum: b3936c2b75ea3b2d3919deed4de6bf5e
+SHA1: 3acf5453a602fd6b32c4b4f80bf6c4ba7cbcd066
+SHA526: ffd73d20511e8a9beeceab971b29f651b50fbfea2ae15ad8cf8fcfbe7795aa23
 
 Package: com.tqm-mos.FullFolderX
 Name: FullFolderX
@@ -11404,6 +11518,8 @@ Conflicts: com.lizynz.folder6plus, com.yllier.foldercloser, com.lizynz.foldercol
 Filename: ./debs/com.tqm-mos.FullFolderX_1.1-2_iphoneos-arm.deb
 Size: 24872 
 MD5sum: c72c03e58e79d084a678d5921c9cb606
+SHA1: f563c460b503702c6be289067bd186790c60afde
+SHA526: cd77b219b884862034cdcb96b5da5ad38a60d97954b5a3f04eb74ab76818e87b
 
 Package: com.Tqm-mos.FullSafari1.2-1
 Name: FullSafari
@@ -11417,6 +11533,8 @@ Depends: mobilesubstrate
 Filename: ./debs/com.Tqm-mos.FullSafari1.2-1_1.2-1_iphoneos-arm.deb
 Size: 12462 
 MD5sum: c2caee8b6291730f2a3cd8ef746b397e
+SHA1: 9c123e3e84eff75c39a52b53bf9704214f4becaf
+SHA526: 3c63c51efd11ec624304ea7cc7e6d504f5828fba5ba98131f99fd46c2a777a7f
 
 Package: com.tqm-mos.igam
 Name: iGameGuardian byPass
@@ -11430,6 +11548,8 @@ Depends: mobilesubstrate
 Filename: ./debs/com.tqm-mos.igam_0.0.1-3+debug_iphoneos-arm.deb
 Size: 4548 
 MD5sum: 8487d39a6b90448434e581c9a1b9d29b
+SHA1: 39cf31154c86f45e87bd9d38f02dfc8883589fda
+SHA526: 51b921eeee76572df06fcfa6db89da71da388a2510f03067fd583a6ff6b712f5
 
 Name: Succession
 Package: com.tqm-mos.successionrestore
@@ -11449,6 +11569,8 @@ Icon: file:///Applications/SuccessionRestore.app/AppIcon20x20@3x.png
 Filename: ./debs/com.tqm-mos.successionrestore_1.0_iphoneos-arm.deb
 Size: 829720 
 MD5sum: fcb237719f6e33ba0cbe66a5bc7af037
+SHA1: 777b88262900e42852b91d74fb4effa8804af23f
+SHA526: 4f61a439286a014a0ac248a8af5fa2bed17e82c787df2f7ad967f611eec5ddf7
 
 Name: Succession
 Package: com.tqm-mos.successionrestore
@@ -11468,6 +11590,8 @@ Depiction: http://tqm-mos.github.io/description.html?id=com.de12
 Filename: ./debs/com.tqm-mos.successionrestore_1.1_iphoneos-arm.deb
 Size: 2263164 
 MD5sum: 1e0f134cebac874887a652fcc22fc830
+SHA1: f17dba8b156339555ccba58d57cd0bad0501b805
+SHA526: a44eff2d50cd0d36056950ee6a3f4a9a6ad813c9fbf6b19882821a6ec241f7cf
 
 Package: com.tqm-mos.sixls
 Name: Six (LS)
@@ -11483,6 +11607,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sixls
 Filename: ./debs/com.tqm-mos.sixls_1.0.2_iphoneos-arm.deb
 Size: 1491878 
 MD5sum: a6b1bae3742c66bbb7d1fff11b593fb0
+SHA1: 0c76d5dce73a2a04a82a1e91f209a1f291a72674
+SHA526: f5feb53533acb1a38e77f6df03acab7cbeb42b572350f4c6a9c0f23efee7833e
 
 Package: com.tqm-mos.konban
 Name: Konban
@@ -11498,6 +11624,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.konban
 Filename: ./debs/com.tqm-mos.konban_0.1.1_iphoneos-arm.deb
 Size: 13270 
 MD5sum: 09ebe554e2519c720f7748f7682bd026
+SHA1: e77fbaff08510189f12dbff6d8f88dcd09bc1f65
+SHA526: 02a399611428c6aa9e0e34b9b8d49ed555671e0f684faf3d7981f21219325483
 
 Package: com.tqm-mos.konban
 Name: Konban
@@ -11513,6 +11641,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.konban
 Filename: ./debs/com.tqm-mos.konban_0.1.2_iphoneos-arm.deb
 Size: 48292 
 MD5sum: 1f8d75180e824f28dcb12b37bea7ef0f
+SHA1: 736165fdfafba6c593006fbe2acf7389d18bba54
+SHA526: 73cbb12963360f6b43c3855a95d3f5ca03de7df11485b5302e147361e0a9b9b7
 
 Package: com.tqm-mos.PullOverPro
 Version: 1.2
@@ -11528,6 +11658,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.pullover10
 Filename: ./debs/com.tqm-mos.PullOverPro_1.2_iphoneos-arm.deb
 Size: 5722686 
 MD5sum: 3103b7993abe8114aae2aa8997783351
+SHA1: b5a31acc446619c09f7b2a82e5716910cc18edd6
+SHA526: 06fe4b2591ae3d4a2aadb8247112adc1cffbbf204e1fcf5bf1698dc2fbd435e0
 
 Package: com.matchstic.libgithubissues
 Name: libGitHubIssues
@@ -11582,6 +11714,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=bars
 Filename: ./debs/com.tqm-mos.bars_0.7.0_iphoneos-arm.deb
 Size: 19192 
 MD5sum: e60917af39d128b6a724e072b1585cb0
+SHA1: 6f78e192b4538cbf0cc0930fa2c11f70e8b344f2
+SHA256: 951cdce650a7a4d1e2343fea49c9fb158ed539be1f5b705efaeefdb860751a6a
 
 Maintainer: TQM
 Author: TQM
@@ -11599,6 +11733,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=bars
 Filename: ./debs/com.tqm-mos.barsclassic_1.0_iphoneos-arm.deb
 Size: 15350
 MD5sum: 74c89835b277679f2c530331d3a3cd06
+SHA1: cf629990b96327a807d7b84c857d6569aa825416
+SHA256: e370688448e99b58cb50ec107a1ffd56979778f64000bcf77f1d6026f5c6bd65
 
 Maintainer: TQM
 Author: TQM
@@ -11616,6 +11752,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=bars
 Filename: ./debs/com.tqm-mos.barscar_1.0_iphoneos-arm.deb
 Size: 11550
 MD5sum: 20e9bae41a48f058c4c7c27b53d6e446
+SHA1: 2e73167edec5737946878a53eae808a52aff424a
+SHA256: 77f154f13c5974f2489145cbf9bdb6f4c2154c2199b336f387abce46adf36934
 
 Package: com.tqm-mos.grady
 Name: Grady Alkaline
@@ -11629,6 +11767,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=grady
 Filename: ./debs/com.tqm-mos.grady_1.1_iphoneos-arm.deb
 Size: 205402
 MD5sum: b9f07c00c7a4faeac2215a64e8a3ad49
+SHA1: cde7123092746542f00dee1fdeb6ed2df19a804d
+SHA256: e1fc9950cfb1680d45fd934dadc3f30147df17d992e5d5170300d05674565203
 
 Package: com.tqm-mos.iconeffects
 Name: Anemone Icon AE
@@ -11642,6 +11782,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=iconeffects
 Filename: ./debs/com.tqm-mos.iconeffects_1.1_iphoneos-arm.deb
 Size: 269878
 MD5sum: 4487ac304ec2f7c5b94a7b1de82ada99
+SHA1: 10c2b88ba6899228dee1e622b3a07b5e4c623add
+SHA256: a0421773c11ffbb579c4a9888c438b2f6926585cc180346b9cd794c6e0e1dc9b
 
 Package: com.tqm-mos.selectowo
 Name: SelectOwO
@@ -11656,6 +11798,8 @@ Installed-Size: 72
 Filename: ./debs/com.tqm-mos.selectowo_0.1.0_iphoneos-arm.deb
 Size: 7152
 MD5sum: 4e59ac67b22ec08660cba7b189ca3187
+SHA1: ff4cc4366d7dc79982520ec27ab27f0560802dec
+SHA256: 4df1064f096b2036b0af51eab6b186a55b43f4b0698847d1e8031baa5e22424c
 
 Package: com.tqm-mos.htcclock
 Name: HTC Clock (Plus)
@@ -11671,6 +11815,8 @@ Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.htcclock
 Filename: ./debs/com.tqm-mos.htcclock_1.0_iphoneos-arm.deb
 Size: 261990
 MD5sum: dd894967cf5f1bd63dc40de76c09512b
+SHA1: 6ada686aa2dd1a304112681db2580faab0b809b0
+SHA256: 1aba1657821f3c77a2c07e31cb6877743e603b188c6c5270a61e01b0379c4c6e
 
 Package: com.tqm-mos.WeatherPro-Dark
 Name: WeatherPro-Dark (Plus)
@@ -11686,6 +11832,8 @@ Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.WeatherPro-D
 Filename: ./debs/com.tqm-mos.WeatherPro-Dark_1.0_iphoneos-arm.deb
 Size: 9089814
 MD5sum: 26264d2e23bcfe86dead091ea22a1a2a
+SHA1: 22d34f0eb6cdb406d8b2e0f7a7fda538fd3f271a
+SHA256: f47c08d1077b2df6e84cebacbe73f2f17d51417693daeeec96d2689694ed0ac2
 
 Package: com.tqm-mos.htcclock
 Name: HTC Clock (Plus)
@@ -11701,6 +11849,8 @@ Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.htcclock
 Filename: ./debs/com.tqm-mos.htcclock_1.1_iphoneos-arm.deb
 Size: 261994
 MD5sum: a70ae411cc455f8ea37200b63ea9e34f
+SHA1: e16c5c766fd2a4fb71d3093f7050ab81221d6dd9
+SHA256: 60a6c38d93a1b9608cd5010144de5d2d6383ac4143238a4cff52912028f01451
 
 Package: com.tqm-mos.xeninfo
 Name: XenInfo
@@ -11716,6 +11866,8 @@ Installed-Size: 372
 Filename: ./debs/com.tqm-mos.xeninfo_2.2.3_iphoneos-arm.deb
 Size: 206340
 MD5sum: b3658d49a0b467142a099c8c3c6d2842
+SHA1: 0c8775b173e96ddcab012b4c402821914bed87ae
+SHA256: 13d69157aec8a466cc6e3e7f0303ddc620dc70d9d6e65eda647f3d7880a64e98
 
 Package: com.tqm-mos.classicios6
 Name: iOS 6 - Themes
@@ -11729,6 +11881,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.classicios6
 Filename: ./debs/com.tqm-mos.classicios6_1.1_iphoneos-arm.deb
 Size: 12130324
 MD5sum: ab552afb99e6ab9278849181c6e98699
+SHA1: d1ff8cdb0f2fd859b917bb8cfd6aed7651d4a3c5
+SHA256: 2deab9df8ac175c6a466021066969422c4e4e5cddcc46dfc7af8c19386429278
 
 Package: com.tqm-mos.barclays-pwn
 Name: Barclays PWN
@@ -11742,6 +11896,8 @@ Maintainer: TQM
 Filename: ./debs/com.tqm-mos.barclays-pwn_1.0.1_iphoneos-arm.deb
 Size: 3480
 MD5sum: df9146d04e98e2a258933d01f503f16e
+SHA1: 3173a932e3f4f51f48f9ab65aad9879535869aa4
+SHA256: f459267b98d6b6ea0cc028b6d8bd79101743014d3393493b1daabae785b82457
 
 Package: com.tqm-mos.colorbadges12
 Name: ColorBadges
@@ -11755,6 +11911,8 @@ Maintainer: TQM
 Filename: ./debs/com.tqm-mos.colorbadges12_1.3.1_iphoneos-arm.deb
 Size: 64526
 MD5sum: 0323c89257b3996bc52ad65057bc1e46
+SHA1: 2628f369c99df4282451c3c4a15a88e273a12b88
+SHA256: 777022b5131897261a433aec7702da96aef33f861f541c312e4d60d758997fdd
 
 Package: com.tqm-mos.colorbanners212
 Name: ColorBanners 2
@@ -11769,6 +11927,8 @@ Maintainer: TQM
 Filename: ./debs/com.tqm-mos.colorbanners212_1.2.3_iphoneos-arm.deb
 Size: 692024
 MD5sum: a31fd5969b6768c4490060e7f3910424
+SHA1: fe1a5d54d57b8333214ce6cae9dd8e5779a23466
+SHA256: e0f4cdaacc2eac1495d13041cb61a4006063444df837194eb91bf5577cc0fb81
 
 Name: CustomNoOlderNotifications
 Package: com.tqm-mos.cnon
@@ -11786,6 +11946,8 @@ dev: yaypixxo
 Filename: ./debs/com.tqm-mos.cnon_2.0.0_iphoneos-arm.deb
 Size: 11104
 MD5sum: 75752c7184be0cdfdb868970bf93b42b
+SHA1: 241acbe5ebfb387fce7ca9ec005dd6c93fc10af3
+SHA256: 17f6f61257a575a2b951f6706605492c40374f839322bced26068c3064950d1c
 
 Package: com.tqm-mos.notifywifix
 Name: NotifyWiFi X
@@ -11800,6 +11962,8 @@ Maintainer: TQM
 Filename: ./debs/com.tqm-mos.notifywifix_1.0.0k_iphoneos-arm.deb
 Size: 568
 MD5sum: 8cc482b3bc2b3545075b1a6e8eb34195
+SHA1: b1b0e6a04280ce721367e7acd7e94092e12edaf9
+SHA256: 2669cef121320cd9debe69dd2d00e23426368fa602c8600f9b476b68279513d7
 
 Package: com.tqm-mos.s8edge
 Name: S8Edge
@@ -11813,6 +11977,8 @@ Maintainer: TQM
 Filename: ./debs/com.tqm-mos.s8edge_1.1-3+debug_iphoneos-arm.deb
 Size: 288512
 MD5sum: 7a65f2a80d5421568aad3a0c797cf406
+SHA1: 0651fd0c80cb19d4702f2e404aa246edb5d8f8c5
+SHA256: 637bd28128d4f3e21b5e63b73258c2e0c4edf1dc5c93dda6848face3f4b46344
 
 Package: com.tqm-mos.cham
 Name: Font Cham (TM)
@@ -11826,6 +11992,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.cham
 Filename: ./debs/com.tqm-mos.cham_1.0_iphoneos-arm.deb
 Size: 140860
 MD5sum: ea5c21c3a14f8f767cf39adb7796aa3e
+SHA1: 2de91f2edbead5216cdcdfc2d116356761ace55d
+SHA256: 2cdbb0bcdd711c9493085b5be1650bfc244227e137c3df4252d0bcfa5d969753
 
 Package: com.tqm-mos.dune
 Name: Dune
@@ -11839,6 +12007,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.dune
 Filename: ./debs/com.tqm-mos.dune_1.0_iphoneos-arm.deb
 Size: 5388454
 MD5sum: baabed67012c51fe89bfe56f1ae9c30d
+SHA1: 11f438f8d03a32554be4f36a254d662a06cf6f42
+SHA256: 9d502f761b728f2989cbd1026cbdfba322be9cb3f1e29371d272029394d91fc1
 
 Package: com.tqm-mos.exo
 Name: Font Exo (TM)
@@ -11852,6 +12022,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.exo
 Filename: ./debs/com.tqm-mos.exo_1.0_iphoneos-arm.deb
 Size: 860638
 MD5sum: 177de0ddc9d075baa2bd1e6c471854e7
+SHA1: 4e6c6cee2219b2ea39e1eb83ac5ab7531a459214
+SHA256: dd1ebe433967f820aadbefcefe0c07064423913e6ac02db78be29ea9b04f2793
 
 Package: com.tqm-mos.face
 Name: Face Alkaline
@@ -11866,6 +12038,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.facealkalin
 Filename: ./debs/com.tqm-mos.face_1.0_iphoneos-arm.deb
 Size: 253246
 MD5sum: 53d02eb7515e163d006109b13bd40c04
+SHA1: bb01c6f14255434e987177f7bbcc917d78ce4950
+SHA256: 0487f1201418bd24fc9f8727fcf828c45c8e8612146c811c899b66f20cbe88cc
 
 Package: com.tqm-mos.gineso
 Name: Font Gineso (TM)
@@ -11879,6 +12053,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.gineso
 Filename: ./debs/com.tqm-mos.gineso_1.0_iphoneos-arm.deb
 Size: 1295626
 MD5sum: aaccb4a7967eacc7649208277c2d3025
+SHA1: c7dda6269e6beddb5f3f3198d771bd3f83207b7c
+SHA256: aefe679bfaace3475460ffa4b77deb82d401abab6302e647dfd3923af5c1a0ee
 
 Package: com.tqm-mos.ifun
 Name: Font IFun (TM)
@@ -11892,6 +12068,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.ifun
 Filename: ./debs/com.tqm-mos.ifun_1.0_iphoneos-arm.deb
 Size: 140720
 MD5sum: 18e4a0dfad34f8697f11061387b2fad4
+SHA1: 59818706ba5bebde05352acda621253c0441f1d7
+SHA256: 55cb52b80f11b5d39f727e8e0171df03b48c3a07636f109e3f01ad1141cb7211
 
 Package: com.tqm-mos.Opensans
 Name: Font Opensans (TM)
@@ -11905,6 +12083,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.Opensans
 Filename: ./debs/com.tqm-mos.Opensans_1.0_iphoneos-arm.deb
 Size: 1140576
 MD5sum: 415f04bbf4ba4e9f59398eddc5417b5e
+SHA1: a00b6ad87869f6d669c93fd8975492585c601a89
+SHA256: e97e5f64aea996228218417265898510da60a35ee151e6893ecb386e3944014d
 
 Package: com.tqm-mos.roboto
 Name: Font Roboto (TM)
@@ -11918,6 +12098,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.roboto
 Filename: ./debs/com.tqm-mos.roboto_1.0_iphoneos-arm.deb
 Size: 720810
 MD5sum: 6af21d80ae80cf6608f0cf139276cd6a
+SHA1: 58b4e28d029d33da0336a128138aacfb40661e50
+SHA256: 10457cc0853f6bff6866c0cfc74e24d6429d69bd9c7cb4c6c1a1c492de960909
 
 Package: com.tqm-mos.texgyre
 Name: Font Texgyre (TM)
@@ -11931,6 +12113,8 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.texgyre
 Filename: ./debs/com.tqm-mos.texgyre_1.0_iphoneos-arm.deb
 Size: 802376
 MD5sum: a3104e515d6a934b610aea6391347625
+SHA1: 1df1a34f3f1acf88e4793c2d3387930cf0f8def1
+SHA256: d6625c6e35d02d2c79ca2a546783d18d606811ce4d3e442d122ea9f73898e377
 
 Package: com.c1d3r.messageheadsxi
 Name: Chat Bong Bóng 
