@@ -30,6 +30,186 @@ MD5sum: 7fef783fc6696b67e1ebeab60acdcb0d
 SHA1: b475f2a1b1465ee5b43e19699186004e7147c538
 SHA256: 342afdf5341565b11ce4418e0b2066830bbe3ed5b0e180f4756b18fae484475c
 
+Package: cydia-dark
+Priority: optional
+Section: Cydia/Electra-Chimera
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1.9.3~chimera4
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd, cydia-gui
+Depends: apt7-lib | libapt, apt7-key | apt-key, cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.18), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 2.0.0), lzma, cydia
+Conflicts: bigboss, com.sosiphone.addcydia, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd, cydia-uni, cydia-gui
+Pre-Depends: debianutils, dpkg (>= 1.14.25-8), firmware (>=5.0)
+Description: graphical iPhone front-end for APT
+Name: Cydia for Chimera/Electra
+Author: Diatrus <me@diatr.us>
+Depiction: http://cydia.saurik.com/info/cydia/
+Icon: file:///Applications/Cydia.app/Icon-60.png
+Tag: purpose::uikit, role::enduser
+Installed-Size: 1291272
+Depiction: http://tqm-mos.github.io/description.html?id=com.cydia
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.cydia
+Filename: ./debs/cydia-dark_1.9.3~chimera4_iphoneos-arm.deb
+Size: 1291272
+MD5sum: 82efd5cf85843ea7cfb870a442b4487a
+SHA1: a15ee40c94fa4d3c5fba796bd5e8cf03d344f794
+SHA256: 2d93106efb465083f93b0bdb7eea2ea07dbbc3ffa1a27dcf5a901740a609c5c9
+
+Package: cydia-lproj
+Priority: required
+Section: Packaging
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1.9.3~chimera
+Conflicts: org.thebigboss.russiancydia
+Provides: org.thebigboss.russiancydia
+Replaces: cydia, org.thebigboss.russiancydia
+Depends: cydia
+Description: languages and translations for Cydia
+Name: Cydia Translations
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia-lproj/
+Tag: purpose::uikit, cydia::essential, role::enduser
+Installed-Size: 66928
+Depiction: http://tqm-mos.github.io/description.html?id=com.cydia
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.cydia
+Filename: ./debs/cydia-lproj_1.9.3~chimera_iphoneos-arm.deb
+Size: 66928
+MD5sum: 423198b6e4ace8c6dbe7735eb337ded3
+SHA1: 1937bd69e0839ad43c74a965bc76fa27993be917
+SHA256: 0ba35ddb14c1876e3afa1f968cf670fffe4504f249fbe8fcf988b5e4551be9f7
+
+Package: us.diatr.sileoplaceholder
+Version: 2:3
+Essential: no
+Architecture: iphoneos-arm
+Maintainer: Diatrus
+Provides: org.coolstar.Sileo
+Replaces: org.coolstar.Sileo
+Conflicts: cydia-gui, org.coolstar.Sileo
+Pre-Depends: debianutils, dpkg (>= 1.14.25-8)
+Depends: apt (>= 1.8.0), apt-lib (>= 1.8.0-sileo), apt-key (>= 1.8.0), dpkg (>= 1.19.2-4), cydia (>= 2.2), cydia-dark, cy+cpu.arm64
+Section: Packaging
+Priority: required
+Description: Install this to remove Sileo. Remove this and reinstall Sileo to get it back.
+Name: Remove Sileo
+Tag: purpose::console, role::hacker
+Depiction: http://tqm-mos.github.io/description.html?id=com.cydia
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.cydia
+Filename: ./debs/us.diatr.sileoplaceholder_3_iphoneos-arm.deb
+Size: 932
+MD5sum: 2fb16c832792ea12bd5e0555326f19c8
+SHA1: 1cb4f0947a7eaccb171b14de62a78eb1eb137af1
+SHA256: 7f8afcf2bb733debea027dde81bc7d6b8f31459628ff90d447c23dd300bde8c6
+
+Package: com.tqm-mos.aepro
+Name: AE PRO
+Architecture: iphoneos-arm
+Description: Gói biểu tượng bổ xung cho Chủ đề,rất đẹp kết hợp với Chủ Đề nào cũng nổi và đẹp,có 4 gói AE trong TỆP này !
+Maintainer: TQM
+Author: Mos,kin
+Section: TQM
+Version: 1.0
+Installed-Size: 60140
+Depiction: http://tqm-mos.github.io/description.html?id=com.ae
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.ae
+Filename: ./debs/com.tqm-mos.aepro_1.0_iphoneos-arm.deb
+Size: 60140
+MD5sum: f9f3aee9d227b269c5c198ddb5dca96d
+SHA1: a7f33a7a5142eb4bdd28f65194376c4dcd47de31
+SHA256: 51fab507a8921b005af21e80c7fbaf0ab3b8e221fe2695b3c16698d94d979a56
+
+Package: com.tqm-mos.blackmos
+Name: Black-Mos
+Architecture: iphoneos-arm
+Description: Gói biểu tượng Chủ đề,rất đẹp kết hợp với 4 gói AE sẽ rất tuyệt vời an em tải về và cảm nhận !
+Maintainer: TQM
+Author: Mos
+Section: TQM
+Version: 1.0
+Installed-Size: 9208496
+Depiction: http://tqm-mos.github.io/description.html?id=com.blackmos
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.blackmos
+Filename: ./debs/com.tqm-mos.blackmos_1.0_iphoneos-arm.deb
+Size: 9208496
+MD5sum: 677ba32aa99a94bc43d969bd3c2a24eb
+SHA1: 9e8ed21e4193ff2cabf612dcebe93ddfe910a5ab
+SHA256: cdbbe4faaaec5e1ae002fa498f88f6c41e12df9c53b4a706c0a68d7cba31f005
+
+Package: com.tqm-mos.NightWhite
+Name: Night-White
+Architecture: iphoneos-arm
+Description: Gói biểu tượng Chủ đề,rất đẹp kết hợp với 4 gói AE sẽ rất tuyệt vời an em tải về và cảm nhận !
+Maintainer: TQM
+Author: Mos
+Section: TQM
+Version: 1.0
+Installed-Size: 5177044
+Depiction: http://tqm-mos.github.io/description.html?id=com.NightWhite
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.NightWhite
+Filename: ./debs/com.tqm-mos.NightWhite_1.0_iphoneos-arm.deb
+Size: 5177044
+MD5sum: 6c35c0c13449b49dc604561cbbd87aff
+SHA1: 38db4ef773ec429684a21914200cd53a3321c9c5
+SHA256: ba0db77d8e6fa8bf14a40c96b1e6a553749949db9867b2790230c7f4bfd52507
+
+Package: com.tqm-mos.snowboard.masks
+Name: SnowBoard Icon Masks
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon masks for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.1~Beta1
+Installed-Size: 500
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.masks_1.0.1~Beta1_iphoneos-arm.deb
+Size: 32720
+MD5sum: d23e3af344ac1ec6823f6d406457add8
+SHA1: 0e99b3f9fca7bb64b1a45d1110d2ad39dced4206
+SHA256: 423e651766644e4c8ca3be23de4466de846d5240608876349eeeb5c4c8e7b024
+
+Package: com.tqm-mos.snowboard.respringextension
+Name: SnowBoard Respring
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Respring icon extension for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.1~Beta1
+Installed-Size: 516
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.respringextension_1.0.1~Beta1_iphoneos-arm.deb
+Size: 29540
+MD5sum: 60458c94c2602a07303412c5f13422f7
+SHA1: 7e67a71436c19cd4b2781d8ad3b575683ecc3570
+SHA256: 5030159159e4bdca627e6a9cbbf8907d66286509d1e125b5d3b6101f6b9c85bb
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: Snowboard
+Version: 1.2.8~Beta1
+Installed-Size: 3024
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard_1.2.8~Beta1_iphoneos-arm.deb
+Size: 556296
+MD5sum: 1249cf0bd25447195ae8560ae75fda40
+SHA1: 0f7e4caa627067852b0b0d13f2a7a6ee8442d071
+SHA256: 0ef9647d91e084b223744932f5cd8fb2d763c3472529fdbc4096802a572bd656
+
 Package: com.tqm-mos.snowboard.dock
 Name: SnowBoard Dock
 Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
