@@ -57,7 +57,7 @@ SHA256: 2d93106efb465083f93b0bdb7eea2ea07dbbc3ffa1a27dcf5a901740a609c5c9
 
 Package: cydia-lproj
 Priority: required
-Section: Packaging
+Section: Cydia/Electra-Chimera
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Architecture: iphoneos-arm
 Version: 1.9.3~chimera
@@ -89,7 +89,7 @@ Replaces: org.coolstar.Sileo
 Conflicts: cydia-gui, org.coolstar.Sileo
 Pre-Depends: debianutils, dpkg (>= 1.14.25-8)
 Depends: apt (>= 1.8.0), apt-lib (>= 1.8.0-sileo), apt-key (>= 1.8.0), dpkg (>= 1.19.2-4), cydia (>= 2.2), cydia-dark, cy+cpu.arm64
-Section: Packaging
+Section: Cydia/Electra-Chimera
 Priority: required
 Description: Install this to remove Sileo. Remove this and reinstall Sileo to get it back.
 Name: Remove Sileo
@@ -101,6 +101,24 @@ Size: 932
 MD5sum: 2fb16c832792ea12bd5e0555326f19c8
 SHA1: 1cb4f0947a7eaccb171b14de62a78eb1eb137af1
 SHA256: 7f8afcf2bb733debea027dde81bc7d6b8f31459628ff90d447c23dd300bde8c6
+
+Package: com.tqm-mos.filza64bit
+Name: Filza 64-bit
+Version: 3.5.2-4k
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza, com.rhackyouriphone.filza, com.hackyouriphone.filzaios11
+Architecture: iphoneos-arm
+Author: TIGI Software
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Maintainer: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.cydia
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.cydia
+Filename: ./debs/com.tqm-mos.filza64bit_3.5.2-4k_iphoneos-arm.deb
+Size: 8470524
+MD5sum: ee581c1950d471515776884e77b6a390
+SHA1: bab967cf545593ac9c7dc57fa5f290fe68054cb2
+SHA256: 7d0f5ff1161549a1fca276150b5cb15b7b46828b818102ff7778edb9b9a9f08b
 
 Package: com.tqm-mos.aepro
 Name: AE PRO
