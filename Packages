@@ -139,6 +139,7 @@ SHA256: 51fab507a8921b005af21e80c7fbaf0ab3b8e221fe2695b3c16698d94d979a56
 
 Package: com.tqm-mos.blackmos
 Name: Black-Mos
+Depends: com.tqm-mos.aepro
 Architecture: iphoneos-arm
 Description: Gói biểu tượng Chủ đề,rất đẹp kết hợp với 4 gói AE sẽ rất tuyệt vời an em tải về và cảm nhận !
 Maintainer: TQM
@@ -156,6 +157,7 @@ SHA256: cdbbe4faaaec5e1ae002fa498f88f6c41e12df9c53b4a706c0a68d7cba31f005
 
 Package: com.tqm-mos.NightWhite
 Name: Night-White
+Depends: com.tqm-mos.aepro
 Architecture: iphoneos-arm
 Description: Gói biểu tượng Chủ đề,rất đẹp kết hợp với 4 gói AE sẽ rất tuyệt vời an em tải về và cảm nhận !
 Maintainer: TQM
@@ -217,7 +219,7 @@ Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Maintainer: TQM
 Author: Spark & Dennis D. Bednarz
-Section: Snowboard
+Section: SnowBoard
 Version: 1.2.8~Beta1
 Installed-Size: 3024
 Depiction: http://tqm-mos.github.io/description.html?id=com.snow
