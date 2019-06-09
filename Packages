@@ -47,24 +47,6 @@ MD5sum: 148caec35ee29c76086eeae9ad528905
 SHA1: 5a64a1bad76b2e0705829032791a907f6f0dc00e
 SHA256: b2aa74537a18a6e7959d45ce5c0b343a3699e6cc3d2a938413ab75547cbad252
 
-Package: com.tqm-mos.centaur
-Version: 1.0.6k
-Section: IOS12
-Maintainer: TQM
-Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
-Architecture: iphoneos-arm
-Installed-Size: 1392
-Name: Centaur
-Author: Muirey03
-Icon: file:///Library/PreferenceBundles/Centaur.bundle/Icon-Large.png
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.centaur
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.centaur
-Filename: ./debs/com.tqm-mos.centaur_1.0.6k_iphoneos-arm.deb
-Size: 675956
-MD5sum: 964822301bfeea5294c15e0613a53dfe
-SHA1: 3a41d69701c2b84d01de64bf76370b28f5097c4a
-SHA256: e7a5188c672bd26d11afc31b4bd81254921d2e9d80ae6a98a2508476a51c71f2
-
 Package: com.tqm-mos.JollyGoodSans
 Version: 1.0
 Section: Fonts
