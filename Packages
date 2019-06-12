@@ -487,7 +487,7 @@ Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Maintainer: TQM
 Author: Spark & Dennis D. Bednarz
-Section: Snowboard
+Section: SnowBoard
 Version: 1.2.9~Beta1
 Installed-Size: 3024
 Depiction: http://tqm-mos.github.io/description.html?id=com.snow
@@ -508,7 +508,7 @@ Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Maintainer: TQM
 Author: Spark & Dennis D. Bednarz
-Section: Snowboard
+Section: SnowBoard
 Version: 1.2.11~Beta1
 Installed-Size: 3024
 Depiction: http://tqm-mos.github.io/description.html?id=com.snow
