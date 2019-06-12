@@ -341,6 +341,192 @@ Description: Icon Effects for SnowBoard
 Maintainer: TQM
 Author: Spark
 Section: SnowBoard
+Version: 1.0.1~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.effects_1.0.1~Beta1_iphoneos-arm.deb
+Size: 45204
+MD5sum: 633947ada4439f555bce25767bad6ed5
+SHA1: 8aceb44a9982fa8831d586e914d6aa80e8b53192
+SHA256: 1fed2a6bfaf89d00d9acd9fa9fb97643c7f181d90537c6b6468e6f40c88e89a1
+
+Package: com.tqm-mos.snowboard.effects
+Name: SnowBoard Icon Effects
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon Effects for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.2~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.effects_1.0.2~Beta1_iphoneos-arm.deb
+Size: 46576
+MD5sum: 71880a601e5a9ec181dce509eaa688c3
+SHA1: 053abce82c33030577323ec631ef21d556705e44
+SHA256: 34f9626acd5046dd8397ed23df81f3f192c527763f12fa54671f884069125233
+
+Package: com.tqm-mos.snowboard.effects
+Name: SnowBoard Icon Effects
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon Effects for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.4~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.effects_1.0.4~Beta1_iphoneos-arm.deb
+Size: 46956
+MD5sum: 183e96695f42ff7a31782f374fefe9f7
+SHA1: bcecf7a023fc66a064faad461298ee995d2bf6b9
+SHA256: b699a5fefc5d2b6a37fb174bd0e4a925195f5f07834f202ea12f7d9455b20647
+
+Package: com.tqm-mos.snowboard.effects
+Name: SnowBoard Icon Effects
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon Effects for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.5~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.effects_1.0.5~Beta1_iphoneos-arm.deb
+Size: 48536
+MD5sum: b6d4cf45b66aef004bd4e87dba9199b1
+SHA1: 5345baf4353964277e3795223e68b89bfbd86ca4
+SHA256: d8a443d336165b8e0afee7ef8cc02217d95ae16854e2dc303f8350da2d929094
+
+Package: com.tqm-mos.snowboard.effects
+Name: SnowBoard Icon Effects
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon Effects for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.6~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.effects_1.0.6~Beta1_iphoneos-arm.deb
+Size: 47880
+MD5sum: 521a1e5683c9dcc48488e020db0fb387
+SHA1: ff6a9fc8ad43c2d4303b0d553f2164fc4110466a
+SHA256: f18a538a5b0f81aa89a369b5496f26862fb849c2d9d4e852ad70b3314bb7a2bd
+
+Package: com.tqm-mos.snowboard.settingsicons
+Name: SnowBoard Settings Icons
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Settings Icons for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.2~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.settingsicons_1.0.2~Beta1_iphoneos-arm.deb
+Size: 28948
+MD5sum: 502d2049cef3e9767b5b9a972f63e614
+SHA1: c2e0d10a0bb3242caaff399e54f8ff6dd055968c
+SHA256: 90b3a76a556d477cf8ea4dac21324e3d13e5d4d85e09e2e45782fa3bb57a973d
+
+Package: com.tqm-mos.snowboard.dock
+Name: SnowBoard Dock
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Dock for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.1~Beta1
+Installed-Size: 516
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.dock_1.0.1~Beta1_iphoneos-arm.deb
+Size: 52304
+MD5sum: 2ec1190ab48b89b7633cf7968bfdbae8
+SHA1: 133ada1048c5f83a9dee92fdb144df841a1e44c1
+SHA256: f6872d52828c94bad23ffb31f2c1b4b1a49e5292d26adc0c8a8f98149e461c97
+
+Package: com.tqm-mos.snowboard.masks
+Name: SnowBoard Icon Masks
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon masks for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.2~Beta1
+Installed-Size: 532
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard.masks_1.0.2~Beta1_iphoneos-arm.deb
+Size: 35172
+MD5sum: a0891cccfaebf514ba9fb3ef7dcc9c5b
+SHA1: 79e305a999d866faff2f24a3588dd03b0d0f1293
+SHA256: a8d5ae1b0b7bf11694c4d243b1c7b78260feae04d58f65ddebead9117943c061
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: Snowboard
+Version: 1.2.9~Beta1
+Installed-Size: 3024
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard_1.2.9~Beta1_iphoneos-arm.deb
+Size: 569300
+MD5sum: aea808e82af753a77f9ae0c6685c3ce9
+SHA1: 7763e6667e63ff6e2a651165a541fca220beb9fe
+SHA256: 8387f6e42a0674405e740de834bd8fc78b2627c0eb9745f46fbd1f8163b40598
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: Snowboard
+Version: 1.2.11~Beta1
+Installed-Size: 3024
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Filename: ./debs/com.tqm-mos.snowboard_1.2.11~Beta1_iphoneos-arm.deb
+Size: 572488
+MD5sum: 3f3a5c5879a4cad8da9fbce67ec743cf
+SHA1: f3993b6894cd5662be562aa002f83a260eed4e34
+SHA256: 1c337f0feece07db4f7fbc3a303c209428541629f46e2b639d9faaac63fa79b6
+
+Package: com.tqm-mos.snowboard.effects
+Name: SnowBoard Icon Effects
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon Effects for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
 Version: 1.0.0~Beta1
 Installed-Size: 452
 Depiction: http://tqm-mos.github.io/description.html?id=com.snow
@@ -536,6 +722,45 @@ Size: 611276
 MD5sum: c9ef300677de777737693ed929b0735f
 SHA1: 7dc5fdda86be63cc3bc83d7d05c557186512a137
 SHA256: 323d1f06bc04ee48bffb2900a801b6d9d59d1c1dd8f9620510d20e6129bccc25
+
+Package: com.tqm-mos.asteroid
+Version: 3.0.4
+Priority: optional
+Section: IOS11
+Maintainer: TQM
+Description: Thời tiết trên toàn hệ thống.
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences (>= 1.1.5), com.creaturesurvive.libcscolorpicker(>= 1.0.3)
+Architecture: iphoneos-arm
+Installed-Size: 2280
+Name: Asteroid VN
+Author: midnightchips & the casle
+Icon: file:///Applications/Cydia.app/Sections/IOS11.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.asteroid
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.asteroid
+Filename: ./debs/com.tqm-mos.asteroid_3.0.4_iphoneos-arm.deb
+Size: 732256
+MD5sum: c09ae19f0744775ce9fe82d814ea8d41
+SHA1: 3601320590d1cd938e327a04cd7bffcb2c04fee3
+SHA256: 20844eefd36d583d3a65463d8144a1f406aaa18b5fc2f0407ee9876622e20649
+
+Package: com.tqm-mos.centaur
+Version: 1.0.7
+Section: IOS12
+Maintainer: TQM
+Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Installed-Size: 1392
+Name: Centaur
+Description: Thiết kế lại trung tâm thông báo của bạn
+Author: Muirey03
+Icon: file:///Library/PreferenceBundles/Centaur.bundle/Icon-Large.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.centaur
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.centaur
+Filename: ./debs/com.tqm-mos.centaur_1.0.7_iphoneos-arm.deb
+Size: 675776
+MD5sum: d2c0ce3501ddb657ffa380f7ae270892
+SHA1: 1d783c727cc60ff196b36b0f5bc7cd2d00c45978
+SHA256: 3e750a993c4f1c1ac9ee19349e99aa1b5f12e6b34b5f63b0e0069fa828f8b720
 
 Package: com.tqm-mos.anemone3
 Name: Anemone 3
@@ -6265,6 +6490,8 @@ Author: Mos <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.proking_1.4_iphoneos-arm.deb
 Size: 10966596
 MD5sum: cdf7388756f7d2736702af1c048c5520
+SHA1: 7050612bddcec8119241c964b9ce7bad9e98ea15
+SHA256: b693355980fe322675b4d9b7412065aff95facce78245dfa0686cc0f5ebf1153
 
 Package: com.tqm-mos.profun
 Name: ProFun
@@ -6279,6 +6506,8 @@ Maintainer: QM <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.profun_1.0_iphoneos-arm.deb
 Size: 6488504
 MD5sum: 9181e8a2f98ccf1f9c0d03f9041d2626
+SHA1: 141f1937238e3098860341d6da7ce0cdb06ebf8b
+SHA256: ff44e93b2b342a97b12d9139ae24aaee40c6f529c534c4cdd3b353fdcd66c5c8
 
 Author: Mos
 Maintainer: QM
@@ -6296,6 +6525,8 @@ Tag: purpose::extension, role::enduser, compatible::ios8, compatible::ios9
 Filename: ./debs/com.tqm-mos.appadmin_1.0r-61_iphoneos-arm.deb
 Size: 1082564
 MD5sum: 3cacb25851caa1eb2de6bbd029aa76d1
+SHA1: 02974c10965b1b147b9a698b7ce270a3e4e31539
+SHA256: 8cd0ae168a203c678727b501f145063f6d0b8d79eab45613c4a4f6b8c429e703
 
 Package: com.tqm-mos.photores+
 Version: 1.4
@@ -6311,6 +6542,8 @@ Author: Mos
 Filename: ./debs/com.tqm-mos.photores+_1.4_iphoneos-arm.deb
 Size: 37642
 MD5sum: 9f42fde64e62d12ef99078258dfc5dd6
+SHA1: fc660f2a90ebd960b7998f91236e401e98435124
+SHA256: 3a0d9a025763f8bc894fbcb46151c3551e5e32f6240c028269c0edd49bc8d9a1
 
 Package: com.tqm-mos.puradark
 Version: 1.0
@@ -6324,6 +6557,8 @@ Author: Mos <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.puradark_1.0_iphoneos-arm.deb
 Size: 10813832
 MD5sum: 32f85220f44a2044892dcd601255c076
+SHA1: b26a66aedced432f8b93e90f47da17bef3f6c767
+SHA256: 58a1f9cc81437fc9c63fc3367839e0223c82724cc311507c90bf9aaed96791a5
 
 Package: com.tqm-mos.prokingmask
 Version: 1.0
@@ -6338,6 +6573,8 @@ Author: Mos <devmos388373@gmail.com>
 Filename: ./debs/com.tqm-mos.prokingmask_1.0_iphoneos-arm.deb
 Size: 42028
 MD5sum: aa181861cacf6a8ba3ae2e2b5791aee6
+SHA1: 2fc92cab9d914e5c78b04bbeeb9e934c725e1ca7
+SHA256: 75b2e3ca352cc47cf2bf8aa7aaa6f02046ae994de9de78859f9aed5a8ad0c1a9
 
 Package: tqm.ClockAngel
 Name: HS-Clock Angel
@@ -6353,6 +6590,8 @@ Depiction: http://tqm-mos.github.io/description.html?id=com.angel
 Filename: ./debs/tqm.ClockAngel_1.0_iphoneos-arm.deb
 Size: 54890
 MD5sum: d978c94fc391d9149161a6e0eff8c029
+SHA1: 90cc4582c82f65c44d87763bb77fa1d4de16cd8a
+SHA256: c0f1221f86beaf94df3a63d5c7aee48989bcebddf02c41def9c2038245c64d8a
 
 Package: tqm.ClockDragon
 Name: Clock Dragon
@@ -6368,6 +6607,8 @@ Depiction: http://tqm-mos.github.io/description.html?id=com.dragon
 Filename: ./debs/tqm.ClockDragon_1.0_iphoneos-arm.deb
 Size: 348696
 MD5sum: 3a5b211b930436bed952518e5937d962
+SHA1: 8c257eb8d9863ec065a1c21529d105d6145088a9
+SHA256: 4959735ec7d136cd0bba2c65a0429d9b56cb741e5c96206fc2cd5c28da9125c1
 
 Package: tqm.Clockmetagols
 Name: HS-Clock MetalGold
@@ -6383,6 +6624,8 @@ Depiction: http://tqm-mos.github.io/description.html?id=com.metalgold
 Filename: ./debs/tqm.Clockmetagols_1.0_iphoneos-arm.deb
 Size: 116076
 MD5sum: b4c1d64724a3924158ee9e2cbc2de4d1
+SHA1: 0ff2be2ef5eeb52cfa038a19e6627156bcd72770
+SHA256: 8e99eee51773e81409c8249a5b63ac7406423bf5fc411ea219c607be4acf9e6e
 
 Package: tqm.Clockpirate
 Name: HS-Clock Pirate
@@ -6398,6 +6641,8 @@ Depiction: http://tqm-mos.github.io/description.html?id=com.pirate
 Filename: ./debs/tqm.Clockpirate_1.0_iphoneos-arm.deb
 Size: 75586
 MD5sum: 8548cf183356e6b352fcef1ac6e68420
+SHA1: 38a661e8dfc3212c074b99bfd1ce404d8225f773
+SHA256: 161c1ad4313ca909afb6024d370727beea8f485e600c2fc094354fa53a28bf3a
 
 Package: com.tqm-mos.glacies
 Name: Vitrum
@@ -6412,6 +6657,8 @@ Installed-Size: 224
 Filename: ./debs/com.tqm-mos.glacies_1.3_iphoneos-arm.deb
 Size: 40374
 MD5sum: 1c6bac7676a9ec7a28ff855bb31c97e8
+SHA1: a5d6fe00ba7e7ef14cd73046635bfc0ab2f3f507
+SHA256: 5f277690e8e4b90a90349489be35b081b00fd5ae24a1578f781b65030eced387
 
 Package: com.tqm-mos.pubghackno1
 Name: PUBG Hack Slider Upgrade VIP
@@ -6426,6 +6673,8 @@ Maintainer: Qm
 Filename: ./debs/com.tqm-mos.pubghackno1_10.5~2_iphoneos-arm.deb
 Size: 1833942
 MD5sum: 5502a2fc6732dc3c954cc809e608d358
+SHA1: ed27e2ab00d39fa51560e34deec92abdff1db369
+SHA256: f8c3e5a032830d08a6897cc2a3366f429934a9450ee869a7f502510548c8c8d3
 
 Package: com.tqm-mos.recydia
 Name: ReCydia 
@@ -6440,6 +6689,8 @@ Depiction: http://tqm-mos.github.io/description.html?id=info
 Filename: ./debs/com.tqm-mos.recydia_1.0_iphoneos-arm.deb
 Size: 2778280
 MD5sum: a54ae069481d0c7baeb22e66e7fd5620
+SHA1: 3c849d232cbc2a33e54819f93dd39646b82f05e0
+SHA256: 0c8fa51f6cb853177258e01db4026bf95bda3b4723578cca78d07fd0a0288dc6
 
 Package: com.tqm-mos.recydia2
 Name: ReCydia 2
@@ -6454,6 +6705,8 @@ Depiction: http://tqm-mos.github.io/description.html?id=info
 Filename: ./debs/com.tqm-mos.recydia2_1.0_iphoneos-arm.deb
 Size: 1881972
 MD5sum: 8ff3b7a2a3f06bce469249cd7701dc96
+SHA1: b9fb7aec44f08557d72c0a9feaa159e2315b1645
+SHA256: 9934cf7ec125f7efd04fe11d5de094e3408bbbab08fab940bda93a94fcefc835
 
 Author: Makwan BK <makwanbarzan@gmail.com>
 Maintainer: QM
@@ -6470,6 +6723,8 @@ Tag: purpose::extension, compatible::ios11
 Filename: ./debs/tqm.darkmoduleccxi_1.0_iphoneos-arm.deb
 Size: 5304
 MD5sum: 3c502d523145323c550e5e421fd85574
+SHA1: 8af5522bfe408ddd79d5a98736a614aa059e94a7
+SHA256: 9c91c865e8c598a8aae1b66880e489825111d78bfd3df4289d512c60d7c04bf7
 
 Package: com.tqm-mos.mhfbsupport
 Name: Facebook Messenger Support
@@ -6483,6 +6738,8 @@ Version: 1.0-3
 Filename: ./debs/com.tqm-mos.mhfbsupport_1.0-3_iphoneos-arm.deb
 Size: 24972
 MD5sum: 87dcf816b3ce1dd017736eadd4b18ca8
+SHA1: 64db7cb4b1c9b396eba0401fb181da1eaab30740
+SHA256: c8a62963876652c04eceb31e4cc4fc6311a073972799ec0ae246684ca42614fe
 
 Package: tqm.Clockangelv2
 Name: HS-Clock Angel v2
@@ -6498,6 +6755,8 @@ Depiction: http://tqm-mos.github.io/description.html?id=com.angelv2
 Filename: ./debs/tqm.Clockangelv2_1.0_iphoneos-arm.deb
 Size: 68158
 MD5sum: b61541154d62d2dba94b9953e0d6b610
+SHA1: 909d5e1c1b3976778d550acf2d5a96beec7ee615
+SHA256: 709b26278bd08b0458c2cf8aef450be1e8ed6a06d32fdd6094d3bd8fd1f2dd10
 
 Package: tqm.Clockdragonv2
 Name: HS-Clock Dragon v2
@@ -6513,6 +6772,8 @@ Depiction: http://tqm-mos.github.io/description.html?id=com.v2
 Filename: ./debs/tqm.Clockdragonv2_1.0_iphoneos-arm.deb
 Size: 174420
 MD5sum: 24e4ee94fa37172d30f9e546b136d071
+SHA1: a32ff9c3ed449dbea227f94a83fa69daae718175
+SHA256: 249b2cd88f16c020ed27735413b83893d48e9f2f436d3c34d407c1b9bc7a6daf
 
 Package: com.yourepo.tqm-minh.lightson
 Name: LightsOn
@@ -6526,6 +6787,8 @@ Maintainer: Tqm-minh <anhminh311105@gmail.com>
 Filename: ./debs/com.yourepo.tqm-minh.lightson.deb
 Size: 3990
 MD5sum: 440f844b01d43e4656629ce2611cc32c
+SHA1: 8aceb6fc845d9f94db1db33c3d62188dfd3a632f
+SHA256: 423bcc9d4c7e78a71ec0ba280829303ff4d371dc6795b4cdb916014c293fb9a8
 
 Package: com.yourepo.tqm-minh.youtubed
 Name: YouTubed
@@ -6539,6 +6802,8 @@ Maintainer: Quang Minh <anhminhclub@gmail.com>
 Filename: ./debs/com.yourepo.tqm-minh.youtubed.deb
 Size: 24706
 MD5sum: d445ee4b4d7e56b36dbf3a46e833e0ec
+SHA1: 95b56ca8fcd806ebe88134e266635ebbdf04ff7e
+SHA256: 337f60af8f0baeb586e6b89a11ecc799cd86fc454095837a780d7587ab41af2a
 
 Package: com.yourepo.devmos.nomoreseparators
 Name: NoMoreSeparators
@@ -6552,6 +6817,8 @@ Maintainer: Quang Minh <anhminhclub@gmail.com>
 Filename: ./debs/nomoreseparators_1.8_iphoneos-arm.deb
 Size: 11166
 MD5sum: 9b237165e8419d356d12a36c94a14e87
+SHA1: 82bc0ff28b3646f2aeb17e722bf3b81d3c97086e
+SHA256: c03fc4e11aa9a6302fc3ebb2364607bc11e59eda122a2c7e8e2c235c7e8143d7
 
 Author: Mos
 Maintainer: Quang Minh
@@ -6568,6 +6835,8 @@ Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
 Filename: ./debs/com.yourepo.devmos.adblockforyoutube_1.0.7_iphoneos-arm.deb
 Size: 46300
 MD5sum: e48b5ba9a5a03e15508c2e272b362413
+SHA1: 54cac7d0526d71d0fa777f64ddc6c28b348def64
+SHA256: 6e1dfa5b2110bdb7f601308bae2d8f716cfafbf296cd39bf6a1516226aece3cb
 
 Author: Mos
 Maintainer: Quang Minh
@@ -6584,6 +6853,8 @@ Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, comp
 Filename: ./debs/com.yourepo.devmos.afvideo_1.0-8_iphoneos-arm.deb
 Size: 6016
 MD5sum: 326e354f4bbb1f920604a22ce2bd366b
+SHA1: bf98ef7329c41251c9716d0ef6ffba7b5734cdff
+SHA256: 161fc72ad8414a4b601f3dba21310d20793b93a68e80a386d8c089911aa6040f
 
 Name: DockXI
 Package: com.yourepo.devmos.dockxi
@@ -6601,6 +6872,8 @@ dev: mos
 Filename: ./debs/com.yourepo.devmos.dockxi_1.1.1_iphoneos-arm.deb
 Size: 26426
 MD5sum: c2200a18a3cfd6a0af737db824dd4208
+SHA1: 149bf8d1b06a666ae0bb28bee21515fc28db3250
+SHA256: aac83e95040c9e435734931d26ff6c3b452c3bcf2a4afc57b2d5f84539f6485d
 
 Package: com.yourepo.devmos.fbadblock
 Name: FacebookAdBlocker
@@ -6614,6 +6887,8 @@ Maintainer: Quang Minh
 Filename: ./debs/com.yourepo.devmos.fbadblock_1.2_iphoneos-arm.deb
 Size: 6648
 MD5sum: e339fa3680ae3e77f8e09d16e3140a05
+SHA1: b8664f2a9ba1f357577d3fb315ee5eaa8ea5df14
+SHA256: e70f2c1470c7791953256a9d2b6c0cf9de6bfaf5ed514282f89b3c5234b7ebd1
 
 Package: com.yourepo.devmos.photodata
 Name: PhotoData
@@ -6628,6 +6903,8 @@ Installed-Size: 515
 Filename: ./debs/com.yourepo.devmos.photodata_1.0.0~beta19_iphoneos-arm.deb
 Size: 143734
 MD5sum: 4aaea7eaecf9407003341176977a7ced
+SHA1: be627913e9a86aa6e9747cec42c4a98a9ebe6338
+SHA256: 071ebb1413146c8e1bc50ec8fff007d372a39e0da24589f53ec8225af3d61c23
 
 Package: com.yourepo.devmos.romanlockscreentime
 Name: RomanLockscreenTime
@@ -6641,6 +6918,8 @@ Maintainer: Quang Minh
 Filename: ./debs/com.yourepo.devmos.romanlockscreentime_1.0.2_iphoneos-arm.deb
 Size: 6752
 MD5sum: aa0968b34ddcee6d0334fb752be59146
+SHA1: 7d38143890d019f209dc6be7e746bf0c9fbaa812
+SHA256: 3028cab770635a8805a39de88c054dcb1a64a41c7b8094407451b5a50c75d8c9
 
 Package: com.yourepo.devmos.smoothtable
 Name: SmoothTable
@@ -6654,6 +6933,8 @@ Maintainer: Quang Minh
 Filename: ./debs/com.yourepo.devmos.smoothtable_1.0.2-1_iphoneos-arm.deb
 Size: 13940
 MD5sum: 9d71298f1ad0c3bbc86cdc16bfb6fbd3
+SHA1: 2dff177c53072a138f1e3845312fdc495d89f1b9
+SHA256: b8cb529c9a05b0c3f22c56cd6bb5a89914504e7d103cbfebd1727952ae6ddbaa
 
 Package: com.yourepo.qminh.batteryhealth
 Name: Battery Health
@@ -6669,6 +6950,8 @@ Maintainer: Quang Minh
 Filename: ./debs/com.yourepo.qminh.batteryhealth_1.0_iphoneos-arm.deb
 Size: 546838
 MD5sum: bf64ec28266ff665fd4cea3c37176bd6
+SHA1: b18218e8859cb75d8ff2348190e8dbdd85bf1553
+SHA256: 717a79e9b4651acc47040bf1657ea700f7501c2afc3cd4e0a9039ed57e66da57
 
 Package:  com.yourepo.qminh.chargingpekxi
 Name: ChargingPek XI
@@ -6683,6 +6966,8 @@ Installed-Size: 252
 Filename: ./debs/com.yourepo.qminh.chargingpekxi_1.0_iphoneos-arm.deb
 Size: 30490
 MD5sum: 0dce5d1fa68a439dd04106182a54c90a
+SHA1: af314e947d6f0a6b1416c702fd6f6ab24f64ff44
+SHA256: 8f35488a86f2a156d1737b6a904b166b59a113b3262493e571cecaffd2240796
 
 Package: com.spark.libsparkapplist
 Name: libSparkAppList
@@ -6697,6 +6982,8 @@ Installed-Size: 596
 Filename: ./debs/com.spark.libsparkapplist_1.0.3_iphoneos-arm.deb
 Size: 67852
 MD5sum: 5b345a93e843db4f2e2e630f4aab6313
+SHA1: 714294dcd7e63267978a528ed9cf5ca1b01ad67b
+SHA256: 8a7b181b0883f4effade249e4ca8207dc0af34754ad1b10b2caf4e7460e3c05f
 
 Package: com.yourepo.qminh.netkilluibeta
 Version: 0.3
@@ -6712,6 +6999,8 @@ Author: Mos
 Filename: ./debs/com.yourepo.qminh.netkilluibeta_0.3_iphoneos-arm.deb
 Size: 527520
 MD5sum: 81e7ad982d6ad68d69c6fe3bdfd0aa98
+SHA1: d476fe1a6af57b84cd3341c14e30924b4cb11525
+SHA256: 8b1e845576e88ff4353bef234473157efa9c1e89bd3f959c1c5cbbe3ee1b334a
 
 Package: com.yourepo.qminh.libpcap
 Name: Libpcap
@@ -6725,6 +7014,8 @@ Version: 1.4.0
 Filename: ./debs/com.yourepo.qminh.libpcap_1.4.0_iphoneos-arm.deb
 Size: 286580
 MD5sum: adc2eafd6845bc51d263942701c97b1f
+SHA1: 462397e04041a693af866e0101cff8714206cadb
+SHA256: f571212d5b390453e4d93d826d4b0ff1151212c37f475f0862d9e036efc843ee
 
 Package: com.yourepo.qminh.arpscan1
 Name: Arp Scan
@@ -6739,6 +7030,8 @@ Maintainer: Quang Minh <anhminh311105@gmail.com>
 Filename: ./debs/com.yourepo.qminh.arpscan1_1.1_iphoneos-arm.deb
 Size: 459494
 MD5sum: edc22c1db593693f05a4329a8983145f
+SHA1: 4b057f8a00fe0fa646f9b5f24c1a0ad039c9a726
+SHA256: 0d90f56bfe51fce43e979223a3e21a8d47583f942e28fc0ccaafe5f8c6b94f05
 
 Package: com.yourepo.qminh.dsniffsuite1
 Name: Dsniff Suite
@@ -6751,8 +7044,10 @@ Depends: mobilesubstrate, com.yourepo.qminh.netkilluibeta
 Conflicts: org.mulliner.dsniff
 Maintainer: Quang Minh <anhminh311105@gmail.com>
 Filename: ./debs/com.yourepo.qminh.dsniffsuite1_2.4_iphoneos-arm.deb
-Size: 2101490
+Size: 2102490
 MD5sum: 3e421e556b6cea38737c151fe7da3f77
+SHA1: 07509db8964d5b558d16f93f9266f7da5d9916c4
+SHA256: 5cd390e3a31f4b6f17862b0fc69aee266fc6990d542052cde8e93ebb71bbf0f2
 
 Package: com.yourepo.qminh.lockxi
 Depends: mobilesubstrate, firmware (>= 10.0), com.laughingquoll.corexi (>= 1.2)
@@ -6769,6 +7064,8 @@ Icon: file:///Library/PreferenceBundles/CoreXI.bundle/icon@2x.png
 Filename: ./debs/com.yourepo.qminh.lockxi_1.3-1_iphoneos-arm.deb
 Size: 72238
 MD5sum: cae1122b656e5a829966901c474a9564
+SHA1: 89b89f99771f0a50cd2caee852a021e02d3ddd57
+SHA256: 3b70a67fd30131f00b99ee34f7bcefcaf1b2c9cd344c46daecff33a37882a6b6
 
 Package: com.yourepo.qminh.multiiconmoverplus
 Name: MultiIconMover+
