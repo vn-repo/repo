@@ -115,6 +115,25 @@ MD5sum: a3e5082d8304e91f6ad9650dba490de7
 SHA1: 53fe8bf574952a62a6eb36db9386c2bdecaf0d80
 SHA256: 38831d3b48064c95bcdb3e59dba9a19edaed86d7755885752223283b54bd5e4b
 
+Package: org.thebigboss.repo.icons
+Priority: optional
+Section: Cydia/Electra-Chimera
+Installed-Size: 48
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: all
+Multi-Arch: foreign
+Version: 1.0
+Replaces: cydia, bigboss
+Description: locally cached package icons from BigBoss
+Name: BigBoss Icon Set
+Depiction: http://tqm-mos.github.io/description.html?id=com.cydia
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.cydia
+Filename: ./debs/org.thebigboss.repo.icons_1.0_iphoneos-arm.deb
+Size: 11530
+MD5sum: 79549eb8f5a03cb829ad783b80bd1fee
+SHA1: d6f383ec7c7119dd1d52502d62340415e5298391
+SHA256: 826001ef4cf513d9f49f3a8ac142addb9ca586bbad6c1410c7921f509901ee4e
+
 Package: cydia-dark
 Priority: optional
 Section: Cydia/Electra-Chimera
