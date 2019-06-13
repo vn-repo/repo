@@ -30,6 +30,302 @@ MD5sum: 7fef783fc6696b67e1ebeab60acdcb0d
 SHA1: b475f2a1b1465ee5b43e19699186004e7147c538
 SHA256: 342afdf5341565b11ce4418e0b2066830bbe3ed5b0e180f4756b18fae484475c
 
+Package: com.tqm-mos.pubg0120
+Version: 0.12-1k
+Section: Hack Games
+Maintainer: TQM
+Depends: mobilesubstrate
+Conflicts: org.cydia.kiimo.PUBGMobile012, com.tqm-mos.pubgmobile012
+Architecture: iphoneos-arm
+Installed-Size: 636
+Name: PUBG MOBILE Hack v0.12.0 Free
+Author: <KIIIMO - 7mo0od>
+Description: Giúp kích hoạt chế độ hack với PUBG
+Icon: 1
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.pubg0120_0.12-1k_iphoneos-arm.deb
+Size: 1228688
+MD5sum: 6e7c076af4688ad1af5e72af95658e2e
+SHA1: 3caa721086710be16df32f1e1e54fee1bdb4437c
+SHA256: 563e0532b0a4a582d8d2b23a1db37c0443c7a7e71cbfbf03809c1691f81e844d
+
+Package: com.tqm-mos.pubgfree
+Version: 0.12-1+debug
+Section: Hack Games
+Maintainer: TQM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 636
+Name: PUBGM Free ‪Unc0ver‬
+Author: NitroxicDemon
+Description: Giúp kích hoạt chế độ hack với PUBG
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.pubgfree_0.12-1+debug_iphoneos-arm.deb
+Size: 117952
+MD5sum: 9995ad68142b356bafccc96f52fe2169
+SHA1: df7f80288338f1ae0502f4fcf27cdd405c70b6fe
+SHA256: 0fc3425683a56894e4d2ef0578f73f7e947ff627f8f32c8a9de31120c0d44727
+
+Package: com.tqm-mos.pubgfreechimera
+Version: 0.12-2+debug
+Section: Hack Games
+Maintainer: TQM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 636
+Name: PUBGM Free Chimera/ELECTRA
+Author: NitroxicDemon
+Description: Giúp kích hoạt chế độ hack với PUBG
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.pubgfreechimera_0.12-2+debug_iphoneos-arm.deb
+Size: 117848
+MD5sum: 18072d7fb8f68773e378bd94d899717d
+SHA1: a5dd1dfba805289b396bcddd642c633657403568
+SHA256: e3e94477b831de75f03a7c02db750dac442345e97eb1bd0a00aefc8bcbbb201f
+
+Package: com.tqm-mos.PUBGHACKNO
+Version: 10.5~1
+Section: Hack Games
+Maintainer: TQM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 3104
+Name: PUBG Hack No Blocking
+Author: KIIIMO $)”
+Description: Giúp kích hoạt chế độ hack với PUBG
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.PUBGHACKNO_10.5~1_iphoneos-arm.deb
+Size: 687192
+MD5sum: b7c9aef3fe4374ca53377237199aad49
+SHA1: ab8f6276769710dba7ec6f602247121b66a02b8c
+SHA256: 1dc3886f139375a82f61d6a742edc07e21ec7d5ae0d47901111546f07dd3eef5
+
+Package: com.tqm-mos.PUBGhackSileo
+Version: 10.5~Sileo1
+Section: Hack Games
+Maintainer: TQM
+Depends: mobilesubstrate
+Conflicts: org.cydia.kiimo.PUBGHACKNO, org.cydia.kiimo.pubgmobilenoblocking, com.tqm-mos.pubgmobilenoblocking, com.tqm-mos.PUBGHACKNO
+Architecture: iphoneos-arm
+Installed-Size: 3104
+Name: PUBG Hack Slider Upgrade VIP Sileo
+Author: KIIIMO
+Description: Giúp kích hoạt chế độ hack với PUBG
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.PUBGhackSileo_10.5~Sileo1_iphoneos-arm.deb
+Size: 686632
+MD5sum: 7ce413065b26915d4059be530122250c
+SHA1: 141add5e8d9c5c95c80d2ba84023ec0a36e332de
+SHA256: dda0094d772660e6d40d12c7bad9651f187434fabaecb25616f86768dfd53511
+
+Package: com.tqm-mos.pubgmobile012
+Version: 0.12.0-2
+Section: Hack Games
+Maintainer: TQM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 3808
+Name: PUBG MOBILE Cheats v0.12.0
+Author: 0xS14T3R & DiDA
+Description: Giúp kích hoạt chế độ hack với PUBG
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.pubgmobile012_0.12.0-2_iphoneos-arm.deb
+Size: 834888
+MD5sum: e9a157747cddb305e87bb6b1eaa41446
+SHA1: 469ac15a1f5ac2b1c0b25db42b00fbfc293dedd9
+SHA256: fa12d75900c87251a4d132e831764d411aeb350faf5962b1802434be580d570a
+
+Package: com.tqm-mos.PUBGMobilefree
+Version: 0.9.1k
+Section: Hack Games
+Maintainer: TQM
+Depends: mobilesubstrate
+Conflicts: org.cydia.kiimo.pubg, com.arab-cydia.pubg, co.xrepo.mokadam.pubg, com.omar30.pubg
+Architecture: iphoneos-arm
+Installed-Size: 964
+Name: PUBG MOBILE FOR FREE
+Author: KIIIMO FOR FREE
+Description: Giúp kích hoạt chế độ hack với PUBG
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.PUBGMobilefree_0.9.1k_iphoneos-arm.deb
+Size: 224184
+MD5sum: 49289cd01eb057dcb274c98158d216ae
+SHA1: 2a79e2b298b0a9efb4c9f06c53a5091c5f212819
+SHA256: ba54bc0ea29f9770fdb62d2ec63a0e94a62c197831aa2e7f0d334b380487835a
+
+Package: com.tqm-mos.PUBGMobilev030
+Version: 0.13.0
+Section: Hack Games
+Maintainer: TQM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 6352
+Name: PUBG MOBILE Hack v0.13.0 Free
+Author: KIIIMO & DiDA
+Description: Giúp kích hoạt chế độ hack với PUBG
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.PUBGMobilev030_0.13.0_iphoneos-arm.deb
+Size: 2520184
+MD5sum: 7f866025e3c434a532d010b2ab6a636a
+SHA1: 2bcf796be7089f6d0079b57ab051d0afb20aef94
+SHA256: 5a8668a6204e25e0d48466093931578b78012562aa69943ea54171dd88382021
+
+Package: com.matchstic.xenhtml
+Name: Xen HTML
+Version: 0.6.4
+Description: Unified HTML rendering; lockscreen and homescreen
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: mos
+Maintainer: TQM
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=xenhtml
+SileoDepiction: http://tqm-mos.github.io/description.html?id=xenhtml
+Filename: ./debs/com.matchstic.xenhtml_0.6.4_iphoneos-arm.deb
+Size: 1521212
+MD5sum: 65001742a4496d865c18dca9d61cec87
+SHA1: a5fa9863791d80ea08407e22586c7dc1868b1161
+SHA256: a530d48605d1bd46f83f59cb0853d69c3f337d59d880b247028762078bd8f59e
+
+Package: com.tqm-mos.harpy
+Version: 1.0.3
+Section: IOS11
+Maintainer: TQM
+Depends: firmware (>= 11.0), adv-cmds, system-cmds, network-cmds, inetutils, gawk
+Architecture: iphoneos-arm
+Name: Harpy Cracked
+Author: midnightchips <midnightchips@gmail.com>
+Icon: file:///Library/IconRepo/tienich.png
+Description: quản lý mạng Wi-Fi đang kết nối của bạn
+Depiction: http://tqm-mos.github.io/description.html?id=com.harpy
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.harpy
+Filename: ./debs/com.tqm-mos.harpy_1.0.3_iphoneos-arm.deb
+Size: 3684604
+MD5sum: 4ee035c92124e5522feaa6eeb56ced69
+SHA1: e3a3944e159b80046eac3b3e4aa21b80e6df4f66
+SHA256: 8dac1d59806a7094bcf7afe3bea3b6ac7589da443d000c4dbf5f4d0410f06854
+
+Package: com.tqm-mos.PullOverProvn
+Version: 1.0
+Priority: optional
+Section: Addons
+Maintainer: TQM
+Depends: com.c1d3r.pulloverpro
+Architecture: iphoneos-arm
+Name: PullOver Pro (Crack + VH)
+Author: Mos
+Description: Giúp kích hoạt và Việt Hóa PullOver Pro
+Filename: ./debs/com.tqm-mos.PullOverProvn_1.0_iphoneos-arm.deb
+Size: 2080
+MD5sum: 689bc643157b6557d75281229573ff47
+SHA1: 702e72c3984ececeb256977963be6a3697734b52
+SHA256: 3d7c0c5ab42c95bb9f523f2906c974cc204a128fb8434ab6ce7d1450a4d6b3fc
+
+Package: com.tqm-mos.sileovn
+Version: 1.0.6-VH
+Section: Addons
+Maintainer: TQM
+Depends: org.coolstar.sileo
+Architecture: iphoneos-arm
+Name: Sileo (Gói Tiếng Việt)
+Author: TQM
+Description: Thêm tiếng việt cho Trình Quản Lý Gói Sileo
+Depiction: http://tqm-mos.github.io/description.html?id=com.sileo
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.sileo
+Filename: ./debs/com.tqm-mos.sileovn_1.0.6-VH_iphoneos-arm.deb
+Size: 5848
+MD5sum: db0e776983bc60431f30de7b5358493f
+SHA1: 23b81b197082660a56919ee4acf9e59cc430e5a7
+SHA256: 4889b5156b710ea561de66ded7f88faa44f0addb62ef73bdd003e4841fb30bbd
+
+Package: com.tqm-mos.st412
+Version: 4.0.3k
+Section: IOS12
+Maintainer: TQM
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Provides: com.springtomize.st4.new
+Replaces: com.springtomize.st4
+Architecture: iphoneos-arm
+Installed-Size: 3368
+Name: Springtomize 4 VH
+Author: sharedRoutine
+Description: Tuỳ biến thiết bị của bạn một cách toàn diện
+Depiction: http://tqm-mos.github.io/description.html?id=com.sp4
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.sp4
+Filename: ./debs/com.tqm-mos.st412_4.0.3k_iphoneos-arm.deb
+Size: 542516
+MD5sum: c9504509b8032d57f4ed7dbf15b3b479
+SHA1: 4d64ace9b10dd36f7cf9b7b374b94375e5842cfe
+SHA256: ebe3b7347fce206e8cfab4a648101dc917b70c7824ef7b23d988e91e39d83b4c
+
+Package: com.tqm-mos.ventana
+Version: 1.4-VH
+Section: Tweaks
+Maintainer: TQM
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), ldid, ga.jakeashacks.substitutedummy, ga.jakeashacks.sharedfix
+Conflicts: org.coolstar.ventana, com.hackyouriphone.ventana, jaja.kiiimo, com.thuthuatjb.ventana
+Provides: org.coolstar.ventana
+Replaces: org.coolstar.ventana
+Architecture: iphoneos-arm
+Name: Ventana VH (Unc0ver)
+Author: CoolStar & Jeremy Goulet
+Description: Màn hình khoá kiểu Windows 10
+Description: Tuỳ biến thiết bị của bạn một cách toàn diện
+Depiction: http://tqm-mos.github.io/description.html?id=com.ventana
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.ventana
+Filename: ./debs/com.tqm-mos.ventana_1.4-VH_iphoneos-arm.deb
+Size: 716656
+MD5sum: 33f00cb4d5b9547eeb9fd953cdb0ee4d
+SHA1: 044c2654c28c6d3c435cf16304bd687b53f6126b
+SHA256: dd19ed3ad53785eaa0c76f9876a53622f075f496bab1b161ffd191db1bcd9777
+
+Package: com.tqm-mos.vibrancy
+Version: 1.0.1-VH
+Section: Tweaks
+Maintainer: DylanDuff
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm
+Installed-Size: 6332
+Name: Vibrancy VH
+Author: DylanDuff
+Description: Giao diện mờ cho toàn hệ thống iOS
+Description: Tuỳ biến thiết bị của bạn một cách toàn diện
+Depiction: http://tqm-mos.github.io/description.html?id=com.vibrancy
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.vibrancy
+Filename: ./debs/com.tqm-mos.vibrancy_1.0.1-VH_iphoneos-arm.deb
+Size: 428104
+MD5sum: 1076ac00da610a726a6374ad7b4fc4fa
+SHA1: b41975206de75e58f51e273fee0838d0d254dbcc
+SHA256: 18d29fab9ccc43d649cf410937f014c42aabf23f3a50e01bb3751673cef3ef16
+
+Package: ga.jakeashacks.sharedfix
+Version: 1.0
+Section: System
+Maintainer: TQM
+Description: Fix various packages on Unc0ver
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: Shared Package Fix for Unc0ver
+Author: Jake James <jakeashacks@gmail.com>
+Tag: purpose::extension
+Filename: ./debs/ga.jakeashacks.sharedfix_1.0_iphoneos-arm.deb
+Size: 6024
+MD5sum: 26c75d868fb1bf5d4aca8902136b08da
+SHA1: 62c788083593ac8c041d1e3890e79f6acc22fa6c
+SHA256: 5e73aa52be6857325d7fead0e49ffa5c066c8fd0d1a287cda82a4aefda3ea3f7
+
 Package: com.tqm-mos.a-font
 Version: 1.3.2
 Section: Tweaks
