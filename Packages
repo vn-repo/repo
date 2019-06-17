@@ -199,6 +199,120 @@ MD5sum: 65001742a4496d865c18dca9d61cec87
 SHA1: a5fa9863791d80ea08407e22586c7dc1868b1161
 SHA256: a530d48605d1bd46f83f59cb0853d69c3f337d59d880b247028762078bd8f59e
 
+Name: Stylish11-12
+Package: com.tqm-mos.stylish1112
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Version: 1.0.8-1
+Architecture: iphoneos-arm
+Description: colorful UI customization features
+Maintainer: TQM
+Author: i0s_tưeak3r <djvs23@gmail.com>
+Section: IOS11
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Installed-Size: 949
+dev: mos
+Icon: file:///Library/PreferenceBundles/Stylish11.bundle/icon@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.stylish
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.stylish
+Filename: ./debs/com.tqm-mos.stylish1112_1.0.8-1_iphoneos-arm.deb
+Size: 99836
+MD5sum: 7f38108c85803413a1b1dabe90f11b52
+SHA1: 2e068aec7336673eda63687be99bcbd37e6105b5
+SHA256: 698dd79c14ea3c629bd176ab956ae886cdc0e998beead5278d991783d8f0ff00
+
+Package: com.tqm-mos.magmapro
+Version: 1.1.0k
+Section: IOS12
+Maintainer: TQM
+Description: Tô màu cho Trung tâm kiểm soát
+Depends: mobilesubstrate, firmware (>= 12.0), me.nepeta.libcolorpicker, applist
+Conflicts: com.noisyflake.magma, net.kenhtao.magmapro
+Architecture: iphoneos-arm
+Installed-Size: 368
+Name: Magma Pro VH
+Author: NoisyFlake
+Icon: file:///Applications/Cydia.app/Sections/IOS12.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.magmapro
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.magmapro
+Filename: ./debs/com.tqm-mos.magmapro_1.1.0k_iphoneos-arm.deb
+Size: 50992
+MD5sum: 7ee5699612a39015b0688674e0b945ff
+SHA1: 3099a99aaf8790be64e1fded51981dbd085837c2
+SHA256: 696725f93c6a0a59b1072d79ecfc2505773d229078b59aceacd745f4ba4da62e
+
+Package: com.tqm-mos.axon
+Name: Axon VH
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Architecture: iphoneos-arm
+Description: Gom thông báo thu gọn màn hình LS ,tinh chỉnh mạnh mẽ về thông báo 
+Maintainer: TQM
+Author: Nepeta
+Section: IOS11
+Version: 0.1.8-1
+Installed-Size: 500
+Depiction: http://tqm-mos.github.io/description.html?id=com.axon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.axon
+Filename: ./debs/com.tqm-mos.axon_0.1.8-1_iphoneos-arm.deb
+Size: 123916
+MD5sum: 99bfec595fa66a563da3742e47c8af58
+SHA1: 884cc77b305c075e3f9b2ae8daf040317fb29e5a
+SHA256: 9e62fcfdf728e4dae08a87e40390e0a5a141f626c22d4e18ba73192e81c24c3d
+
+Package: com.tqm-mos.notifica
+Name: Notifica VH
+Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
+Conflicts: io.ominousness.modernxi
+Architecture: iphoneos-arm
+Description: Gom thông báo thu gọn màn hình LS ,tinh chỉnh mạnh mẽ về thông báo 
+Maintainer: TQM
+Author: Nepeta
+Section: IOS11
+Version: 0.3.0-4
+Installed-Size: 1128
+Depiction: http://tqm-mos.github.io/description.html?id=com.notifica
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.notifica
+Filename: ./debs/com.tqm-mos.notifica_0.3.0-4_iphoneos-arm.deb
+Size: 397464
+MD5sum: a632e210398fc818ed8c67865c6a8229
+SHA1: 64891c1be7810be4c421e23ed1d87155ee15538e
+SHA256: 0c40c874b430d7a49f36fc5d838e2e0439c370ff46ba84b18d667de713e37e3b
+
+Package: com.tqm-mos.sbapple
+Name: SB  Apple
+Version: 1.1
+Depends: 
+Architecture: iphoneos-arm
+Description: [Enter generic HS widget description ^_^]
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sbapple
+Author: Mos
+Maintainer: TQM
+Section: Iwidgets
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbapple
+Filename: ./debs/com.tqm-mos.sbapple_1.1_iphoneos-arm.deb
+Size: 16968
+MD5sum: fceda1f0ef590da9a085adf621fa2531
+SHA1: dcd423ac7d7e71bdfae72eeba92e49a3fa400389
+SHA256: 7f680549e00246e98cdeff9ebdc60fecf60963313d35b74f4d4fd4a3a2e36d46
+
+Package: com.tqm-mos.htcclock47
+Name: HTC Clock (4,7)
+Author: TQM
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Gói tiện ích (Widget),hiển thị thời tiết và giờ hoạt động qua - Tinh chỉnh Xen HTML
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: TQM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.htcclock
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.htcclock
+Filename: ./debs/com.tqm-mos.htcclock47_1.0_iphoneos-arm.deb
+Size: 196400
+MD5sum: 221d71f47443237872f1f5a485739b45
+SHA1: 95e582292266d4cbe68b5fb30bfac930505cb247
+SHA256: 5fa497934cd0dca2ac88eb14e289b26a2a1fbf1ec687608ef7533a054110ccae
+
 Package: com.tqm-mos.harpy
 Version: 1.0.3
 Section: IOS11
