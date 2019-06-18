@@ -217,7 +217,7 @@ SHA256: 4b7855b045401b40e697b521485bd5237a4da677c36154a437bb79eea4b2296c
 Package: org.cydia.kiimo.host0130
 Version: 1.0
 Priority: standard
-Section: Hack GameS
+Section: Hack Games
 Essential: no
 Maintainer: TQM
 Depends: org.cydia.kiimo.PUBGMobilev030
