@@ -164,7 +164,7 @@ Package: com.tqm-mos.PUBGMobilev030
 Version: 0.13.0
 Section: Hack Games
 Maintainer: TQM
-Depends: mobilesubstrate, org.cydia.kiimo.host0130
+Depends: mobilesubstrate, com.tqm-mos.host0130
 Architecture: iphoneos-arm
 Installed-Size: 6352
 Name: PUBG MOBILE Hack v0.13.0 Free
@@ -178,24 +178,23 @@ MD5sum: 7f866025e3c434a532d010b2ab6a636a
 SHA1: 2bcf796be7089f6d0079b57ab051d0afb20aef94
 SHA256: 5a8668a6204e25e0d48466093931578b78012562aa69943ea54171dd88382021
 
-Package: org.cydia.kiimo.host0130
+Package: com.tqm-mos.host0130
 Version: 1.0
 Priority: standard
 Section: Hack Games
 Essential: no
 Maintainer: TQM
-Depends: com.tqm-mos.PUBGMobilev030
 Architecture: iphoneos-arm
-Name: PUBG HOST v0.13.0
-Author: KIIIMO
-Description: Tiện ích bổ xung chống ban acc
+Name: PUBG VIP HOST v0.13.0
+Author: TQM
+Description: Tiện ích bổ xung,Gói hỗ trợ chống ban Acc khi hack PUBG
 Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
-Filename: ./debs/org.cydia.kiimo.host0130_1.0_iphoneos-arm.deb
-Size: 10854
-MD5sum: a60711033a2c3b932502534b9b950d6a
-SHA1: 0d0870e17fd9eaa2f8f4a4d5b609a0d6caf1879b
-SHA256: 34aa8daa9aae173b32cf86f5d3ac3e6065420f43d73afc8015a4cb31f07c3707
+Filename: ./debs/com.tqm-mos.host0130_1.0_iphoneos-arm.deb
+Size: 8248
+MD5sum: e37d1b9e895dde3436f3dbbd875bee37
+SHA1: 67b09c4caaa99f5b40c9805bb7a254512bd0b106
+SHA256: 29afeecd45e161bd2c0cca05203040b2fbb21df9208e4d4b0bdc371ee9e8bbd9
 
 Package: com.thireus.hostscleaner
 Priority: standard
