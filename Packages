@@ -191,10 +191,47 @@ Description: Tiện ích bổ xung,Gói hỗ trợ chống ban Acc khi hack PUBG
 Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
 Filename: ./debs/com.tqm-mos.host0130_1.0_iphoneos-arm.deb
-Size: 8248
-MD5sum: e37d1b9e895dde3436f3dbbd875bee37
-SHA1: 67b09c4caaa99f5b40c9805bb7a254512bd0b106
-SHA256: 29afeecd45e161bd2c0cca05203040b2fbb21df9208e4d4b0bdc371ee9e8bbd9
+Size: 8252
+MD5sum: 9418bdea40305fa9eb5337257cc8fda3
+SHA1: ca22317182aebb40fbefac3810eb69fee4cc03f4
+SHA256: 1eb26d2eeef4f2fe933a3d60895c67296da5867ff13c34be5fabedb3418607dd
+
+Package: org.cydia.kiimo.PUBGMobilev030
+Version: 0.13.0
+Section: Hack Games
+Maintainer: TQM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 6352
+Name: PUBG MOBILE Hack v0.13.0 Free
+Author: KIIIMO & DiDA
+Description: Giúp kích hoạt chế độ hack với PUBG
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/org.cydia.kiimo.pubgmobilev030_0.13.0_iphoneos-arm.deb
+Size: 3801136
+MD5sum: a175c2f37bceed46d9423a320ac81ad1
+SHA1: 6cd303ac8e08a6187e2a402d9f8dbd5c6dc1e269
+SHA256: 4b7855b045401b40e697b521485bd5237a4da677c36154a437bb79eea4b2296c
+
+Package: org.cydia.kiimo.host0130
+Version: 1.0
+Priority: standard
+Section: Hack GameS
+Essential: no
+Maintainer: TQM
+Depends: org.cydia.kiimo.PUBGMobilev030
+Architecture: iphoneos-arm
+Name: PUBG MOBILE VIP HOST v0.13.0
+Author: KIIIMO
+Description: Tiện ích bổ xung,Gói hỗ trợ chống ban Acc khi hack PUBG
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/org.cydia.kiimo.host0130_1.0_iphoneos-arm.deb
+Size: 10854
+MD5sum: a60711033a2c3b932502534b9b950d6a
+SHA1: 0d0870e17fd9eaa2f8f4a4d5b609a0d6caf1879b
+SHA256: 34aa8daa9aae173b32cf86f5d3ac3e6065420f43d73afc8015a4cb31f07c3707
 
 Package: com.thireus.hostscleaner
 Priority: standard
