@@ -50,6 +50,23 @@ MD5sum: 6e7c076af4688ad1af5e72af95658e2e
 SHA1: 3caa721086710be16df32f1e1e54fee1bdb4437c
 SHA256: 563e0532b0a4a582d8d2b23a1db37c0443c7a7e71cbfbf03809c1691f81e844d
 
+Package: com.tqm-mos.clickamlich
+Name: Clock Âm Lịch
+Author: TQM
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Gói tiện ích được TQM buil Đồng hồ kèm ngày âm lịch và danh ngôn
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.clickamlich
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.clickamlich
+Filename: ./debs/com.tqm-mos.clickamlich_1.0_iphoneos-arm.deb
+Size: 3694546
+MD5sum: 38387de3a48dffceb1916ab52c5646cb
+SHA1: d206a6218eed6df716952ac16c8dcda5a12823cf
+SHA256: 4626a5540c64fa3ecd6b515de1ae633cff65748b3f2f2f3b91f25bdfc2202108
+
 Package: com.tqm-mos.pubgfree
 Version: 0.12-1+debug
 Section: Hack Games
