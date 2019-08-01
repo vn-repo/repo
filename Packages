@@ -30,6 +30,125 @@ MD5sum: 7fef783fc6696b67e1ebeab60acdcb0d
 SHA1: b475f2a1b1465ee5b43e19699186004e7147c538
 SHA256: 342afdf5341565b11ce4418e0b2066830bbe3ed5b0e180f4756b18fae484475c
 
+Package: com.tqm-mos.clickamlich
+Name: Clock Âm Lịch
+Author: TQM
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Gói tiện ích được TQM buil Đồng hồ kèm ngày âm lịch và danh ngôn
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.clickamlich
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.clickamlich
+Filename: ./debs/com.tqm-mos.clickamlich_1.1_iphoneos-arm.deb
+Size: 5291548
+MD5sum: 703b85137c0e33c59c16ddb23d863a79
+SHA1: 6b4e4d14df87571df5f966495738f821fd8fe40e
+SHA256: 162f43b0338ee536c54bd17b41f9f62ef3e11e018776286b580727cb0a407463
+
+Package: com.tqm-mos.amlichdanhngon
+Name: Âm Lịch & Danh Ngôn
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widget for Xen HTML
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.amlichdanhngon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.amlichdanhngon
+Filename: ./debs/com.tqm-mos.amlichdanhngon_1.0_iphoneos-arm.deb
+Size: 267912
+MD5sum: a18039cd77bc6c3229f5675838c6479d
+SHA1: 370d1e42b9d72ad23729ff7db0cddc440c497a12
+SHA256: 0471f3849b78ddef6ba3ac21908405f3cf04b83a169121bb0149959bd3cc6af6
+
+Package: com.tqm-mos.bca
+Name: Bồ Công Anh
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widget for Xen HTML
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bca
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bca
+Filename: ./debs/com.tqm-mos.bca_1.0_iphoneos-arm.deb
+Size: 413768
+MD5sum: 0ed7441500f89157ba551044054a6a2d
+SHA1: 8fc03cc061f559545503a53ee38e291509266c95
+SHA256: 3febe668539134ad80461d915edd521900caf00de2efe97882126675757a512d
+
+Package: com.tqm-mos.clockamlichv2
+Name: Clock Âm Lịch - Weather
+Author: TQM
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Gói tiện ích được TQM buil Đồng hồ kèm ngày âm lịch và Thời tiết
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.clockamlichv2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.clockamlichv2
+Filename: ./debs/com.tqm-mos.clockamlichv2_1.0_iphoneos-arm.deb
+Size: 3871474
+MD5sum: acd4d3e2a439f5d2bfd9d86944a28ed0
+SHA1: d3b4f4b2358389b7fd0b504a24eb1013b3c56182
+SHA256: 89c14f3d28e1228f23e8939509c2ab0d6cff3af0207253cdca2a13d3cdfd443d
+
+Package: com.tqm-mos.SaoBay
+Name: Sao Bay
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widget for Xen HTML
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.SaoBay
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.SaoBay
+Filename: ./debs/com.tqm-mos.SaoBay_1.0_iphoneos-arm.deb
+Size: 32718
+MD5sum: 02fc2d099481755c75a00cab567e018e
+SHA1: cdcf15980fc06cdbe06841ca15471df02eeb56ba
+SHA256: 8a862ed1d1e544ff989c7831a85c35fb5e9f8ccd405343e0d7da0cadda06a0ee
+
+Package: com.tqm-mos.tuyetroi
+Name: Tuyết Rơi
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widget for Xen HTML
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.tuyetroi
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.tuyetroi
+Filename: ./debs/com.tqm-mos.tuyetroi_1.0_iphoneos-arm.deb
+Size: 28536
+MD5sum: d9b9bfe1aa73226419eaeca709c363a3
+SHA1: 30863f7f94f75d46a16c05f1abedcf94a6e13972
+SHA256: 900b5d638b8ab9dc4dd2147edc119530287fd31a4b51a301251ef2be03f96ef4
+
+Package: com.tqm-mos.weathertimesamlich
+Name: Weather & Time & Âm lịch
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widget for Xen HTML
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.weathertimesamlich
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.weathertimesamlich
+Filename: ./debs/com.tqm-mos.weathertimesamlich_1.0_iphoneos-arm.deb
+Size: 496758
+MD5sum: d0f66f7820b1507134273d33f4ee1bdf
+SHA1: 24995657f677f988ec2d24902d9134edaf77e99c
+SHA256: c02cd9f07f764a17e1d6b212227d97e599457b2b22e35aa3ca5e871f4f758e70
+
 Package: com.tqm-mos.pubg0120
 Version: 0.12-1k
 Section: Hack Games
@@ -776,7 +895,6 @@ Maintainer: TQM
 Author: Mos
 Section: TQM
 Version: 1.0
-Installed-Size: 9208496
 Depiction: http://tqm-mos.github.io/description.html?id=com.blackmos
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.blackmos
 Filename: ./debs/com.tqm-mos.blackmos_1.0_iphoneos-arm.deb
@@ -794,7 +912,6 @@ Maintainer: TQM
 Author: Mos
 Section: TQM
 Version: 1.0
-Installed-Size: 5177044
 Depiction: http://tqm-mos.github.io/description.html?id=com.NightWhite
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.NightWhite
 Filename: ./debs/com.tqm-mos.NightWhite_1.0_iphoneos-arm.deb
