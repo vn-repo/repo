@@ -30,6 +30,124 @@ MD5sum: 7fef783fc6696b67e1ebeab60acdcb0d
 SHA1: b475f2a1b1465ee5b43e19699186004e7147c538
 SHA256: 342afdf5341565b11ce4418e0b2066830bbe3ed5b0e180f4756b18fae484475c
 
+Package: tqm-mos.iconrepo
+Name: TQM-Icon
+Version: 1.2
+Architecture: iphoneos-arm
+Essential: yes
+Author: @tqmmos
+Maintainer: QM 
+Section: System
+Description: Gói icon cho source TQM-Mos
+Depiction: http://tqm-mos.github.io/description.html?id=tqm-mos.iconrepo
+SileoDepiction: http://tqm-mos.github.io/description.html?id=tqm-mos.iconrepo
+Filename: ./debs/tqm-mos.iconrepo_1.2_iphoneos-arm.deb
+Size: 312034
+MD5sum: 540992f9e3267f46ac0ed099aafa2c0e
+SHA1: cc09ce5934ac8c2976e89f50618b3054279284cd
+SHA256: fd8c3c2dcb6851c0a27755be2750196de49664b3b0443270a188a6b8c9ad7ffe
+
+Package: com.tqm-mos.dockbymos
+Name: Dock by Mos
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Gói chủ đề ( Themes) được làm bởi TqmMos ,gói gồm 4 thanh Dock ,nó có thể k đẹp nhưng là thành quả của mình !
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dockbymos
+Filename: ./debs/com.tqm-mos.dockbymos_1.0_iphoneos-arm.deb
+Size: 1221544
+MD5sum: 1448842a48d214a72c4d60dcba63ad38
+SHA1: 1fa2166898b9191310f0aa4c0bd902965acb2419
+SHA256: 74e744fab9ec246c93e2eb87d24a71b942561f757432d884225081a36d33136f
+
+Package: com.tqm-mos.anemone3
+Name: Anemone 3
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, pincrush, com.tqm-mos.anemone3-extsb
+Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Version: 3.0~beta14-1
+Architecture: iphoneos-arm
+Description: Bản Anemone 3 cải tiến hoàn thiện hơn với thiết bị ios 11 
+Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
+Maintainer: AnemoneTeam <anemonetheming@gmail.com>
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Section: Anemone 3
+SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.anemonetheming.anemone3
+Depiction: http://tqm-mos.github.io/description.html?id=anemone3
+Filename: ./debs/com.tqm-mos.anemone3_3.0~beta14-1_iphoneos-arm.deb
+Size: 799966
+MD5sum: de1f4e86533396025f33f238a895fb2b
+SHA1: 3637428516eb6c29598b935afefbb0c802d5ac3d
+SHA256: d053ec404f3fe2b50a324291386c9448aaeba71ba4ef4b7462f97d0466e8ffb4
+
+Package: com.tqm-mos.anemone3-extsb
+Name: Anemone 3 SpringBoard Extension Pack
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute
+Provides: org.coolstar.classicdock, org.coolstar.classicbadges
+Replaces: org.coolstar.classicdock, org.coolstar.classicbadges
+Version: 3.0~beta8
+Architecture: iphoneos-arm
+Description: An awesome theme manager!
+Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
+Maintainer: TQM
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Section: Anemone 3
+SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.anemonetheming.anemone3
+Depiction: http://tqm-mos.github.io/description.html?id=anemone3
+Filename: ./debs/com.tqm-mos.anemone3-extsb_3.0~beta8_iphoneos-arm.deb
+Size: 64994
+MD5sum: 1ecd307eb556f3662d1958d52906c843
+SHA1: 91154ec8870276fc5ae21ce348d40d9603af7dc0
+SHA256: 3c3483c3c85a5d51fbae0a777eb039d1f54cbb5a65594eb308a9b4635d599155
+
+Package: com.tqm-mos.Saily
+Name: Saily Store
+Version: 0.6-b716
+Description: Saily Package Manager
+Section: Saily Store
+Depends: firmware (>= 11.0)
+Conflicts: com.lakr233.SailyTest, com.lakr233.jw.SailyPackageManager, com.lakr233.jw.SailyStartupDaemon
+Priority: required
+Architecture: iphoneos-arm
+Author: Lakr Aream
+dev: Lakr Aream
+ESSENTIAL: Yes
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.saily
+SileoDepiction: https://raw.githubusercontent.com/Co2333/Saily-Store/master/IO/Saily-ND.json
+Maintainer: QM
+Icon: https://raw.githubusercontent.com/Co2333/Saily-Store/master/Saily/AssSets/AppIcons.xcassets/AppIcon.appiconset/icon-1024.png
+Filename: ./debs/com.tqm-mos.Saily_0.6-b716_iphoneos-arm.deb
+Size: 36053596
+MD5sum: 5328600d5069c9aaaf71115380b35daa
+SHA1: 66fc0c0b45f81c9efa1a260f8d64f7f698002c86
+SHA256: 0b5f6ab39bd2b7552e5f03aabdbd903d2fe4868a7edce6ba81d8944ce2432964
+
+Package: com.tqm-mos.Saily
+Name: Saily Store
+Version: 0.6-b773
+Description: Saily Package Manager
+Section: Saily Store
+Depends: firmware (>= 11.0)
+Conflicts: com.lakr233.SailyTest, com.lakr233.jw.SailyPackageManager, com.lakr233.jw.SailyStartupDaemon
+Priority: required
+Architecture: iphoneos-arm
+Author: Lakr Aream
+dev: Lakr Aream
+ESSENTIAL: Yes
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.saily
+SileoDepiction: https://raw.githubusercontent.com/Co2333/Saily-Store/master/IO/Saily-ND.json
+Maintainer: QM
+Icon: https://raw.githubusercontent.com/Co2333/Saily-Store/master/Saily/AssSets/AppIcons.xcassets/AppIcon.appiconset/icon-1024.png
+Filename: ./debs/com.tqm-mos.Saily_0.6-b773_iphoneos-arm.deb
+Size: 36071528
+MD5sum: 1ca776fc5ab6198c256d03f2160f82cd
+SHA1: 49c831cc9793afe558efd53d0d9b39466ffa5b70
+SHA256: ef37bf7503a9de54e6f910c2a3cb02c75ca88c9e96e073185e7a94ef3ad1bec7
+
 Package: com.tqm-mos.clickamlich
 Name: Clock Âm Lịch
 Author: TQM
