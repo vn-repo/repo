@@ -42,10 +42,31 @@ Description: Gói icon cho source TQM-Mos
 Depiction: http://tqm-mos.github.io/description.html?id=tqm-mos.iconrepo
 SileoDepiction: http://tqm-mos.github.io/description.html?id=tqm-mos.iconrepo
 Filename: ./debs/tqm-mos.iconrepo_1.2_iphoneos-arm.deb
-Size: 312034
-MD5sum: 540992f9e3267f46ac0ed099aafa2c0e
-SHA1: cc09ce5934ac8c2976e89f50618b3054279284cd
-SHA256: fd8c3c2dcb6851c0a27755be2750196de49664b3b0443270a188a6b8c9ad7ffe
+Size: 321768
+MD5sum: 040a89b224125302a682e4af5d95d954
+SHA1: d667b505b98b905e603c157b33e31667c51af220
+SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
+
+Package: com.tqm-mos.ithemer
+Name: iThemer
+Version: 1.0~beta2-1
+Section: iThemer
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Installed-Size: 1412
+Author: DODGraphics <dodgraphics.1010@gmail.com>
+Maintainer: QM
+Description: An awesome MobileSubstrate tweak!
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.itheme
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.itheme
+Filename: ./debs/com.tqm-mos.ithemer_1.0~beta2-1_iphoneos-arm.deb
+Size: 184266
+MD5sum: 7c3cb8bcaa99ae80c00dc9698807fad0
+SHA1: 3011479b121ebf519d905e813a013cbeb364d58e
+SHA256: 99f848a8197f841154b9f367e1e7b7873b11181994c59c6459bcd8049d3d7f0b
 
 Package: com.tqm-mos.dockbymos
 Name: Dock by Mos
