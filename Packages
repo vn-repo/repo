@@ -47,6 +47,330 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: TQM.GrayWhite
+Name: GrayWhite-Pro
+Author: @tqmmos
+Version: 1.1
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Bộ chủ đề mang phong cách khá thụ vị ,rất nhac nhặn ( Đẹp)
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.GrayWhite
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.GrayWhite
+Filename: ./debs/TQM.GrayWhite_1.1_iphoneos-arm.deb
+Size: 31042770
+MD5sum: e5e7889dacfdd90a014dc69810035b95
+SHA1: 476255440ec1d34ae969f24f30b2fef031937d86
+SHA256: 12903bb9678833bd893a9e803898ef00c434d6a4dc8b2f101c802e17e23a20a7
+
+Package: com.tqm-mos.ara
+Name: Ara
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ara
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ara
+Filename: ./debs/com.tqm-mos.ara_1.0_iphoneos-arm.deb
+Size: 7243376
+MD5sum: c6cabd2424bf9d131bdc802c9409fff0
+SHA1: 500a07017ed67e5e86cb6401f8b39d4bdade47f9
+SHA256: ce5af3cd651f6defbc964dcdcb9864f56773e543899f124d5839dcf1ff7bfe00
+
+Package: com.tqm-mos.aurai
+Name: Aurai
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aurai
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aurai
+Filename: ./debs/com.tqm-mos.aurai_1.0_iphoneos-arm.deb
+Size: 6955214
+MD5sum: 826eacf0da6dd567ed9476c10897a69d
+SHA1: 651348e1fecb04dac4d5675c9c5ddde99c0e139a
+SHA256: 0431c66f384449b71c6af55262f3a8b6b584a3327237efab8ccdec0736e4783f
+
+Package: com.tqm-mos.belair
+Name: Bel-Air
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.belair
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.belair
+Filename: ./debs/com.tqm-mos.belair_1.0_iphoneos-arm.deb
+Size: 12087896
+MD5sum: cf4cac0a8b211ee8086cdcdd349c3c8a
+SHA1: 4fc5fca9c98194e29237eef87071fbd3747ca81d
+SHA256: 9cb34f2f2f4044a1cc632000220f4fd85ae1290a080a0148dcc2c76dca09c1db
+
+Package: com.tqm-mos.BlackOrs
+Name: BlackOrs
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.BlackOrs
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.BlackOrs
+Filename: ./debs/com.tqm-mos.BlackOrs_1.0_iphoneos-arm.deb
+Size: 3103650
+MD5sum: cae7f0547338a79b9af26b1ad0f7e240
+SHA1: 8b38ecd3bbb432ed6a41df8b5da2ca94e1ac6a45
+SHA256: 8297f462c44d473c36d5247f11cd392f1388a4b379d296a7357c7a2972bfd23d
+
+Package: com.tqm-mos.BlackOrs3
+Name: BlackOrs3
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.BlackOrs3
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.BlackOrs3
+Filename: ./debs/com.tqm-mos.BlackOrs3_1.0_iphoneos-arm.deb
+Size: 19760102
+MD5sum: e6fbecc0e97bfcaff7fc3032762f248f
+SHA1: a9a8873f4eb0923579b7bdf0ee0d49a7a47f8ae4
+SHA256: 3300522483e52c53fd561445e0d88dc915150864979cb786643011c01fb9bc7c
+
+Package: com.tqm-mos.blackorsglyph
+Name: BlackOrs Glyph
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blackorsglyph
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blackorsglyph
+Filename: ./debs/com.tqm-mos.blackorsglyph_1.0_iphoneos-arm.deb
+Size: 7213856
+MD5sum: 20f12eb24a89e0455edf0f771302fe9e
+SHA1: f6d3e50b749de4a21fdcbe61494e7fe5820cf5be
+SHA256: 1dd06edaeb59441c08ec17ae961cb7e15fbd52f6810fba0d24b5445d8081196c
+
+Package: com.tqm-mos.cards
+Name: Cards
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cards
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cards
+Filename: ./debs/com.tqm-mos.cards_1.0_iphoneos-arm.deb
+Size: 8458590
+MD5sum: c9f104240267bd96aa7738c51bb9859d
+SHA1: efe76c484231c044d68bca5de7ba7885135a219c
+SHA256: d2ba9c1ac8a063f8172f799ab243f7b586ec3c8348cb8e16f91b40d86a2dcab2
+
+Package: com.tqm-mos.cocaine
+Name: Cocaine
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cocaine
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cocaine
+Filename: ./debs/com.tqm-mos.cocaine_1.0_iphoneos-arm.deb
+Size: 57309914
+MD5sum: 9ddc2cf885c119984972c551a64035bc
+SHA1: 139c97953dddd18316eae80b393df22fc641fe80
+SHA256: ba4effe59d3ffb18376af575b7b015efa5a1bc03ab08cc316eea8f0407c8f1b4
+
+Package: com.tqm-mos.dockbymos
+Name: Dock by Mos
+Author: @tqmmos
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Gói chủ đề ( Themes) được làm bởi TqmMos ,gói gồm thanh Dock ,nó có thể k đẹp nhưng là thành quả của mình !
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dockbymos
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dockbymos
+Filename: ./debs/com.tqm-mos.dockbymos_1.1_iphoneos-arm.deb
+Size: 7085394
+MD5sum: 718c92cc9383a0482a0dc31073b987b7
+SHA1: 8d69723a73b849096a200916342179985fcecb47
+SHA256: ba4c93edae4ca0f7d962298ccb6bf915f2b20480bd41fbc457120f7295e60eab
+
+Package: com.tqm-mos.glossyblack
+Name: Glossy Black
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.glossyblack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.glossyblack
+Filename: ./debs/com.tqm-mos.glossyblack_1.0_iphoneos-arm.deb
+Size: 1571500
+MD5sum: 6987a44dba2e7210f7cb3ac7314e19b2
+SHA1: c868de258cf00fb0294543eb1f7b3bd973f4d5f8
+SHA256: f331f0c8589b7795a93bcdff6fbb1aa8ac55cc813e71abee4e07120bd92f85c0
+
+Package: com.tqm-mos.happynewyearthemes
+Name: Happy New Year
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.happynewyear
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.happynewyear
+Filename: ./debs/com.tqm-mos.happynewyearthemes_1.0_iphoneos-arm.deb
+Size: 8437354
+MD5sum: 847f53096abeff35a359a20174454616
+SHA1: b5c95125f879bd6c960ee672db69c899d2d011a7
+SHA256: 2242cd7cd68dbef5f1e85c1b5e0cd7f624d19ca0210fff7d392ee7b2190b2b84
+
+Package: com.tqm-mos.imp
+Name: IMP
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.imp
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.imp
+Filename: ./debs/com.tqm-mos.imp_1.0_iphoneos-arm.deb
+Size: 81385690
+MD5sum: b666f5bcdc18bcc302c06e6803704b7a
+SHA1: 3e274098ede5524d59b6f617ef0ebe1d68c4fcc3
+SHA256: 387fb45ccb5403b47feb394e779e3139bbf9379f66d2fa715ea9934705f5acbf
+
+Package: com.tqm-mos.kuroblack
+Name: Kuro Black
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.kuroblack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.kuroblack
+Filename: ./debs/com.tqm-mos.kuroblack_1.0_iphoneos-arm.deb
+Size: 10372308
+MD5sum: e4beee861ac0d340b6cce8255799fb8d
+SHA1: 6d96b894be2e19b028832bee5052d64ca12362c8
+SHA256: 78ed651520d9bf933db2b7ca36851828eed268590124d8e129320de5f5924f62
+
+Package: com.tqm-mos.kurored
+Name: Kuro Red
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.kurored
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.kurored
+Filename: ./debs/com.tqm-mos.kurored_1.0_iphoneos-arm.deb
+Size: 18651200
+MD5sum: eb3c35ad8ce5e7a5ad83ad6c9ac0ad21
+SHA1: b76e059ced22c1135523ad5dbf22bd30851f7085
+SHA256: 1a7ce1d1fa459e69d90bf007895a7fda21c9583d6ca33dfca756c0a09d1f34e4
+
+Package: com.tqm-mos.orangedude
+Name: Orange Dude
+Author: @thiha
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.orangedude
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.orangedude
+Filename: ./debs/com.tqm-mos.orangedude_1.0_iphoneos-arm.deb
+Size: 16424264
+MD5sum: d02e2c50dffd80b6268f9b6cfc29d2c7
+SHA1: 9b5c132f6e36080162d0c8adb6b658706021d233
+SHA256: aba6bfaa4bf37058a67218ffa340807681eb680c08a2ae1fe61796b9587b69cf
+
+Package: com.tqm-mos.reddead
+Name: RedDead
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reddead
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reddead
+Filename: ./debs/com.tqm-mos.reddead_1.0_iphoneos-arm.deb
+Size: 1401592
+MD5sum: 78faec6cb7cd3b4f3d0051c4da3be139
+SHA1: b46ede5ee3488122f35211f2f54f6e53ec18b9c3
+SHA256: 807d53ba5a0403e9a585fd958f364ce74a9be668647ce7c2d145555cc75cd54e
+
+Package: com.tqm-mos.simplexmos
+Name: Simplex-Mos
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.simplexmos
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.simplexmos
+Filename: ./debs/com.tqm-mos.simplexmos_1.0_iphoneos-arm.deb
+Size: 12761084
+MD5sum: 6067e94e70c04c67470dcb8f30dafb30
+SHA1: 9fa155fafd40445e66add21637b302a5cb3457ad
+SHA256: 599e1d9e0d8bd4c2b3358f7b311da58c210fa3f2143d4e0784367b86495e9863
+
+Package: com.tqm-mos.venom
+Name: Venom
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.venom
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.venom
+Filename: ./debs/com.tqm-mos.venom_1.0_iphoneos-arm.deb
+Size: 20058062
+MD5sum: fb6ee26cc7e184c20c97cb35bebd8f05
+SHA1: 1c8aed1e0407bb2dc9115982cef406ba073a2ff8
+SHA256: 51a1313f67e7ed7d36582be7530293b6f23d495623d49a3b2fcdd43dbf04b5d0
+
 Package: com.tqm-mos.nicebarx
 Name: NiceBarX
 Author: niceios
