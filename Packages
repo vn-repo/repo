@@ -65,6 +65,57 @@ MD5sum: e5e7889dacfdd90a014dc69810035b95
 SHA1: 476255440ec1d34ae969f24f30b2fef031937d86
 SHA256: 12903bb9678833bd893a9e803898ef00c434d6a4dc8b2f101c802e17e23a20a7
 
+Package: com.tqm-mos.ginesaanemone
+Name: Gineso (Anemone)
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Anemone - Anemone 3 - Snowboard - iThemer
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: Fonts
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ginesaanemone
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ginesaanemone
+Filename: ./debs/com.tqm-mos.ginesaanemone_1.0_iphoneos-arm.deb
+Size: 13156424
+MD5sum: 280e2f72f467cfbb7e07752eed1621e6
+SHA1: 2b540529b722a8b21724ccf6305b8dc4e9be3e68
+SHA256: 30878a5c286b1b983ddb13d87d4f962a2e516d82f2067eaf7444602470ad9ffc
+
+Package: com.tqm-mos.exoanemone
+Name: Exo (Anemone)
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Anemone - Anemone 3 - Snowboard - iThemer
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: Fonts
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.exoanemone
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.exoanemone
+Filename: ./debs/com.tqm-mos.exoanemone_1.0_iphoneos-arm.deb
+Size: 11012630
+MD5sum: 96ec0c31986d6b91b46e01f54de9610b
+SHA1: e5604b954a720bc68832d2d3b6b79b973d4955b8
+SHA256: 43ed3da019921212303caf425ca8d730a165beae501bc61ebdda3a9ae56d3a8f
+
+Package: com.tqm-mos.hopewhite
+Name: Hope White
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Chủ đề (Themes) hoạt động qua Anemone - Anemone3 - Snowoard - iThemes
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.hopewhite
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.hopewhite
+Filename: ./debs/com.tqm-mos.hopewhite_1.0_iphoneos-arm.deb
+Size: 1447400
+MD5sum: 519f10b359724c3db81ab3fd4aa7cc2f
+SHA1: e29117e16424894b49dab1b838263f0175739405
+SHA256: 98620a96ca4d98ea5e381a9cf6d04ddfd6d6b5e6ffab6f81cf3120f9dd158e10
+
 Package: com.tqm-mos.ara
 Name: Ara
 Author: @tqmmos
