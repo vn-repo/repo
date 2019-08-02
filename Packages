@@ -478,26 +478,26 @@ MD5sum: 1448842a48d214a72c4d60dcba63ad38
 SHA1: 1fa2166898b9191310f0aa4c0bd902965acb2419
 SHA256: 74e744fab9ec246c93e2eb87d24a71b942561f757432d884225081a36d33136f
 
-Package: com.tqm-mos.anemone3
-Name: Anemone 3
-Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, pincrush, com.tqm-mos.anemone3-extsb
+Package: ga.jakeashacks.anemoneinstaller
+Name: Anemone 3.0 for unc0ver
+Version: 1.0.14
+Architecture: iphoneos-arm
 Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
-Version: 3.0~beta14-1
-Architecture: iphoneos-arm
-Description: Bản Anemone 3 cải tiến hoàn thiện hơn với thiết bị ios 11 
-Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
-Maintainer: AnemoneTeam <anemonetheming@gmail.com>
-Author: AnemoneTeam <anemonetheming@gmail.com>
+Depends: pincrush, mobilesubstrate, org.swift.libswift (>=5.0)
+Pre-Depends: curl, ga.jakeashacks.substitutedummy, jailbreak-resources (>= 0.7), ldid
+Description: Anemone 3.0 for unc0ver! If this doesn't work, wait for me to update it.
+Maintainer: Jake James <jakeashacks@gmail.com>
+Author: Jake James <jakeashacks@gmail.com>
 Section: Anemone 3
 SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.anemonetheming.anemone3
 Depiction: http://tqm-mos.github.io/description.html?id=anemone3
-Filename: ./debs/com.tqm-mos.anemone3_3.0~beta14-1_iphoneos-arm.deb
-Size: 799966
-MD5sum: de1f4e86533396025f33f238a895fb2b
-SHA1: 3637428516eb6c29598b935afefbb0c802d5ac3d
-SHA256: d053ec404f3fe2b50a324291386c9448aaeba71ba4ef4b7462f97d0466e8ffb4
+Filename: ./debs/ga.jakeashacks.anemoneinstaller_1.0.14_iphoneos-arm.deb
+Size: 18002
+MD5sum: 9fd3635ed1d2be116615e5409746dd46
+SHA1: 4b10ee29a00828f38c1b52dee2f948ebaa2fec3b
+SHA256: 855e51cf7c852119569d2abf3cd88cab7e4a4de5727be666e26b9277e36a2f65
 
 Package: com.tqm-mos.anemone3-extsb
 Name: Anemone 3 SpringBoard Extension Pack
@@ -1317,6 +1317,31 @@ Priority: optional
 Section: Cydia/Electra-Chimera
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Architecture: iphoneos-arm
+Version: 1.9.3~chimera5
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd, cydia-gui
+Depends: apt7-lib | libapt, apt7-key | apt-key, cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.18), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 2.0.0), lzma, cydia
+Conflicts: bigboss, com.sosiphone.addcydia, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd, cydia-uni, cydia-gui
+Pre-Depends: debianutils, dpkg (>= 1.14.25-8), firmware (>=5.0)
+Description: graphical iPhone front-end for APT
+Name: Cydia for Chimera/Electra
+Author: Diatrus <me@diatr.us>
+Depiction: http://cydia.saurik.com/info/cydia/
+Icon: file:///Applications/Cydia.app/Icon-60.png
+Tag: purpose::uikit, role::enduser
+Installed-Size: 1291272
+Depiction: http://tqm-mos.github.io/description.html?id=com.cydia
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.cydia
+Filename: ./debs/cydia-dark_1.9.3~chimera5_iphoneos-arm.deb
+Size: 1366944
+MD5sum: aecb5c5a8717db0a750a6c2a9209e81f
+SHA1: 0765ca536180f7c7587d6198e925de9bb0038d6d
+SHA256: d6a902c38b5a3c5c4c216cb158c9181ce114ca555ba211527122c8ff3df8d513
+
+Package: cydia-dark
+Priority: optional
+Section: Cydia/Electra-Chimera
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
 Version: 1.9.3~chimera4
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd, cydia-gui
 Depends: apt7-lib | libapt, apt7-key | apt-key, cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.18), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 2.0.0), lzma, cydia
@@ -1336,6 +1361,30 @@ Size: 1291272
 MD5sum: 82efd5cf85843ea7cfb870a442b4487a
 SHA1: a15ee40c94fa4d3c5fba796bd5e8cf03d344f794
 SHA256: 2d93106efb465083f93b0bdb7eea2ea07dbbc3ffa1a27dcf5a901740a609c5c9
+
+Package: cydia-lproj
+Priority: required
+Section: Cydia/Electra-Chimera
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1.9.3~chimera5
+Conflicts: org.thebigboss.russiancydia
+Provides: org.thebigboss.russiancydia
+Replaces: cydia, org.thebigboss.russiancydia
+Depends: cydia
+Description: languages and translations for Cydia
+Name: Cydia Translations
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia-lproj/
+Tag: purpose::uikit, cydia::essential, role::enduser
+Installed-Size: 66928
+Depiction: http://tqm-mos.github.io/description.html?id=com.cydia
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.cydia
+Filename: ./debs/cydia-lproj_1.9.3~chimera5_iphoneos-arm.deb
+Size: 66940
+MD5sum: 0ac90b64b5a8b8098e216c30a21f3ff4
+SHA1: 9f3c842b5fb5adf84eef83fdf4fd9690ec65b585
+SHA256: c238840c078db89a99e8e2208bd7a1820f9dba54ad8454c7af23060131e6b781
 
 Package: cydia-lproj
 Priority: required
@@ -1970,7 +2019,7 @@ SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=c
 Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
 Maintainer: TQM
 Author: AnemoneTeam <anemonetheming@gmail.com>
-Section: IOS11
+Section: Anemone 3
 Depiction: http://tqm-mos.github.io/description.html?id=anemone3
 Filename: ./debs/com.tqm-mos.anemone3_3.0~beta9-1_iphoneos-arm.deb
 Size: 11009396
