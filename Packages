@@ -47,6 +47,25 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.nicebarx
+Name: NiceBarX
+Author: niceios
+Version: 2.0.4.9-2
+Installed-Size: 4912
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: TQM
+Section: IOS12
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicebarx
+SileoDepiction:http://apt.niceios.com/sileodepictions/com.niceios.nicebarx/depiction.json
+Filename: ./debs/com.tqm-mos.nicebarx_2.0.4.9-2_iphoneos-arm.deb
+Size: 1671952
+MD5sum: 8eff5084c5ce6a2d0ee7623cc1960043
+SHA1: f8965b1d231ee83ab3f7b04727972c2c256cd232
+SHA256: 7033257d9063db670969535c443a6cffaec27f932e0b93646acf790cf51de8a9
+
 Package: com.tqm-mos.ithemer
 Name: iThemer
 Version: 1.0~beta2-1
