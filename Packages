@@ -441,6 +441,274 @@ MD5sum: 8eff5084c5ce6a2d0ee7623cc1960043
 SHA1: f8965b1d231ee83ab3f7b04727972c2c256cd232
 SHA256: 7033257d9063db670969535c443a6cffaec27f932e0b93646acf790cf51de8a9
 
+Package: com.tqm-mos.snowboard.dock
+Name: SnowBoard Dock
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Dock for SnowBoard
+Maintainer: QM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.3~Beta1
+Installed-Size: 516
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.dock_1.0.3~Beta1_iphoneos-arm.deb
+Size: 88454
+MD5sum: 7f83b219d9192e135bfa9950a212e40c
+SHA1: aafd0581c9e6b701f571956c42c11bb2f84f2e71
+SHA256: b5c656418977b0dd6f226228ce9b5742944946924af3f753c18acd42ecd9e5f9
+
+Package: com.tqm-mos.snowboard.fonts
+Name: SnowBoard Fonts
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Fonts for SnowBoard
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Maintainer: QM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.2~Beta1
+Installed-Size: 400
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.fonts_1.0.2~Beta1_iphoneos-arm.deb
+Size: 47526
+MD5sum: 41a028b79dc0e9242d61a29f48bb82fb
+SHA1: e9ba78f4b0bb37c9f9c3922ffb2218a68f69c52d
+SHA256: f0bb96a23b7fb03dfd417211b9755ee394c94f3be618409c6a46735803985377
+
+Package: com.tqm-mos.snowboard.fonts
+Name: SnowBoard Fonts
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Fonts for SnowBoard
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Maintainer: QM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.4~Beta1
+Installed-Size: 400
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.fonts_1.0.4~Beta1_iphoneos-arm.deb
+Size: 46650
+MD5sum: ba3220d67edb037f485a69b18b2d7b53
+SHA1: ae0e3389d228e64d2cec058233d16be957338129
+SHA256: ebd732cf43cfa0ead03daa6f76b9f2fbd4a492427ebd094be3a111f98bfa3b94
+
+Package: com.tqm-mos.snowboard.masks
+Name: SnowBoard Icon Masks
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon masks for SnowBoard
+Maintainer: QM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.3~Beta1
+Installed-Size: 532
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.masks_1.0.3~Beta1_iphoneos-arm.deb
+Size: 65060
+MD5sum: 771b6e340acf646ac2f24b788169e47b
+SHA1: 58f17951774f21d7b08e302d3fccd3ddf79cbcbd
+SHA256: 2ed0a2ddfeabd0c0ec8b9ff3df7c7727f6096e0209361a722e0770f59cb9cfb7
+
+Package: com.tqm-mos.snowboard.settingsicons
+Name: SnowBoard Settings Icons
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Settings Icons for SnowBoard
+Maintainer: QM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.3~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.settingsicons_1.0.3~Beta1_iphoneos-arm.deb
+Size: 51694
+MD5sum: 4463775fce729a10f7ad2a7dcd640cda
+SHA1: 3aa23533d31bbd969860a08357cc62a5c8ab3898
+SHA256: 73a91069339c1cb8b775621c87b52d3dfd467a1f017a28379299ea60fb5aa262
+
+Package: com.tqm-mos.snowboard.settingsicons
+Name: SnowBoard Settings Icons
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Settings Icons for SnowBoard
+Maintainer: QM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.4~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.settingsicons_1.0.4~Beta1_iphoneos-arm.deb
+Size: 51700
+MD5sum: 35fffaea456d53f156b511297b688570
+SHA1: 57cf291126f52d3da307b95055f08965e984dc0d
+SHA256: c45790a765ef6d34795b3e523eb104394014f68bc06a5f3c8b8c658f8f0314b1
+
+Package: com.tqm-mos.snowboard.statusbar
+Name: SnowBoard StatusBar
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: StatusBar for SnowBoard
+Maintainer: QM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.1~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.statusbar_1.0.1~Beta1_iphoneos-arm.deb
+Size: 77962
+MD5sum: b0babe33dcade356e650dde7df1dd8d9
+SHA1: f7003235fc379bb1049408b98312e2a8f98a21a2
+SHA256: 5c2ded0c48dae7a7a2e5cdef1065f9ee4d5297fe32cdba83d9d3d49b355745f9
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: QM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.13~Beta1
+Installed-Size: 3024
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.13~Beta1_iphoneos-arm.deb
+Size: 1220586
+MD5sum: 0d7fbf6157facc15cee50489df34831d
+SHA1: f44b0489ef94054fa7f3d9080208bd0082af95cc
+SHA256: abb4422e96a785014d509950c7b856f41dc0c0c0211b1c48ba91f0492cd293ac
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: QM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.14~Beta1
+Installed-Size: 3024
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.14~Beta1_iphoneos-arm.deb
+Size: 1219090
+MD5sum: c3916fc0bf5ad3b8af61d2187014b1ae
+SHA1: 80ff7bea9d9f434140f3c9ce3bd4bb70ef978d89
+SHA256: 8a47a4b27af6625b3146f97c213a5962b038e409eeeab2beb0ce0051c61a9c5f
+
+Package: com.tqm-mos.elate
+Name: Elate
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.elate
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.elate
+Filename: ./debs/com.tqm-mos.elate_1.0_iphoneos-arm.deb
+Size: 1337002
+MD5sum: e5959244a073488f2ea2cac634c06557
+SHA1: 9c2f956d6cb6ee6f041dd249ad0e070c2ce3ae40
+SHA256: 850890f033818db156871568c385656dff906328bc1b2fd838ddb09b067a91d4
+
+Package: com.tqm-mos.euphoria
+Name: Euphoria
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.euphoria
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.euphoria
+Filename: ./debs/com.tqm-mos.euphoria_1.0_iphoneos-arm.deb
+Size: 25686944
+MD5sum: 9d5f95a9b80ad79473aa583cfeda4ef4
+SHA1: d3d1761b0e720f4d3c80db7323ff10b546d05e70
+SHA256: 7f9c709744f56e49cf805b618a471d84ff2fb64eb81aeab7ca70e476514b56dd
+
+Package: com.tqm-mos.euphoriaatl
+Name: Euphoria ALT
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.euphoriaatl
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.euphoriaatl
+Filename: ./debs/com.tqm-mos.euphoriaatl_1.0_iphoneos-arm.deb
+Size: 82539806
+MD5sum: 16f4cee7fb6cc2c89256effbde47a7f8
+SHA1: 0d6c11ea64065b13d4d60d9a8134efa6645362d2
+SHA256: f48074cecb83ebcbcafa288172d4899a0d563ae26f50205805c92ff7203f3c9c
+
+Package: com.tqm-mos.linealcc
+Name: Lineal CC
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.linealcc
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.linealcc
+Filename: ./debs/com.tqm-mos.linealcc_1.0_iphoneos-arm.deb
+Size: 127602
+MD5sum: 040dadca37cc63273d1d1d318f7269f1
+SHA1: 4b5f5fcc118d1a540bbe0c864499a0ebd005c18c
+SHA256: 686b1011c9d66f68beea4db14910384bc518d6127557933a5482aec2883a70cf
+
+Package: com.tqm-mos.linealccmusic
+Name: Lineal Music Controls
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.linealccmusic
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.linealccmusic
+Filename: ./debs/com.tqm-mos.linealccmusic_1.0_iphoneos-arm.deb
+Size: 15592
+MD5sum: 352e306dce6719707c305b8e6cd0214d
+SHA1: e74a6738e27afa49ce5134fbb2c0d2058a32b9d5
+SHA256: 9807fd8ad00fcc8d69cf5b11984c44cdf2f3bca5cf3423d2a8f5f3eab524588e
+
 Package: com.tqm-mos.ithemer
 Name: iThemer
 Version: 1.0~beta2-1
@@ -485,7 +753,7 @@ Architecture: iphoneos-arm
 Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
-Depends: pincrush, mobilesubstrate, org.swift.libswift (>=5.0)
+Depends: pincrush, mobilesubstrate, org.swift.libswift (>=5.0), com.tqm-mos.anemone3-extsb
 Pre-Depends: curl, ga.jakeashacks.substitutedummy, jailbreak-resources (>= 0.7), ldid
 Description: Anemone 3.0 for unc0ver! If this doesn't work, wait for me to update it.
 Maintainer: Jake James <jakeashacks@gmail.com>
