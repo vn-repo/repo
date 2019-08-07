@@ -59,10 +59,61 @@ Section: TQM
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusiongold
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusiongold
 Filename: ./debs/com.tqm-mos.fusiongold_1.0_iphoneos-arm.deb
-Size: 55953026
-MD5sum: 1bd6255e1b4b0ecb01c6b2f1b05c0f69
-SHA1: 91b1ec40cbabf0105d4ccd42af09f3bd6e9e1c12
-SHA256: 5d9ff0be4225b0ca30067eba1cdb28aa0204deaa3b6c0fb212d3e34eeb55a815
+Size: 58430402
+MD5sum: 33918d0eaf541d4c34649004ab34d006
+SHA1: ff6b616f87e7c420057feba1f839c438dcb97b35
+SHA256: de494554cc5543c0ac0057b56e17fbfcfbb300a3425bfabb65bfa6cc33ac0d59
+
+Package: com.tqm-mos.sbfusiongoldxsmax
+Name: SB Fusion Gold (XS Max)
+Author: JLAM
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widget for Xen HTML
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbfusiongold
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbfusiongold
+Filename: ./debs/com.tqm-mos.sbfusiongoldxsmax_1.0_iphoneos-arm.deb
+Size: 10022746
+MD5sum: 3a60ca3d2e048bb1f2d9e9ccb9e8b5ef
+SHA1: a88766905e039d27513d1ba4e347109f3ab9193e
+SHA256: 1f0f6e5c2c60c143721efd19cc0d513fa31b42115b595536f4d92779a83ce54f
+
+Package: com.tqm-mos.sbfusiongold
+Name: SB Fusion Gold (4,7-Plus-IpX)
+Author: JLAM
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widget for Xen HTML
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbfusiongold
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbfusiongold
+Filename: ./debs/com.tqm-mos.sbfusiongold_1.0_iphoneos-arm.deb
+Size: 10023044
+MD5sum: 12369ece437be37bb6713771b19966ca
+SHA1: d11badcd23a9cad615cfe4418407ab82f85c7827
+SHA256: bc325d1c147ae8affa1afa1c95b0dfcd28d08994d0eb8f55ede6232bd0785163
+
+Package: com.tqm-mos.sbfusiongoldv2
+Name: SB Fusion Gold
+Author: JLAM
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widget for Xen HTML
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbfusiongoldv2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbfusiongoldv2
+Filename: ./debs/com.tqm-mos.sbfusiongoldv2_1.0_iphoneos-arm.deb
+Size: 11980610
+MD5sum: 176952263dce7aded0d501125725758f
+SHA1: 06f50beaa258f834511e69be524fc20670d45e78
+SHA256: f5b86e38ff66258b018f7ddb1457f6ae6120ac2cf313ded2d2a65ee1c7946efd
 
 Package: TQM.GrayWhite
 Name: GrayWhite-Pro
