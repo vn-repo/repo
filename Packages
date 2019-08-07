@@ -47,6 +47,23 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.fusiongold
+Name:  Fusion Gold
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusiongold
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusiongold
+Filename: ./debs/com.tqm-mos.fusiongold_1.0_iphoneos-arm.deb
+Size: 55953026
+MD5sum: 1bd6255e1b4b0ecb01c6b2f1b05c0f69
+SHA1: 91b1ec40cbabf0105d4ccd42af09f3bd6e9e1c12
+SHA256: 5d9ff0be4225b0ca30067eba1cdb28aa0204deaa3b6c0fb212d3e34eeb55a815
+
 Package: TQM.GrayWhite
 Name: GrayWhite-Pro
 Author: @tqmmos
