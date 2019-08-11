@@ -47,6 +47,40 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.sbfusioncyan
+Name: SB Fusion Cyan (4,7-Plus-IpX)
+Author: JLAM
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widget for Xen HTML
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbfusioncyan
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbfusioncyan
+Filename: ./debs/com.tqm-mos.sbfusioncyan_1.0_iphoneos-arm.deb
+Size: 8497940
+MD5sum: f1c88ab2e8e576c1db1ee7f6f947841a
+SHA1: 3ac68ee2b185f8b78cdaa534c1c240ea03a11ca5
+SHA256: 95d37e696f3e6b7034d0120581b6509d4668183bcda08f1d62a5a92e7e684c68
+
+Package: com.tqm-mos.luxcyan
+Name:  LuxCyan
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.luxcyan
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.luxcyan
+Filename: ./debs/com.tqm-mos.luxcyan_1.0_iphoneos-arm.deb
+Size: 9643812
+MD5sum: e2217c77b0333a9516e83e845ba569c6
+SHA1: 094a76cf2775cadf578f3d8017856ba119027ffe
+SHA256: d90cc9f1ecccd54756fccd6ee18d3d59e4fcae669f517756aa7aa66ae8257be5
+
 Package: com.tqm-mos.fusiongold
 Name:  Fusion Gold
 Author: @tqmmos
@@ -59,10 +93,10 @@ Section: TQM
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusiongold
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusiongold
 Filename: ./debs/com.tqm-mos.fusiongold_1.0_iphoneos-arm.deb
-Size: 58430402
-MD5sum: 33918d0eaf541d4c34649004ab34d006
-SHA1: ff6b616f87e7c420057feba1f839c438dcb97b35
-SHA256: de494554cc5543c0ac0057b56e17fbfcfbb300a3425bfabb65bfa6cc33ac0d59
+Size: 61130438
+MD5sum: aac4ff3829091eea2d6225cbcd722fab
+SHA1: 14e581488d151cd53ca5000b3c1b91e9208a838f
+SHA256: 1974cd61841b0f43f7586f43422e9c31bf00f7f2941f1c6363998b4435462d1b
 
 Package: com.tqm-mos.sbfusiongoldxsmax
 Name: SB Fusion Gold (XS Max)
@@ -76,10 +110,10 @@ Section: Iwidgets
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbfusiongold
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbfusiongold
 Filename: ./debs/com.tqm-mos.sbfusiongoldxsmax_1.0_iphoneos-arm.deb
-Size: 10022746
-MD5sum: 3a60ca3d2e048bb1f2d9e9ccb9e8b5ef
-SHA1: a88766905e039d27513d1ba4e347109f3ab9193e
-SHA256: 1f0f6e5c2c60c143721efd19cc0d513fa31b42115b595536f4d92779a83ce54f
+Size: 10033340
+MD5sum: 3192891da83bd35f81937c03ac34cc6c
+SHA1: ea602b94c65674fcf79992e6fc3bf711cee95f64
+SHA256: c4c7945ddceaafcde4652f5136e6cd3859dd3507fe7aa73c15cdea19d02bb049
 
 Package: com.tqm-mos.sbfusiongold
 Name: SB Fusion Gold (4,7-Plus-IpX)
@@ -93,10 +127,10 @@ Section: Iwidgets
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbfusiongold
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbfusiongold
 Filename: ./debs/com.tqm-mos.sbfusiongold_1.0_iphoneos-arm.deb
-Size: 10023044
-MD5sum: 12369ece437be37bb6713771b19966ca
-SHA1: d11badcd23a9cad615cfe4418407ab82f85c7827
-SHA256: bc325d1c147ae8affa1afa1c95b0dfcd28d08994d0eb8f55ede6232bd0785163
+Size: 10033552
+MD5sum: 5fa06b062e841a89a86f2b3fb616dcc1
+SHA1: 9f1ba5768a669d71c7ecbb5774d9673f53f3d278
+SHA256: 1148fbe0d7f3a8671dbf2c55f9621031e0815e1bb4769c3ce5deabb2682b8a17
 
 Package: com.tqm-mos.sbfusiongoldv2
 Name: SB Fusion Gold
