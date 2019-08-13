@@ -47,6 +47,74 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.BuufJuiced
+Name: BuufJuiced
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.BuufJuiced
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.BuufJuiced
+Filename: ./debs/com.tqm-mos.BuufJuiced_1.0_iphoneos-arm.deb
+Size: 65762668
+MD5sum: 2f3bcafd0f7054283c8a2db0a160cd86
+SHA1: 6e1c80f1b06cb3fa06620217532d88edbd9fc79d
+SHA256: 378d10ae959e1ab4019c3bb0d114cf09e3dc8e6d6984f17184bcb8d44f598c21
+
+Package: com.tqm-mos.coral
+Name: Coral
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.coral
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.coral
+Filename: ./debs/com.tqm-mos.coral_1.0_iphoneos-arm.deb
+Size: 22920632
+MD5sum: 61b4723898850869d49e7cb82f3d4462
+SHA1: c142a128823e92efe18b06a91baeb14ae63728cc
+SHA256: 136b405182aa9f23401e21ba288ea21c3c671cf673f461bfcdcfb1761ae4f4bb
+
+Package: com.tqm-mos.fusioncyan
+Name: Fusion Cyan
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusioncyan
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusioncyan
+Filename: ./debs/com.tqm-mos.fusioncyan_1.0_iphoneos-arm.deb
+Size: 33197156
+MD5sum: a376f1b95d44ea00975851f5217f7a37
+SHA1: 65696267ffa74123eaee1aba447628ba66205c3e
+SHA256: 1e6281867d9e79e72032b96e0f4c6e24c7c506016a89a21c81ed160a88a98f77
+
+Package: com.tqm-mos.fusionred
+Name: Fusion Red
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionred
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionred
+Filename: ./debs/com.tqm-mos.fusionred_1.0_iphoneos-arm.deb
+Size: 33324574
+MD5sum: 59930e46762e607db50313ddd2b98fcc
+SHA1: ad1118a66bacc237c7014558eccd3001dc3c6ed6
+SHA256: 24245ebb2b9f5a43261bde1337aee531d58b3a116680f1131722fb9f327d8fd3
+
 Package: com.tqm-mos.sbfusioncyan
 Name: SB Fusion Cyan (4,7-Plus-IpX)
 Author: JLAM
