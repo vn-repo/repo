@@ -68,6 +68,23 @@ MD5sum: ec31a7356cc6d3fd8e64855a586604cc
 SHA1: edf79c0b6025542d73e7eff680915b54354964ee
 SHA256: a7aee7fb11ac83d3f66fdad05c89a15834abe0ccfaf24f9c8aa337b775455c42
 
+Package: com.tqm-mos.Orange
+Name: Orange
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Orange
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Orange
+Filename: ./debs/com.tqm-mos.Orange_1.0_iphoneos-arm.deb
+Size: 9044636
+MD5sum: 4313d57de807fcdc50b43dcc0bf493b7
+SHA1: 6bb78fa9db647c0bd20d7562916643db456026b2
+SHA256: 9a6f45ed0505947b2cb8da43cd4809dd2669cacb4580758b943fb932a09bb4b1
+
 Package: com.tqm-mos.fusiongreen
 Name: Fusion Green
 Author: @tqmmos
