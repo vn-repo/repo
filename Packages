@@ -47,6 +47,61 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Name: FaceID
+Package: com.tqm-mos.faceid
+Conflicts: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy, org.thebigboss.appellancy
+Replaces: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy
+Priority: optional
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Version: 1.1-20b
+Architecture: iphoneos-arm
+Description: Control your phone with your face!
+Author: Elijah Frederickson, julioverne
+Section: Tweaks
+dev: elijahfrederickson
+Maintainer: QM
+Icon: file:///Library/PreferenceBundles/AppellancySettings.bundle/AppellancySettings@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.faceid
+Filename: ./debs/com.tqm-mos.faceid_1.1-20b_iphoneos-arm.deb
+Size: 3814112
+MD5sum: ec31a7356cc6d3fd8e64855a586604cc
+SHA1: edf79c0b6025542d73e7eff680915b54354964ee
+SHA256: a7aee7fb11ac83d3f66fdad05c89a15834abe0ccfaf24f9c8aa337b775455c42
+
+Package: com.tqm-mos.fusiongreen
+Name: Fusion Green
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusiongreen
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusiongreen
+Filename: ./debs/com.tqm-mos.fusiongreen_1.0_iphoneos-arm.deb
+Size: 44438710
+MD5sum: 6827306211bf4f109d24818860efe450
+SHA1: 0dd64ec3222b20efb5241066ae0e5de5dbc44395
+SHA256: 2c33036ee6e09a562098fa569f1685f7e23e4c17787ea3ef6ed03a8486dff029
+
+Package: com.tqm-mos.fusionpink
+Name: Fusion Pink
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionpink
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionpink
+Filename: ./debs/com.tqm-mos.fusionpink_1.0_iphoneos-arm.deb
+Size: 35637150
+MD5sum: ecea20206400f05d5944d0ed956aa358
+SHA1: 7b4ff5c9f8eb2813bc629f71b2587785059ea30a
+SHA256: abd0f41d1449e134c9e15797752c91a05b7fde070dbd49ba7215e7560c012ecb
+
 Package: com.tqm-mos.BuufJuiced
 Name: BuufJuiced
 Author: @tqmmos

@@ -1,5 +1,5 @@
-Origin: TQM-Mos™︵⁹² 
-Label: TQM-Mos™︵⁹² 
+Origin: TQM-Mos™︵⁹²  (Minh Hí)
+Label: TQM-Mos™︵⁹²  (Minh Hí)
 Suite: stable
 Version: 1.0
 Codename: tqm-mos
@@ -7,5 +7,5 @@ Architectures: iphoneos-arm
 Components: main
 Description: Repo By TQM-Mos™︵⁹² 
 MD5sum:
- 07addbfb66464059aae37e93d8152efc Packages
- a7305aab365d5b06ee924be6dc6a2a0c Packages.bz2
+ 64936c190b44da1a092c0c9c125b2af6 Packages
+ 6452bbe2814caec9864e51fe63566177 Packages.bz2
