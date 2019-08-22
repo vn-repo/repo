@@ -97,10 +97,10 @@ Section: TQM
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusiongreen
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusiongreen
 Filename: ./debs/com.tqm-mos.fusiongreen_1.0_iphoneos-arm.deb
-Size: 44438710
-MD5sum: 6827306211bf4f109d24818860efe450
-SHA1: 0dd64ec3222b20efb5241066ae0e5de5dbc44395
-SHA256: 2c33036ee6e09a562098fa569f1685f7e23e4c17787ea3ef6ed03a8486dff029
+Size: 44517396
+MD5sum: 8337ada44f382c2c0424ff60371bb8c6
+SHA1: 4b1b436d774ee1f35dee5eb96bf13911642a3676
+SHA256: b4a69b69d3a6e7c5bdeb51a5b5a85fb1df47c290f8f3f905ae72a9e34f8f6b2d
 
 Package: com.tqm-mos.fusionpink
 Name: Fusion Pink
@@ -114,10 +114,10 @@ Section: TQM
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionpink
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionpink
 Filename: ./debs/com.tqm-mos.fusionpink_1.0_iphoneos-arm.deb
-Size: 35637150
-MD5sum: ecea20206400f05d5944d0ed956aa358
-SHA1: 7b4ff5c9f8eb2813bc629f71b2587785059ea30a
-SHA256: abd0f41d1449e134c9e15797752c91a05b7fde070dbd49ba7215e7560c012ecb
+Size: 35716952
+MD5sum: 64f661739f9d3db667bda6cb5f940a16
+SHA1: d9c2f835cb23938079e3290369841af2048beaa3
+SHA256: a06ba7cd9cf655e035021aa40d7946c9e81993040cf06b8f2700b8930a93c884
 
 Package: com.tqm-mos.BuufJuiced
 Name: BuufJuiced
@@ -165,10 +165,10 @@ Section: TQM
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusioncyan
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusioncyan
 Filename: ./debs/com.tqm-mos.fusioncyan_1.0_iphoneos-arm.deb
-Size: 33197156
-MD5sum: a376f1b95d44ea00975851f5217f7a37
-SHA1: 65696267ffa74123eaee1aba447628ba66205c3e
-SHA256: 1e6281867d9e79e72032b96e0f4c6e24c7c506016a89a21c81ed160a88a98f77
+Size: 34026508
+MD5sum: 4b23dac1219e092eff237c73ec81950e
+SHA1: df768796c57df1ac6a4ca19612087268c52152d9
+SHA256: 8e321932ce928c739836d0713a837e05f60ffee7d8b21be4fb1b84886bed3c94
 
 Package: com.tqm-mos.fusionred
 Name: Fusion Red
@@ -182,10 +182,27 @@ Section: TQM
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionred
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionred
 Filename: ./debs/com.tqm-mos.fusionred_1.0_iphoneos-arm.deb
-Size: 33324574
-MD5sum: 59930e46762e607db50313ddd2b98fcc
-SHA1: ad1118a66bacc237c7014558eccd3001dc3c6ed6
-SHA256: 24245ebb2b9f5a43261bde1337aee531d58b3a116680f1131722fb9f327d8fd3
+Size: 33400758
+MD5sum: 54def2f5816139a87a3160f53fab084e
+SHA1: a638e2c94e5d4b28eee084b063057d2ff8dc16c1
+SHA256: 3c4820b8119fcc4a8496b7d764ca961efa92f316493c50406e31cac3b98e93d2
+
+Package: com.tqm-mos.fusionwhite
+Name: Fusion White
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionwhite
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionwhite
+Filename: ./debs/com.tqm-mos.fusionwhite_1.0_iphoneos-arm.deb
+Size: 9624678
+MD5sum: 9b44bb44f368dd73c8a9c675047c6710
+SHA1: 4b09c1dadbc26c432eeb0c4db9d093d40d3fa5f0
+SHA256: f245d15b4b5c56d3f1c4edae9ee88b3b16659a26dc3c0be8e211b25d42c2c92f
 
 Package: com.tqm-mos.sbfusioncyan
 Name: SB Fusion Cyan (4,7-Plus-IpX)
