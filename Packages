@@ -199,10 +199,10 @@ Section: TQM
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionwhite
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionwhite
 Filename: ./debs/com.tqm-mos.fusionwhite_1.0_iphoneos-arm.deb
-Size: 9624678
-MD5sum: 9b44bb44f368dd73c8a9c675047c6710
-SHA1: 4b09c1dadbc26c432eeb0c4db9d093d40d3fa5f0
-SHA256: f245d15b4b5c56d3f1c4edae9ee88b3b16659a26dc3c0be8e211b25d42c2c92f
+Size: 9624654
+MD5sum: 791f2c64b7cd5e2f4d22112b7ed63715
+SHA1: a5682ead022ac161df70a1844510308c8b04bd07
+SHA256: fd9f71876bc808c785d3f59d447c0e5b2a501627a6bbb4650ce80f9515c0f98a
 
 Package: com.tqm-mos.sbfusioncyan
 Name: SB Fusion Cyan (4,7-Plus-IpX)
