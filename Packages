@@ -96,6 +96,79 @@ MD5sum: f49015884e75305c33ccfbc5421de7b9
 SHA1: 756eb8cbcdaf4e6314bf3cb90e82a56e1230a20d
 SHA256: 82fbbab1e06a36a9d385c12fb2d6586841a81787f3421d255a61b1c00c9e0b84
 
+Package: com.tam-mos.proudlockxr
+Name: ProudLock Xr
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: QM
+Author: Sniper_GER <sniperger@festival.ml>
+Section: IOS12
+Version: 0.3
+Installed-Size: 4732
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.iconlock
+Filename: ./debs/com.tam-mos.proudlockxr_0.3_iphoneos-arm.deb
+Size: 1376984
+MD5sum: 3613d3b0f6da431f6ed3102b3049fae2
+SHA1: 7e835fb7215c9d4c96e90f8661c9a0bada22cc18
+SHA256: 2eeb536bc31bd49f242da4d1ba79f41f3a2b2c5b6534938b08eea51f0e559a33
+
+Package: com.tqm-mos.appstoreplusplus12
+Name: AppStore++
+Version: 0.9.6-1
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.1.2
+Section: IOS12
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces:
+Priority: optional
+Architecture: iphoneos-arm
+Author: CokePokes
+dev: mos
+Maintainer: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appstore
+Filename: ./debs/com.tqm-mos.appstoreplusplus12_0.9.6-1_iphoneos-arm.deb
+Size: 1315144
+MD5sum: 50a292f404fdd8d73868f37c79ea5626
+SHA1: bb7614feddca2b6087907e59f634834c6678ed70
+SHA256: f3c5b8a2f92ee975480614acceaa3ad7f70fbd9f0d8386d4faa616a97b32ba88
+
+Package: com.tqm-mos.proudlock
+Name: ProudLock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: QM
+Author: Sniper_GER <sniperger@festival.ml>
+Section: IOS11
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.iconlock
+compatible_min::11.0
+compatible_max::11.3.1
+Version: 0.2-1
+Installed-Size: 656
+Filename: ./debs/com.tqm-mos.proudlock_0.2-1_iphoneos-arm.deb
+Size: 99658
+MD5sum: f170e1e61d43c1ca8713afd0c20bfe66
+SHA1: ab2d978efef26b972c90ff8b357eb376739bb13e
+SHA256: 61222bda7807dadcbaea8219884c95d754f3332819cd1605e2d89034fdd32c02
+
+Package: com.tqm-mos.zalo2
+Version: 5.1.2
+Section: Applications
+Maintainer: QM
+Architecture: iphoneos-arm
+Name: Zalo 2
+Author: @tqmmos
+Depends: mobilesubstrate
+Description: App New Zalo 2
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.zalo2
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.zalo2
+Filename: ./debs/com.tqm-mos.zalo2_5.1.2_iphoneos-arm.deb
+Size: 21647912
+MD5sum: a982b908ffe007d0290e1b43e80fef2c
+SHA1: 30e9c335eb624ad22eedcfe63bbfcbed4d92ee14
+SHA256: 94181dc4d6a2521124dea79daea3ea09e81ba5227a40a307c207477e68ec5a9b
+
 Package: com.tqm-mos.coral
 Name: Coral
 Version: 1.1
