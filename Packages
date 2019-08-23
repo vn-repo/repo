@@ -80,6 +80,54 @@ MD5sum: fff6285dfd1e7a60d6863ed54f8f8813
 SHA1: b7f0314c2b2a3aaa427d461fca744462baea264e
 SHA256: 0e26d2b2d6aa5a415cf26b40e466f6e0bb708c4b08c1979b789d23aa7f2859c3
 
+Package: com.tqm-mos.cobalt
+Name: Cobalt
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Maintainer: QM
+Author: @tqmmos
+Section: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.cobalt
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.cobalt
+Filename: ./debs/com.tqm-mos.cobalt_1.0_iphoneos-arm.deb
+Size: 5599784
+MD5sum: f49015884e75305c33ccfbc5421de7b9
+SHA1: 756eb8cbcdaf4e6314bf3cb90e82a56e1230a20d
+SHA256: 82fbbab1e06a36a9d385c12fb2d6586841a81787f3421d255a61b1c00c9e0b84
+
+Package: com.tqm-mos.coral
+Name: Coral
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Maintainer: QM
+Author: @tqmmos
+Section: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.coral
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.coral
+Filename: ./debs/com.tqm-mos.coral_1.1_iphoneos-arm.deb
+Size: 29556808
+MD5sum: 4e02e6d4f22245379bcfd3c0a6bac92b
+SHA1: 0b56929d4d051eda7e6fba1e3ec7b737c5b4dfb1
+SHA256: 6286b078f8864928426d2f4053ce6e5321beaaa72e915ecd858847c817177926
+
+Package: com.tqm-mos.coral2
+Name: Coral 2.0
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Maintainer: QM
+Author: @tqmmos
+Section: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.coral2
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.coral2
+Filename: ./debs/com.tqm-mos.coral2_1.0_iphoneos-arm.deb
+Size: 31700926
+MD5sum: 78f69398959415eebda6c4c5d8315837
+SHA1: 0462d2781665787d3f2b841e09528c5a473efb78
+SHA256: 1717314cda2e19ede588cd3116c845f26e0b3e43f1b5dd26758ce63c58b4b038
+
 Name: FaceID
 Package: com.tqm-mos.faceid
 Conflicts: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy, org.thebigboss.appellancy
