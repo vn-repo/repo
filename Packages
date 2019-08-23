@@ -47,6 +47,39 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.classicios6
+Name: iOS 6 - Themes
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Một bộ chủ đề mang hơi hướng phong cách của ios6 khá đẹp 
+Maintainer: QM
+Author: @tqmmos
+Section: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.classicios6
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.classicios6
+Filename: ./debs/com.tqm-mos.classicios6_1.2_iphoneos-arm.deb
+Size: 12601458
+MD5sum: 1220a8333ca75e73c0c00ab3eee5e5c8
+SHA1: 8b9f3745175fed66c2ac426a4f8da006a5987ad4
+SHA256: 6a717cd6a1fe8278a003836c0c1559cd43c7fbca8d6a15f07213ec07aef4a3b1
+
+Package: com.tqm-mos.robored
+Name: Robo Red
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.robored
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.robored
+Filename: ./debs/com.tqm-mos.robored_1.0_iphoneos-arm.deb
+Size: 11447104
+MD5sum: fff6285dfd1e7a60d6863ed54f8f8813
+SHA1: b7f0314c2b2a3aaa427d461fca744462baea264e
+SHA256: 0e26d2b2d6aa5a415cf26b40e466f6e0bb708c4b08c1979b789d23aa7f2859c3
+
 Name: FaceID
 Package: com.tqm-mos.faceid
 Conflicts: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy, org.thebigboss.appellancy
