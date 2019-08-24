@@ -47,6 +47,25 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.13hud
+Name: 13HUD
+Version: 1.0.1
+Section: IOS12
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Conflicts: applebetas.ios.tweak.willow, es.ubikstyl.sonus12, org.fwdr.sonus, com.midkin.byebyehud, me.nepeta.flashyhud, com.lnx.aerify, com.ruler225.videohud, me.nepeta.brokenhud, com.ikilledappl3.switchhud, com.yakir.volhud
+Installed-Size: 368
+Author: Muirey03
+Maintainer: QM
+Description: iOS 13 volume HUD for iOS 11/12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.13hud
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.13hud
+Filename: ./debs/com.tqm-mos.13hud_1.0.1_iphoneos-arm.deb
+Size: 51640
+MD5sum: 677250ec5747bc21e088599831b7802e
+SHA1: 03191ffc0ed6468f0054c902274ae72058ad599a
+SHA256: 80f74993a3c1c0ebbbe3319177c1cd97662460c55653d86b6ef2d006fc5b5b2f
+
 Package: com.tqm-mos.classicios6
 Name: iOS 6 - Themes
 Version: 1.2
@@ -152,22 +171,196 @@ MD5sum: f170e1e61d43c1ca8713afd0c20bfe66
 SHA1: ab2d978efef26b972c90ff8b357eb376739bb13e
 SHA256: 61222bda7807dadcbaea8219884c95d754f3332819cd1605e2d89034fdd32c02
 
-Package: com.tqm-mos.zalo2
-Version: 5.1.2
-Section: Applications
-Maintainer: QM
+Package: com.tqm-mos.anemone3-extsb
+Name: Anemone 3 SpringBoard Extension Pack
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, com.tqm-mos.anemone3 (>=3.0~beta8)
+Provides: org.coolstar.classicdock, org.coolstar.classicbadges
+Replaces: org.coolstar.classicdock, org.coolstar.classicbadges
+Version: 3.0~beta10
 Architecture: iphoneos-arm
-Name: Zalo 2
-Author: @tqmmos
-Depends: mobilesubstrate
-Description: App New Zalo 2
-Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.zalo2
-SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.zalo2
-Filename: ./debs/com.tqm-mos.zalo2_5.1.2_iphoneos-arm.deb
-Size: 21647912
-MD5sum: a982b908ffe007d0290e1b43e80fef2c
-SHA1: 30e9c335eb624ad22eedcfe63bbfcbed4d92ee14
-SHA256: 94181dc4d6a2521124dea79daea3ea09e81ba5227a40a307c207477e68ec5a9b
+Description: An awesome theme manager!
+SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.anemonetheming.anemone3-extsb
+Depiction: https://tqm-mos.github.io/description.html?id=anemone3
+Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
+Maintainer: QM <anhminh311105@gmail.com>
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Section: Anemone 3
+Filename: ./debs/com.tqm-mos.anemone3-extsb_3.0~beta10_iphoneos-arm.deb
+Size: 65100
+MD5sum: ef0fe882671d23ddadcf675108fb215d
+SHA1: 57e361e4fda0e38dc650f398b44e1bad327fbf17
+SHA256: 2190cfc326607abcd92cc1bb05d0d6997e6033fa7cea0249813fc21f26fd7e2a
+
+Package: com.tqm-mos.anemone3
+Name: Anemone 3
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, pincrush, firmware (>=12.2) | org.swift.libswift (>=5.0)
+Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Version: 3.0~beta15-1
+Architecture: iphoneos-arm
+Description: An awesome theme manager!
+Depiction: https://tqm-mos.github.io/description.html?id=anemone3
+SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.anemonetheming.anemone3
+Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
+Maintainer: QM <anhminh311105@gmail.com>
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Section: Anemone 3
+Filename: ./debs/com.tqm-mos.anemone3_3.0~beta15-1_iphoneos-arm.deb
+Size: 799848
+MD5sum: c1b5cfe69765c6f87765fbb0aab23ff8
+SHA1: 3f53893f68663ffa600fab42beb3c6e1d9b8b46a
+SHA256: 86cfd555a049b9f21e389e1da3a5efad48bc8bdcb64fa32a769926731b48c16a
+
+Package: com.tqm-mos.anemone3
+Name: Anemone 3
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, pincrush, firmware (>=12.2) | org.swift.libswift (>=5.0)
+Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Version: 3.0~beta14-1
+Architecture: iphoneos-arm
+Description: An awesome theme manager!
+Depiction: https://tqm-mos.github.io/description.html?id=anemone3
+SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.anemonetheming.anemone3
+Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
+Maintainer: QM <anhminh311105@gmail.com>
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Section: Anemone 3
+Filename: ./debs/com.tqm-mos.anemone3_3.0~beta14-1_iphoneos-arm.deb
+Size: 799984
+MD5sum: 70e7204b2795b2dc472cbacdcdf887c4
+SHA1: fd435b992fcfce638e793f53f80e7af5e6610408
+SHA256: 5131f0fe49f5a46ad83e5000b541220d4d06349fabc41f4ad4460f780d321c3c
+
+Package: com.tqm-mos.appadmin
+Name: App Admin
+Version: 1.0r-102
+Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appstore
+Section: System
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider
+Priority: optional
+Architecture: iphoneos-arm
+Author: UnlimApps Inc.
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.appadmin_1.0r-102_iphoneos-arm.deb
+Size: 850128
+MD5sum: 0aaf8f0b57f2cb8a5147ec12b2bf072b
+SHA1: cff5cedfda90039463e111881427bebdc6ef3543
+SHA256: c4a9d8b719626d1a523a82239d9bcd80091ea9abb4111cac1d07e73554a4bdc5
+
+Package: com.tqm-mos.fbmpp
+Name: Messenger ++
+Version: 1.0r-68
+Description: The all in one tweak for Facebook Messenger!
+Depiction: https://beta.unlimapps.com/depiction/com.unlimapps.fbmpp
+Section: System
+Depends: firmware (>= 5.0), mobilesubstrate, com.unlimapps.uasharedtools
+Priority: optional
+Architecture: iphoneos-arm
+Author: UnlimApps Inc.
+Maintainer: QM
+Filename: ./debs/com.tqm-mos.fbmpp_1.0r-68_iphoneos-arm.deb
+Size: 462154
+MD5sum: acfc7d90a2bdbe5e990b39bae6232b03
+SHA1: 9a734118ff3bcefa038fea1706e8fc7d7062f4f8
+SHA256: cdb7489b0f6f1e06aa4f50e265c08b0c8ff39e69e045b8412b2428ff10a31130
+
+Package: com.tqm-mos.jodeboxlib
+Name: libjodebox
+Version: 1.0r-7
+Description: Developer library for easy access to JODebox import functions source at https://github.com/eni9889/libjodebox
+Section: System
+Depends: firmware (>= 7.0), com.ouraigua.jodebox, com.rpetrich.rocketbootstrap
+Priority: optional
+Architecture: iphoneos-arm
+Author: UnlimApps Inc <support@unlimapps.com>
+Maintainer: QM <anhminh311105@gmail.com>
+dev: i4iphones
+Filename: ./debs/com.tqm-mos.jodeboxlib_1.0r-7_iphoneos-arm.deb
+Size: 28996
+MD5sum: 029d1b82329948c8b893151eeea17a65
+SHA1: ea359ce31072e3f861a4177d5366d8a8fdabcd52
+SHA256: a6f5de89412b349dc50fc9f44ec5aab36c3989812319015853db10ae97d2c22e
+
+Author: UnlimApps Inc. <support@unlimapps.com>
+Maintainer: QM <anhminh311105@gmail.com>
+Name: uasharedtools (iOS 11)
+Package: com.tqm-mos.nostash
+Provides: com.unlimapps.uasharedtools.virtual
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools, com.unlimapps.uasharedtools.stash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Section: Development
+Replaces: com.unlimapps.uasharedtools.stash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Version: 2.2r-94
+Architecture: iphoneos-arm
+Description: shared tools for unlimapps tweaks
+dev: i4iphones
+Tag: purpose::library, role::developer
+Filename: ./debs/com.tqm-mos.nostash_2.2r-94_iphoneos-arm.deb
+Size: 19769118
+MD5sum: 46655c35719eb09d00c049e4e83e21d5
+SHA1: 177deaedb454f552aa2bf7e502f6c36265930bbf
+SHA256: 63ce4a3d50f3b03d9e0aa8e2e02f910c1cc9847c02bc95c5049755c337039311
+
+Package: com.tqm-mos.uamediaexporthelper10
+Name: uamediaexporthelper
+Version: 1.0r-15
+Description: Developer library for easy access to JODebox import functions source at https://github.com/eni9889/libjodebox
+Section: System
+Depends: firmware (>= 7.0), com.ouraigua.jodebox (>= 3.0.1), com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.jodeboxlib, com.tqm-mos.jodeboxlib
+Priority: optional
+Architecture: iphoneos-arm
+Author: UnlimApps Inc <support@unlimapps.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+dev: i4iphones
+Filename: ./debs/com.tqm-mos.uamediaexporthelper10_1.0r-15_iphoneos-arm.deb
+Size: 29918
+MD5sum: 6a2a2fda72f1270cdc5896731bb82d92
+SHA1: c19dba14d411b041b09b18cc3248ff900ddc4e4d
+SHA256: 2455f9610abdb076f643906f43213748d736bba3c390635c67763689001b64ea
+
+Author: UnlimApps Inc <support@unlimapps.com>
+Maintainer: QM <anhminh311105@gmail.com>
+Package: com.tqm-mos.ytpp
+Name: YT ++ for YouTube
+Version: 1.4r-100
+Description: Download all YouTube Videos! Continue background playback and much more!!!
+Depends: mobilesubstrate, firmware (>= 7.0),com.tqm-mos.uamediaexporthelper10 (>= 1.0r-15) | firmware (>= 10.0), com.unlimapps.uasharedtools (>= 2.2r-87)
+Conflicts: me.freemanrepo.cercube, com.cydia00.ytpp, com.tqm-mos.jodeboxlib
+Priority: optional
+Architecture: iphoneos-arm
+dev: i4iphones
+Tag: purpose::extension, role::enduser
+Section: Tweaks
+Filename: ./debs/com.tqm-mos.ytpp_1.4r-100_iphoneos-arm.deb
+Size: 6684018
+MD5sum: 58a5dadec63ff529c1200ae146cb0c38
+SHA1: de6ac6954840402a2120fca1f095b907ac77c281
+SHA256: aabeb27c4d2b2b779737071ff76ff80a9d97c91f16d725afe42e1b08bca0a4a9
+
+Homepage: https://beta.unlimapps.com/depiction/com.unlimapps.uasharedtools/
+Depiction: https://beta.unlimapps.com/depiction/com.unlimapps.uasharedtools/
+Author: UnlimApps Inc. <support@unlimapps.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: uasharedtools
+Package: com.unlimapps.uasharedtools
+Depends: com.unlimapps.uasharedtools.nostash | com.unlimapps.uasharedtools.stash
+Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools
+Section: Development
+Version: 2.2r-94
+Architecture: iphoneos-arm
+Description: shared tools for unlimapps tweaks
+dev: i4iphones
+Tag: purpose::library, role::developer
+Filename: ./debs/com.unlimapps.uasharedtools_2.2r-94_iphoneos-arm.deb
+Size: 672
+MD5sum: 61343b122411318868863f20160f0af0
+SHA1: 88614137ffa452d0afc8e726b8996f0d0603dec7
+SHA256: 2e60afd7ba17f1ed88bce107c0e5a8ba00b12335d9fdbd7b850802e9734c2a1d
 
 Package: com.tqm-mos.coral
 Name: Coral
