@@ -68,6 +68,23 @@ MD5sum: 5295faeeca090cd2c49860cdf57ad9b6
 SHA1: ed7eb2e91cebc1e7c4a99972de1b345ae942d200
 SHA256: 9b6708a4cda37ea09078c6107853e0d972c3a0ab0257090e2494f5b3e4386226
 
+Package: com.tqm-mos.cosemacpro
+Name: CoseMac Pro
+Author: @tqmmos
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Widget for Xen HTML
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cosemacpro
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cosemacpro
+Filename: ./debs/com.tqm-mos.cosemacpro_1.0.1_iphoneos-arm.deb
+Size: 98392
+MD5sum: 000f4c1ada0567babaf4d5142e39130b
+SHA1: 487d1beba9700ff6d931bb837b36f3b9cdac2bc5
+SHA256: 08288ab5cec06110d6df1668195ce8d75073937e477331fceee7364dd9cef383
+
 Package: com.matchstic.xenhtml
 Name: Xen HTML
 Version: 0.6.5-6
