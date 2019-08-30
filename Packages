@@ -191,7 +191,7 @@ Maintainer: QM
 Version: 1.0.5
 Section: IOS12
 Depends: mobilesubstrate, preferenceloader, me.pulandres.foxforttools, me.pulandres.libfoxfortutils64, org.swift.libswift (>= 5.0)
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.por
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portraitxi
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portraitxi
 Architecture: iphoneos-arm
 Installed-Size: 32544
