@@ -130,24 +130,58 @@ MD5sum: 068f03303896d2c3856c0edee5919640
 SHA1: fc06ed5d7b49122bd433cb43bc1dc87748a2fb2c
 SHA256: 1c3abec72e043351486ccdca9f7835d0e5e5328296a7fb5f54581734a7a8f654
 
-Package: tqm-mos.foxforttools
+Package: me.pulandres.foxforttools
 Name: FoxFort Tools
 Author: FoxfortMobile
 Description: Helper tools for Foxfort tweaks
-Maintainer: QM
+Maintainer: Pulandres
 Version: 1.0.7
-Section: System
-Depends: mobilesubstrate, me.pulandres.libfoxfortutils64
-Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, net.kenhtao.foxforttools, net.kenhtao.libfoxfortutils64
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fox
+Section: Tweaks
+Depends: mobilesubstrate, me.pulandres.libfoxfortutils64 | me.pulandres.libfoxfortutils64e
+Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack
 Architecture: iphoneos-arm
 Installed-Size: 640
 Tag: role::developer
-Filename: ./debs/tqm-mos.foxforttools_1.0.7_iphoneos-arm.deb
-Size: 233068
-MD5sum: aa2512f32a52909365d6760350076e36
-SHA1: ddda5252aace159f8e4342f69ce81f9247ba14ac
-SHA256: 87308bb95ede40365a3b7ed30f7bba88bccdcc34a39992b8bb4eb8f60a4e1672
+Filename: ./debs/me.pulandres.foxforttools_1.0.7_iphoneos-arm.deb
+Size: 233064
+MD5sum: 52521b2be345a730c4774fd06beaef3f
+SHA1: 29289fc5ec431d1b7135f46befbb4d6436236343
+SHA256: be508b3e846e27740085f548451f5d2a652444d5db691436790c32fbf67db41b
+
+Package: com.yourepo.tqm.bettercciconsprocracked
+Name: BetterCCIconsPro Cracked
+Author: dev4i <chrisink22@gmail.com>
+Description: Better Icons tuỳ chỉnh cc controllcenter
+Maintainer: QM
+Version: 1.7.5
+Section: Tweaks
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Conflicts: com.yourepo.dev4i.bettercciconslite
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bettercciconsprocracked
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bettercciconsprocracked
+Architecture: iphoneos-arm
+Filename: ./debs/com.yourepo.tqm.bettercciconsprocracked_1.7.5_iphoneos-arm.deb
+Size: 132880
+MD5sum: 31d13e57b28e2fbb24bb9fe8c3ac2c1d
+SHA1: e98930af02a44c150e98017b10391ec0de730b60
+SHA256: 87f26187d6689acbfe03203e12755a74a4df9c2122690adf78efcb9a0435fbad
+
+Package: tqm-mos.icamerax
+Version: 0.2-3
+Section: Tweaks
+Maintainer: QM
+Description: Bổ sung các tính năng dành cho máy ảnh trên iPhone của bạn.thêm zoom x
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: iCamerax Cracked
+Author: Victor Tim
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.icamerax
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.icamerax
+Filename: ./debs/tqm-mos.icamerax_0.2-3_iphoneos-arm.deb
+Size: 17742
+MD5sum: f7500a45320bd5da41d28cc8a8a185bb
+SHA1: 5e085888e511274d674a925d36f544edeb2b62e8
+SHA256: e6ce5d33311e2e6154109e38994a718696cc07d68a96d89a9c8dde5a9a12392f
 
 Package: com.tqm-mos.portraitxi64
 Name: PortraitXI Cracked (arm64)
@@ -156,7 +190,7 @@ Description: Single camera portrait mode
 Maintainer: QM
 Version: 1.0.5
 Section: IOS12
-Depends: mobilesubstrate, preferenceloader, tqm-mos.foxforttools, me.pulandres.libfoxfortutils64, org.swift.libswift (>= 5.0)
+Depends: mobilesubstrate, preferenceloader, me.pulandres.foxforttools, me.pulandres.libfoxfortutils64, org.swift.libswift (>= 5.0)
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.por
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portraitxi
 Architecture: iphoneos-arm
@@ -507,7 +541,7 @@ Author: UnlimApps Inc. <support@unlimapps.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: uasharedtools
 Package: com.unlimapps.uasharedtools
-Depends: com.unlimapps.uasharedtools.nostash | com.unlimapps.uasharedtools.stash
+Depends: com.tqm-mos.nostash | com.tqm-mos.uasharedtools
 Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools
 Section: Development
 Version: 2.2r-94
@@ -1585,7 +1619,7 @@ Priority: required
 Architecture: iphoneos-arm
 Author: Lakr Aream
 dev: Lakr Aream
-ESSENTIAL: Yes
+ESSENTIAL: NO
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.saily
 SileoDepiction: https://raw.githubusercontent.com/Co2333/Saily-Store/master/IO/Saily-ND.json
 Maintainer: QM
