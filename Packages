@@ -183,24 +183,24 @@ MD5sum: f7500a45320bd5da41d28cc8a8a185bb
 SHA1: 5e085888e511274d674a925d36f544edeb2b62e8
 SHA256: e6ce5d33311e2e6154109e38994a718696cc07d68a96d89a9c8dde5a9a12392f
 
-Package: com.tqm-mos.portraitxi64
+Package: me.pulandres.portraitxi64
 Name: PortraitXI Cracked (arm64)
 Author: FoxfortMobile
 Description: Single camera portrait mode
-Maintainer: QM
+Maintainer: Pulandres
 Version: 1.0.5
-Section: IOS12
-Depends: mobilesubstrate, preferenceloader, me.pulandres.foxforttools, me.pulandres.libfoxfortutils64, org.swift.libswift (>= 5.0)
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools | me.pulandres.foxforttools, me.pulandres.libfoxfortutils64, org.swift.libswift (>= 5.0)
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portraitxi
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portraitxi
 Architecture: iphoneos-arm
 Installed-Size: 32544
 Icon: file:///Library/PreferenceBundles/portraitxisettings.bundle/icon@3x.png
-Filename: ./debs/com.tqm-mos.portraitxi64_1.0.5_iphoneos-arm.deb
-Size: 23812032
-MD5sum: 3c01b85573f38b3528e4b1ca9e47caaa
-SHA1: 1f31dba93c768833b115d99c4563fdfe35d0833d
-SHA256: 461a9132475ea6e3ea4fb63ae43f8f8097055af050c0f479aa830c7cd310ad4d
+Filename: ./debs/me.pulandres.portraitxi64_1.0.5_iphoneos-arm.deb
+Size: 29267712
+MD5sum: 8d9354c1130f98fc58ceedfa7039608b
+SHA1: 3d14d36e811d91acdf042fdcc5149163d90f2c0e
+SHA256: 5a316977c0bc77efffea52b9c2c21a4d893e2ef794e41d3b40a9f8b848d6202d
 
 Package: com.tqm-mos.cosemacpro
 Name: CoseMac Pro
