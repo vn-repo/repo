@@ -163,10 +163,10 @@ Architecture: iphoneos-arm
 Installed-Size: 32544
 Icon: file:///Library/PreferenceBundles/portraitxisettings.bundle/icon@3x.png
 Filename: ./debs/com.tqm-mos.portraitxi64_1.0.5_iphoneos-arm.deb
-Size: 23633906
-MD5sum: c4b29b3531d24ec56b7b7fad8683c965
-SHA1: 6bfe49491047c752dedb09a1e7928ac55dda13ec
-SHA256: f15e37deaa61195db896ebc5f98aa6a5ca7f299fb06dd1895a4efc41fc424a9f
+Size: 23812032
+MD5sum: 3c01b85573f38b3528e4b1ca9e47caaa
+SHA1: 1f31dba93c768833b115d99c4563fdfe35d0833d
+SHA256: 461a9132475ea6e3ea4fb63ae43f8f8097055af050c0f479aa830c7cd310ad4d
 
 Package: com.tqm-mos.cosemacpro
 Name: CoseMac Pro
