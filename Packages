@@ -68,6 +68,106 @@ MD5sum: 5295faeeca090cd2c49860cdf57ad9b6
 SHA1: ed7eb2e91cebc1e7c4a99972de1b345ae942d200
 SHA256: 9b6708a4cda37ea09078c6107853e0d972c3a0ab0257090e2494f5b3e4386226
 
+Package: com.tqm-mos.reprovision
+Name: ReProvision
+Version: 0.4.3
+Description: Re-sign applications on your device
+Section: System
+Depends: firmware (>= 9.0)
+Priority: optional
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: QM <matt@incendo.ws>
+SileoDepiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.repro
+Filename: ./debs/com.tqm-mos.reprovision_0.4.3_iphoneos-arm.deb
+Size: 10539166
+MD5sum: cd26ff0bc091ab4e69ece6c50e963c01
+SHA1: 643b4e409699f1f893852fd838a917418a3636c4
+SHA256: a5faca670f0b6ab247428c6e75fadcc81ead218868a2ce85a1e695fa12b3a4d8
+
+Package: me.pulandres.libfoxfortutils64
+Name: libfoxfortutils64
+Author: FoxfortMobile
+Description: Basic utilities for Foxfort tweaks
+Maintainer: Pulandres
+Version: 1.0.9
+Section: System
+Depends: firmware (>= 7.0)
+Depiction: https://repo.pulandres.me/index.php?pid=429
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=429
+Architecture: iphoneos-arm
+Installed-Size: 840
+Tag: role::developer
+Filename: ./debs/me.pulandres.libfoxfortutils64_1.0.9_iphoneos-arm.deb
+Size: 151090
+MD5sum: b44382d4c79b28dc078b23fe24e4092c
+SHA1: 9e4e70d57210db803574cb396da04d5198298cb3
+SHA256: 41eca564d5b3f450d7eb8ab0a61ad40c2a5019322b3ed1e0ed87002be9e6a4a5
+
+Package: org.swift.libswift
+Depends: firmware (>= 7.0)
+Name: libswift (stable)
+Version: 5.0
+Architecture: iphoneos-arm
+Description: Swift runtime for iOS
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libswiftDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libswiftDp
+Installed-Size: 183124
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Kabir Oberai <oberai.kabir+libswift@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Development
+dev: kabiroberai
+Tag: purpose::extension, compatible::ios12
+Filename: ./debs/org.swift.libswift_5.0_iphoneos-arm.deb
+Size: 50716672
+MD5sum: 068f03303896d2c3856c0edee5919640
+SHA1: fc06ed5d7b49122bd433cb43bc1dc87748a2fb2c
+SHA256: 1c3abec72e043351486ccdca9f7835d0e5e5328296a7fb5f54581734a7a8f654
+
+Package: tqm-mos.foxforttools
+Name: FoxFort Tools
+Author: FoxfortMobile
+Description: Helper tools for Foxfort tweaks
+Maintainer: QM
+Version: 1.0.7
+Section: System
+Depends: mobilesubstrate, me.pulandres.libfoxfortutils64
+Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, net.kenhtao.foxforttools, net.kenhtao.libfoxfortutils64
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fox
+Architecture: iphoneos-arm
+Installed-Size: 640
+Tag: role::developer
+Filename: ./debs/tqm-mos.foxforttools_1.0.7_iphoneos-arm.deb
+Size: 233068
+MD5sum: aa2512f32a52909365d6760350076e36
+SHA1: ddda5252aace159f8e4342f69ce81f9247ba14ac
+SHA256: 87308bb95ede40365a3b7ed30f7bba88bccdcc34a39992b8bb4eb8f60a4e1672
+
+Package: com.tqm-mos.portraitxi64
+Name: PortraitXI Cracked (arm64)
+Author: FoxfortMobile
+Description: Single camera portrait mode
+Maintainer: QM
+Version: 1.0.5
+Section: IOS12
+Depends: mobilesubstrate, preferenceloader, tqm-mos.foxforttools, me.pulandres.libfoxfortutils64, org.swift.libswift (>= 5.0)
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.por
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portraitxi
+Architecture: iphoneos-arm
+Installed-Size: 32544
+Icon: file:///Library/PreferenceBundles/portraitxisettings.bundle/icon@3x.png
+Filename: ./debs/com.tqm-mos.portraitxi64_1.0.5_iphoneos-arm.deb
+Size: 23633906
+MD5sum: c4b29b3531d24ec56b7b7fad8683c965
+SHA1: 6bfe49491047c752dedb09a1e7928ac55dda13ec
+SHA256: f15e37deaa61195db896ebc5f98aa6a5ca7f299fb06dd1895a4efc41fc424a9f
+
 Package: com.tqm-mos.cosemacpro
 Name: CoseMac Pro
 Author: @tqmmos
