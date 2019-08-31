@@ -190,7 +190,7 @@ Description: Single camera portrait mode
 Maintainer: Pulandres
 Version: 1.0.5
 Section: Tweaks
-Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools | me.pulandres.foxforttools, me.pulandres.libfoxfortutils64, org.swift.libswift (>= 5.0)
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.portraitxivn, com.foxfort.foxforttools | me.pulandres.foxforttools, me.pulandres.libfoxfortutils64, org.swift.libswift (>= 5.0)
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portraitxi
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portraitxi
 Architecture: iphoneos-arm
@@ -201,6 +201,27 @@ Size: 29267712
 MD5sum: 8d9354c1130f98fc58ceedfa7039608b
 SHA1: 3d14d36e811d91acdf042fdcc5149163d90f2c0e
 SHA256: 5a316977c0bc77efffea52b9c2c21a4d893e2ef794e41d3b40a9f8b848d6202d
+
+Package: com.tqm-mos.portraitxivn
+Version: 1.0
+Priority: optional
+Section: Addons
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: Portraitxi (Gói VH)
+Author: @tqmmos
+Description: Gói Việt Hóa Portraitxi
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portraitxi
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portraitxi
+Architecture: iphoneos-arm
+Installed-Size: 32544
+Icon: file:///Library/PreferenceBundles/portraitxisettings.bundle/icon@3x.png
+Filename: ./debs/com.tqm-mos.portraitxivn_1.0_iphoneos-arm.deb
+Size: 1668
+MD5sum: 9a849c27a6e1fa17ce41f77eb63b5246
+SHA1: f91c300e2264b38f9d24d8150b9b1d7962588bf0
+SHA256: f9a2d4bf130922bdb7b7d28cb97afe5009661297c37fbe0b2f8c5d5edb217a8a
+
 
 Package: com.tqm-mos.cosemacpro
 Name: CoseMac Pro
