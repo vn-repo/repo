@@ -201,7 +201,7 @@ SHA1: 9bf209df332d4e06f58ea115ae82c12ee27d5139
 SHA256: 2cb54e7a368e2717b5619d2d38252109453532404fc385e3482fae2503449745
 
 Package: com.tqm-mos.portraitxivn
-Version: 1.0
+Version: 2.0
 Priority: optional
 Section: Addons
 Maintainer: TQM
@@ -214,12 +214,102 @@ SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portrai
 Architecture: iphoneos-arm
 Installed-Size: 32544
 Icon: file:///Library/PreferenceBundles/portraitxisettings.bundle/icon@3x.png
-Filename: ./debs/com.tqm-mos.portraitxivn_1.0_iphoneos-arm.deb
+Filename: ./debs/com.tqm-mos.portraitxivn_2.0_iphoneos-arm.deb
 Size: 1668
-MD5sum: 9a849c27a6e1fa17ce41f77eb63b5246
-SHA1: f91c300e2264b38f9d24d8150b9b1d7962588bf0
-SHA256: f9a2d4bf130922bdb7b7d28cb97afe5009661297c37fbe0b2f8c5d5edb217a8a
+MD5sum: 683d18a2c9cb93029f19785ae80ea598
+SHA1: d1bd9e8ab21caaea3adc8b346927a410f3d33d88
+SHA256: 39a03d041f75058c9cebf524a8a82019389c835dd0a8f9d35d5978217b073db6
 
+Package: com.pulandres.foxforthack
+Name: FoxfortHack
+Author: ReJail <rejail@rejail.ru>
+Description: Hack to Foxfort tweaks
+Maintainer: Pulandres
+Version: 0.0.3
+Section: Tweaks
+Depends: mobilesubstrate
+Description: Single camera portrait mode
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portraitxi
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portraitxi
+Architecture: iphoneos-arm
+Icon: file:///Library/PreferenceBundles/portraitxisettings.bundle/icon@3x.png
+Filename: ./debs/com.pulandres.foxforthack_0.0.3_iphoneos-arm.deb
+Size: 69836
+MD5sum: f769764f3c236344cffc212a516a3a81
+SHA1: 796b5aac95e48243f12f0eb1034952c1b7bd3b31
+SHA256: 4852fbf353ef72b81e602d22ba3c6ad619ea1f4b51d39496c66c1106922519fb
+
+Package: me.pulandres.foxforttools
+Name: FoxFort Tools
+Author: FoxfortMobile
+Description: Helper tools for Foxfort tweaks
+Maintainer: Pulandres
+Version: 1.0.7~1
+Section: Tweaks
+Depends: mobilesubstrate, me.pulandres.libfoxfortutils64 | me.pulandres.libfoxfortutils64e
+Conflicts: com.hackyouriphone.foxforthack, org.cydia.kiimo.foxforthack
+Replaces: com.foxfort.foxforttools
+Description: Single camera portrait mode
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portraitxi
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portraitxi
+Architecture: iphoneos-arm
+Icon: file:///Library/PreferenceBundles/portraitxisettings.bundle/icon@3x.png
+Filename: ./debs/me.pulandres.foxforttools_1.0.7~1_iphoneos-arm.deb
+Size: 233062
+MD5sum: 52d5cce4ddcf7653cf5eb20a82ca352c
+SHA1: 9ebfdae18da4a1d1f3ce74487c0fb0b404e3bb5b
+SHA256: 8798d0b7cc030c99bb57a66cd7f7d32f61256a44b89f5244270d2187407777f3
+
+Package: me.pulandres.libfoxfortutils64e
+Name: libfoxfortutils64e
+Author: FoxfortMobile
+Description: Basic utilities for Foxfort tweaks
+Maintainer: Pulandres
+Version: 1.0.9
+Section: System
+Depends: firmware (>= 7.0)
+Architecture: iphoneos-arm
+Installed-Size: 840
+Tag: role::developer
+Filename: ./debs/me.pulandres.libfoxfortutils64e_1.0.9_iphoneos-arm.deb
+Size: 143446
+MD5sum: 4fe5dee5009004a6df1e71e06ba86fdd
+SHA1: e4afd7d22253b6647c3c0822dc938108831d61fb
+SHA256: 35dac97e5b9f483023aae8ebce1fdaa6ce07fd778e4a8d62e15a2761eb26a5ae
+
+Package: me.pulandres.translomatic
+Name: Translomatic (arm64) Cracked
+Author: FoxfortMobile
+Description: Quickly translate any text
+Maintainer: Pulandres
+Version: 1.2.10.1
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, me.pulandres.foxforttools, me.pulandres.libfoxfortutils64, com.rpetrich.rocketbootstrap (>= 1.0.3)
+Architecture: iphoneos-arm
+Installed-Size: 976
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+Filename: ./debs/me.pulandres.translomatic_1.2.10.1_iphoneos-arm.deb
+Size: 227742
+MD5sum: cf48632d7cae9a0db64a029cf0a17886
+SHA1: b89858384c53f12315d99909ac6ec77a02c35933
+SHA256: 8a415453e3331ccc12faede9a18aaa14d1caeec4bbddfa4f6e2216fc67e0d8c0
+
+Package: me.pulandres.translomatice
+Name: Translomatic (arm64e A12) Cracked
+Author: FoxfortMobile
+Description: Quickly translate any text
+Maintainer: Pulandres
+Version: 1.2.10.1
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, me.pulandres.foxforttools, me.pulandres.libfoxfortutils64e, com.rpetrich.rocketbootstrap (>= 1.0.3)
+Architecture: iphoneos-arm
+Installed-Size: 976
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+Filename: ./debs/me.pulandres.translomatice_1.2.10.1_iphoneos-arm.deb
+Size: 223386
+MD5sum: b7fb3a810044acbc6eea416e8cdc9f86
+SHA1: 6b1ea0828e26b9f35746e19c7c2700ed009b1db8
+SHA256: fb97fde6e1e2a8f8d4d966ee68ebe0467cdf7070175724359724adb510881ec0
 
 Package: com.tqm-mos.cosemacpro
 Name: CoseMac Pro
