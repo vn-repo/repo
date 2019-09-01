@@ -109,27 +109,6 @@ MD5sum: b44382d4c79b28dc078b23fe24e4092c
 SHA1: 9e4e70d57210db803574cb396da04d5198298cb3
 SHA256: 41eca564d5b3f450d7eb8ab0a61ad40c2a5019322b3ed1e0ed87002be9e6a4a5
 
-Package: org.swift.libswift
-Depends: firmware (>= 7.0)
-Name: libswift (stable)
-Version: 5.0
-Architecture: iphoneos-arm
-Description: Swift runtime for iOS
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libswiftDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libswiftDp
-Installed-Size: 183124
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Author: Kabir Oberai <oberai.kabir+libswift@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-Section: Development
-dev: kabiroberai
-Tag: purpose::extension, compatible::ios12
-Filename: ./debs/org.swift.libswift_5.0_iphoneos-arm.deb
-Size: 50716672
-MD5sum: 068f03303896d2c3856c0edee5919640
-SHA1: fc06ed5d7b49122bd433cb43bc1dc87748a2fb2c
-SHA256: 1c3abec72e043351486ccdca9f7835d0e5e5328296a7fb5f54581734a7a8f654
-
 Package: me.pulandres.foxforttools
 Name: FoxFort Tools
 Author: FoxfortMobile
@@ -207,7 +186,7 @@ Name: PortraitXI Cracked (arm64)
 Author: FoxfortMobile
 Description: Single camera portrait mode
 Maintainer: Pulandres
-Version: 1.0.5.1
+Version: 1.0.5-1
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, com.tqm-mos.portraitxivn, com.foxfort.foxforttools | me.pulandres.foxforttools, me.pulandres.libfoxfortutils64, org.swift.libswift (>= 5.0)
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portraitxi
@@ -222,7 +201,7 @@ SHA1: 9bf209df332d4e06f58ea115ae82c12ee27d5139
 SHA256: 2cb54e7a368e2717b5619d2d38252109453532404fc385e3482fae2503449745
 
 Package: com.tqm-mos.portraitxivn
-Version: 1.0
+Version: 1.1
 Priority: optional
 Section: Addons
 Maintainer: TQM
