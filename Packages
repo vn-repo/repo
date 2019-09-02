@@ -47,6 +47,24 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.fusionviolet
+Name: Fusion Violet
+Author: @tqmmos
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Anemone - Anemone 3 - iThemer - Snowboard - Winterboard 
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: QM
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionviolet
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionviolet
+Filename: ./debs/com.tqm-mos.fusionviolet_1.0_iphoneos-arm.deb
+Size: 19805314
+MD5sum: 39f6b2cda79a2b70020dd3e4e39bac2e
+SHA1: e5a89544b87303b5f241b2dc3e3646f3ab6592c8
+SHA256: f84a47c47af8152d3df3d2238b4f70772a6e28b66a4bc9231a40183dfaa43612
+
 Package: com.matchstic.xenhtml
 Name: Xen HTML
 Version: 0.6.5
@@ -650,7 +668,7 @@ Author: UnlimApps Inc. <support@unlimapps.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: uasharedtools
 Package: com.unlimapps.uasharedtools
-Depends: com.tqm-mos.nostash | com.tqm-mos.uasharedtools
+Depends: com.tqm-mos.uasharedtools
 Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools
 Section: Development
 Version: 2.2r-94
