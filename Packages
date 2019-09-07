@@ -47,6 +47,168 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.dleasy
+Name: DLEasy Cracked
+Author: AhmedBafkir <prooxy0@gmail.com>
+Description: Download images and videos from social apps easily!
+Maintainer: QM
+Version: 2.7.4
+Section: IOS12
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox
+Conflicts: me.pulandres.dleasy
+Replaces: nono
+Architecture: iphoneos-arm
+Installed-Size: 9412
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
+Depiction: http://tqm-mos.github.io/description.html?id=tqm-mos.iconrepo
+SileoDepiction: http://tqm-mos.github.io/description.html?id=tqm-mos.iconrepo
+Filename: ./debs/com.tqm-mos.dleasy_2.7.4_iphoneos-arm.deb
+Size: 1572748
+MD5sum: 9dafde4ee3314cc2791a93bfa6911e83
+SHA1: 7e008e472b921f658bcd9ad2b146a2b5cf1d1959
+SHA256: ade2613edbbd9edcf0e96b823115d2e47cbbeb488d00d5cbc5c6bdae546d38bf
+
+Package: com.tqm-mos.reprovision
+Name: ReProvision
+Version: 0.4.4
+Description: Re-sign applications on your device
+Section: System
+Depends: firmware (>= 9.0)
+Priority: optional
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: QM
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.repro
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.repro
+Filename: ./debs/com.tqm-mos.reprovision_0.4.4_iphoneos-arm.deb
+Size: 10669396
+MD5sum: 30edeb3da55972d87b1db2d1076cef04
+SHA1: 86cd2ac45f3d407d6cbbc2c1b56993b811f780f0
+SHA256: fd173869cd80c60fae1449f3bc16d9a97674725854b6c05ed883320726d03d88
+
+Package: com.tqm-mos.extender-reloaded
+Name: Extender: Reloaded
+Version: 0.4-EOL
+Description: Deprecated: use ReProvision
+Section: System
+Depends: com.tqm-mos.reprovision
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: Matt Clarke <matt@incendo.ws>
+Homepage: https://github.com/Matchstic/Extender-Installer
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.extender-installer.html
+Filename: ./debs/com.tqm-mos.extender-reloaded_0.4-EOL_iphoneos-arm.deb
+Size: 1276
+MD5sum: c65fc12b578f137e3c6cd7de6260deb4
+SHA1: 9a1a22ead34fdde31a304d911776a9e01d0338b0
+SHA256: e086131e1a3f029b4b6139873e5ba70d9d693e4979545f790842374ee97356c8
+
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=otrlocationDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=otrlocationDp
+Author: onTheRoadStudio <ontheroadstudio@live.cn>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Anywhere!--Định vị ảo
+Package: com.tqm-mos.otrlocation
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.rpetrich.rocketbootstrap (>= 1.0.6)
+Section: Tweaks
+Installed-Size: 170521
+Version: 5.5.1
+Architecture: iphoneos-arm
+Description: Hoàn toàn miễn phí địa chỉ và mô hình thiết bị để sửa đổi các tạo phẩm!fake địa chỉ ip tạo các thông số ảo !
+dev: ontheroadstudio
+Icon: file:///Applications/OTRLocation.app/icon.png
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Filename: ./debs/com.tqm-mos.otrlocation_5.5.1_iphoneos-arm.deb
+Size: 59628610
+MD5sum: b16ba9f30af990aba1a0d12ed10bd8c4
+SHA1: f1ee9dea1593111caabd2248961968c577965410
+SHA256: 05094b44a76c1e7513f0beed2e1f88f8151261e4f9765202620f9e9770f89710
+
+Package: com.tqm-mos.st412
+Version: 4.0.8k
+Section: IOS12
+Maintainer: TQM
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Provides: com.springtomize.st4.new
+Replaces: com.springtomize.st4
+Architecture: iphoneos-arm
+Installed-Size: 3368
+Name: Springtomize 4 VH
+Author: sharedRoutine
+Description: Tuỳ biến thiết bị của bạn một cách toàn diện
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st412
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st412
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.st412_4.0.8k_iphoneos-arm.deb
+Size: 945266
+MD5sum: 04539c92afb154d1124088b152898ab9
+SHA1: 0d34b40c621a04921f0ad46ac854abcd8b47c307
+SHA256: 8befac0fb6d7e57d01da563c3f3281e04322e78c7d105346655893e0814eba87
+
+Package: com.tqm-mos.xeninfo
+Version: 2.2.6
+Section: Addons
+Maintainer: QM
+Description: Thông tin về âm nhạc, thời tiết và pin cho XenHTML.
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Installed-Size: 1056
+Name: XenInfo
+Author: JunesIphone & Matchstic
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xeninfo
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xeninfo
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.xeninfo_2.2.6_iphoneos-arm.deb
+Size: 140416
+MD5sum: 57ce2c4c80052db4ad6cb9182b7e6843
+SHA1: 0a6805e039084201f22925bd8e86c1905972f29b
+SHA256: e46c3e88c2d8df584090980ddf5d2018cb837c895db98fe4f85e79f8f3c1902e
+
+Author: opa334 <opa334@protonmail.com>
+Maintainer: QM <bigboss@thebigboss.org>
+Name: CCSupport
+Package: com.tqm-mos.ccsupport
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Provides: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Conflicts: com.ioscreatix.silo
+Section: IOS11
+Installed-Size: 203
+Version: 1.2-3
+Architecture: iphoneos-arm
+Description: Support tweak for CC modules!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+dev: opa334
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.ccsupport_1.2-3_iphoneos-arm.deb
+Size: 35604
+MD5sum: 9976682f0b814bd8f853fc448b6f8525
+SHA1: c362f6dc97470090f906308dd0d9960d99b597fb
+SHA256: 0f6f2b5f3ff7a1c72aca3694ef10a5dd6d44ffac5673ec0f6c778849ee5fb501
+
+Author: jailbreak365 <jailbreak365@mail.com>
+Maintainer: QM <anhminhclub@mail.com>
+Name: CCModules
+Package: com.tqm-mos.safeccmodules
+Section: IOS12
+Version: 1.7
+Architecture: iphoneos-arm
+Description: Control center modules for iOS 11/12. New in v1.4-3: Added SBReload, LDRestart, Sileo, and Zebra modules.
+dev: jailbreak365
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.safeccmodules_1.7_iphoneos-arm.deb
+Size: 1118148
+MD5sum: 83f979a7441c72c52afa055f948e1949
+SHA1: ff5a76e3bbfb9987d55c47d2f9deb23747e43003
+SHA256: ff6069a0b14d1deb39858ae3db5405ebde4e697035a341a68fc893765c49482e
+
 Package: com.tqm-mos.fusionviolet
 Name: Fusion Violet
 Author: @tqmmos
