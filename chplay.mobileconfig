@@ -22,7 +22,7 @@
 			<key>PayloadIdentifier</key>
 			<string>vn.ycs.CH Play.WebClip</string>
 			<key>PayloadOrganization</key>
-			<string>HqH_Repo Team</string>
+			<string>Tqm-Mos</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
@@ -36,13 +36,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Cấu hình này sẽ giúp bạn cài đặt một ứng dụng giống như cửa hàng Google Play trên Android. Tạo bởi nhóm HqH_Repo Team</string>
+	<string>Cấu hình này sẽ giúp bạn cài đặt một ứng dụng giống như cửa hàng Google Play trên Android. Tạo bởi Tqm-Mos</string>
 	<key>PayloadDisplayName</key>
 	<string>CH Play for iOS</string>
 	<key>PayloadIdentifier</key>
-	<string>cm.HqH_Repo Team.CH Play for iOS</string>
+	<string>cm.Tqm-Mos.CH Play for iOS</string>
 	<key>PayloadOrganization</key>
-	<string>HqH_Repo Team</string>
+	<string>Tqm-Mos</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
