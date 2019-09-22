@@ -80,6 +80,27 @@ MD5sum: 4c378c6e997e4cf8398dc33bcd606610
 SHA1: a466f3125022698fc4403e0df722411e86b5c30d
 SHA256: b6c7e88fbec02a40605d3d6d624743657d393411ab9b6dedd218ff38bbe6f291
 
+Package: com.matchstic.xenhtml
+Name: Xen HTML
+Version: 1.1
+Description: Unified HTML rendering; lockscreen and homescreen
+Section: Tweaks
+Depends: firmware (>= 9.0), com.tqm-mos.xeninfo, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: MattClarke
+Maintainer: TQM
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=xenhtml
+SileoDepiction: http://tqm-mos.github.io/description.html?id=xenhtml
+Filename: ./debs/com.matchstic.xenhtml_1.1_iphoneos-arm.deb
+Size: 2459476
+MD5sum: 245b6d6a441a23502281f4583740bb87
+SHA1: 46f287f3bf7a8867aed50fbdbf1f72a26a46b3f9
+SHA256: 16f778bf0ace38720dcd735d2fb23b08cf72c982641f538d9833107b7c1f3957
+
 Package: com.tqm-mos.whitelagoon
 Name: White Lagoon
 Version: 1.0
