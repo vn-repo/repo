@@ -63,6 +63,76 @@ MD5sum: 0068c1e10150a87658e704decdb0ae61
 SHA1: e9eeaca3a3b59e38e65b66ed1eb4ebceb2c7865b
 SHA256: becc23a75b93739e3993ad73a76783aa74c5276dc290a9e390d081927ef29e14
 
+Package: com.tqm-mos.anticheatbanpubg
+Name: Anticheat Ban PUBG
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Hack Games
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.anticheatbanpubg_1.0_iphoneos-arm.deb
+Size: 41444
+MD5sum: 18439c5610da623e298a9090420a8f26
+SHA1: 1e2b08be35eab601171749b88653523c3d20ad08
+SHA256: 86257870a40a3ba9f5db8bd3c8f5501e3bb3097adbd3f6f0d3414a8262e6cdaf
+
+Package: com.tqm-mos.libertylite
+Name: Liberty Lite (Beta)
+Version: 0.2.12
+Architecture: iphoneos-arm
+Description: Tinh chỉnh cần thiết cho những máy jb chống phát hiện jb rất cần cho hack pubg chôngd ban nick
+Author: Ryley Angus <anhminh311105@gmail.com>
+Section: System
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite, cydia.kiiimo.org.liberty, com.arab-cydia.libertybeta, com.yourepo.mohadu31.liberty, com.ryleyangus.libertylite.beta, com.yourepo.mohadu31.beta
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Maintainer: QM <anhminhclub@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.libertylite_0.2.12_iphoneos-arm.deb
+Size: 82374
+MD5sum: bbe38689b89ad9723bd3aed1b57a8c20
+SHA1: 3c8989e31b38198f4d0827ffa8ec0f56f2071b83
+SHA256: 1415e7d99ddac036c6b1f214bd646fec77a200ff8d05548333b0feeb86c34e8d
+
+Package: com.tqm-mos.pubghackslider
+Name: PUBG HACK Xoá Cỏ ( QT - VNG )
+Version: 2.0
+Architecture: iphoneos-arm
+Description: PUBG HACK xoá cỏ cây nhà cửa iOS Jailbreak For PUBG!
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Hack Games
+Depends: mobilesubstrate
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.pubghackslider_2.0_iphoneos-arm.deb
+Size: 25534
+MD5sum: 1d6407a581b3bb1f7181f4cd2415baa0
+SHA1: 46d91ffa8f5e5114f7cb8f62251039b27b7a735a
+SHA256: 64cae2fdef55397da6ad0dadfa4b3ffb2555adea6722d87a16c60784760d8185
+
+Package: com.tqm-mos.pubgmobilev0140freehackqt
+Name: PUBG MOBILE v0.14.0 - (QT)
+Version: 0.14.0
+Architecture: iphoneos-arm
+Description: Hack chống - giật - gim tâm - xoá cỏ tự tìm hiểu chỉ dành cho bản QT NO VNG
+Author: Joka <anhminh311105@gmail.com>
+Section: Hack Games
+Depends: mobilesubstrate
+Maintainer: QM <anhminhclub@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.pubgmobilev0140freehackqt_0.14.0_iphoneos-arm.deb
+Size: 26118
+MD5sum: d3b8b9ad066c099b1d3ad025b5e4e279
+SHA1: b68c53461f2a9a9cc4bcc92bb5498f1e96abea75
+SHA256: eb7aa41340c3efb53a53b0de822d78152f04020d0cf0606ac0362079c8bda9c8
+
 Package: com.tqm-mos.keycaps
 Name: Keycaps
 Version: 1.0
