@@ -232,6 +232,38 @@ MD5sum: 63a7bdcd4e656bd177df11cbf4efaa03
 SHA1: 4db682e45cbacf27f876993bedc1e7ac0880a803
 SHA256: 3ddb2dc2cfd8399ffb556b75684193238003d66340add672dce3d27f19ff8348
 
+Package: com.tqm-mos.moonline
+Name: Moonline
+Version: 1.0
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminhclub@gmail.com>
+Section: iWidgets
+Description: iWidget for Xen HTML
+Maintainer: QM <anhminhclub@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.moonline
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.moonline
+Filename: ./debs/com.tqm-mos.moonline_1.0_iphoneos-arm.deb
+Size: 1751068
+MD5sum: 1017b6af03a0751e6a8bc51723045f08
+SHA1: 51364ace0713794aede4da24196ef7709cbd4761
+SHA256: c69e79bc283f02b9cd805326980b5621f9f4a2173c0626c40b4f8b4205ba193e
+
+Package: com.tqm-mos.other
+Name: oTher
+Version: 1.0
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminhclub@gmail.com>
+Section: iWidgets
+Description: iWidget for Xen HTML
+Maintainer: QM <anhminhclub@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.other
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.other
+Filename: ./debs/com.tqm-mos.other_1.0_iphoneos-arm.deb
+Size: 2198866
+MD5sum: 3d3df2d5668761b9ae75cbca27adf9f2
+SHA1: dbf9d3bb5a5161bf5e87876415b49c700a4a7190
+SHA256: 69835d5fb7e8d1b98ab95000276b6a0e56e76a2e7a658e3197a4fb52a7c57ca0
+
 Package: com.tqm-mos.keycaps
 Name: Keycaps
 Version: 1.0
