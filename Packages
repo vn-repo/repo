@@ -237,7 +237,7 @@ Name: Moonline
 Version: 1.0
 Architecture: iphoneos-arm
 Author: @tqmmos <anhminhclub@gmail.com>
-Section: iWidgets
+Section: Iwidgets
 Description: iWidget for Xen HTML
 Maintainer: QM <anhminhclub@gmail.com>
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.moonline
@@ -253,7 +253,7 @@ Name: oTher
 Version: 1.0
 Architecture: iphoneos-arm
 Author: @tqmmos <anhminhclub@gmail.com>
-Section: iWidgets
+Section: Iwidgets
 Description: iWidget for Xen HTML
 Maintainer: QM <anhminhclub@gmail.com>
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.other
