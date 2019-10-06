@@ -264,6 +264,23 @@ MD5sum: 3d3df2d5668761b9ae75cbca27adf9f2
 SHA1: dbf9d3bb5a5161bf5e87876415b49c700a4a7190
 SHA256: 69835d5fb7e8d1b98ab95000276b6a0e56e76a2e7a658e3197a4fb52a7c57ca0
 
+Package: com.tqm-mos.weamoon
+Name: WeaMoon
+Version: 1.0
+Architecture: iphoneos-arm
+Description: SB iW For Xen HTML By TQM
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: iWidgets
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.weamoon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.weamoon
+Filename: ./debs/com.tqm-mos.weamoon_1.0_iphoneos-arm.deb
+Size: 2250088
+MD5sum: 441c07464abdeb2089d4bf965017aef0
+SHA1: 9e43b4a629228718cf7e9dae235bfc71bfe915f3
+SHA256: 23809d2e1ca5906c046fe8845eae00b3c239064c9c72ad3ef359b174c26810a6
+
+
 Package: com.tqm-mos.keycaps
 Name: Keycaps
 Version: 1.0
