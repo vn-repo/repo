@@ -270,7 +270,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Description: SB iW For Xen HTML By TQM
 Author: @tqmmos <anhminh311105@gmail.com>
-Section: iWidgets
+Section: Iwidgets
 Maintainer: QM <anhminh311105@gmail.com>
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.weamoon
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.weamoon
