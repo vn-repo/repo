@@ -264,6 +264,38 @@ MD5sum: 3d3df2d5668761b9ae75cbca27adf9f2
 SHA1: dbf9d3bb5a5161bf5e87876415b49c700a4a7190
 SHA256: 69835d5fb7e8d1b98ab95000276b6a0e56e76a2e7a658e3197a4fb52a7c57ca0
 
+Package: com.tqm-mos.BWIcons
+Name: BWIcons
+Architecture: iphoneos-arm
+Description: Anemone - Anemone 3 - iThemer - Snowboard - Winterboard
+Maintainer: TQM
+Author: @tqmmos
+Section: TQM
+Version: 1.0
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.bwicon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bwicon
+Filename: ./debs/com.tqm-mos.BWIcons_1.0_iphoneos-arm.deb
+Size: 20674236
+MD5sum: a75aa2e32e46a6695bb3d97ccb117fef
+SHA1: 45c6b5d7696e74d465330117cae1df9909d0f8c1
+SHA256: 7064be2640ed4cf998131efdd31ee33eeca39e015bed44addd9774a505532ffe
+
+Package: com.tqm-mos.badge
+Name: Badge
+Architecture: iphoneos-arm
+Description: Anemone - Anemone 3 - iThemer - Snowboard - Winterboard
+Maintainer: TQM
+Author: @tqmmos
+Section: TQM
+Version: 1.0
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bwicon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bwicon
+Filename: ./debs/com.tqm-mos.badge_1.0_iphoneos-arm.deb
+Size: 60684
+MD5sum: 935c0a8fae6ab39fd8695734d788c67a
+SHA1: f956d2e2d290283141bc4949dc1d42f6e60ed0ba
+SHA256: 0e2b08b3c76eaf9067874ef2c61ed043aa881f5f2db54df7d418fa7f8a76d03a
+
 Package: com.tqm-mos.weamoon
 Name: WeaMoon
 Version: 1.0
