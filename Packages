@@ -312,6 +312,53 @@ MD5sum: 441c07464abdeb2089d4bf965017aef0
 SHA1: 9e43b4a629228718cf7e9dae235bfc71bfe915f3
 SHA256: 23809d2e1ca5906c046fe8845eae00b3c239064c9c72ad3ef359b174c26810a6
 
+Package: com.tqm-mos.weamoon
+Name: WeaMoon
+Version: 1.1
+Architecture: iphoneos-arm
+Description: SB iW For Xen HTML By TQM
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.weamoon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.weamoon
+Filename: ./debs/com.tqm-mos.weamoon_1.1_iphoneos-arm.deb
+Size: 4500748
+MD5sum: 4d48b6d1f4a23d8ed957f288d827e729
+SHA1: d65db36aa56d8b47a32f2c0c9a04c4bbcab3d22f
+SHA256: c5610b347116dbdbcdf88d8b1065bc13f82f664296f88cddf6ffdb98d7f4892d
+
+Package: com.tqm-mos.gaateau
+Name: Gaateau
+Version: 1.0
+Architecture: iphoneos-arm
+Description: SB iW For Xen HTML By TQM
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.gaateau
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gaateau
+Filename: ./debs/com.tqm-mos.gaateau_1.0_iphoneos-arm.deb
+Size: 8744072
+MD5sum: d1a16a9c3ca18495337f44ab0a45d429
+SHA1: 436bc3233f7afe451387ee4e9815e7876f61372c
+SHA256: c7f4f84b9377771e24423fb9d6cc1685365747595d0a7aaefbe82e7ac47a490d
+
+Package: com.tqm-mos.fontttteds12
+Name: TT Teds
+Version: 1.0
+Architecture: iphoneos-arm
+Author: Evelyn (ev_ynw) <repo@hackyouriphone.org>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fontttteds12
+Section: Fonts
+Description: Phông chữ được chạy qua (Anemone),Làm sạch và hẹp kiểu chữ sans-serif.  Dành cho iOS10-12.lưu ý đây là phông chữ lấy của nước ngoài nên sẽ lỗi tiếng việt khá nhiều 😩
+Maintainer: TQM
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fontttteds12
+Filename: ./debs/com.tqm-mos.fontttteds12_1.0_iphoneos-arm.deb
+Size: 14911338
+MD5sum: 0cacd71c1004ee197db3ffdbb64cfde8
+SHA1: cd954637b6c9de2aad659095ad4703a91f653be4
+SHA256: 9a81347e062af8e7c14d8f3c85c812fba31d83653ef3bf1f9c0c62f73fb070d9
 
 Package: com.tqm-mos.keycaps
 Name: Keycaps
