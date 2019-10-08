@@ -47,6 +47,58 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.nicebarx
+Name: NiceBarX
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
+Architecture: iphoneos-arm
+Description: statusbar tweak..
+Maintainer: QM
+Author: niceios
+Section: IOS12
+Version: 2.0.5.2-1
+Installed-Size: 4912
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicebarx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicebarx
+Filename: ./debs/com.tqm-mos.nicebarx_2.0.5.2-1_iphoneos-arm.deb
+Size: 1688130
+MD5sum: d81ad89eba9af2df8f9e2ce887a5cfce
+SHA1: 863c3b2bbc3b21353974e755fe7127b6545bdbe7
+SHA256: 94e6bdd4edcb6311ae6dae28f296aa849aa13b9365afd3ef62d3348c103fdb65
+
+Package: com.tqm-mos.cracktool4
+Name: CrackTool4 (iOS 12)
+Version: 4.0~beta9a
+Architecture: iphoneos-arm
+Description: Crack Tweaks on one click
+Homepage: http://twitter.com/tqmmos
+Maintainer: QM
+Author: julioverne
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Section: Utilities
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cracktool4
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cracktool4
+Filename: ./debs/com.tqm-mos.cracktool4_4.0~beta9a_iphoneos-arm.deb
+Size: 484254
+MD5sum: e08e82d2256f65e0e06e97b5c34dcf7a
+SHA1: 757267107651aa29e1eef07a70376994cfb3da52
+SHA256: fb138ada34134ce3c2a6fdd35d0e3958310f19af8be51facfc91c9f2589c0bcc
+
+Package: com.tqm-mos.other
+Name: oTher
+Version: 1.1
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminhclub@gmail.com>
+Section: iWidgets
+Description: iWidget for Xen HTML
+Maintainer: QM <anhminhclub@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.other
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.other
+Filename: ./debs/com.tqm-mos.other_1.1_iphoneos-arm.deb
+Size: 4398618
+MD5sum: d7ed6d6ae2c258f0ac916065ba76dd2c
+SHA1: 6c08982b61231286859c62093f857c157318cec6
+SHA256: 957a016756674da0dd256f3dcf24b8bf5bc2ec5dbd84eec01920da52973758ec
+
 Package: com.tqm-mos.animatios
 Name: AnimatiOS
 Version: 1.0.1
