@@ -65,6 +65,40 @@ MD5sum: d81ad89eba9af2df8f9e2ce887a5cfce
 SHA1: 863c3b2bbc3b21353974e755fe7127b6545bdbe7
 SHA256: 94e6bdd4edcb6311ae6dae28f296aa849aa13b9365afd3ef62d3348c103fdb65
 
+Package: com.tqm-mos.nicebarxcrack
+Name: NiceBarX Cracked byJulio
+Author: niceios
+Architecture: iphoneos-arm
+Description: statusbar tweak..
+Maintainer: QM
+Version: 2.0.5.2-1
+Section: Tweaks
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
+Installed-Size: 4912
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicebarx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicebarx
+Filename: ./debs/com.tqm-mos.nicebarxcrack_2.0.5.2-1_iphoneos-arm.deb
+Size: 1695914
+MD5sum: 422f2f9b8895b7d9a794fc4ef6b63026
+SHA1: 1e34aa609ea4ffbbea90ade52f717cadfac651ab
+SHA256: 3214698b1fb65ec72e62c5ce0d9340c5bd89cea5e0e10bebbad05ce6678105e9
+
+Package: com.tqm-mos.blackeagle
+Version: 1.1
+Architecture: iphoneos-arm
+Description: THEME
+Section: TQM
+Maintainer: QM
+Name: Black Eagle
+Author: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blackeagle
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blackeagle
+Filename: ./debs/com.tqm-mos.blackeagle_1.deb
+Size: 17052432
+MD5sum: da0390e4dd2ea69db7ff4dbcc6212fb6
+SHA1: 565ee4a89fd16a5213ee43a68153cc7d0f0a3d88
+SHA256: 918cdea72a9ffbce1f9808d8042108d18cab4dca1acbf2e91413d9cc27205e3a
+
 Package: com.tqm-mos.cracktool4
 Name: CrackTool4 (iOS 12)
 Version: 4.0~beta9a
@@ -88,7 +122,7 @@ Name: oTher
 Version: 1.1
 Architecture: iphoneos-arm
 Author: @tqmmos <anhminhclub@gmail.com>
-Section: iWidgets
+Section: Iwidgets
 Description: iWidget for Xen HTML
 Maintainer: QM <anhminhclub@gmail.com>
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.other
