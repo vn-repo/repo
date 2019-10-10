@@ -47,6 +47,97 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.ringer13
+Name: Ringer13
+Author: KingPuffdaddi
+Description: An iOS 13 inspired Ringer HUD.
+Maintainer: TQM
+Version: 1.1.2
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 356
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ringer13
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ringer13
+Filename: ./debs/com.tqm-mos.ringer13_1.1.2_iphoneos-arm.deb
+Size: 57492
+MD5sum: b706a1460cbe8534103e813faca30af9
+SHA1: 1f44f25710d572b63a758106f8793f7ef1a0c6f6
+SHA256: 97048042897f12e4ac9c37f0f140915cbebdddc050fd6460fefa76b723f966ac
+
+Package: com.tqm-mos.cydown12
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Version: 7.0.1
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Cydia Download Manager & Extra Features!
+Homepage: http://twitter.com/tqmmos
+Maintainer: TQM
+Section: IOS12
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cydown12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cydown12
+Filename: ./debs/com.tqm-mos.cydown12_7.0.1_iphoneos-arm.deb
+Size: 3448948
+MD5sum: c549247a0f80c049c0a6517f5b993e43
+SHA1: 8a12818835ae001fb0c61bb5012cf04bb7abf6fe
+SHA256: f900529cb1a2195f8cdaa223a30c126624df69231eef610f3c8c46b5fbf5d69f
+
+Package: com.tqm-mos.ezbatteries
+Description: Xem phần trăm pin của thiết bị và các thiết bị được kết nối với thiết bị của bạn bằng cách nhấp đúp vào thanh trên cùng.
+Version: 2.2.0-1
+Section: IOS12
+Maintainer: TQM <anhminhclun@gmail.com>
+Depends: mobilesubstrate, net.limneos.libbulletin, PreferenceLoader
+Architecture: iphoneos-arm
+Name: EZBatteries
+Author: Easy-Z & Karimo299
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ezbatteries
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ezbatteries
+Filename: ./debs/com.tqm-mos.ezbatteries_2.2.0-1_iphoneos-arm.deb
+Size: 208898
+MD5sum: a53181792848cc0da475582f598d1bc7
+SHA1: 7451bb907f35ed0ddacefb7ed9b9f431cd81adab
+SHA256: 51e32e5da2f201a2cf7eb59ac792a6f3a5a244469cd3b0ce8062704120256f51
+
+Package: ws.hbang.common
+Name: Cephei
+Version: 1.13.1-2
+Section: Development
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, firmware (<< 12.0) | preferenceloader (>> 2.2.3), jp.ashikase.techsupport, com.rpetrich.rocketbootstrap
+Installed-Size: 2696
+Author: HASHBANG Productions <support@hbang.ws>
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Description: Support library for tweaks
+Depiction: https://repo.chariz.io/package/ws.hbang.common/
+Icon: file:///Library/PreferenceBundles/Cephei.bundle/icon@2x.png
+Support: https://hashbang.productions/support/
+Tag: purpose::extension, compatible::ios5, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: hbang
+Filename: ./debs/ws.hbang.common_1.13.1-2_iphoneos-arm.deb
+Size: 174790
+MD5sum: 8eba81b83ccf232f6ad6eacb13340d7e
+SHA1: 4858228e1bba5a87f4807c1409d3005d57704f4c
+SHA256: 3d9155dc2f71f06b9c257f9d9cfcd7ad6f9fe519a70be5988144482077693433
+
+Package: com.tqm-mos.BlackOrs4
+Name: BlackOrs 4
+Version: 0.1
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminhclub@gmail.com>
+Maintainer: @tqmmos <anhminhclub@gmail.com>
+Description: Dark icons with white logo
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.BlackOrs4
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.BlackOrs4
+Filename: ./debs/com.tqm-mos.BlackOrs4_0.1_iphoneos-arm.deb
+Size: 2200596
+MD5sum: aa72315a7a780a47adf1f7f0707c597b
+SHA1: bebc1a9fd8bbed631825b8bba0b3461f44566320
+SHA256: 56960801ab4ca3b75fec6ca4b2c06844a3109c876708e3c1800928a07dc8347f
+
 Package: com.tqm-mos.boxy12
 Version: 3.6.2
 Section: IOS12
