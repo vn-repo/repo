@@ -122,6 +122,154 @@ MD5sum: 8eba81b83ccf232f6ad6eacb13340d7e
 SHA1: 4858228e1bba5a87f4807c1409d3005d57704f4c
 SHA256: 3d9155dc2f71f06b9c257f9d9cfcd7ad6f9fe519a70be5988144482077693433
 
+Package: com.tqm-mos.bazzi2
+Version: 2.0.8
+Section: IOS12
+Maintainer: QM
+Description: Tinh chỉnh dành cho biểu tượng pin trên iPhone X.
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.tqm-mos.sedfix, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1)
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex, com.blakeboxberger.bazzi2, com.repo.kenhtao.net.bazzi, com.repo.kenhtao.net.bazzi2, com.tqm-mos.bazzi
+Architecture: iphoneos-arm
+Installed-Size: 360
+Name: Bazzi 2 VH
+Author: Blake Boxberger
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bazzi2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bazzi2
+Filename: ./debs/com.tqm-mos.bazzi2_2.0.8_iphoneos-arm.deb
+Size: 86726
+MD5sum: cdf42c2bce064c0c05017243b1af610b
+SHA1: 3c00f59345f97e86522ff118a9046229914ae867
+SHA256: e2154234267dd27fbec952c9985e4c44418b1642cfa234f2c70dc47740669f9c
+
+Package: com.tqm-mos.sedfix
+Name: DebsCompatibility
+Author: Pulandres
+Description: Package to fix Some Cracked Tweaks
+Maintainer: TQM
+Version: 4.9
+Section: Utilities
+Architecture: iphoneos-arm
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bazzi2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bazzi2
+Filename: ./debs/com.tqm-mos.sedfix_4.9_iphoneos-arm.deb
+Size: 95446
+MD5sum: f6f87790a7ea627afd20c0c7a23d90b8
+SHA1: 259da5d5cf72e8eef39c7e7e7d83ff831e461833
+SHA256: 609348d831357a4ef5e589af054fab58b5ae0aa3780545f205de86be31eea853
+
+Package: com.tqm-mos.Chalkboard
+Version: 1.0
+Description: THEME
+Section: TQM
+Maintainer: TQM-MOS <anhminhclub@gmail.com>
+Architecture: iphoneos-arm
+Name: Chalkboard
+Author: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Chalkboard
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Chalkboard
+Filename: ./debs/com.tqm-mos.Chalkboard_1.0_iphoneos-arm.deb
+Size: 17421216
+MD5sum: 9f0a0fb7d0de7aaba36ce2ea3f8a15db
+SHA1: 92811f4dc2cdba7bf76540fa9ed038f5b9e37893
+SHA256: ac35496e1466b4c9fc248f3915b249044d7dbcd021f47b5cb3ed34e4e7b39535
+
+Package: com.tqm-mos.Chr0m
+Version: 1.0
+Description: THEME
+Section: TQM
+Maintainer: TQM-MOS <anhminhclub@gmail.com>
+Architecture: iphoneos-arm
+Name: Chr0m
+Author: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Chr0m
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Chr0m
+Filename: ./debs/com.tqm-mos.Chr0m_1.0_iphoneos-arm.deb
+Size: 52911646
+MD5sum: f0577ff709c6a31a7bcc6d6fb2631eb2
+SHA1: dfa803d1b942d2d2ffd96639fd5e3860b48512f5
+SHA256: ed20f7f611f5d534d15edffaa8e941cd1e02d8c32b7f59c1eb78eeb8d7fe48bb
+
+Package: com.tqm-mos.ferrarijlxios12
+Name: Ferrari JLX iOS12
+Version: 2.3
+Architecture: iphoneos-arm
+Description: Icons dedicated to the Ferrari team
+Author: José Luis Aguirre <jose_luis2284@hotmail.com>
+Section: TQM
+Maintainer: TQM <anhminhclub@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ferrarijlxios12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ferrarijlxios12
+Filename: ./debs/com.tqm-mos.ferrarijlxios12_2.3_iphoneos-arm.deb
+Size: 28608538
+MD5sum: e59c5f31fe571e9442763e197c2ee276
+SHA1: 024f79bca4e4d544aa00f20745675ff43bd84fb3
+SHA256: 310bc18b2aaf93146bd67760289254e9813da6e98d7fdc9057d5273578dd9565
+
+Package: com.tqm-mos.micool
+Version: 1.0
+Description: THEME
+Section: TQM
+Maintainer: TQM-MOS <anhminhclub@gmail.com>
+Architecture: iphoneos-arm
+Name: Mi Cool
+Author: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.micool
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.micool
+Filename: ./debs/com.tqm-mos.micool_1.0_iphoneos-arm.deb
+Size: 2000402
+MD5sum: 359492f577fb62851ba5efbd03ed3232
+SHA1: 83af2c9100eb0f109430240b535379b0e3cc7db3
+SHA256: 2ce784fa92a15bbd27125dbe9e039d34dca6acd93de70edc798fab616a946de4
+
+Package: com.tqm-mos.MonarchGrey
+Version: 1.0
+Description: THEME
+Section: TQM
+Maintainer: TQM-MOS <anhminhclub@gmail.com>
+Architecture: iphoneos-arm
+Name: Monarch Grey
+Author: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.MonarchGrey
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.MonarchGrey
+Filename: ./debs/com.tqm-mos.MonarchGrey_1.0_iphoneos-arm.deb
+Size: 33772030
+MD5sum: a157d42aa6cbee721d19ef852c774805
+SHA1: 60c335c10c1f70508b4d6ff4b2f4473e45f533f1
+SHA256: 1c0088396cd7d196a5a7f3b582ea027810017e482028666e601442e1e10ecfa7
+
+Package: com.tqm-mos.SwhiteMoon
+Version: 1.0
+Description: THEME
+Section: TQM
+Maintainer: TQM-MOS <anhminhclub@gmail.com>
+Architecture: iphoneos-arm
+Name: Swhite Moon
+Author: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.SwhiteMoon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.SwhiteMoon
+Filename: ./debs/com.tqm-mos.SwhiteMoon_1.0_iphoneos-arm.deb
+Size: 9987078
+MD5sum: 125b72ccc7e35f9c17c2d567283f8fd8
+SHA1: f5ddb31a6ea8d07354c060e9512e5d70e84394d4
+SHA256: b497b22a7907c6c7065fdb4352f477760f526f003dbe6ec4d06a49d793762345
+
+Package: com.tqm-mos.theriver
+Version: 1.0
+Description: THEME
+Section: TQM
+Maintainer: TQM-MOS <anhminhclub@gmail.com>
+Architecture: iphoneos-arm
+Name: The River
+Author: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.theriver
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.theriver
+Filename: ./debs/com.tqm-mos.theriver_1.0_iphoneos-arm.deb
+Size: 1168408
+MD5sum: 58ad79c721d364db7c2b5eab90ce66ca
+SHA1: 65c2a98bb74c0089e7cf5b777896117855b556ba
+SHA256: d024513956584a34c0025b0d5f6eaba14479a82341ccb0e363f8aadd59b3269b
+
 Package: com.tqm-mos.BlackOrs4
 Name: BlackOrs 4
 Version: 0.1
@@ -236,7 +384,7 @@ Version: 2.0.7.1
 Section: IOS12
 Maintainer: QM
 Description: Tinh chỉnh dành cho biểu tượng pin trên iPhone X.
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.tqm-mos.sedfix, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1)
 Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex, com.blakeboxberger.bazzi2, com.repo.kenhtao.net.bazzi, com.repo.kenhtao.net.bazzi2, com.tqm-mos.bazzi
 Architecture: iphoneos-arm
