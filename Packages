@@ -47,6 +47,134 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.afterhours
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer
+Version: 1.0-1
+Section: TQM
+Maintainer: TQM <anhminhclub@gmail.com>
+Architecture: iphoneos-arm
+Name: AfterHours
+Author: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.afterhours
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.afterhours
+Filename: ./debs/com.tqm-mos.afterhours_1.0-1_iphoneos-arm.deb
+Size: 24519434
+MD5sum: 34f662042f791a449665bba3cc7fc163
+SHA1: 48bd16b6b0ba09a44afbc6745461947f029971b1
+SHA256: d35ae3f9958810a4a19183db20c5080daecb6509b33a933e3d1013c2cb6d5fec
+
+Package: com.tqm-mos.carbon
+Version: 1.5
+Section: IOS11
+Maintainer: TQM
+Description: Chế độ ban đêm cho toàn hệ thống của bạn.
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, com.tqm-mos.ccsupport, com.rpetrich.rocketbootstrap, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Installed-Size: 740
+Name: Carbon Dark Mode VH
+Author: OxideLabs
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.carbon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.carbon
+Filename: ./debs/com.tqm-mos.carbon_1.5_iphoneos-arm.deb
+Size: 132166
+MD5sum: be533c7c855e2b623ba17d3c05eeb991
+SHA1: 9f2a6691c641c74ee4b1919de57b5fa97070e1d8
+SHA256: 8764fcb6fc773d6ac20be2748a3e5ef6bf5fbf8c8bf9c238424f00963b5993b0
+
+Package: com.tqm-mos.ccmodulespro
+Name: CCModules Pro Cracked
+Author: jailbreak365 <jailbreak365@mail.com>
+Description: Increase the usability of your control center.
+Maintainer: TQM
+Version: 1.0.2
+Section: IOS11
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.tqm-mos.safeccmodules (>= 1.2.1), ws.hbang.common
+Architecture: iphoneos-arm
+Installed-Size: 1552
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.safeccmodules
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.safeccmodules
+Filename: ./debs/com.tqm-mos.ccmodulespro_1.0.2_iphoneos-arm.deb
+Size: 325896
+MD5sum: 358157a39810b127265a63e6dad136a9
+SHA1: b00b5b2bcc799b628e04517a6828b530dc25a3d5
+SHA256: 20f8d9120ab308521b9a017f8510191b800efbbfa0c12aa6a04261cc7688f242
+
+Author: opa334 <opa334@protonmail.com>
+Maintainer: TQM 
+Name: CCSupport
+Package: com.tqm-mos.ccsupport
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Provides: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Conflicts: com.ioscreatix.silo
+Section: IOS11
+Installed-Size: 203
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: Support tweak for CC modules!
+dev: opa334
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ccsupport
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ccsupport
+Filename: ./debs/com.tqm-mos.ccsupport_1.2.1_iphoneos-arm.deb
+Size: 48452
+MD5sum: 6fb54cd8f46baa65b0cfede201c3d98c
+SHA1: c38d14c4dba01592f2d92839b53cfa6f984c40ac
+SHA256: a774ec85ddfefd27a8807d6240bd38c56ba406a183393a0332d2c49288fc86ee
+
+Package: com.tqm-mos.reprovision
+Version: 0.4.5
+Section: System
+Maintainer: TQM <anhminhclun@gmail.com>
+Description: Tự động gia hạn chứng chỉ của ứng dụng.
+Depends: firmware (>= 9.0)
+Architecture: iphoneos-arm
+Name: ReProvision
+Author: Matt Clarke
+Depiction: http://tqm-mos.github.io/description.html?id=com.repro
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.repro
+Filename: ./debs/com.tqm-mos.reprovision_0.4.5_iphoneos-arm.deb
+Size: 10672384
+MD5sum: a7cdd5fff3cc929c6be79287587f7d8a
+SHA1: d6da7e55cb960b67123d9e3be815baaa46926e83
+SHA256: 82199cb8cbb6ed51bf98f57503b9b9a37b535e1a22d4cc81f62399cd675e377b
+
+Author: jailbreak365 <jailbreak365@mail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: CCModules
+Package: com.tqm-mos.safeccmodules
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.tqm-mos.ccsupport
+Section: IOS12
+Installed-Size: 4721
+Version: 1.7.3
+Architecture: iphoneos-arm
+Description: More control center modules for iOS 11/12
+dev: jailbreak365
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.safeccmodules
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.safeccmodules
+Filename: ./debs/com.tqm-mos.safeccmodules_1.7.3_iphoneos-arm.deb
+Size: 1336038
+MD5sum: 390480f8e9d72922b54422ff0cb610b7
+SHA1: bb53d6d323f1396c8b49cb32f0c8c772e416d283
+SHA256: ca85b2ce6ade0e19681db26f39aac65b97b8827c3e187fa93c6bb6c8291b2edb
+
+Package: com.tqm-mos.win10
+Description:  FrontPage
+Version: 0.2-1
+Section: Addons
+Maintainer: TQM <anhminhclub@gmailm.com>
+Architecture: iphoneos-arm
+Name: Win10
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.win10
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.win10
+Filename: ./debs/com.tqm-mos.win10_0.2-1_iphoneos-arm.deb
+Size: 438436
+MD5sum: 53638478ef915772b7d4497eb4c9eb59
+SHA1: aa1c4e70e5fa6d6fb0f794921a754f1867845229
+SHA256: 01783d9de5ed20eb2599cadb7f0e013c9874579953bb8094125e7ca4dba9760f
+
 Package: com.tqm-mos.ringer13
 Name: Ringer13
 Author: KingPuffdaddi
@@ -251,10 +379,10 @@ Author: @tqmmos
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.MonarchGrey
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.MonarchGrey
 Filename: ./debs/com.tqm-mos.MonarchGrey_1.0_iphoneos-arm.deb
-Size: 33772030
-MD5sum: a157d42aa6cbee721d19ef852c774805
-SHA1: 60c335c10c1f70508b4d6ff4b2f4473e45f533f1
-SHA256: 1c0088396cd7d196a5a7f3b582ea027810017e482028666e601442e1e10ecfa7
+Size: 33774232
+MD5sum: f849e11321b3d28504f43cfe0466201c
+SHA1: 460846ab66c81519a976f3fe133ec1f520563f69
+SHA256: 1e4e634d16b108283a8d42f5b4b8d6baddead2f746b3731a5c1349256d9cfb39
 
 Package: com.tqm-mos.SwhiteMoon
 Version: 1.0
