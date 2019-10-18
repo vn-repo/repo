@@ -47,6 +47,112 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.horizon
+Name: Horizon Cracked
+Author: Sirius24
+Description: Settings the way YOU want!
+Maintainer: TQM
+Version: 1.0.1-1
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.2)
+Architecture: iphoneos-arm
+Installed-Size: 1000
+Icon: file:///Library/PreferenceBundles/Horizon.bundle/HorizonIcon-BIG.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.horizon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.horizon
+Filename: ./debs/com.tqm-mos.horizon_1.0.1-1_iphoneos-arm.deb
+Size: 455866
+MD5sum: dbd72bcbe83b256c10b61eed64e83f6e
+SHA1: da89d9a1bc23af4c1150dbb2f622623c3c9f538f
+SHA256: 38226ab617c369776feac53fa15ea91119e94d8a16ec93e4e9e260e069f9c8b2
+
+Package: com.tqm-mos.host1
+Name: JokerHost
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Anti-Ban For Joker Pubg Hack 
+Maintainer: @tqmmos
+Author: @kingoffun9
+Section: Hacks Game
+Version: 0.1
+Installed-Size: 116
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.host1_0.1_iphoneos-arm.deb
+Size: 30918
+MD5sum: a062eeee9990ab4e10ae97fca828c5b3
+SHA1: 8d0d78fa32be5a933756f91f7d17d16432a491b9
+SHA256: b5259304186191eb587ccc831ea4cb038c19c8957b3ac95df4e8562fbbf96849
+
+Package: com.tqm-mos.host2
+Name: JokerHost 2
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Anti-Ban For Joker Pubg Hack 
+Maintainer: @tqmmos
+Author: @kingoffun9
+Section: Hacks Game
+Version: 0.1
+Installed-Size: 116
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.host2_0.2_iphoneos-arm.deb
+Size: 9826
+MD5sum: 94243d40963d31782b194d658dfc2829
+SHA1: b4237d538876fab9e8fc184ac0b50886346f3e37
+SHA256: c967deaff8ffb036b097c57cb3d2d23b64050a30cb574de4702ea81270ea3aa6
+
+Package: com.tqm-mos.phantomtheme
+Description: iPhone theme for Anemone and winterboard.
+Version: 1.5
+Section: TQM
+Maintainer: TQM <anhminhclub@gmail.com>
+Architecture: iphoneos-arm
+Name: Phantom
+Author: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.phantomtheme
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.phantomtheme
+Filename: ./debs/com.tqm-mos.phantomtheme_1.5_iphoneos-arm.deb
+Size: 9144526
+MD5sum: 8ad1ba5ad535bccf2d47006ef1e242ce
+SHA1: a782e1deee491a2a889a1566178923e4ebd21592
+SHA256: 781e6dcd051797c3b53cf60bb0cb6643231ccd5bf09310b761c1bf7640d31457
+
+Package: com.tqm-mos.pubgCheats015
+Version: 0.15.0
+Section: Hacks Game
+Maintainer: TQM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 3580
+Name: PUBG MOBILE Cheats v0.15.0
+Author: Crimson
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.pubgCheats015_0.15.0_iphoneos-arm.deb
+Size: 1042036
+MD5sum: d2e78eb929a200222d42ccdff6b3f138
+SHA1: bd2912bfbfb134ff477b28dc896e9350a628343b
+SHA256: f9105fdda3b86da1181c70f095e744a0abba8d437d80a94f4e2a538e1a198b7e
+
+Package: com.tqm-mos.pubgmobilev0140freehackqt
+Name: Pubg Hack v0.14.0 - ( QT )
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Pubg Hack v0.14.0 Mod
+Maintainer: @tqmmos 
+Author: @kgfunn and @7mo0dd9
+Section: Hacks Game
+Version: 0.14.7.2-1+debug
+Installed-Size: 1160
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.pubgmobilev0140freehackqt_0.14.7.2-1+debug_iphoneos-arm.deb
+Size: 657090
+MD5sum: 3b219dd8ffcd6f560096b30bc4515eb7
+SHA1: bb0d697702565147fd97572117d4996f50b55ada
+SHA256: 3ee2a7774a73c064eaa74aef3f041292378f7ea7015b5e79e7cf8c66cc5837bf
+
 Package: com.tqm-mos.afterhours
 Description: Themes Anemone - Anemone 3 - Snowboard - iThemer
 Version: 1.0-1
