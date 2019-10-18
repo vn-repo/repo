@@ -106,6 +106,27 @@ MD5sum: fd94e96d4734fb6512ab14945542cb71
 SHA1: 7451150d1b5406e2638a602347d9c09b1a3a8436
 SHA256: 5ffbc129cf98c71a0aa0cd5fe52a2d7a02a548d7e20d506078b3e49d4f29eed2
 
+Package: com.matchstic.xenhtml
+Name: Xen HTML
+Version: 1.1-1
+Description: Unified HTML rendering; lockscreen and homescreen
+Section: Tweaks
+Depends: firmware (>= 9.0), com.tqm-mos.xeninfo, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: MattClarke
+Maintainer: TQM
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=xenhtml
+SileoDepiction: http://tqm-mos.github.io/description.html?id=xenhtml
+Filename: ./debs/com.matchstic.xenhtml_1.1-1_iphoneos-arm.deb
+Size: 2461150
+MD5sum: e72b961fd3d6104a4b18a34b3a250d01
+SHA1: 42ad3911302dad4bcb62106271e2d285581eea53
+SHA256: e1ee91ff9f279fe3cf85bbe4197d31524eaa690a23ac2c5dd7d5ca75223025b6
+
 Package: com.tqm-mos.killx
 Name: KillX Pro Cracked
 Author: cemck
