@@ -66,6 +66,66 @@ MD5sum: dbd72bcbe83b256c10b61eed64e83f6e
 SHA1: da89d9a1bc23af4c1150dbb2f622623c3c9f538f
 SHA256: 38226ab617c369776feac53fa15ea91119e94d8a16ec93e4e9e260e069f9c8b2
 
+Package: com.tqm-mos.honey
+Version: 1.0.2k
+Section: Tweaks
+Maintainer: TQM
+Description: Trình khởi chạy ứng dụng watchOS trên thiết bị iOS của bạn
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: com.blakeboxberger.dockremover
+Architecture: iphoneos-arm
+Installed-Size: 380
+Name: Honey VH
+Author: Blake Boxberger
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.honey
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.honey
+Filename: ./debs/com.tqm-mos.honey_1.0.2k_iphoneos-arm.deb
+Size: 79402
+MD5sum: d7961405365ce75eaf47e08e20297483
+SHA1: 6317bfaa37fc5d1080a3896452210b1914a63753
+SHA256: 5738175d71adcfb8ffb7306aa0e1a1241a27e929e40e8b3d6fa89e18075fddbf
+
+Package: com.tqm-mos.killbackgroundxs
+Name: KillBackgroundXS Cracked
+Author: ichitaso <willfeeltips+kbxs@gmail.com>
+Description: Easy shutdown of all applications in multitasking
+Maintainer: TQM
+Version: 1.0.5
+Section: Tweaks
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, applist
+Conflicts: tw.garynil.swipehome, com.ichitaso.killbackground9, com.ichitaso.killbackground10, com.ichitaso.killbackground11, com.julioverne.sbcard
+Replaces: com.ichitaso.killbackgroundxs
+Architecture: iphoneos-arm
+Installed-Size: 1348
+Icon: file:///Library/PreferenceBundles/KillBackgroundSettings.bundle/KB_icon@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.killbackgroundxs
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.killbackgroundxs
+Filename: ./debs/com.tqm-mos.killbackgroundxs_1.0.5_iphoneos-arm.deb
+Size: 425646
+MD5sum: fd94e96d4734fb6512ab14945542cb71
+SHA1: 7451150d1b5406e2638a602347d9c09b1a3a8436
+SHA256: 5ffbc129cf98c71a0aa0cd5fe52a2d7a02a548d7e20d506078b3e49d4f29eed2
+
+Package: com.tqm-mos.killx
+Name: KillX Pro Cracked
+Author: cemck
+Description: One swipe to kill them all, Swipe down app switcher cards, to kill all apps.
+Maintainer: TQM
+Version: 1.2.1
+Section: IOS11
+Depends: mobilesubstrate, applist, ws.hbang.common (>= 1.13), firmware (>= 11.0)
+Conflicts: com.cemck.killx
+Architecture: iphoneos-arm
+Installed-Size: 744
+Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro_big@3x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.killx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.killx
+Filename: ./debs/com.tqm-mos.killx_1.2.1_iphoneos-arm.deb
+Size: 193558
+MD5sum: dcaee3bc44bca479a23999e20d9ac313
+SHA1: 572547ba68e6a6c7243379d55e846918dbd3033b
+SHA256: a505ec0a30c2482e87fe0da4fe188eed501f67f9d71446b6a8250aabba45dce5
+
 Package: com.tqm-mos.host1
 Name: JokerHost
 Depends: mobilesubstrate
