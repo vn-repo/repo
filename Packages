@@ -73,7 +73,7 @@ Architecture: iphoneos-arm
 Description: Anti-Ban For Joker Pubg Hack 
 Maintainer: @tqmmos
 Author: @kingoffun9
-Section: Hacks Game
+Section: Hack Games
 Version: 0.1
 Installed-Size: 116
 Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
@@ -91,7 +91,7 @@ Architecture: iphoneos-arm
 Description: Anti-Ban For Joker Pubg Hack 
 Maintainer: @tqmmos
 Author: @kingoffun9
-Section: Hacks Game
+Section: Hack Games
 Version: 0.1
 Installed-Size: 116
 Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
@@ -120,7 +120,7 @@ SHA256: 781e6dcd051797c3b53cf60bb0cb6643231ccd5bf09310b761c1bf7640d31457
 
 Package: com.tqm-mos.pubgCheats015
 Version: 0.15.0
-Section: Hacks Game
+Section: Hack Games
 Maintainer: TQM
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -142,7 +142,7 @@ Architecture: iphoneos-arm
 Description: Pubg Hack v0.14.0 Mod
 Maintainer: @tqmmos 
 Author: @kgfunn and @7mo0dd9
-Section: Hacks Game
+Section: Hack Games
 Version: 0.14.7.2-1+debug
 Installed-Size: 1160
 Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
