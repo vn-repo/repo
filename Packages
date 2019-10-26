@@ -842,10 +842,30 @@ Author: PeterDev
 Depiction: http://tqm-mos.github.io/description.html?id=com.xeon
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.xeon
 Filename: ./debs/com.tqm-mos.xeonbeta_1.2-7_iphoneos-arm.deb
-Size: 1300448 
-MD5sum: aafd4a725c3d6ec4c88ef5f853fab644
-SHA1: d4bad6764eedd9572f5bf6000dd18d5747e23697
-SHA256: afa135583be5d063207e496d106d72b52a4af32e2b0152a6ea4a0b838a52d2b3
+Size: 1300438 
+MD5sum: 1d11755269df852141514abc567f9d54
+SHA1: 5908764ba61ac48f0b7045aef3525b44a9b461bd
+SHA256: f70488ad32a0a090c850f2c62c1391a2c29bd61eb2fa6942836811b05e1ae492
+
+Package: com.tqm-mos.xeonbeta
+Version: 1.2-8
+Section: IOS12
+Maintainer: TQM
+Description: Một tinh chỉnh tuyệt vời cho thanh trạng thái của bạn.
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), cy+cpu.arm64, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1), com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker
+Conflicts: com.alexzielenski.zeppelin, com.fortysixandtwo.alkaline, com.peterdev.xeon, com.ramenrepo.soba, ru.rejail.libimagepicker
+Replaces: net.kenhtao.xeonvn, com.alexzielenski.zeppelin, com.fortysixandtwo.alkaline, com.peterdev.xeon
+Architecture: iphoneos-arm
+Installed-Size: 13432
+Name: Xeon (Beta) VH
+Author: PeterDev
+Depiction: http://tqm-mos.github.io/description.html?id=com.xeon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.xeon
+Filename: ./debs/com.tqm-mos.xeonbeta_1.2-8_iphoneos-arm.deb
+Size: 985552 
+MD5sum: d308bcb07d36fb9a59c19cf6ddcff86d
+SHA1: 5b58f30b623feb3841555f3d7b2da0689fef7fd4
+SHA256: 7c3b2ba19e5b032ed5e99accd90bed1b045ccab8169303bb6121017c68cf7e45
 
 Package: com.tqm-mos.littlexs
 Version: 2.4.2
