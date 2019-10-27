@@ -66,6 +66,22 @@ MD5sum: dbd72bcbe83b256c10b61eed64e83f6e
 SHA1: da89d9a1bc23af4c1150dbb2f622623c3c9f538f
 SHA256: 38226ab617c369776feac53fa15ea91119e94d8a16ec93e4e9e260e069f9c8b2
 
+Package: com.tqm-mos.classicios6
+Name: iOS 6 - Themes
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Một bộ chủ đề mang hơi hướng phong cách của ios6 khá đẹp 
+Maintainer: QM
+Author: @tqmmos
+Section: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.classicios6
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.classicios6
+Filename: ./debs/com.tqm-mos.classicios6_1.3_iphoneos-arm.deb
+Size: 17853676
+MD5sum: 5b464d80ae41e7d661c669c5e3608b88
+SHA1: e8c98ea5efd74ae17ac217747cb912b11ce07aed
+SHA256: 1a81e68e1d311fc59bafae0c1b63e4703f1bd3e256194010b1c14541299c5e97
+
 Package: com.tqm-mos.honey
 Version: 1.0.2k
 Section: Tweaks
