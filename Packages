@@ -82,6 +82,44 @@ MD5sum: 5b464d80ae41e7d661c669c5e3608b88
 SHA1: e8c98ea5efd74ae17ac217747cb912b11ce07aed
 SHA256: 1a81e68e1d311fc59bafae0c1b63e4703f1bd3e256194010b1c14541299c5e97
 
+Package: com.yourepo.tqm.aquaboardxcracked
+Name: AquaBoard X Cracked
+Author: Elias Limneos <limneoselias@gmail.com>
+Description: Amaing efects for your homescrren and lockscreen
+Maintainer: TQM
+Version: 0.1-29
+Section: Tweaks
+Depends: mobilesubstrate, preferenceLoader
+Conflicts: net.limneos.aquaboard, net.limneos.aquaboard8, com.fuyuchi.unlockize, com.pulandres.limneosos, ru.rejail.limneosos, com.hackyouriphone.limneosos, ab.cd.ef
+Architecture: iphoneos-arm
+Installed-Size: 712
+Icon: file:///Library/PreferenceBundles/AquaPrefs.bundle/AquaBoard@2x.png
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.aquaboardxcracked
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.aquaboardxcracked
+Filename: ./debs/com.yourepo.tqm.aquaboardxcracked_0.1-29_iphoneos-arm.deb
+Size: 185524
+MD5sum: 2f8de0b971d7586fd7573f7b9cd7a11b
+SHA1: 83d2d4eebc6a0d6a701abc0a3aa6e75cce8c36da
+SHA256: ae2a2398ee5c71a2b1c36478133ddcc6cfbdf6f8d3dc060b007b0b931052800c
+
+Package: com.tqm-mos.flipconvertA12
+Version: 0.0~beta7
+Section: IOS11
+Maintainer: TQM
+Description: Bổ sung các nút hữu ích vào Trung tâm kiểm soát
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.ccsupport, com.a3tweaks.flipswitch, firmware(>=11.0)
+Architecture: iphoneos-arm
+Installed-Size: 108
+Name: FlipConvert A12
+Author: julioverne
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.flipconvertA12
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.flipconvertA12
+Filename: ./debs/com.tqm-mos.flipconvertA12_0.0~beta7_iphoneos-arm.deb
+Size: 20370
+MD5sum: 7aa838223f69db3d0a76106da9e67529
+SHA1: 8001134c231bb31b2ed93ba7fbd82b2ecd1d7102
+SHA256: 2007401aeb1c2505eae3d38ab85225ce9ac3e8d6908b6ef211eab5ebaeff1807
+
 Package: com.tqm-mos.honey
 Version: 1.0.2k
 Section: Tweaks
