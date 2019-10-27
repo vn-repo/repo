@@ -97,10 +97,48 @@ Icon: file:///Library/PreferenceBundles/AquaPrefs.bundle/AquaBoard@2x.png
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.aquaboardxcracked
 SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.aquaboardxcracked
 Filename: ./debs/com.yourepo.tqm.aquaboardxcracked_0.1-29_iphoneos-arm.deb
-Size: 185524
-MD5sum: 2f8de0b971d7586fd7573f7b9cd7a11b
-SHA1: 83d2d4eebc6a0d6a701abc0a3aa6e75cce8c36da
-SHA256: ae2a2398ee5c71a2b1c36478133ddcc6cfbdf6f8d3dc060b007b0b931052800c
+Size: 185542
+MD5sum: 6e95037459968638603cd7b537400941
+SHA1: 96aab69fb66fd9a0f1b677b92761547f7c030efc
+SHA256: 0d1b1a11eebdf7a00e0f4ffc4326da79cfbad61fb6107db9acb047c784ac3237
+
+Package: net.pulandres.aquaboardx
+Name: AquaBoard X Cracked
+Author: Elias Limneos <limneoselias@gmail.com>
+Description: Amaing efects for your homescrren and lockscreen
+Maintainer: Pulandres
+Version: 0.1-29
+Section: Tweaks
+Depends: mobilesubstrate, com.tqm-mos.aquaboardvh
+Conflicts: net.limneos.aquaboard, net.limneos.aquaboard8, com.fuyuchi.unlockize, com.pulandres.limneosos, ru.rejail.limneosos, com.hackyouriphone.limneosos, ab.cd.ef
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.aquaboardxcracked
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.aquaboardxcracked
+Architecture: iphoneos-arm
+Installed-Size: 712
+Icon: file:///Library/PreferenceBundles/AquaPrefs.bundle/AquaBoard@2x.png
+Filename: ./debs/net.pulandres.aquaboardx_0.1-29_iphoneos-arm.deb
+Size: 184928
+MD5sum: 73c5f33c9121b89d6b56f336d28ace62
+SHA1: 56c8ad7da67c0b019263a5cde70e8c36ccd99af2
+SHA256: a4d4175e25900f35c13060a419aa37a522e709c30cba2376e4edeac611369715
+
+Package: com.tqm-mos.aquaboardvh
+Name: AquaBoard VH
+Author: @tqmmos
+Description: Gói tiếng việt cho Aquaboard X
+Maintainer: TQM
+Version: 0.1
+Section: Tweaks
+Depends: net.pulandres.aquaboardx
+Architecture: iphoneos-arm
+Installed-Size: 712
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.aquaboardxcracked
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.aquaboardxcracked
+Filename: ./debs/com.tqm-mos.aquaboardvh_0.1_iphoneos-arm.deb
+Size: 1784
+MD5sum: 705dcd9c8896bbdc0499aa150f7a8f6d
+SHA1: 5789ad1a68ef7a18a667696387e56b306d7a9eb6
+SHA256: 0858bacfa685aabb98ce76084267d8aba635b64f57629b35b160eb73840cf387
 
 Package: com.tqm-mos.flipconvertA12
 Version: 0.0~beta7
