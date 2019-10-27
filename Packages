@@ -1012,6 +1012,24 @@ MD5sum: e08e82d2256f65e0e06e97b5c34dcf7a
 SHA1: 757267107651aa29e1eef07a70376994cfb3da52
 SHA256: fb138ada34134ce3c2a6fdd35d0e3958310f19af8be51facfc91c9f2589c0bcc
 
+Package: com.tqm-mos.cracktool4
+Name: CrackTool4 (iOS 12)
+Version: 4.0~beta9c
+Architecture: iphoneos-arm
+Description: Crack Tweaks on one click
+Homepage: http://twitter.com/tqmmos
+Maintainer: QM
+Author: julioverne
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Section: Utilities
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cracktool4
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cracktool4
+Filename: ./debs/com.tqm-mos.cracktool4_4.0~beta9c_iphoneos-arm.deb
+Size: 516608
+MD5sum: 560be4d4c6b855c5d03a4a65e77f70c4
+SHA1: 296bb0fefaf38783b51ae1f0c9eb6b5e0e253419
+SHA256: 76750328d9f001ca0e9716b459bb89d2db351d8253a06fdd329a512bb604eaba
+
 Package: com.tqm-mos.other
 Name: oTher
 Version: 1.1
@@ -1073,10 +1091,10 @@ Author: iosgold
 Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
 Filename: ./debs/com.tqm-mos.pubg15_0.15.0b1_iphoneos-arm.deb
-Size: 357960
-MD5sum: 4ebc3c7220b9c098b4d66824f1f8b6a7
-SHA1: 5f6b378f1c34591c2ac5be7136bdf73ad3181d7b
-SHA256: ebae2614423fef0065ac4c757ffd79821287d46f77173cf9c43c22e87108b8ab
+Size: 202208
+MD5sum: 595f39f9eeb0a88a37682bef5d2b7e52
+SHA1: 49b69af37f52f02c42830eeb96a701c29cb88232
+SHA256: 21816cfb54f10f221e0d0cbef821da11720698b641c9c9a6d99c1f31a767fd68
 
 Package: com.tqm-mos.krpubg15
 Version: 0.15.0-1+debug
@@ -1090,10 +1108,10 @@ Author: X204
 Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
 Filename: ./debs/com.tqm-mos.krpubg15_0.15.0-1+debug_iphoneos-arm.deb
-Size: 700534
-MD5sum: 907ae08e997d8ebf6cc4a4b3d7e4e04a
-SHA1: e41bd03ae42d259af3739c51bece0850e34ea22d
-SHA256: f3c10b26bdf02f43b34e170898faaf84760eaa2da4f8d9e36d271135f60b8f64
+Size: 280838
+MD5sum: 547a9403f10eba35deb66fa104347bdf
+SHA1: 407b896425245dea18b49717e74622a5824c957f
+SHA256: 3b5b5468777f329d7050c2848c36b1e616ba0aa77c38aac1f377b3f87f2f2ced
 
 Package: com.tqm-mos.libertylite
 Name: Liberty Lite (Beta)
