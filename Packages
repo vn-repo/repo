@@ -82,6 +82,38 @@ MD5sum: 3f7bed92f59bc0989e365037732a7abc
 SHA1: 4ec91a82eab301f599b75532a66961d5c3e13f19
 SHA256: 01b1da4b139eb8690f55e2538485e45af31ffb13637e42de15e01be074bafe37
 
+Package: com.tqm-mos.sedfix
+Name: CracksCompatibility
+Author: Pulandres
+Description: Package to fix Some Cracked Tweaks
+Maintainer: TQM
+Version: 5.1
+Section: Utilities
+Architecture: iphoneos-arm
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sedfix
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sedfix
+Filename: ./debs/com.tqm-mos.sedfix_5.1_iphoneos-arm.deb
+Size: 95440
+MD5sum: bdf538eff376b7e3e76f05629c088d7e
+SHA1: f50bb81b5760da85dd2557c5b1154b277132a91c
+SHA256: 0e7d6980e1c6d0dbf7fed56daccf296794f11eb4194c114ad8f0754212b394a6
+
+Package: com.tqm-mos.sedfix
+Name: CracksCompatibility
+Author: Pulandres
+Description: Package to fix Some Cracked Tweaks
+Maintainer: TQM
+Version: 6.0
+Section: Utilities
+Architecture: iphoneos-arm
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sedfix
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sedfix
+Filename: ./debs/com.tqm-mos.sedfix_6.0_iphoneos-arm.deb
+Size: 105816
+MD5sum: 9c67ac08f21f025079548c30519025e6
+SHA1: 2b179566703a1afbd85aa8347e8e2b26644c535d
+SHA256: 5ec5416e327519ef1a7d1e83918fc424795abe3629122b69106b9e538418f087
+
 Package: com.yourepo.tqm.aquaboardxcracked
 Name: AquaBoard X Cracked
 Author: Elias Limneos <limneoselias@gmail.com>
