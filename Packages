@@ -77,10 +77,10 @@ Section: TQM
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.classicios6
 SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.classicios6
 Filename: ./debs/com.tqm-mos.classicios6_1.3_iphoneos-arm.deb
-Size: 17853676
-MD5sum: 5b464d80ae41e7d661c669c5e3608b88
-SHA1: e8c98ea5efd74ae17ac217747cb912b11ce07aed
-SHA256: 1a81e68e1d311fc59bafae0c1b63e4703f1bd3e256194010b1c14541299c5e97
+Size: 17861506
+MD5sum: 3f7bed92f59bc0989e365037732a7abc
+SHA1: 4ec91a82eab301f599b75532a66961d5c3e13f19
+SHA256: 01b1da4b139eb8690f55e2538485e45af31ffb13637e42de15e01be074bafe37
 
 Package: com.yourepo.tqm.aquaboardxcracked
 Name: AquaBoard X Cracked
