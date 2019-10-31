@@ -98,6 +98,117 @@ MD5sum: bdf538eff376b7e3e76f05629c088d7e
 SHA1: f50bb81b5760da85dd2557c5b1154b277132a91c
 SHA256: 0e7d6980e1c6d0dbf7fed56daccf296794f11eb4194c114ad8f0754212b394a6
 
+Package: com.tqm-mos.animatoonpro
+Name: Animatoon PRO Theme
+Author: @tqmmos
+Description: Awesome animated theme. (Read Description).
+Maintainer: TQM
+Version: 0.0.2
+Section: Themes
+Depends: com.tqm-mos.toonsy
+Architecture: iphoneos-arm
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.animatoonpro
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.animatoonpro
+Filename: ./debs/com.tqm-mos.animatoonpro_0.0.2_iphoneos-arm.deb
+Size: 5183496
+MD5sum: d46b8d5c86799c5d7ea4dc70ee8b27e4
+SHA1: 66cdcb70f8b1dfd3cf2c8a87dd8b447b7199c176
+SHA256: 514bdb73c8feecb49ae3b6f6bc28bd10032aef755bd4f53764e3df7003da0b86
+
+Package: com.tqm-mos.toonsy
+Description: Animated icon theming platform for iOS 11
+Version: 1.1.1-1
+Section: IOS12
+Maintainer: TQM
+Depends: mobilesubstrate
+Conflicts: me.chewitt.fingal
+Architecture: iphoneos-arm
+Installed-Size: 405
+Name: Toonsy
+Author: va2ron1
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.animatoonpro
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.animatoonpro
+Filename: ./debs/com.tqm-mos.toonsy_1.1.1-1_iphoneos-arm.deb
+Size: 264118
+MD5sum: 601a5f99d373df577d74215b72008eef
+SHA1: fdea3efa30dde4b6d0f2dc3918cd631eebf1d3c3
+SHA256: ba66ed011f6e87acc24dc3a17792d915404bdecf63a6996ed11b5ca177b60718
+
+Package: com.tqm-mos.classicios6
+Name: iOS 6 - Themes
+Version: 1.4
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: QM
+Author: @tqmmos
+Section: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.classicios6
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.classicios6
+Filename: ./debs/com.tqm-mos.classicios6_1.4_iphoneos-arm.deb
+Size: 19540702
+MD5sum: 3761e15414e8181cac73bb45abfc0aa5
+SHA1: b0fd4dceaf707f940aa3df76f808407b5cb50d3f
+SHA256: e25172a3c90dec7bb362f2241856de62aac9d6febcef4479289ea28f2a41ca44
+
+Package: com.tqm-mos.networkmanager
+Name: NetworkManager
+Author: NoisyFlake
+Description: Force 2G/3G/LTE connection
+Maintainer: TQM
+Version: 1.0.2
+Section: Tweaks
+Depends: mobilesubstrate, com.tqm-mos.ccsupport
+Architecture: iphoneos-arm
+Installed-Size: 336
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.networkmanager
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.networkmanager
+Filename: ./debs/com.tqm-mos.networkmanager_1.0.2_iphoneos-arm.deb
+Size: 46888
+MD5sum: b97a181874165ab3788a71efb5efa072
+SHA1: 4b242a3397059cfa9d5fa2a764ca753115688375
+SHA256: 2bb72a51910c1b3d33b2aab77c44ea7782bffeb9ced3f6893da1e3dea5857e5f
+
+Package: com.tqm-mos.statusbarnox
+Name: StatusBar NoX
+Depends: firmware (>=11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Description: Use the old style iOS StatusBar on the iPhone X/XR/XS/XS Max.
+Maintainer: TQM
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Section: IOS11
+Version: 1.0.0~beta1-3
+Installed-Size: 296
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.statusbarnox
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.statusbarnox
+Filename: ./debs/com.tqm-mos.statusbarnox_1.0.0~beta1-3_iphoneos-arm.deb
+Size: 33184
+MD5sum: 1f7a956a3e635a5772cb2d9378bee49a
+SHA1: fc00abec765b1e13b336e93b930147e58d23a93e
+SHA256: 886c924f71d5469eae0d4c334941dbda1178850af7c8e21dfc2fa93891cd451c
+
+Package: com.tqm-mos.winterboard
+Priority: optional
+Section: System
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 0.9.3919
+Description: theme manager, used by most themes
+Name: WinterBoard
+Pre-Depends: dpkg (>= 1.13.25-5)
+Depends: mobilesubstrate (>= 0.9.3225-1), killall, preferenceloader, findutils, net.howett.pincrush (>= 0.0.1-23) | pincrush
+Breaks: jp.ashikase.folderenhancer (<< 1.6.0.2-1)
+Provides: theme-manager
+Conflicts: com.modmyifone.winterboardicon, winterboardsettings, themesettings, com.iphonerepocenter.transparentdockfor3xtheme
+Replaces: com.modmyifone.winterboardicon, winterboardsettings, themesettings, com.iphonerepocenter.transparentdockfor3xtheme
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/winterboard/
+Homepage: http://www.saurik.com/id/9
+Filename: ./debs/com.tqm-mos.winterboard_0.9.3919_iphoneos-arm.deb
+Size: 170748
+MD5sum: b983eaa1a98ee86be3f843f2b12d78b6
+SHA1: b23be7ef2000bf8255c2a96f739de29ca8311965
+SHA256: 673e80b432016a99e291ca9aace822e438c1dc64a8846a0c7608ea5d922fb113
+
 Package: com.tqm-mos.sedfix
 Name: CracksCompatibility
 Author: Pulandres
