@@ -2485,7 +2485,7 @@ SHA256: 2190cfc326607abcd92cc1bb05d0d6997e6033fa7cea0249813fc21f26fd7e2a
 
 Package: com.tqm-mos.anemone3
 Name: Anemone 3
-Depends: firmware (>=11.0), com.tqm-mos.anemone3-extsb, org.coolstar.tweakinject, com.ex.libsubstitute, pincrush, firmware (>=12.2) | org.swift.libswift (>=5.0)
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, pincrush, firmware (>=12.2) | org.swift.libswift (>=5.0)
 Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
