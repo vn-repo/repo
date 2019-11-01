@@ -521,6 +521,181 @@ MD5sum: 358157a39810b127265a63e6dad136a9
 SHA1: b00b5b2bcc799b628e04517a6828b530dc25a3d5
 SHA256: 20f8d9120ab308521b9a017f8510191b800efbbfa0c12aa6a04261cc7688f242
 
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=otrlocationDp
+Author: onTheRoadStudio <ontheroadstudio@live.cn>
+Maintainer: TQM
+Name: Anywhere!--Định vị ảo
+Package: com.tqm-mos.otrlocation
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.rpetrich.rocketbootstrap (>= 1.0.6)
+Section: Tweaks
+Installed-Size: 129622
+Version: 5.8.0
+Architecture: iphoneos-arm
+Description: 完全免费的地址和设备型号修改神器!
+dev: ontheroadstudio
+Icon: file:///Applications/OTRLocation.app/icon.png
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Filename: ./debs/com.tqm-mos.otrlocation_5.8.0_iphoneos-arm.deb
+Size: 47240548
+MD5sum: b588bc2854792dceefb138ecebebe37d
+SHA1: dff914433f26588faf12316f16ec5ff42acffa4e
+SHA256: b8411f119b977cc0337326641d24e09793141a8bde7636aa905a9d9f5707ff7a
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.27~Beta1
+Installed-Size: 3072
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.27~Beta1_iphoneos-arm.deb
+Size: 1238896
+MD5sum: 20db787ffc803c1f35142ad3243a835c
+SHA1: 473d0ed688f2ec7c2cb915feb3ccee55d659239b
+SHA256: 7bb9f7c3b6d4e83d9adfdd5529f980642cd1166800dbc5853f30bff0b707d735
+
+Package: com.tqm-mos.snowboard.effects
+Name: SnowBoard Icon Effects Extension
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon Effects for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.7~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.effects_1.0.7~Beta1_iphoneos-arm.deb
+Size: 81460
+MD5sum: 19c84317762ee220e86637e5a6c5303a
+SHA1: 14b857ed4694b852733e67d33ba574f2bd88ce65
+SHA256: a7c4208b6af37b973981ac35fa2c3943a6e6b26fca6dea930114b8c1964ffbe1
+
+Package: com.tqm-mos.snowboard.masks
+Name: SnowBoard Icon Masks
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon masks for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.4~Beta1
+Installed-Size: 532
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.masks_1.0.4~Beta1_iphoneos-arm.deb
+Size: 65258
+MD5sum: 18d5481ca42b202eee97bb0f3914dc10
+SHA1: 76a01cceee9621a2d52213ddde40e2763cb79e7b
+SHA256: 446e62a84dc401c3a01e5bfb96b2759d14e41599e3d19ebe3df2077351d1704b
+
+Package: com.tqm-mos.snowboard.pagedots
+Name: SnowBoard Page Dots Extension
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Page Dots for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.1~Beta1
+Installed-Size: 400
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.pagedots_1.0.1~Beta1_iphoneos-arm.deb
+Size: 56586
+MD5sum: dbf29e6635b0fc72d494f43b0a32eb14
+SHA1: df168b137ba7cbb5ec3354f68149882e366cc64a
+SHA256: d6be63481cb61ca08b3e6456311c22a55fb2f549bc82511c89788b926e854f76
+
+Package: com.tqm-mos.snowboard.presetextension
+Name: SnowBoard Preset
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>> 1.2.22)
+Architecture: iphoneos-arm
+Description: SnowBoard Presets Extension
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.13~Beta1
+Installed-Size: 524
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.presetextension_1.0.13~Beta1_iphoneos-arm.deb
+Size: 149122
+MD5sum: 56123326efc5c92f8ebc2d6c6e6e3320
+SHA1: e78dbcb830d59e6966871da6cf078016d8c8f69a
+SHA256: d3d54d4ac9734bc085a0c0afc79bbb682b060b05065a960991c62c694f9ae86d
+
+Package: com.tqm-mos.snowboard.proceduralwallpapers
+Name: SnowBoard Procedural Wallpapers Extension
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon proceduralwallpapers for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.1~Beta1
+Installed-Size: 404
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.proceduralwallpapers_1.0.1~Beta1_iphoneos-arm.deb
+Size: 50434
+MD5sum: 2b9da63c2b0ad067eb48bdf49ca40911
+SHA1: 33591252231a246c371c97bc618707957c1671b6
+SHA256: bf53af21a2a5b84742f01a86e24755a3d0107ece700cd69d1052ee763f7a6223
+
+Package: com.tqm-mos.snowboard.settingsicons
+Name: SnowBoard Settings Icons Extension
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Settings Icons for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.13~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.settingsicons_1.0.13~Beta1_iphoneos-arm.deb
+Size: 65058
+MD5sum: 2713b5fd374777bbbd5cfaecf87f8a84
+SHA1: eda998cdecf1ad464c42075ee07287f21064f6e6
+SHA256: 9bff335186ec3ba23c9544e5e405485a117953cd2288597071d8d1e9c0ce81d1
+
+Package: com.tqm-mos.snowboard.statusbar
+Name: SnowBoard StatusBar
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: StatusBar for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.2~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.statusbar_1.0.2~Beta1_iphoneos-arm.deb
+Size: 78674
+MD5sum: 69f82837286b0fff67dd0f3305ba7992
+SHA1: 2e68f9e6b1fb6a73cab1a80f2773df977fb983aa
+SHA256: d1fa49e163b1b4a75d838f4a1cbf0a2a8641fed48d67b7ad22e36feacaafc3ab
+
 Author: opa334 <opa334@protonmail.com>
 Maintainer: TQM 
 Name: CCSupport
@@ -2310,7 +2485,7 @@ SHA256: 2190cfc326607abcd92cc1bb05d0d6997e6033fa7cea0249813fc21f26fd7e2a
 
 Package: com.tqm-mos.anemone3
 Name: Anemone 3
-Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, pincrush, firmware (>=12.2) | org.swift.libswift (>=5.0)
+Depends: firmware (>=11.0), com.tqm-mos.anemone3-extsb, org.coolstar.tweakinject, com.ex.libsubstitute, pincrush, firmware (>=12.2) | org.swift.libswift (>=5.0)
 Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
