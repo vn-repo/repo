@@ -2490,7 +2490,7 @@ Version: 1.6.0-2
 Architecture: iphoneos-arm
 Description: İOS 11 ve iOS 12'de kontrol merkezinizi geliştirin.
 Author: ATWiiks <anhminh311105@gmail.com>
-Section: TQM
+Section: IOS11
 Depends: mobilesubstrate, com.tqm-mos.ccsupport, preferenceloader
 Conflicts: com.atwiiks.betterccxiweather, com.atwiiks.betterccxi
 Maintainer: QM <anhminh311105@gmail.com>
@@ -2501,6 +2501,134 @@ Size: 158476
 MD5sum: 8a4ff23854ab6265f515cf60f7181b51
 SHA1: 88cbf44bc4ea6a96793a5d4899f7185de99ed36b
 SHA256: 28eceb5f8562b745831ec07b0163ea6db37d25d1c1cb3bf3ed80ec1a0d2bbf02
+
+Package: com.tqm-mos.compactionscc
+Version: 1.1
+Section: TQM
+Architecture: iphoneos-arm
+Name: Compactions CC
+Description: Compactions Icons for the CC
+Maintainer: TQM <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.compactionscc
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.compactionscc
+Filename: ./debs/com.tqm-mos.compactionscc_1.1_iphoneos-arm.deb
+Size: 97936
+MD5sum: 8e38ab0a22232977be2627c16e7af990
+SHA1: 693336a3ec28a9ff5a0a1f70a35b962817c2ac60
+SHA256: 4efcbba1c7afac38cff9c20d77fa3d7cb03c4c815d5fcd29cc8aba58f2be79ab
+
+Package: com.tqm-mos.flatmusiccontrols11
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Name: Flat Music Controls
+Description: Flat-looking music controls. Works in app, CC, and LS
+Maintainer: TQM <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.flatmusiccontrols11
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.flatmusiccontrols11
+Filename: ./debs/com.tqm-mos.flatmusiccontrols11_1.0_iphoneos-arm.deb
+Size: 17162
+MD5sum: 47d28d5c0b5f338f6e56779d0316e2d7
+SHA1: 9efd73fd7e57ba77f6655b9ae7033c75d765cda1
+SHA256: 3dcb5806ca20e0b639c1b1e73f43b92c26e2b2671efbb508698ccf9af2fe0d72
+
+Package: com.tqm-mos.flatui
+Version: 1.2.4
+Section: TQM
+Architecture: iphoneos-arm
+Name: Flat UI Theme
+Description: Flat UI Theme.
+Maintainer: TQM <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.flatui
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.flatui
+Filename: ./debs/com.tqm-mos.flatui_1.2.4_iphoneos-arm.deb
+Size: 747002
+MD5sum: 02d2ad4bc6cdfaed0e92ec25a1f0fed0
+SHA1: 43df5e25b8e0fa67da1e90dec2bc11c577980474
+SHA256: dd47e37b23fc95fc008f18ee2edcdc296806d9c54b86f724191da664486682fb
+
+Package: com.tqm-mos.inkmusiccontrols
+Version: 1.0.1
+Section: TQM
+Architecture: iphoneos-arm
+Name: Ink Music Controls
+Description: An ink theme for music controls
+Maintainer: TQM <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.inkmusiccontrols
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.inkmusiccontrols
+Filename: ./debs/com.tqm-mos.inkmusiccontrols_1.0.1_iphoneos-arm.deb
+Size: 77692
+MD5sum: 912f7aacfea7ce663107b849c91dd00d
+SHA1: 6c62857645b711212c3bc3d9d8c4fb133d3578ed
+SHA256: f604517a813a1cb85ed6b21377c7735919535fb73b092a32441f0572e59bdd3a
+
+Package: com.tqm-mos.kelmacc
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Name: Kelma CC Theme
+Description: A CC theme made up of words
+Maintainer: TQM <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.kelmacc
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.kelmacc
+Filename: ./debs/com.tqm-mos.kelmacc_1.0_iphoneos-arm.deb
+Size: 241046
+MD5sum: cb0ca3c3995dd861083b5a8deb93af75
+SHA1: e6bd93e435d95f10c30c6abb8fe674227165e21e
+SHA256: 90ca466520aa4925d2ea2ce704128e7497ef76a8a6d91a74373b5442f395b1f3
+
+Package: com.tqm-mos.linealcc
+Version: 1.2
+Section: TQM
+Architecture: iphoneos-arm
+Name: Lineal CC Theme
+Description: Lineal CC Theme.
+Maintainer: TQM <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.linealcc
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.linealcc
+Filename: ./debs/com.tqm-mos.linealcc_1.2_iphoneos-arm.deb
+Size: 1721114
+MD5sum: 7d378580c1e9edb51754e0a5bbb82cc7
+SHA1: 4d61c86a5749885d3c0c8624c14ee3701f4f423c
+SHA256: af6551ddeea14b46f2fa6bb51e1bcd89f75fd72b388e5c2e7860faf31bd081ff
+
+Package: com.tqm-mos.linealui
+Version: 1.3.1
+Section: TQM
+Architecture: iphoneos-arm
+Name: Lineal UI Theme
+Description: Lineal UI Theme.
+Maintainer: TQM <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.linealui
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.linealui
+Filename: ./debs/com.tqm-mos.linealui_1.3.1_iphoneos-arm.deb
+Size: 1342334
+MD5sum: 5987f64fd53ff1882198834cd2ef48e6
+SHA1: d4697d1e9645e96ae9e44d9f5c48b5c3e29ec2d7
+SHA256: 4a846474c9d456d78c1a71bef93394f4a51b1dc9832585effd0a65c6935c2a30
+
+Package: com-tqm-mos.linealsb
+Version: 1.3
+Section: TQM
+Architecture: iphoneos-arm
+Name: Lineal Status Bar Theme
+Description: A status bar theme
+Maintainer: TQM <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com-tqm-mos.linealsb
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com-tqm-mos.linealsb
+Filename: ./debs/com-tqm-mos.linealsb_1.3_iphoneos-arm.deb
+Size: 79676
+MD5sum: 55ec5973f716a686290aed632bff09be
+SHA1: d17bf2d967130f779230353407e5a30278f9e016
+SHA256: 2cdf8928ef6d565bb56862bedcc4d5f723a198d94319a54d90470eeef5894c6b
 
 Package: com.tqm-mos.coolcc
 Name: CoolCC
