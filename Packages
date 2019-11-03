@@ -115,6 +115,84 @@ MD5sum: d46b8d5c86799c5d7ea4dc70ee8b27e4
 SHA1: 66cdcb70f8b1dfd3cf2c8a87dd8b447b7199c176
 SHA256: 514bdb73c8feecb49ae3b6f6bc28bd10032aef755bd4f53764e3df7003da0b86
 
+Package: me.nepeta.axon
+Name: Axon
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Architecture: iphoneos-arm
+Description: Priority Hub for iOS 11 and 12
+Maintainer: TQM
+Author: Nepeta & Baw Appie
+Section: IOS11
+Version: 0.2
+Installed-Size: 508
+Depiction: https://tqm-mos.github.io/description.html?id=com.axon
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.axon
+Filename: ./debs/me.nepeta.axon_0.2_iphoneos-arm.deb
+Size: 171852
+MD5sum: eee5ea43943a59d15475f0e19ea328d2
+SHA1: 3b9853e8b8cc100908dd98b038714fd02a0b4229
+SHA256: 080eab70541bb438e57c93d8c68c546f4e679c2b50ebda23e6a94d1dfc63fea1
+
+Package: me.nepeta.notifica
+Name: Notifica VH
+Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), ws.hbang.common (>= 1.11), com.tqm-mos.libmos (>= 0.1.1), firmware (>= 11.0)
+Conflicts: io.ominousness.modernxi, me.nepeta.libnepeta
+Architecture: iphoneos-arm
+Description: Notification customizer
+Maintainer: TQM
+Author: Nepeta
+Section: IOS11
+Version: 0.3.1
+Installed-Size: 1128
+Depiction: https://tqm-mos.github.io/description.html?id=com.notifica
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.notifica
+Filename: ./debs/me.nepeta.notifica_0.3.1_iphoneos-arm.deb
+Size: 462836
+MD5sum: d3e4bbe8546dbb85a4f2350651eb5577
+SHA1: 379820db94df23586ce20b945789d7afa52d18bc
+SHA256: db207947d714cb28d5f1b1fbf33d865aa4e0a4e458c08933f4ed92dc97113801
+
+Name: WeatherUnlockText
+Package: com.tqm-mos.weatherunlocktext
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 11.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Current weather on "Slide up to unlock" text
+Sponsor: tqm-mos.github.io <http://tqm-mos.github.io>
+Maintainer: TQM
+Author: XCXiao <958169971@qq.com>
+Section: IOS11
+Tag: purpose::extension, compatible::ios11
+Installed-Size: 104
+dev: xcxiao
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.weatherunlocktext
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.weatherunlocktext
+Filename: ./debs/com.tqm-mos.weatherunlocktext_1.0.0_iphoneos-arm.deb
+Size: 7420
+MD5sum: afe8f3a8652e34188d7f91cf957a0a75
+SHA1: 1e5af4656ab4f32919ca0651a8a42c870517bd9d
+SHA256: 7c3dd7ab08c8708f28815e4e83686192265fc9e8015aab2161d15f4f6f7e5e4e
+
+Package: com.tqm-mos.toonsy
+Name: Toonsy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Animated icon theming platform for iOS 11
+Maintainer: TQM
+Author: va2ron1
+Section: IOS11
+Version: 1.1.4-1
+Installed-Size: 652
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.animatoonpro
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.animatoonpro
+Filename: ./debs/com.tqm-mos.toonsy_1.1.4-1_iphoneos-arm.deb
+Size: 303628
+MD5sum: 6f1bfdd2ef6a0f142e8d1e0cdb8e4070
+SHA1: 89dda549108f0c6dc91d977ba93b8c6ab19f9d8c
+SHA256: 03ac98b9929dbd0eea44dcf79b0b503a128df49f1606ef29faab46e60fc15717
+
 Package: com.tqm-mos.toonsy
 Description: Animated icon theming platform for iOS 11
 Version: 1.1.1-1
@@ -1102,25 +1180,6 @@ Size: 1316532
 MD5sum: a39727389a181c8ef38893afa21aa8a4
 SHA1: fd1ea148e9a41e0b10b0ca66804eb80dca23d35b
 SHA256: 27d9a4370b35a8bdc80af0f8ac3e92971b9a33dc4c04d1fc9492a0e99f382997
-
-Package: com.tqm-mos.axon
-Name: Axon VH
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Architecture: iphoneos-arm
-Description: Gom thông báo thu gọn màn hình LS ,tinh chỉnh mạnh mẽ về thông báo 
-Maintainer: TQM
-Author: Nepeta
-Section: IOS11
-Version: 0.1.9
-Installed-Size: 500
-Depiction: http://tqm-mos.github.io/description.html?id=com.axon
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.axon
-Filename: ./debs/com.tqm-mos.axon_0.1.9_iphoneos-arm.deb
-Size: 169554
-MD5sum: 47ca5da05a890dfd50861723d25c6221
-SHA1: 6d3fd23d0e0e90a9092d26c9943922c79ee3be3c
-SHA256: 213a0c9c5f59aa4054664a42fd8c63692b8e2a025f21b2b51164df5273eaca4a
 
 Package: com.tqm-mos.bazzi2
 Version: 2.0.7.1
@@ -2178,7 +2237,7 @@ Description: Single camera portrait mode
 Maintainer: Pulandres
 Version: 1.0.5.1-1
 Section: Tweaks
-Depends: mobilesubstrate, preferenceloader, com.tqm-mos.portraitxivn, com.foxfort.foxforttools | me.pulandres.foxforttools, me.pulandres.libfoxfortutils64, org.swift.libswift (>= 5.0)
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools | me.pulandres.foxforttools, me.pulandres.libfoxfortutils64, org.swift.libswift (>= 5.0)
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portraitxi
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.portraitxi
 Architecture: iphoneos-arm
@@ -4358,44 +4417,6 @@ Size: 50992
 MD5sum: 7ee5699612a39015b0688674e0b945ff
 SHA1: 3099a99aaf8790be64e1fded51981dbd085837c2
 SHA256: 696725f93c6a0a59b1072d79ecfc2505773d229078b59aceacd745f4ba4da62e
-
-Package: com.tqm-mos.axon
-Name: Axon VH
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Architecture: iphoneos-arm
-Description: Gom thông báo thu gọn màn hình LS ,tinh chỉnh mạnh mẽ về thông báo 
-Maintainer: TQM
-Author: Nepeta
-Section: IOS11
-Version: 0.1.8-1
-Installed-Size: 500
-Depiction: http://tqm-mos.github.io/description.html?id=com.axon
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.axon
-Filename: ./debs/com.tqm-mos.axon_0.1.8-1_iphoneos-arm.deb
-Size: 123916
-MD5sum: 99bfec595fa66a563da3742e47c8af58
-SHA1: 884cc77b305c075e3f9b2ae8daf040317fb29e5a
-SHA256: 9e62fcfdf728e4dae08a87e40390e0a5a141f626c22d4e18ba73192e81c24c3d
-
-Package: com.tqm-mos.notifica
-Name: Notifica VH
-Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
-Conflicts: io.ominousness.modernxi
-Architecture: iphoneos-arm
-Description: Gom thông báo thu gọn màn hình LS ,tinh chỉnh mạnh mẽ về thông báo 
-Maintainer: TQM
-Author: Nepeta
-Section: IOS11
-Version: 0.3.0-4
-Installed-Size: 1128
-Depiction: http://tqm-mos.github.io/description.html?id=com.notifica
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.notifica
-Filename: ./debs/com.tqm-mos.notifica_0.3.0-4_iphoneos-arm.deb
-Size: 397464
-MD5sum: a632e210398fc818ed8c67865c6a8229
-SHA1: 64891c1be7810be4c421e23ed1d87155ee15538e
-SHA256: 0c40c874b430d7a49f36fc5d838e2e0439c370ff46ba84b18d667de713e37e3b
 
 Package: com.tqm-mos.sbapple
 Name: SB  Apple
@@ -7173,40 +7194,6 @@ MD5sum: 18536ba8287cd5c711a0386e6b4e35d4
 SHA1: 564a66030535c76fc6467276a08cacbc84d53469
 SHA256: 4f79fb3849557d0528717f96bac1d5d0a4397d05a44d4786d091da700e7808d6
 
-Package: com.tqm.snowboard12
-Name: SnowBoard (12)
-Version: 1.1.6
-Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Architecture: iphoneos-arm
-Author: Spark & Dennis D. Bednarz
-Section: IOS12
-Description: Snowboard theming engine
-Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
-Maintainer: QM
-Filename: ./debs/com.tqm.snowboard12_1.1.6_iphoneos-arm.deb
-Size: 487148
-MD5sum: dc836650f15211f780dbb1385db7c845
-SHA1: f4713f36df6a99fd881deba0aa18e75c31a47d39
-SHA256: 531536ee9d17f6b762cc18e2ee8679bf65a6851135292369d557aff4cde92ce7
-
-Package: com.tqm.snowboard
-Name: SnowBoard
-Version: 1.1.6
-Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Architecture: iphoneos-arm
-Author: Spark & Dennis D. Bednarz
-Section: Tweaks
-Description: Snowboard theming engine
-Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
-Maintainer: QM
-Filename: ./debs/com.tqm.snowboard_1.1.6_iphoneos-arm.deb
-Size: 487134
-MD5sum: d26ce8cc57766ff9a421d38e17e4dce3
-SHA1: 00248148436126a90e5ec91a19bf0631495060b0
-SHA256: c3c0359e992a24b391ad3f263abf6ba678587494336feb43c7bdbe331d63178e
-
 Package: com.tqm-mos.talion
 Name: Talion
 Version: 1.3
@@ -9388,23 +9375,6 @@ MD5sum: f216d4a3f625acc8769245688f6a8a88
 SHA1: adef44a9d303202a2708ef11003c3f5581c03f41
 SHA256: 24717d295d6dc99dd0db99ea5ada1a0645685723c13f6fa1d375ec23726406c6
 
-Package: com.tqm-mos.notifica
-Name: Notifica
-Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), com.tqm-mos.libmos (>= 0.1.1), firmware (>= 11.0)
-Conflicts: io.ominousness.modernxi
-Architecture: iphoneos-arm
-Description: Notification customizer
-Maintainer: TQM
-Author: Nepeta
-Section: IOS11
-Version: 0.2.8-1
-Installed-Size: 1100
-Filename: ./debs/com.tqm-mos.notifica_0.2.8-1_iphoneos-arm.deb
-Size: 454452
-MD5sum: 73873b04a89ae1bcb24cc051037e408b
-SHA1: 64c383ff8b678fe015d08b8cb997834dbdab2361
-SHA256: 24c44033469ddec2176961ea80ba49a3be4049e6b9bc3522aa42313a77764e20
-
 Package: com.tqm-mos.pubgmobile012
 Name: PUBG MOBILE Cheats v0.12.0
 Version: 0.12.0-1
@@ -9486,27 +9456,6 @@ Size: 661988
 MD5sum: 2a566711ed49f8146df26948b5ad4ff3
 SHA1: 4a5f833b162af05f410a13ffeaa2e79a02ad1c03
 SHA256: 4dedef7bf63ef0aeded124de857a91fb5098e088b0f84ebb9ec493edc1dd4e6e
-
-Package: com.tqm.snowboard12
-Name: SnowBoard
-Depends: mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Description: Snowboard theming engine
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Maintainer: TQM
-Author: Spark & Dennis D. Bednarz
-Section: IOS12
-Version: 1.1.7
-Installed-Size: 1652
-Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
-SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
-Filename: ./debs/com.tqm.snowboard12_1.1.7_iphoneos-arm.deb
-Size: 661992
-MD5sum: 5f0ebaf8e9bbf9ecd47b7e7063595ff8
-SHA1: 53023e8289c0fcb95000d987f4d29858509224f8
-SHA256: cb8d3651ae1534135e980f0a24ece75fdf9e8fe692df81da1d74b5915c8133e2
 
 Package: com.tqm-mos.zeppelicator
 Name: Zeppelicator
@@ -12106,6 +12055,8 @@ Installed-Size: 104
 Filename: ./debs/com.tqm-mos.ftrf12_1.1_iphoneos-arm.deb
 Size: 4086
 MD5sum: a6c5d0de700c16beb33d452b5566b99d
+SHA1: dcd831dc0f4598f2abff2234a544718b4072db2c
+SHA256: adbacb14b5779f5ad310ea67683ed7f53aa78d34e60e01f1ebd48b956e9c0256
 
 Package: com.tqm-mos.ft
 Name: FingerTouch
@@ -12119,6 +12070,8 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.ft_0.0.6b3_iphoneos-arm.deb
 Size: 27050
 MD5sum: b253a13a099bcb91e3753f13476d8acf
+SHA1: 75cd8eae7bc62a988a659069f6be0bca0b7f08db
+SHA256: 3b484fd4399b50cf5fd1b9f265b4e9cc3a2748b8d0c5ffb1ed5a4d0c70623556
 
 Package: com.tqm-mos.ft2
 Name: FingerTouch 2
@@ -12132,6 +12085,8 @@ Maintainer: QM
 Filename: ./debs/com.tqm-mos.ft2_0.0.6b1_iphoneos-arm.deb
 Size: 26738
 MD5sum: dfd5cb24b78eb10438b317a31c2aaae7
+SHA1: f21ac850d03bf1a4997a48751d3f795faa80250b
+SHA256: 4860c6b3b7fe15b0afe2bfa1cd6b675d7a231d53aef559f28a7dec9e418450e6
 
 Package: com.tqm-mos.StatusBarWeather
 Name: StatusBarWeather
@@ -14867,22 +14822,6 @@ MD5sum: 74a4d620149d3c29bac40b069fb06ac9
 SHA1: 4b06083efbd293e10a7529e40b047dc2faf0fab5
 SHA526: bded5eb51daa4dc3ad97325d7e97aaf7115e6f124c5914d29b13819574ed5842
 
-Package: com.tqm-mos.notifica
-Name: Notifica
-Version: 0.1.9
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), com.tqm-mos.libmos
-Conflicts: ch.mdaus.palette, com.golddavid.colorbanners2, io.ominousness.modernxi, com.golddavid.colorbanners2-new
-Architecture: iphoneos-arm
-Author: Nepeta
-Section: IOS11
-Description: Notification customizer
-Maintainer: QM
-Filename: ./debs/com.tqm-mos.notifica_0.1.9_iphoneos-arm.deb
-Size: 375782
-MD5sum: 8678c2f7347b95171632223afcb0de8f
-SHA1: 3f8e87d643727fac041f45bdd81e765719225e37
-SHA526: 2d0bf8773fc588a25ead0e423ce4276dad2bb23cdbad6ed4a5319e3b11f247bf
-
 Package: com.tqm-mos.undertime12
 Name: Undertime
 Version: 1.6-21+debug
@@ -15461,6 +15400,8 @@ Section: IOS11
 Tag: purpose::extension, compatible::ios11
 Installed-Size: 6214
 dev: ikilledappl3
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.coolcc
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.coolcc
 Filename: ./debs/com.tqm-mos.colormyyccmodules_1.1-1_iphoneos-arm.deb
 Size: 2845606
 MD5sum: 8a56587aea68bbc4bb4ded68d095b683
