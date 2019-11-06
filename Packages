@@ -47,6 +47,22 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Name: SB Gili ( X )
+Package: com.tqm-mos.sbgiliipx
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widget ( Xen HTML  ) Yêu cầu cài thêm ( Xeninfo )
+Maintainer: TQM
+Author: @tqmmos
+Section: iWidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbgiliipx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbgiliip
+Filename: ./debs/com.tqm-mos.sbgiliipx_1.0_iphoneos-arm.deb
+Size: 27323276
+MD5sum: 100d1e56b3074054805d9099ae4c61a5
+SHA1: 979eca92f41f16a511a9e57e5f97d521f520bc93
+SHA256: ac138c9e9e800eb23b49a18a7b4f8b493284ad24be395c9d3c36ee24977d6922
+
 Package: com.tqm-mos.horizon
 Name: Horizon Cracked
 Author: Sirius24
