@@ -47,6 +47,22 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.polluxicons
+Name: Pollux
+Author: Jose Luis Aguirre <jose_luis2284@hotmail.com>
+Description: Excellent theme with gradient effects in dark mode.
+Maintainer: TQM
+Version: 1.5
+Section: TQM
+Architecture: iphoneos-arm
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.polluxicons
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.polluxicons
+Filename: ./debs/com.tqm-mos.polluxicons_1.5_iphoneos-arm.deb
+Size: 30561328
+MD5sum: 62153802171cc760793b9df52cc034ba
+SHA1: 714a4dc6933a02421067c95eb8d242d4967285aa
+SHA256: c05420b2d7cd82416f6fa1f9a6fe80d9286a7ace7c541fc75dbc8049a895bd21
+
 Name: SB Gili ( X )
 Package: com.tqm-mos.sbgiliipx
 Version: 1.0
