@@ -63,14 +63,14 @@ MD5sum: 62153802171cc760793b9df52cc034ba
 SHA1: 714a4dc6933a02421067c95eb8d242d4967285aa
 SHA256: c05420b2d7cd82416f6fa1f9a6fe80d9286a7ace7c541fc75dbc8049a895bd21
 
-Name: SB Gili ( X )
+Name: SB - LS Gili ( X )
 Package: com.tqm-mos.sbgiliipx
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Widget ( Xen HTML  ) Yêu cầu cài thêm ( Xeninfo )
 Maintainer: TQM
 Author: @tqmmos
-Section: iWidgets
+Section: Iwidgets
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbgiliipx
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbgiliip
 Filename: ./debs/com.tqm-mos.sbgiliipx_1.0_iphoneos-arm.deb
