@@ -47,6 +47,66 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.snowboard.settingsicons
+Name: SnowBoard Settings Icons
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Settings Icons for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.15~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.settingsicons_1.0.15~Beta1_iphoneos-arm.deb
+Size: 67664
+MD5sum: 3fbecc08431a1a51829ed0969b8020b0
+SHA1: 132a1684c8d05afd50b217712d1f5ad83ca471a9
+SHA256: 8f81f62bba0596140c8d7f403fa44781eb73c9bd7a2cbecec7b61a1f3946a64b
+
+Package: com.tqm-mos.snowboard.ui
+Name: SnowBoard Settings Icons
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Settings Icons for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.1~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.ui_1.0.1~Beta1_iphoneos-arm.deb
+Size: 50636
+MD5sum: f8005236a52a68fcbc645eb0ea564721
+SHA1: 17f095d7e345ad62bacb178e63b153d22da11518
+SHA256: 956276744c7dcd42fb1aebe947d41411f94ea1dc6a935468fd369befdc60cf54
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.37~Beta1
+Installed-Size: 3712
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.37~Beta1_iphoneos-arm.deb
+Size: 1827694
+MD5sum: 82595172d38de885cd6db5db7d332477
+SHA1: 43df4553b92911b5a134aa07ad4e4de18a3c93df
+SHA256: 2c2c652ffa209f92198af0c956d4ab708666293558aea2126df043d26bce9628
+
 Package: com.tqm-mos.polluxicons
 Name: Pollux
 Author: Jose Luis Aguirre <jose_luis2284@hotmail.com>
