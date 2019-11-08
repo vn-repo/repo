@@ -67,7 +67,7 @@ SHA1: 132a1684c8d05afd50b217712d1f5ad83ca471a9
 SHA256: 8f81f62bba0596140c8d7f403fa44781eb73c9bd7a2cbecec7b61a1f3946a64b
 
 Package: com.tqm-mos.snowboard.ui
-Name: SnowBoard Settings Icons
+Name: SnowBoard UI
 Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
 Architecture: iphoneos-arm
 Description: Settings Icons for SnowBoard
