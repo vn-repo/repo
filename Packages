@@ -66,6 +66,24 @@ MD5sum: 3fbecc08431a1a51829ed0969b8020b0
 SHA1: 132a1684c8d05afd50b217712d1f5ad83ca471a9
 SHA256: 8f81f62bba0596140c8d7f403fa44781eb73c9bd7a2cbecec7b61a1f3946a64b
 
+Package: com.artikus.unitether
+Name: UniTether
+Depends: mobilesubstrate, sudo
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A semi-untether? Maybe...
+Maintainer: TQM
+Author: ArtikusHG
+Section: System
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.unjb
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.unjb
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/UniTether-Deb-3.deb
+Size: 75990
+MD5sum: 35cfc3290b400abf2d7cdf25d7ffc4ce
+SHA1: 00c8772e47bbbfb26e9b6fcf59d393323dfe0122
+SHA256: a9c1bd4a09d6b4194768099193d3a3391cbed11740cffd63edbe21603aff8e9c
+
 Package: com.tqm-mos.gestures13
 Name: Gestures13
 Depends: mobilesubstrate
@@ -107,6 +125,28 @@ Size: 123398
 MD5sum: 0f0fd612d8368f750362f8c48f8a6e3e
 SHA1: 665f93ebde87520635bc4db8263330c3d8947204
 SHA256: 54e16f1169ce937cbe438880e4a4c1bfbebf1271880c48ba123ffafb97693743
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.42~Beta1
+Installed-Size: 3712
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.42~Beta1_iphoneos-arm.deb
+Size: 1903130
+MD5sum: 150a0fd336b77473bc489756c2d78841
+SHA1: b2d896e1e51790f9c06b7cc5b518e11f873d586a
+SHA256: f5bcf375ea2bb8ef93292d4899d547b023bda6075ca1d9a3b715296f00a2a293
 
 Package: com.tqm-mos.snowboard.masks
 Name: SnowBoard Icon Masks
