@@ -47,6 +47,46 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.easyswitcherx
+Name: EasySwitcherX
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Swipe up on apps in the switcher to kill them, without having to press and hold (iPhone X - how it should have been)
+Maintainer: TQM
+Author: Spark
+Section: IOS11
+Version: 0.0.7
+Installed-Size: 352
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.easyswitcherx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.easyswitcherx
+Filename: ./debs/com.tqm-mos.easyswitcherx_0.0.7_iphoneos-arm.deb
+Size: 74938
+MD5sum: f5ffaec6c518f126bf339d01114ac657
+SHA1: bfbc2bd232a2d7f8facab1f168290d5d79d067c7
+SHA256: 85f67a6313c27d9aee78b32c9a9eccbdff2d2361bc30ba8252075ff74f0420bd
+
+Package: com.tqm-mos.snowboard.ui
+Name: SnowBoard UI
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>> 1.2.22)
+Provides: com.spark.snowboard.UI, com.spark.snowboard.ui
+Replaces: com.spark.snowboard.UI, com.spark.snowboard.ui
+Conflicts: com.spark.snowboard.UI, com.spark.snowboard.ui, com.spark.snowboard
+Architecture: iphoneos-arm
+Description: UI Extension for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.9~Beta1
+Installed-Size: 464
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.ui_1.0.9~Beta1_iphoneos-arm.deb
+Size: 72314
+MD5sum: ff71ac7fdb482e6ad01c392b8cd691d8
+SHA1: 853929a6ffd97e5f2b8a1992cefa75b4140069fc
+SHA256: db42f5044d2614339bb881d3dd0ddd0e71dd011768cd2a42742a0995eaf5e56f
+
 Package: com.tqm-mos.snowboard.settingsicons
 Name: SnowBoard Settings Icons
 Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
