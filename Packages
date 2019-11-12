@@ -104,6 +104,28 @@ MD5sum: a10e38b8135e4819a424be138e7a1f77
 SHA1: 08f721172cf657cb2dd76b18c740167ec5651755
 SHA256: 32be361ba4368875c23b987cb97e07d0b4a2648bc0b88fa1e56764a9d95620be
 
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.48~Beta1
+Installed-Size: 4156
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.48~Beta1_iphoneos-arm.deb
+Size: 1928702
+MD5sum: a524b0b040a8a40e7e92035e851a502a
+SHA1: 2c0555efd82c7908ed930df8d3d4862331a8a60c
+SHA256: 64ab35df14e59883ce0f2bcb95aec62ad3df8e81a45d15c8f564c4a759885a3c
+
 Package: com.tqm-mos.snowboard.ui
 Name: SnowBoard UI
 Depends: mobilesubstrate, com.tqm-mos.snowboard (>> 1.2.22)
@@ -9850,27 +9872,6 @@ MD5sum: 4f5883752cb2de070b9452add16376e1
 SHA1: 4be72a32ed085174ad4a2a20a548e14b9b0c464f
 SHA256: 968ce039e3f155479e194c8e27166b0856ddd7494a13764557f5feed63220b94
 
-Package: com.tqm.snowboard
-Name: SnowBoard
-Depends: mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Description: Snowboard theming engine
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Maintainer: TQM
-Author: Spark & Dennis D. Bednarz
-Section: Tweaks
-Version: 1.1.7
-Installed-Size: 1652
-Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
-SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
-Filename: ./debs/com.tqm.snowboard_1.1.7_iphoneos-arm.deb
-Size: 661988
-MD5sum: 2a566711ed49f8146df26948b5ad4ff3
-SHA1: 4a5f833b162af05f410a13ffeaa2e79a02ad1c03
-SHA256: 4dedef7bf63ef0aeded124de857a91fb5098e088b0f84ebb9ec493edc1dd4e6e
-
 Package: com.tqm-mos.zeppelicator
 Name: Zeppelicator
 Architecture: iphoneos-arm
@@ -14060,6 +14061,8 @@ Icon: file:///Library/PreferenceBundles/SmartTapSettings.bundle/SmartTapSettings
 Filename: ./debs/com.tqm-mos.smarttap_0.8-350k_iphoneos-arm.deb
 Size: 107368
 MD5sum: af87bef97cb6745a2fb95ae821d82858
+SHA1: f19b401073244aad600450ed0147696d6490cd26
+SHA256: 316544c6c8b9a609e4671c073210a042c0ec0e09c5e4ab1672c60c16866d06c9
 
 Package: com.tqm-mos.smarttapx
 Name: SmartTap X
@@ -14077,6 +14080,8 @@ Icon: file:///Library/PreferenceBundles/SmartTapSettings.bundle/SmartTapSettings
 Filename: ./debs/com.tqm-mos.smarttapx_0.1-251_iphoneos-arm.deb
 Size: 115258
 MD5sum: c815b595619eac6e5b62e868a3a1352e
+SHA1: 87dab16ec0da69b594fd92dd63cb9aac9b4100a4
+SHA256: 185585c50c75c518ecf12d871e8afe5d14372491ddf26005ffdabd256aff5493
 
 Package: com.tqm-mos.sonus
 Name: Sonus
