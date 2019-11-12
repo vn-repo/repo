@@ -87,6 +87,23 @@ MD5sum: eab37cd3c52cc1958a39ca3c59f6429d
 SHA1: 5b257f953115390d35092840391ed7c2ebdbb947
 SHA256: 3483fc674c2bdab7e820774f25b440a90d5bcac2845de240510eff0ff84ba505
 
+Package: com.tqm-mos.bypasstechcombank
+Version: 1.1.6.0-7
+Section: Tweaks
+Maintainer: TQM
+Description: Bypass Techcombank SmartOTP and TCB OTP & Softtoken
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: Bypass Techcombank
+Author: IPALibrary <tuanbeo22061@hotmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bypasstechcombank
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bypasstechcombank
+Filename: ./debs/com.tqm-mos.bypasstechcombank_1.1.6.0-7_iphoneos-arm.deb
+Size: 204220
+MD5sum: a10e38b8135e4819a424be138e7a1f77
+SHA1: 08f721172cf657cb2dd76b18c740167ec5651755
+SHA256: 32be361ba4368875c23b987cb97e07d0b4a2648bc0b88fa1e56764a9d95620be
+
 Package: com.tqm-mos.snowboard.ui
 Name: SnowBoard UI
 Depends: mobilesubstrate, com.tqm-mos.snowboard (>> 1.2.22)
