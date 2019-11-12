@@ -246,6 +246,28 @@ MD5sum: fea295906dc1d3d0963b0ffe69c12d28
 SHA1: c82cd1aa6e37f6c614f61738ec4d5f61e5cd9ea2
 SHA256: cbb490a9f51a27598c168be5386e2ac0b0f22b78c14528cc32bf0748f7ed2e76
 
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.50~Beta1
+Installed-Size: 4148
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.50~Beta1_iphoneos-arm.deb
+Size: 1929332
+MD5sum: cddb7898628c36c4b8313b9f4aea5e4d
+SHA1: b7a6537b85c131b26f9dffb2686a66f45215381a
+SHA256: e65ec405e51bb019ebc8475d153f48800b5937b6e17d3b6d73bc06680e9d981b
+
 Package: com.tqm-mos.snowboard.settingsicons
 Name: SnowBoard Settings Icons
 Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
@@ -540,7 +562,7 @@ Author: @tqmmos
 Description: Awesome animated theme. (Read Description).
 Maintainer: TQM
 Version: 0.0.2
-Section: Themes
+Section: TQM
 Depends: com.tqm-mos.toonsy
 Architecture: iphoneos-arm
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.animatoonpro
