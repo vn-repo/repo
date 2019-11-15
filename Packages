@@ -205,6 +205,25 @@ MD5sum: 2b734e4d39244c041645878f8e49bb70
 SHA1: 7e4c111c8a3b1743f959e2bafc14082254ab48b1
 SHA256: 5bb2b300984083eed91b5726dd6bbbb00fbb7535fec28f5cc7200a2b2a91b084
 
+Package: com.tqm-mos.hyperion
+Name: Hyperion [Members Plus]
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: OLED notification tweak
+Maintainer: TQM
+Author: Spark
+Section: Tweaks
+Version: 0.4.21-1
+Installed-Size: 4168
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.hyperion
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.hyperion
+Filename: ./debs/com.tqm-mos.hyperion_0.4.21-1_iphoneos-arm.deb
+Size: 2245054
+MD5sum: b74c0097d78230a808d35140fb677143
+SHA1: a46c4798347f38921982df872b6169b2eed6e611
+SHA256: 656cfb1d1b5f5dc1eac830dbca4356acd256b4a81b59afc5effccc5e8cfad1d3
+
 Conflicts: net.angelxwind.appsyncunified, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute, com.ex.substitute (<< 0.0.13), com.ex.libsubstitute (<= 0.1.0-coolstar)
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
 Maintainer: TQM
@@ -243,6 +262,49 @@ Size: 204220
 MD5sum: a10e38b8135e4819a424be138e7a1f77
 SHA1: 08f721172cf657cb2dd76b18c740167ec5651755
 SHA256: 32be361ba4368875c23b987cb97e07d0b4a2648bc0b88fa1e56764a9d95620be
+
+Package: com.tqm-mos.snowboard.masks
+Name: SnowBoard Icon Masks
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon masks for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.8~Beta1
+Installed-Size: 532
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.masks_1.0.8~Beta1_iphoneos-arm.deb
+Size: 78224
+MD5sum: cc2771628f75e474a2eb0c379bdea820
+SHA1: 01606147fb29ea33ca0ee2b09afa7de19e2d20d8
+SHA256: 43854d8832b5faf61919f9e159689d7c684384c3f8797e3e87ad0bf74cd50d25
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.57~Beta1
+Installed-Size: 4168
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.57~Beta1_iphoneos-arm.deb
+Size: 1940906
+MD5sum: acc4ff8e25681f0ad67c0584c8dc5505
+SHA1: afd19cd55cd2f51393ebfae45f8f3e192eba201f
+SHA256: a9a66599f0c665b67d525a2413d43b49655b9eb03694b8344da6087d0f2f8f19
 
 Package: com.tqm-mos.snowboard
 Name: SnowBoard
