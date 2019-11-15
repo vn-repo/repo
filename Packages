@@ -188,6 +188,45 @@ MD5sum: 8c3b5dfd09ccbb55c086d68851e8b22a
 SHA1: 6603a6b6455b117299eb1a2a625952d41e9478f5
 SHA256: 341812e6c8318d8b0e143bad463e2d9537c4e51e178cdb1718f161cb41a6cac4
 
+Package: com.tqm-mos.Malibu
+Version: 1.0
+Description: THEMES
+Section: TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: Malibu
+Author: @tqmmos
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.malibu
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.malibu
+Filename: ./debs/com.tqm-mos.Malibu_1.0_iphoneos-arm.deb
+Size: 11720482
+MD5sum: 2b734e4d39244c041645878f8e49bb70
+SHA1: 7e4c111c8a3b1743f959e2bafc14082254ab48b1
+SHA256: 5bb2b300984083eed91b5726dd6bbbb00fbb7535fec28f5cc7200a2b2a91b084
+
+Conflicts: net.angelxwind.appsyncunified, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute, com.ex.substitute (<< 0.0.13), com.ex.libsubstitute (<= 0.1.0-coolstar)
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Maintainer: TQM
+Homepage: https://facebook.com/quangminhdx
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Package: com.yourepo.devmos.appsyncunified
+Name: AppSync Unified
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: System
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Version: 65.0
+Installed-Size: 384
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appsyn
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appsyn
+Filename: ./debs/com.yourepo.devmos.appsyncunified_65.0_iphoneos-arm.deb
+Size: 47994
+MD5sum: d1324e1b7f64403651e7d993b51ce291
+SHA1: 87ea5a7fdd8a6d9ef2ea738aed8c04c2d96dde0e
+SHA256: c12ca588250d501ccde3972c55d59c5afb4e85058f7551d974aab6b2cd266a0d
+
 Package: com.tqm-mos.bypasstechcombank
 Version: 1.1.6.0-7
 Section: Tweaks
