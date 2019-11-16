@@ -47,6 +47,102 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Name: Ringer13
+Package: com.tqm-mos.ringer13
+Version: 1.1.6
+Section: Tweaks
+Maintainer: TQM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 388
+Author: KingPuffdaddi
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ringer13
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ringer13
+Filename: ./debs/com.tqm-mos.ringer13_1.1.6_iphoneos-arm.deb
+Size: 78640
+MD5sum: 48c7f8c3a4450f5c30bda831ad8b12f8
+SHA1: 417ac06e52d2bb00593588cf9052e1ed83acf0cb
+SHA256: af9d51e6d540480bfde8d3bd850639c9ed453fd3da36f472b95eeab572ce5be4
+
+Package: me.nepeta.axon
+Name: Axon
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Architecture: iphoneos-arm
+Description: Priority Hub for iOS 11 and 12
+Maintainer: TQM
+Author: Nepeta & Baw Appie
+Section: Tweaks
+Version: 0.2.3
+Installed-Size: 540
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ringer13
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ringer13
+Filename: ./debs/me.nepeta.axon_0.2.3_iphoneos-arm.deb
+Size: 178400
+MD5sum: 2d589864a5f100d3c0c858ff2631b1fc
+SHA1: 342e10c1067816d0911e26d98008a5456bb753e7
+SHA256: 4810b3d49bf9f60f1e3077bcdc9100c7788e411f121a4fc617955d4adc3f28d1
+
+Package: com.tqm-mos.snowboard.effects
+Name: SnowBoard Icon Effects
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon Effects for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.14~Beta1
+Installed-Size: 500
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.effects_1.0.14~Beta1_iphoneos-arm.deb
+Size: 102362
+MD5sum: b5cb7667a386b722be5f98857b0cfbce
+SHA1: 77051a2b3869bed7a5aa9950a013a4bfc770a6b6
+SHA256: aa747ac64c0d9b38604288ac036ffc3e86e86562d1d901f5799fdc6cf5ae03eb
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.66~Beta1
+Installed-Size: 4212
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.66~Beta1_iphoneos-arm.deb
+Size: 1962372
+MD5sum: 771bb6bec622060a33859528b8236ab9
+SHA1: e6d56d40acfb0ec3cd888d1b3a6e3c697df2a6b9
+SHA256: 4c19917d5e12550b2aaf5e838a94277e672e241967a6e289d4dd3d61c3e29482
+
+Package: com.tqm-mos.snowboard.masks
+Name: SnowBoard Icon Masks
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon masks for SnowBoard
+Maintainer: Spark
+Author: Spark
+Section: SnowBoard
+Version: 1.0.10~Beta1
+Installed-Size: 532
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.masks_1.0.10~Beta1_iphoneos-arm.deb
+Size: 79158
+MD5sum: d742aa8110d9536dab62cf886f493b4e
+SHA1: d9e26d2437127f461f3ee06215f66012955860ea
+SHA256: c60e018ce945c674903fba10c21874346f80938d4f01be24b30701e8615a7dee
+
 Package: com.tqm-mos.reprovision
 Name: ReProvision
 Version: 0.5~experimental4
