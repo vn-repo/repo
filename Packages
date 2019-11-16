@@ -47,6 +47,29 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.reprovision
+Name: ReProvision
+Version: 0.5~experimental4
+Description: Re-sign applications on your device
+Section: System
+Depends: firmware (>= 9.0)
+Priority: optional
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: TQM
+Homepage: https://facebook.com/quangminhdx
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.repro
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.repro
+Filename: ./debs/com.tqm-mos.reprovision_0.5~experimental4_iphoneos-arm.deb
+Size: 14236836
+MD5sum: c61961fdfe48d541b470068ece9a5cb2
+SHA1: 23f7b570fffb692c3e86297cc5a29216b8dc44a2
+SHA256: f4eb245a25c688d087656b4e2dccaa048c07f45f73a25fd0ed1d8a8da4b0b949
+
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute, com.ex.substitute (<< 0.0.13), com.ex.libsubstitute (<= 0.1.0-coolstar)
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 13.2.2), net.angelxwind.appsyncunified 
 Maintainer: TQM
