@@ -324,6 +324,23 @@ MD5sum: 2b734e4d39244c041645878f8e49bb70
 SHA1: 7e4c111c8a3b1743f959e2bafc14082254ab48b1
 SHA256: 5bb2b300984083eed91b5726dd6bbbb00fbb7535fec28f5cc7200a2b2a91b084
 
+Package: com.tqm-mos.malibu
+Name: Malibu
+Author: @tqmmos <anhminhckub@gmail.com>
+Description: Malibu Sunsets Theme.
+Maintainer: TQM <anhminhckub@gmail.com>
+Version: 1.1
+Section: TQM
+Architecture: iphoneos-arm
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.malibu
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.malibu
+Filename: ./debs/com.tqm-mos.malibu_1.1_iphoneos-arm.deb
+Size: 16609064
+MD5sum: f94d212b7337e4ab678d281b4a32a844
+SHA1: 487d22cb5321df9403b541db0a02f018f3caa391
+SHA256: 3d6a8bf78073b8dae30b553e3e570885ea83bfd6edafc4610086e2bf076dd943
+
 Package: com.tqm-mos.hyperion
 Name: Hyperion [Members Plus]
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
