@@ -341,6 +341,40 @@ MD5sum: f94d212b7337e4ab678d281b4a32a844
 SHA1: 487d22cb5321df9403b541db0a02f018f3caa391
 SHA256: 3d6a8bf78073b8dae30b553e3e570885ea83bfd6edafc4610086e2bf076dd943
 
+Package: com.tqm-mos.Horus
+Version: 0.4
+Description: THEMES
+Section: TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: Horus
+Author: @tqmmos
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Horus
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Horus
+Filename: ./debs/com.tqm-mos.Horus_0.4_iphoneos-arm.deb
+Size: 70524360
+MD5sum: a72bd57d089ce6fd5d7719433f07253e
+SHA1: 50da016a4d6293e0603a01fad342a887adef866a
+SHA256: c4981aa46b9bb3536b07874c7ea5314e1f9e4fd712ada5461e39bf96de75d9e6
+
+Package: com.tqm-mos.horuschrome
+Name: Horus Chrome
+Version: 0.1.2
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminhclub@gmail.com>
+Maintainer: TQM
+Description: Theme Horus con efectos en chromo y mas
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.horuschrome
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.horuschrome
+Filename: ./debs/com.tqm-mos.horuschrome_0.1.2_iphoneos-arm.deb
+Size: 14736746
+MD5sum: b6b87aa5ed558fa158f395940e7c4a74
+SHA1: 0e1f2d38762429dcbdb2e8ccee14d32845110e56
+SHA256: 515c2fbbeb1002b66545f86a3aa8063d1e41134ed0327aab0d34d24fc7c529c0
+
 Package: com.tqm-mos.hyperion
 Name: Hyperion [Members Plus]
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
@@ -359,6 +393,237 @@ Size: 2245054
 MD5sum: b74c0097d78230a808d35140fb677143
 SHA1: a46c4798347f38921982df872b6169b2eed6e611
 SHA256: 656cfb1d1b5f5dc1eac830dbca4356acd256b4a81b59afc5effccc5e8cfad1d3
+
+Name: Arab Hack
+Package: co.tqm-mos.arabhack
+Version: 1.0~beta8
+Section: Tweaks
+Maintainer: TQM
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm
+Author: aJBbo
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=co.tqm-mos.arabhack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=co.tqm-mos.arabhack
+Filename: ./debs/co.tqm-mos.arabhack_1.0~beta8_iphoneos-arm.deb
+Size: 321116
+MD5sum: 3bbe41ae52971adeac832a0a25b1acf7
+SHA1: 562518f42b6d3a7e2e28b838cd9bd6a707e72ea0
+SHA256: 8fbde98aa2d740d871fba12b3071e03e621d3dcc02afd5c0fe04758297bf2994
+
+Package: com.tqm-mos.autounlockx
+Name: AutoUnlockX
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Unless there are notifications, the device will automatically unlock when valid Face ID is detected
+Maintainer: TQM
+Author: Spark
+Section: Tweaks
+Version: 1.0.7
+Installed-Size: 364
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.autounlockx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.autounlockx
+Filename: ./debs/com.tqm-mos.autounlockx_1.0.7_iphoneos-arm.deb
+Size: 84416
+MD5sum: ba95ca653342388ba9283ac60134270a
+SHA1: fe48db7d3dbc858dbd8f14dcdeca3b4343fbcab4
+SHA256: 9038fb7c45c0be6d487c22505428cf8c3a61ca5b02fe3941677a87b722e66131
+
+Package: com.tqm-mos.BlackEagleGold
+Version: 1.0.1
+Description: THEMES
+Section: TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: Black Eagle Gold
+Author: @tqmmos
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.BlackEagleGold
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.BlackEagleGold
+Filename: ./debs/com.tqm-mos.BlackEagleGold_1.0.1_iphoneos-arm.deb
+Size: 48119800
+MD5sum: 4d7b3bd043db71c728e931f5370c0aa3
+SHA1: 51697364eb4ccf9de52e37a7dd057d684a2474c3
+SHA256: 1a21e03b992b11c30254113bf690ab55f2cb2e755b320455812a16df175bc0fa
+
+Package: com.tqm-mos.Gratulant
+Version: 1.0
+Description: THEMES
+Section: TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: Gratulant
+Author: @tqmmos
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Gratulant
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Gratulant
+Filename: ./debs/com.tqm-mos.Gratulant_1.0_iphoneos-arm.deb
+Size: 20865646
+MD5sum: 1607a3c2cc97db3d9a8f39798d9ad3f7
+SHA1: e76f74c431ad618606031b3269f8f8e29888eed5
+SHA256: 721a179403317c1e4544793cba4f124f464492741dac84ff4247c4fe2c43d90e
+
+Package: com.tqm-mos.screensafexiii
+Name: ScreenSafeXIII
+Version: 1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Installed-Size: 10680
+Author: Kushy
+Maintainer: TQM
+Description: An OLED friendly IOS screensaver with custom video support and alot of customisablility updated for ios 13
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.screensafexiii
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.screensafexiii
+Filename: ./debs/com.tqm-mos.screensafexiii_1_iphoneos-arm.deb
+Size: 9938932
+MD5sum: 483cdb767fbf60dd686027f43418118c
+SHA1: 1320a5a8244d3ccb573e753a6f4f42756292f260
+SHA256: 59c90d899d7d5c600978dced57e4c98a746d6df8be6be9d89b1137173a15b47b
+
+Author: Ant <admin@cydia.love>
+Maintainer: TQM
+Name: Safari 13
+Package: com.tqm-mos.safarios13
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker
+Section: IOS11
+Installed-Size: 350
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Description: Cải tiến trình duyệt Safari!  Chế độ giả lập ipad và phát lại nền, tải sửa đổi màu thanh
+Homepage: http://facebook.com/quangminhdx
+dev: ant
+Tag: purpose::uikit, role::enduser, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/safarios13.bundle/icon@2x.png
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.safarios13
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.safarios13
+Filename: ./debs/com.tqm-mos.safarios13_0.0.1-2_iphoneos-arm.deb
+Size: 75236
+MD5sum: d5ed0e18dcde75aedc071afe8b8ebf23
+SHA1: 02b5da0a45142fe60630816a27733c32863e76be
+SHA256: 207cef639f459a0a232d15ddc61e5a841406795189f5b4da5d96a3657d0977ae
+
+Package: com.tqm-mos.hidelabels13
+Name: HideLabels13
+Version: 1.0.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 136
+Author: Ryan Nair
+Maintainer: TQM
+Description: Hide icon labels on iOS 13!
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.hidelabels13
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.hidelabels13
+Filename: ./debs/com.tqm-mos.hidelabels13_1.0.0_iphoneos-arm.deb
+Size: 3480
+MD5sum: 0eddd1893ccec82017f764c39ea9871a
+SHA1: ed8624274ba249cc9e3a29b0a267da5b908e4227
+SHA256: 1fb9671cde55e03bfce52ef9f8fd6e8d8846acdcb04f62a72bfaced78470a884
+
+Package: com.tqm-mos.fivedock13
+Name: FiveDock13
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader
+Installed-Size: 172
+Author: P2KDev <p2kdev@gmail.com>
+Maintainer: TQM <anhminhclub@gmail.com>
+Description: Five Icons on your Dock!
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fivedock13
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fivedock13
+Filename: ./debs/com.tqm-mos.fivedock13_1.0_iphoneos-arm.deb
+Size: 6886
+MD5sum: 1ad2fe472fb711fc790cd32f1d75691c
+SHA1: 363a4c377ed547bf1da01868c2b99eb4e1c72e9c
+SHA256: 99f43a3a0091b55364dd3a7afcb50bd49fdebd3259fb920f0bdd043efd5c681b
+
+Package: com.tqm-mos.bundleidsxii
+Name: BundleIDsXII
+Version: 2.0.1
+Section: Utilities
+Architecture: iphoneos-arm
+Depends: applist
+Installed-Size: 1044
+Author: TD, mass1ve_err0r
+Maintainer: TQM
+Description: App to see installed bundle IDs.
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bundleidsxii
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bundleidsxii
+Filename: ./debs/com.tqm-mos.bundleidsxii_2.0.1_iphoneos-arm.deb
+Size: 621296
+MD5sum: d5835cf4c1bf2ff25244127013b69992
+SHA1: f883a9712ec14954c5639945d34780fdf26209fc
+SHA256: 2f7724cd6a14dd178709a8546cc9d2a161fb66f419ade8b3ce40c29da6136aa1
+
+Package: com.tqm-mos.bundleidsxi
+Name: BundleIDsXI
+Version: 1.2.0-2
+Section: Utilities
+Architecture: iphoneos-arm
+Depends: applist
+Conflicts: com.td.bundleidsxi
+Installed-Size: 332
+Author: TD
+Maintainer: TQM
+Description: App to see installed app bundle IDs.
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bundleidsxii
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bundleidsxii
+Filename: ./debs/com.tqm-mos.bundleidsxi_1.2.0-2_iphoneos-arm.deb
+Size: 130386
+MD5sum: a92f67690092b2b1d3b943fbb4139381
+SHA1: d31fc6ad9ad2e9baade73325f326c99b52be0b8d
+SHA256: 18f3bc7db6e13572c0ae4e0bcbe30b52f7f81181e391371b975a27a4eb1bea06
+
+Homepage: http://facebook.com/quangminhdx
+Author: Sassoty <sassoty@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: BundleIDs
+Package: com.tqm-mos.bundleids
+Depends: firmware (>= 5.0), applist
+Section: Utilities
+Installed-Size: 172
+Version: 1.0-2
+Architecture: iphoneos-arm
+Description: Retrieve bundle ID of apps easily.
+dev: sassoty
+Tag: purpose::uikit
+Icon: file:///Applications/BundleIDs.app/Icon.png
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bundleidsxii
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bundleidsxii
+Filename: ./debs/com.tqm-mos.bundleids_1.0-2_iphoneos-arm.deb
+Size: 39688
+MD5sum: df63b65400c93cc9185ae5515ffabaa2
+SHA1: 449e8fc8d7be546f03fc06f6432adf256e26593f
+SHA256: ccb931c29e76afa5787913bc8232e1756d7eb09d0c00b7a2e5cfcc0f34b8e6b6
+
+Package: com.tqm-mos.autounlockx
+Name: AutoUnlockX
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Unless there are notifications, the device will automatically unlock when valid Face ID is detected
+Maintainer: TQM
+Author: Spark
+Section: Tweaks
+Version: 1.0.8
+Installed-Size: 364
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.autounlockx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.autounlockx
+Filename: ./debs/com.tqm-mos.autounlockx_1.0.8_iphoneos-arm.deb
+Size: 84534
+MD5sum: fff665786655b8eb6394c1bcc6f14408
+SHA1: 86690264431e89c84dfbb2a12247a0c91f7283bf
+SHA256: e7a94c5c0bd8452fe1e7f079e3ada60389fdf2d560539b20361b8044d380dd2a
 
 Conflicts: net.angelxwind.appsyncunified, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute, com.ex.substitute (<< 0.0.13), com.ex.libsubstitute (<= 0.1.0-coolstar)
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
