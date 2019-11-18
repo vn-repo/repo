@@ -625,6 +625,260 @@ MD5sum: fff665786655b8eb6394c1bcc6f14408
 SHA1: 86690264431e89c84dfbb2a12247a0c91f7283bf
 SHA256: e7a94c5c0bd8452fe1e7f079e3ada60389fdf2d560539b20361b8044d380dd2a
 
+Package: com.tqm-mos.timecolor
+Name: Time Color
+Author: @tqmmos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widget for Xen Html
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: TQM
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.timecolor
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.timecolor
+Filename: ./debs/com.tqm-mos.timecolor_1.0_iphoneos-arm.deb
+Size: 1546494
+MD5sum: 38c011e8cea31502e42d337c6ff55452
+SHA1: ccee23df6977bbaaf6d201c667fdd437a4248951
+SHA256: 70759c35226af2c8b653f70ecfb7adc687c06355c4aa44ddb5d2be8e92accd9d
+
+Package: com.tqm-mos.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: You can HIDE Doing jailbreak your iDevice.
+Maintainer: TQM
+Author: XsF1re
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+Version: 0.2~beta16
+Installed-Size: 740
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.flyjb
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.flyjb
+Filename: ./debs/com.tqm-mos.flyjb_0.2~beta16_iphoneos-arm.deb
+Size: 186160
+MD5sum: 1a473e6f607004cd30cefa26c5c04ebb
+SHA1: 08ec3e0143fd13c06a7e33a70aa57bd06746688b
+SHA256: ee33617da513786afb9ec4760743a04ef125d342bbd4df2bacff0ea381d6b123
+
+Package: com.tqm-mos.Litt13
+Version: 1.3
+Description: THEMES
+Section: TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: Litt13
+Author: @tqmmos
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Litt13
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Litt13
+Filename: ./debs/com.tqm-mos.Litt13_1.3_iphoneos-arm.deb
+Size: 9827624
+MD5sum: fb8a05fe75b15fa987b46428369674ae
+SHA1: 56359e5ec894f02eec408a1d302f3609884bed8b
+SHA256: a6e04b247488d0330a49c185574ac820ee5e2c46557cbd21d388a1b82b116cf4
+
+Package: com.tqm-mos.blackeagle
+Version: 2.1.1
+Architecture: iphoneos-arm
+Description: THEME
+Section: TQM
+Maintainer: QM
+Name: Black Eagle
+Author: @tqmmos
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blackeagle
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blackeagle
+Filename: ./debs/com.tqm-mos.blackeagle_2.1.1_iphoneos-arm.deb
+Size: 27469500
+MD5sum: cdbf3fca473a8846605ddad74df15a48
+SHA1: 7cbde2707a3798ced9ce70e0c09d23d0c869e8b8
+SHA256: d9737a30ed2c3d1cfb1c11b439348d371f8fc72a5474f288e46c9f12f1818182
+
+Name: Widget.Maps
+Package: com.tqm-mos.iwmaps
+Source: Widget.Maps va vous afficher l’heure la date la météo et bien plus
+Version: 1.0
+Section: Iwidgets
+Maintainer: TQM
+Architecture: iphoneos-arm
+Author: @moondr1 <moondr1@gmail.com>
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.iwmaps
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.iwmaps
+Filename: ./debs/com.tqm-mos.iwmaps_1.0_iphoneos-arm.deb
+Size: 11393984
+MD5sum: 8d087615f1f06e41ea050c054ceca5a5
+SHA1: c77fe5ff876e0b09259f5969791fce277030466a
+SHA256: 8905a9878fd56f9e563c25afb6487aab30471e4434e38fcdf7ccd22a03dcb040
+
+Package: com.tqm-mos.a-font
+Name: A-Font
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Architecture: iphoneos-arm
+Description: Change your font!
+Maintainer: TQM <anhminhclub@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Version: 1.5.7
+Installed-Size: 2364
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.a-font
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.a-font
+Filename: ./debs/com.tqm-mos.a-font_1.5.7_iphoneos-arm.deb
+Size: 835614
+MD5sum: 893fc39bff1e3b65bbc7a8514d571df0
+SHA1: b6243ea22c3336bac1ca326100221f87caf868a1
+SHA256: a91aa8fc8d589a6d802b323ed81536faf20083e3255bea5ee88d04c639c8f5f0
+
+Package: com.tqm-mos.doupai
+Name: DOUPAI - DOUPAI FACE Cheats
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: DOUPAI - DOUPAI FACE iGMM Cheats by Laxus for iOSGods.com!
+Maintainer: TQM
+Author: Laxus
+Section: Tweaks
+Homepage: https://facebook.com/quangminhdx
+Version: 1.1.2+iOSGods.com
+Installed-Size: 3592
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.doupai
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.doupai
+Filename: ./debs/com.tqm-mos.doupai_1.1.2+iOSGods.com_iphoneos-arm.deb
+Size: 1041128
+MD5sum: 1e1e8fd9ed7d5ce57e281a445458004a
+SHA1: 51516e5ceadf87d04e0890393f6987ce3f43f989
+SHA256: 63d6dc4dc3eaccd030224f063d912d4c829846c915fb241408f7990086153bb6
+
+Package: com.tqm-mos.sylph
+Name: Sylph
+Depends: mobilesubstrate, com.tqm-mos.utils (>= 0.0.4)
+Architecture: iphoneos-arm
+Description: Customize your LS music player
+Maintainer: TQM <anhminhclub@gmail.com>
+Author: Max Dausch <max.dausch@gmail.com>
+Section: Tweaks
+Version: 1.3~Beta.1
+Installed-Size: 400
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sylph
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sylph
+Filename: ./debs/com.tqm-mos.sylph_1.3~Beta.1_iphoneos-arm.deb
+Size: 99286
+MD5sum: 112a2b74ff796f54eba1668a6b8a7f0a
+SHA1: cb0d2722127b51fa48fad7a1a8ff023f4562cc08
+SHA256: 705e2ac843a45004258773711a0baca414f4e87ee2fc48faed0edbb5f5987ee8
+
+Package: com.tqm-mos.utils
+Name: MDausch Utils
+Depends:
+Architecture: iphoneos-arm
+Description: A collection of common functions for my tweaks. More documentation will be coming soon.
+Maintainer: TQM
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Section: System
+Tag: role::developer
+Version: 0.0.4
+Installed-Size: 236
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sylph
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sylph
+Filename: ./debs/com.tqm-mos.utils_0.0.4_iphoneos-arm.deb
+Size: 24904
+MD5sum: 87cda293638d05b1775efe4c25b9378e
+SHA1: 85a523a84e2195850e9e76cf0bd7305feab3a658
+SHA256: c7b70fe104a8dff43e54977af7f7e92994e16aab5d22cab267509628133c5952
+
+Package: com.tqm-mos.animatoonpro
+Name: Animatoon PRO Theme
+Author: Tykology <appleiphoneatyko@gmail.com>
+Description: Awesome animated theme. (Read Description).
+Maintainer: TQM
+Version: 1.0.3
+Section: TQM
+Depends: com.tqm-mos.toonsy
+Architecture: iphoneos-arm
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sylph
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sylph
+Filename: ./debs/com.tqm-mos.animatoonpro_1.0.3_iphoneos-arm.deb
+Size: 5183518
+MD5sum: 9cfd73f4de7940f1af7f819087ffbdf3
+SHA1: cd895d362f3092757923ab8df63ed3ef6fcf81f7
+SHA256: 08204c2eacea2afa21a7f430fe532f1c34dcdecb3d68c13a4ee97b1b7a67ba48
+
+Package: com.tqm-mos.ants
+Name: Ants
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: A classic iOS tweak!
+Maintainer: TQM
+Author: Spark
+Section: Tweaks
+Version: 1.0.4
+Installed-Size: 728
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ants
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ants
+Filename: ./debs/com.tqm-mos.ants_1.0.4_iphoneos-arm.deb
+Size: 124486
+MD5sum: d96359116aeab2b6a3ba23cdd75d6ae2
+SHA1: 958379baf599a23d3686e431dcf5193fade6b423
+SHA256: 3df25ea5c125ac78bb54ddd89375adcdf6351c34fa2008cf9a3ae775206b107e
+
+Package: com.tqm-mos.ClassicTheme
+Name: Classic.Theme
+Author: @tqmmos <anhminhclub@gmail.com>
+Description: Classic icons theme.
+Maintainer: TQM
+Version: 1.2
+Section: TQM
+Architecture: iphoneos-arm
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ClassicTheme
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ClassicTheme
+Filename: ./debs/com.tqm-mos.ClassicTheme_1.2_iphoneos-arm.deb
+Size: 7276660
+MD5sum: 8e4055894ac1fc0c85bc16f93563e104
+SHA1: 8a709769aa77bddaf82a06bf5f22c2be531ccbda
+SHA256: d0d34b43a7febc6c12690c1f0c62f4487444156717fe1f1950a9dc7a820cb765
+
+Package: com.tqm-mos.gaateau
+Name: Gateau
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Themes ( Anemone - Anemone 3 - Snowboard - iThemer )
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Maintainer: QM <anhminh311105@gmail.com>
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gaateau
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gaateau
+Filename: ./debs/com.tqm-mos.gaateau_1.2_iphoneos-arm.deb
+Size: 50736286
+MD5sum: acf499b975de75749f0727ce989ab8a8
+SHA1: 6ce6f9a866f37bb5dd019a48a152a39529ae04d9
+SHA256: 2aa8835a832445a5b46bb6b9a8e6018167cb828dec1ebaec703368b0f884281d
+
+Package: com.tqm-mos.phoenixos
+Name: PhoenixOS Theme
+Author: @tqmmos
+Description: A theme with beautiful icons, badges, statusbar, respring animation, masks, settings icons, alt icons and a nice widget.
+Maintainer: TQM
+Version: 1.2
+Section: TQM
+Architecture: iphoneos-arm
+Homepage: https://facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.phoenixos
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.phoenixos
+Filename: ./debs/com.tqm-mos.phoenixos_1.2_iphoneos-arm.deb
+Size: 21969640
+MD5sum: 09a1a28ab7713253849818b74da89be5
+SHA1: 5c8cf545408ea2fbff35631da1d96bf46d8c4103
+SHA256: e8824a5c375a78b45a419d41cc2ab9a5dfddac0b6b9e5e55135d29679b2aa9fc
+
 Conflicts: net.angelxwind.appsyncunified, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute, com.ex.substitute (<< 0.0.13), com.ex.libsubstitute (<= 0.1.0-coolstar)
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
 Maintainer: TQM
