@@ -570,6 +570,28 @@ MD5sum: 6f44fb23c41c0c453793d7a6d940a4f6
 SHA1: 142f9cdf246a48c994bebfb364d912be5efc440d
 SHA256: 6d8ea342baee44bbd80770d2fc335eec13e2c8639d8d16e602dce942044d980e
 
+Package: com.matchstic.xenhtml
+Name: Xen HTML
+Version: 1.1-2
+Description: Unified HTML rendering; lockscreen and homescreen
+Section: Tweaks
+Depends: firmware (>= 9.0), com.tqm-mos.xeninfo, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: MattClarke
+Maintainer: TQM
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=xenhtml
+SileoDepiction: http://tqm-mos.github.io/description.html?id=xenhtml
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.matchstic.xenhtml_1.1-2_iphoneos-arm.deb
+Size: 2906052
+MD5sum: c25fb0550dee4219590a73130d25e4bd
+SHA1: 4c89f01e168039890c38119eeaa4f6b1d57b2ace
+SHA256: c085e67053d58aefa2f840f7bcfe7f90e0a548c3c7be9024de77e38b5905a4a3
+
 Package: com.tqm-mos.snowboard.effects
 Name: SnowBoard Icon Effects
 Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
