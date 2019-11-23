@@ -83,6 +83,493 @@ MD5sum: 2d589864a5f100d3c0c858ff2631b1fc
 SHA1: 342e10c1067816d0911e26d98008a5456bb753e7
 SHA256: 4810b3d49bf9f60f1e3077bcdc9100c7788e411f121a4fc617955d4adc3f28d1
 
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.67~Beta1
+Installed-Size: 4212
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.67~Beta1_iphoneos-arm.deb
+Size: 1960366
+MD5sum: 67254cd79f65e4ae11fdbd1f8b8767aa
+SHA1: 635d6ede7efdc238ec2ac6b12b3f3656626dd0f5
+SHA256: 7fcabc289ee2fd267856c4d3196edbe92258e648989f81abb0a0f59104b00df2
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.69~Beta1
+Installed-Size: 4212
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.69~Beta1_iphoneos-arm.deb
+Size: 1975058
+MD5sum: a47abde13c821ad051f5dc193d4d5ac8
+SHA1: 7cfdd6e14ff3f7943102bb1c7c17d7687851af7e
+SHA256: 2564b55d82bf20c42356364799de63f5ffa8180936ba636479210d175b8f0104
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.72~Beta1
+Installed-Size: 4232
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.72~Beta1_iphoneos-arm.deb
+Size: 1977562
+MD5sum: 87fb9957901321bc64dc426ae9cda26b
+SHA1: 361c706affd40b637e7e5cf8324c1d0059451299
+SHA256: 92f66c3f345687ad0f214565f8c0396fe4bcd7d9b1aa4a9aa6c7a812d47e2c2e
+
+Package: com.tqm-mos.snowboard.settingsicons
+Name: SnowBoard Settings
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Settings Icons for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.17~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.settingsicons_1.0.17~Beta1_iphoneos-arm.deb
+Size: 67626
+MD5sum: bf2c33a4935dbd2c827f88440b289b94
+SHA1: fa246f0f910787ca621fc5e148a784d4e4d2139a
+SHA256: 7f0da35012fcbcfd8e2c3d5a603d910d94e350da49f9d22f20ab0cd6cd0503be
+
+Package: com.tqm-mos.snowboard.masks
+Name: SnowBoard Icon Masks
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon masks for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.11~Beta1
+Installed-Size: 532
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.masks_1.0.11~Beta1_iphoneos-arm.deb
+Size: 78558
+MD5sum: e8d55a19d17b01b8db0c31c22b176145
+SHA1: edaee8d251bd81bbdb1cde3fd5bc337562a99852
+SHA256: 6d0a750d8e48c26939fed62a99ce4d5dd9e43b4ca0e70669401ed98c14d7ecf9
+
+Package: com.tqm-mos.snowboard.effects
+Name: SnowBoard Icon Effects
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon Effects for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.15~Beta1
+Installed-Size: 500
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.effects_1.0.15~Beta1_iphoneos-arm.deb
+Size: 102438
+MD5sum: 076e5fa9d7bb03342222c0f659f99ab5
+SHA1: 35cfa2e9e2ac8241fb631bb5448356842eb19536
+SHA256: d02ea0db6a2980253c950d08ea6e62168f9bb358b263f81648fc9b3c8d092178
+
+Package: com.tqm-mos.malibu
+Name: Malibu Theme
+Author: @tqmmos <anhminhclub@gmail.com>
+Description: Malibu Sunsets Theme.
+Maintainer: TQM
+Version: 1.2
+Section: TQM
+Architecture: iphoneos-arm
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.malibu
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.malibu
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.malibu_1.2_iphoneos-arm.deb
+Size: 20207634
+MD5sum: d23db19aaf57ddfa42d3852bb8f7b182
+SHA1: bd0090ab68c0a3a7df46985e08dfb8c094ee875d
+SHA256: b3a5d6f89cabaf0c84c882ad1a289590d534799049d427223be3974a19c0cd6a
+
+Package: com.tqm-mos.malibu
+Name: Malibu
+Author: @tqmmos <anhminhclub@gmail.com>
+Description: Malibu Sunsets Theme.
+Maintainer: TQM
+Version: 1.3
+Section: TQM
+Architecture: iphoneos-arm
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.malibu
+SileoDepiction: http://tqm-mos.github.io/description.html?id=ccom.tqm-mos.malibu
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.malibu_1.3_iphoneos-arm.deb
+Size: 24426348
+MD5sum: 9af1fe97321eade921ffbaf139ec478f
+SHA1: 8c1476da71ef5c5472a4ab64a2fbed461bc0fbe5
+SHA256: 4db78771fd5ba37dea7b281271925e605406783f29ed0a09cbb6d54282f2b154
+
+Package: com.tqm-mos.merlen
+Name: Merlen Theme
+Author: @tqmmos <anhminhclub@gmail.com>
+Description: Simple icons with Shadow
+Maintainer: TQM
+Version: 1.5
+Section: TQM
+Architecture: iphoneos-arm
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.merlen
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.merlen
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.merlen_1.5_iphoneos-arm.deb
+Size: 5439868
+MD5sum: 45b08fe320a72250609eff7d51d8f12e
+SHA1: 344177cdb41f91fd7cee99decd4b5bce0bde361a
+SHA256: 7e60804a7b37d16217a9feb1a387095032c352f5510f3c0a14d23454eb870874
+
+Package: com.tqm-mos.BlackOrs4
+Name: BlackOrs 4
+Version: 0.4
+Section: Themes
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminhclub@gmail.com>
+Maintainer: @tqmmos <anhminhclub@gmail.com>
+Description: Dark icons with white logo
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.BlackOrs4
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.BlackOrs4
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.BlackOrs4_0.4_iphoneos-arm.deb
+Size: 33731716
+MD5sum: a05fe1a7e50412012d6e3288140d286f
+SHA1: 450c8d84c5920d4fff2a6508b08ed684c7055c3a
+SHA256: d106037759ef4867698792feb30f078f87f1537876453308f44ef0349eb76040
+
+Package: com.tqm-mos.darkx
+Name: Darkx
+Author: @tqmmos
+Description: A simple, modern & beautiful IOS theme.
+Maintainer: TQM
+Version: 3.3.9
+Section: TQM
+Architecture: iphoneos-arm
+Icon: file:///Library/Themes/Darkx.theme/icon@3x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.darkx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.darkx
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.darkx_3.3.9_iphoneos-arm.deb
+Size: 19266536
+MD5sum: ac0fca8dd3918c00d4299b882b20a395
+SHA1: ba7ea687d220c77e1ce1e08d0789d472ec94d042
+SHA256: ef096b95921e1440954b21a097ff4ebdecab90d5e4ca89bb149a5ed687250aec
+
+Package: com.tqm-mos.DeadRed
+Name: DeadRed Theme
+Author: @tqmmos <anhminhclub@gmail.com>
+Description: Red black icons theme.
+Maintainer: TQM
+Version: 2.3
+Section: TQM
+Architecture: iphoneos-arm
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.DeadRed
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.DeadRed
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.DeadRed_2.3_iphoneos-arm.deb
+Size: 2787844
+MD5sum: e0d06edf778363da177f95da65ce2636
+SHA1: da838ba2e20b99772f711d1c5df67045a875f2e7
+SHA256: 531bdc9cdc4543e16c93a89c50b2cb9fe022ba92fe348ec57ec298c8d1944151
+
+Package: com.tqm-mos.Gridless
+Version: 1.2
+Description: THEMES
+Section: TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: Gridless
+Author: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Gridless
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Gridless
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.Gridless_1.2_iphoneos-arm.deb
+Size: 9075024
+MD5sum: 89c047e9250c52101449bc62521d8a27
+SHA1: ad2dcbc7d43a620c91773e6bdb4e2c0e94a51ada
+SHA256: 981bedb4c66e060eed432cff57fda91142db71b35b376c588c790c7fa1fb7797
+
+Package: com.tqm-mos.mirage
+Section: TQM
+Maintainer: TQM <anhminhclub@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.6
+Description: Perfect gradients colliding with each other to create seamless Mirage effect, bundled into simplistic glyph icons!
+Name: Mirage
+Author: @tqmmos <anhminhclub@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mirage
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mirage
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.mirage_1.6_iphoneos-arm.deb
+Size: 12457846
+MD5sum: dc552875c686549526de9b5e1f614048
+SHA1: 38c52758abfa46dda5c6c8f2f3f29f330d19a301
+SHA256: 47fbbd9255246c4a3027350e77bada9f0571db79eb1c7a2e9950c5a50f249dd7
+
+Package: com.tqm-mos.Redboss
+Version: 1.0
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer
+Section: TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: Redboss
+Author: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Redboss
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Redboss
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.Redboss_1.0_iphoneos-arm.deb
+Size: 36400144
+MD5sum: 79866fe08e6eb7582725bfac61c74a1d
+SHA1: ecee89badaaa92ec5f49c744012b54afa2ff220e
+SHA256: b68a08e2e532a18e5cc5d4a1fd2ed253a4119d4b17264c33f076f2cade6ad9d5
+
+Package: com.tqm-mos.yomiraforios
+Section: TQM 
+Maintainer: TQM <anhminhclub@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Description: Themes
+Name: Yomira for iOS
+Author: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.yomiraforios
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.yomiraforios
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.yomiraforios_1.0_iphoneos-arm.deb
+Size: 2863516
+MD5sum: dee56d0dde5bb43c7b8e6938b9a2e5d2
+SHA1: 75b54256ced611bb39af30083594aca275bc92a1
+SHA256: d4cad075469893877c844f5a97b15ee8c7e0d39cf9371b0d15bd65640d855331
+
+Package: com.tqm-mos.artsy
+Name: Artsy
+Depends: mobilesubstrate, com.tqm-mos.utils
+Architecture: iphoneos-arm
+Description: Color your music stuff
+Depiction: http://repo.daus.ch/depictions/?p=ch.mdaus.artsy
+Maintainer: TQM <anhminhclub@gmail.com>
+Author: Max Dausch <max.dausch@gmail.com>
+Section: IOS11
+Version: 2.0~Beta.8
+Installed-Size: 1880
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.artsy
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.artsy
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.artsy_2.0~Beta.8_iphoneos-arm.deb
+Size: 883702
+MD5sum: 11dda88235fe89bdf7498efea0724daa
+SHA1: 645b026d4fab4bfa0834b34141b85546eb6e50ac
+SHA256: 2a791b20cf55772b4318a7b2403f326154b80255ddcaf4018b9fc3782a4841ba
+
+Package: com.tqm-mos.coolfolder
+Name: CoolFolder
+Depends: mobilesubstrate,org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: フォルダをカッコよくする
+Maintainer: TQM <angminhclub@gmail.com>
+Author: 4nni3 <4nni3.14@gmail.com>
+Section: Tweaks
+Version: 2.5
+Installed-Size: 332
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.coolfolder
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.coolfolder
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.com.tqm-mos.coolfolder_2.5_iphoneos-arm.deb
+Size: 53698
+MD5sum: aa64c6fdc3628163a3b748b198c46a4e
+SHA1: 51841f0bcec8eb98bc473aabd6f454b155d408af
+SHA256: 96d454f32244432eef65b0c82a6bcb377c6ca2f2e601e2e2522f66c6c7c49918
+
+Package: com.tqm-mos.dockclear
+Section: Iwidgets
+Maintainer: @tqmmos <anhminhclub@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Description: For Xen HTML By TQM
+Name: Dock Clear
+Author: @ tqmmos <anhminhclub@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dockclear
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dockclear
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.dockclear_1.0_iphoneos-arm.deb
+Size: 1352786
+MD5sum: 79d2165fae2ce3a530d2a7e4abfb31de
+SHA1: 40ca8639e18369b0ada2199908a4d2ce017ca5b8
+SHA256: a365b9c95242073ef365859088e92db66970dcfd4f98d87654073fbde36af7db
+
+Package: com.tqm-mos.libmos
+Name: libnepeta
+Architecture: iphoneos-arm
+Description: Nepeta's color utils
+Maintainer: Tqm
+Author: Nepeta
+Section: Development
+Version: 0.1.1-1+debug
+Installed-Size: 216
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.libmos
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.libmos
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.libmos_0.1.1-1+debug_iphoneos-arm.deb
+Size: 38104
+MD5sum: 9feb67534c9f9e4ff6815300b09cb7e9
+SHA1: 5788a10121415fc6ab0cb03a525d6065a4af827d
+SHA256: d6693d9482712091460d5bc331815b8f57a4a9c981498e439b8ca8aa0c8e5ace
+
+Package: me.nepeta.docky
+Name: Docky
+Conflicts: me.nepeta.2dock, com.synnyg.floatydock, com.p2kdev.floatingdock13, com.p2kdev.fivedock13, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
+Depends: mobilesubstrate, firmware (>= 11.0), me.nepeta.iconstate
+Architecture: iphoneos-arm
+Description: Dock customizer
+Maintainer: TQM <anhminhclub@gmail.com>
+Author: Nepeta 
+Section: IOS11
+Version: 0.2.1
+Installed-Size: 524
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.docky
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.docky
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/me.nepeta.docky_0.2.1_iphoneos-arm.deb
+Size: 78242
+MD5sum: 2d645d97d350a3a8c8d1f7c1284b7dd1
+SHA1: 945676c9742a7c052685e358c8e7cf0b6f12a194
+SHA256: 62db7a87dc347c131da978882383ade1df369cd915e87c0ff0f1ca1ffaca74c5
+
+Package: me.nepeta.iconstate
+Name: IconState
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Description: Preserve custom icon layouts between reboots
+Maintainer: Nepeta <ominousness@protonmail.com>
+Author: Nepeta <ominousness@protonmail.com>
+Section: Tweaks
+Version: 0.1.0
+Installed-Size: 200
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.docky
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.docky
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/me.nepeta.iconstate_0.1.0_iphoneos-arm.deb
+Size: 7436
+MD5sum: 32bac843c3b91f372146cd01342e7abb
+SHA1: 71cebfdbcd046a9d06e7c2de99e09b623eff074f
+SHA256: f0a5f751c12ff7fc82a7b41cb4671b77c9c190d3043eca7329ac88a93fcd0b45
+
+Package: me.tqm-mos.homeplus
+Name: HomePlus Beta
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Dynamic, live homescreen layout with an intuitive UI
+Maintainer: TQM
+Author: Kritanta
+Section: Tweaks
+Version: 0.1.9
+Installed-Size: 2272
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.homeplus
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.homeplus
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/me.tqm-mos.homeplus_0.1.9_iphoneos-arm.deb
+Size: 1176142
+MD5sum: ff74c6ea51df880e2b448ec8f1cc92c2
+SHA1: e10fa13e444013556b39a916212ddf7aa8bd1666
+SHA256: 6a26618a83aa7471c1e99737326909db079d135212d297925e81aa85ef62eab6
+
+Package: com.tqm-mos.picsart
+Name: PicsArt Cheats
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: PicsArt iGMM Cheats by Laxus for iOSGods.com!
+Maintainer: TQM
+Author: Laxus
+Section: Tweaks
+Version: 13.0+iOSGods.com
+Installed-Size: 3592
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.picsart
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.picsart
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.picsart_13.0+iOSGods.com_iphoneos-arm.deb
+Size: 1039642
+MD5sum: 3617527f5d86a0304fb7f106338bc47d
+SHA1: c08629858671c846c351d6d21cfaf9e2dfb86097
+SHA256: bb1697905099b78df287fe8c0fca6bd4a073c0652e0f9a2536f44eb660c2df2e
+
+Package: com.tqm-mos.floatingdockplus
+Name: FloatingDockPlus
+Author: P2KDev <p2kdev@gmail.com>
+Description: The Dock you always Wanted!
+Maintainer: TQM
+Version: 1.3.4.1
+Section: IOS12
+Depends: firmware (>= 11.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker,com.spark.libsparkapplist
+Conflicts: com.imkpatil.floatingdock, com.synnyg.floatydock
+Architecture: iphoneos-arm
+Installed-Size: 488
+Icon: file:///Library/Application Support/FloatingDockPlus/icon.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.floatingdockplus
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.floatingdockplus
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.floatingdockplus_1.3.4.1_iphoneos-arm.deb
+Size: 96170
+MD5sum: 2137e9451ffdbad44c867c73327063a0
+SHA1: 44c4f84ccb0379a822edd2b911231b8d815addc0
+SHA256: 085c442e371c6fa40585d11b720cbc09740d0b948411121bfa5020f8723df8c7
+
+Package: com.tqm-mos.floatingdockplus13
+Name: FloatingDockPlus13
+Author: P2KDev <p2kdev@gmail.com>
+Description: Use your Dock like a PRO!
+Maintainer: TQM
+Version: 1.0.1
+Section: IOS11
+Depends: firmware (>= 11.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker,com.spark.libsparkapplist
+Conflicts: com.imkpatil.floatingdock, com.synnyg.floatydock, com.imkpatil.floatingdockplus
+Architecture: iphoneos-arm
+Installed-Size: 488
+Icon: file:///Library/Application Support/FloatingDockPlus/icon.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.floatingdockplus
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.floatingdockplus
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.floatingdockplus13_1.0.1_iphoneos-arm.deb
+Size: 100770
+MD5sum: 6f44fb23c41c0c453793d7a6d940a4f6
+SHA1: 142f9cdf246a48c994bebfb364d912be5efc440d
+SHA256: 6d8ea342baee44bbd80770d2fc335eec13e2c8639d8d16e602dce942044d980e
+
 Package: com.tqm-mos.snowboard.effects
 Name: SnowBoard Icon Effects
 Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
