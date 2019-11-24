@@ -260,7 +260,7 @@ SHA256: 7e60804a7b37d16217a9feb1a387095032c352f5510f3c0a14d23454eb870874
 Package: com.tqm-mos.BlackOrs4
 Name: BlackOrs 4
 Version: 0.4
-Section: Themes
+Section: TQM
 Architecture: iphoneos-arm
 Author: @tqmmos <anhminhclub@gmail.com>
 Maintainer: @tqmmos <anhminhclub@gmail.com>
@@ -591,6 +591,79 @@ Size: 2906052
 MD5sum: c25fb0550dee4219590a73130d25e4bd
 SHA1: 4c89f01e168039890c38119eeaa4f6b1d57b2ace
 SHA256: c085e67053d58aefa2f840f7bcfe7f90e0a548c3c7be9024de77e38b5905a4a3
+
+Package: com.tqm-mos.barmojix
+Name: Barmoji
+Version: 1.9
+Section: IOS11
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 332
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Maintainer: TQM <anhminhclub@gmail.com>
+Description: Quick Emoji Access Bar
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios12.1.12
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.barmojix
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.barmojix
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.barmojix_1.9_iphoneos-arm.deb
+Size: 58852
+MD5sum: a34acbe920944c671e018994d8b0de05
+SHA1: c7193d3f9caa4f840945e3a963c56e13c037cc62
+SHA256: 37ab0abe0099e501c9617af9b680e2a3c937695ce8e24ec4a479d0b694542638
+
+Package: com.tqm-mos.widget.Y130
+Name: widget.Y130
+Version: 1.0
+Architecture: iphoneos-arm
+Author: moondr1
+Section: Iwidgets
+Description: Widget for XenHtml 
+Maintainer: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.widget.Y130
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.widget.Y130
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.widget.Y130_1.0_iphoneos-arm.deb
+Size: 4338784
+MD5sum: 4174ac763faeea7702494232a4c76b40
+SHA1: 12ff234b397f886fe35fad94583a1eb43bac773a
+SHA256: eae844d3d06ba9ed34642dfe540b8caa09a838237556517709bea293748609a3
+
+Package: com.tqm-mos.translock
+Name: TransLock
+Version: 0.0.5
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common, jp.ashikase.libpackageinfo
+Installed-Size: 1124
+Author: MrGcGamer
+Maintainer: TQM
+Description: A new clean look for your passcode screen
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.translock
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.translock
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.translock_0.0.5_iphoneos-arm.deb
+Size: 880048
+MD5sum: dea03bfe5e96ad64247a421b3e9d98da
+SHA1: c8607f9d021a9ade1f357112b8ab67e87207db2d
+SHA256: 82c04aa02e7f390be0ccee62275f806f7936e94b0b9c566f5b77ddf5eb06c1e3
+
+Package: com.tqm-mos.OrangeWhite
+Name: Orange White
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes
+Maintainer: TQM <anhminhclub@gmail.com>
+Author: @tqmmos,ĐMK <anhminhclub@gmail.com>
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.OrangeWhite
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.OrangeWhite
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.OrangeWhite_1.0_iphoneos-arm.deb
+Size: 3711692
+MD5sum: 3daa6a30552886e9d251410e1bfd45d3
+SHA1: 70760a04811ff9b4c47ebd394d9eeddccc52fbcf
+SHA256: 425010e12184a3741e595b2cb092de99381d904bbd759faa07e4aaded3ec7236
 
 Package: com.tqm-mos.snowboard.effects
 Name: SnowBoard Icon Effects
