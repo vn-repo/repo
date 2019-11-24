@@ -274,6 +274,23 @@ MD5sum: a05fe1a7e50412012d6e3288140d286f
 SHA1: 450c8d84c5920d4fff2a6508b08ed684c7055c3a
 SHA256: d106037759ef4867698792feb30f078f87f1537876453308f44ef0349eb76040
 
+Package: com.tqm-mos.dockclearv2
+Name: Dock Clear V2
+Version: 1.0
+Architecture: iphoneos-arm
+Description: SB Dock for Xen HTML By @tqmmos
+Maintainer: TQM
+Author: @tqmmos <anhminhclub@gmail.com>
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dockclearv2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dockclearv2
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.dockclearv2_1.0_iphoneos-arm.deb
+Size: 1352760
+MD5sum: 71be5e41078f674bf62eb08cbefa40b2
+SHA1: 5bb336058318bdc0d4a680035a742191220abffe
+SHA256: 0d413993165da6b9511b530aabcef42361ccd53feb6da5ee03d21611335ec106
+
 Package: com.tqm-mos.darkx
 Name: Darkx
 Author: @tqmmos
