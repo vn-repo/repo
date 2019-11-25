@@ -72,8 +72,8 @@ Architecture: iphoneos-arm
 Author: @tqmmos <anhminhclub@gmail.com>
 Maintainer: @tqmmos <anhminhclub@gmail.com>
 Description: Very nice theme in Aqua Style with over 1200 Icons
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos..aqua
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos..aqua
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aqua
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aqua
 Filename: ./debs/com.tqm-mos..aqua_1.0_iphoneos-arm.deb
 Size: 92279518
 MD5sum: ad48b9a5d4be7abfeb0876ee3357f8b6
