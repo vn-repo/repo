@@ -64,6 +64,38 @@ MD5sum: 48c7f8c3a4450f5c30bda831ad8b12f8
 SHA1: 417ac06e52d2bb00593588cf9052e1ed83acf0cb
 SHA256: af9d51e6d540480bfde8d3bd850639c9ed453fd3da36f472b95eeab572ce5be4
 
+Package: com.tqm-mos..aqua
+Name: Aqua
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminhclub@gmail.com>
+Maintainer: @tqmmos <anhminhclub@gmail.com>
+Description: Very nice theme in Aqua Style with over 1200 Icons
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos..aqua
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos..aqua
+Filename: ./debs/com.tqm-mos..aqua_1.0_iphoneos-arm.deb
+Size: 92279518
+MD5sum: ad48b9a5d4be7abfeb0876ee3357f8b6
+SHA1: 4bf2ec3abefbc35cbd01eee59f5b3af24ca1f766
+SHA256: c16f75e73a639251033540591f62d063d5742bdc989ec0487fd04b7a4e29e1f9
+
+Package: com.tqm-mos.aqualemon
+Name: Aqua Lemon
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminhclub@gmail.com>
+Maintainer: @tqmmos <anhminhclub@gmail.com>
+Description: Very nice theme in Aqua Lemon Style with over 1200 Icons
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aqualemon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aqualemon
+Filename: ./debs/com.tqm-mos.aqualemon_1.0_iphoneos-arm.deb
+Size: 73163796
+MD5sum: 812e390d1d3fcad252ffc117b969ce54
+SHA1: be1961ed3ace5a70e3f1ab399ead5875ab42a66f
+SHA256: 0f3a843ad0d1478daa3e2839ae37041827db5f71b7d6107daf20fa972c005526
+
 Package: me.nepeta.axon
 Name: Axon
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
