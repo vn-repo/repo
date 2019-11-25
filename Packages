@@ -367,6 +367,166 @@ MD5sum: 755dc7f7e5e84983c4c73c10e2d701b6
 SHA1: fbc89fe227e9fef2a2b31309147b2e90695dbca0
 SHA256: 281c816fb8a1efa61410eba7f41fae07fc1e8a38f3e556551f58a5c05d8c7220
 
+Package: com.tqm-mos.littlex
+Description: Fake IpX 
+Version: 2.0-1+debug-1
+Section: IOS11
+Maintainer: TQM
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Installed-Size: 348
+Name: LittleX
+Author: Shady
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.little11
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.little11
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.littlex_2.0-1+debug-1_iphoneos-arm.deb
+Size: 57858
+MD5sum: 0162fc821a458ad33d37cbe939055a16
+SHA1: 1f6c335f28fc2bb4b24a2717db33b5f7b00196c4
+SHA256: 4697d4db83b99d4bb3715ed93210681cf2cb32d38bcbaab3f52f7eac1ce35655
+
+Package: com.tqm-mos.tinybanners
+Name: TinyBanners
+Version: 0.5.3
+Description: thu nhỏ banners thông báo
+Author: Don
+Depends: mobilesubstrate,preferenceloader,applist
+Installed-Size: 470
+Section: IOS12
+Architecture: iphoneos-arm
+Maintainer: TQM <anhminhclub@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.tinybanners
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.tinybanners
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.tinybanners_0.5.3_iphoneos-arm.deb
+Size: 130728
+MD5sum: ec06d9fce0f936070fd6c2e54ba52182
+SHA1: c717fceac8702f874e677fd4d90da55f181559f6
+SHA256: f371280eaa99f41ab1f451b5f390362f547ce4a3d7242ba4cdcd4c931d45c53c
+
+Package: com.tqm-mos.tinybanners2
+Name: TinyBanners 2
+Version: 1.0.3
+Description: thu nhỏ thông báo banners
+Author: Don
+Depends: mobilesubstrate,preferenceloader,applist
+Installed-Size: 490
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: TQM <anhminhclun@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.tinybanners
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.tinybanners
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.tinybanners2_1.0.3_iphoneos-arm.deb
+Size: 138138
+MD5sum: 055855dda443c61cd63fe70cf845206c
+SHA1: fbdf558f8cafd406bc47ca9dfe6935fbf5d6569a
+SHA256: cce0266e4ab18fa61f36d85995bff4d07297a454bebd88d28a0233821cce90f5
+
+Package: com.tqm-mos.centaur
+Name: Centaur
+Version: 1.1.0k
+Description: Trung tâm thông báo thiết kế lại
+Author: Muirey03
+Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11), firmware (<< 13.0) | com.spark.libpackageinfo
+Icon: file:///Library/PreferenceBundles/Centaur.bundle/Icon-Large.png
+Installed-Size: 1509
+Section: IOS12
+Architecture: iphoneos-arm
+Maintainer: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.centaur
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.centaur
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.centaur_1.1.0k_iphoneos-arm.deb
+Size: 791568
+MD5sum: 918236e58dfc07cfcd972c22b7f3b0ed
+SHA1: 024976426da728293f11d6f635a9dd068b5ca469
+SHA256: cf8e7d56f2731fe5830671c62c4971d776228c1a8c62df11f47ad329ab49815a
+
+Package: com.tqm-mos.apphide
+Name: AppHide
+Version: 0.2.3-2
+Description: Ẩn các ứng dụng trên máy tính để bàn và trong cài đặt.
+Author: Jerry En <Jerry+apphide@jerryen.com>
+Depends: firmware (>= 7.0), mobilesubstrate, applist
+Priority: optional
+Installed-Size: 264
+Section: System
+Architecture: iphoneos-arm
+Maintainer: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.apphide
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.apphide
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.apphide_0.2.3-2_iphoneos-arm.deb
+Size: 13386
+MD5sum: 03ee2d2aee138abb28921a29f6bbd1f9
+SHA1: 994c72ea8a37664a23cb7600003f3c6dd2f1659a
+SHA256: 5da59a8d52e07b127312d3575e4f4e2ddaead6414c42dedf7835830a23d18f90
+
+Package: com.tqm-mos.autotouch
+Name: AutoTouch
+Version: 5.2.6k~1
+Description: Autoclicker cho iOS
+Author: Kent Krantz <kentkrantz@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Priority: optional
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Installed-Size: 107176
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.autotouch
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.autotouch
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.autotouch_5.2.6k~1_iphoneos-arm.deb
+Size: 46905676
+MD5sum: 15280de5b156e3c4472ceb0964f75710
+SHA1: 350675400c3a88ce06dab0f8315a436a1bf60932
+SHA256: 6595a95445f49eb70cf8ff3ca803224f8d90464eeb17775bb4db46510683a193
+
+Name: BottomControlX
+Package: com.tqm-mos.bottomcontrolx
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Version: 1.3.0
+Architecture: iphoneos-arm
+Description: Easier access to your ControlCenter on iPhone X.
+Maintainer: TQM <anhminhclub@gmail.com>
+Author: XCXiao <958169971@qq.com>
+Section: IOS11
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Installed-Size: 589
+dev: xcxiao
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bottomcontrolx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bottomcontrolx
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.bottomcontrolx_1.3.0_iphoneos-arm.deb
+Size: 177886
+MD5sum: f9c6f5d92dfbf2be523d2b770a453702
+SHA1: a0de73ab8c051775cdb9d4cf7e9a02e27ae6504b
+SHA256: 6a825e95cdf24187a464580802cd3d1797be5e47268baad690c1dc504f13b0a3
+
+Package: com.tqm-mos.bottomtoolbar
+Name: BottomToolBar
+Author: XCXiao
+Description: Control your devices within easy reach.
+Maintainer: TQM
+Version: 0.999-b1
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 816
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bottomtoolbar
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bottomtoolbar
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.bottomtoolbar_0.999-b1_iphoneos-arm.deb
+Size: 241970
+MD5sum: 4e8657aac4f6e22abbee9f1c3b149b1b
+SHA1: 312fba640b89da67327d2c035c14949ddda957b9
+SHA256: d9e158a1af96479db04b97971c70d30b08d292735dc40e571ace1d2ca19d4be9
+
 Package: com.tqm-mos.darkx
 Name: Darkx
 Author: @tqmmos
