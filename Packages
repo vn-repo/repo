@@ -759,6 +759,7 @@ SHA1: 70760a04811ff9b4c47ebd394d9eeddccc52fbcf
 SHA256: 425010e12184a3741e595b2cb092de99381d904bbd759faa07e4aaded3ec7236
 
 Package: com.tqm-mos.orangewhite
+Name: Orange White
 Version: 1.1
 Architecture: iphoneos-arm
 Description: Themes
