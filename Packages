@@ -291,6 +291,50 @@ MD5sum: 71be5e41078f674bf62eb08cbefa40b2
 SHA1: 5bb336058318bdc0d4a680035a742191220abffe
 SHA256: 0d413993165da6b9511b530aabcef42361ccd53feb6da5ee03d21611335ec106
 
+Package: com.tqm-mos.little11
+Name: Little11
+Version: 1.0.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune, com.tqm-mos.littlex, com.tqm-mos.littlexs, com.binksalex.littlexs
+Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.tqm-mos.littlex, com.tqm-mos.littlexs, com.binksalex.littlexs
+Installed-Size: 176
+Author: Ryan Nair
+Maintainer: TQM
+Description: iPhone 11 gestures and more for iOS 13.
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.little11
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.little11
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.little11_1.0.1_iphoneos-arm.deb
+Size: 19170
+MD5sum: af249e8d007e7cbf3440df6dc4ec6c5a
+SHA1: ab0c80173c78f0dc517430da25d9dd53bb4e058c
+SHA256: 64437ea61bce4b7010375e798e8dd0d86ca638ae45f486c017f7ca96af151037
+
+Package: com.tqm-mos.littlexs
+Version: 2.4.3
+Section: IOS12
+Maintainer: TQM
+Description: Giao diện và cử chỉ của iPhone X cho iPhone cũ hơn.
+Depends: mobilesubstrate
+Conflicts: com.binksalex.fluidify, com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.binksalex.littlexs
+Provides: com.binksalex.fluidify, com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune, com.binksalex.littlexs
+Replaces: com.binksalex.fluidify, com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.binksalex.littlexs
+Architecture: iphoneos-arm
+Installed-Size: 260
+Name: LittleXS VH
+Author: Ryan Nair & binksalex
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.little11
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.little11
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.littlexs_2.4.3_iphoneos-arm.deb
+Size: 37740
+MD5sum: 755dc7f7e5e84983c4c73c10e2d701b6
+SHA1: fbc89fe227e9fef2a2b31309147b2e90695dbca0
+SHA256: 281c816fb8a1efa61410eba7f41fae07fc1e8a38f3e556551f58a5c05d8c7220
+
 Package: com.tqm-mos.darkx
 Name: Darkx
 Author: @tqmmos
