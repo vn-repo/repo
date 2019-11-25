@@ -758,6 +758,22 @@ MD5sum: 3daa6a30552886e9d251410e1bfd45d3
 SHA1: 70760a04811ff9b4c47ebd394d9eeddccc52fbcf
 SHA256: 425010e12184a3741e595b2cb092de99381d904bbd759faa07e4aaded3ec7236
 
+Package: com.tqm-mos.orangewhite
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Themes
+Maintainer: TQM <anhmihclub@gmail.com>
+Author: @tqmmos,ĐNKM <anhmihclub@gmail.com>
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.OrangeWhite
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.OrangeWhite
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.orangewhite_1.1_iphoneos-arm.deb
+Size: 5165980
+MD5sum: 66c2398c9f1b6d19d06249c6609fa885
+SHA1: 56b33c42ad8bdb02cb97e96f3942fcf1c9e573ad
+SHA256: b39484540f6d70e51e8ec1f9825cf8750dae843fff8744c24992beffa0bafa9d
+
 Package: com.tqm-mos.snowboard.effects
 Name: SnowBoard Icon Effects
 Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
