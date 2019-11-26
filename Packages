@@ -587,6 +587,425 @@ MD5sum: 5a26c7004e7da04716477ea98d8c4cfd
 SHA1: 277743c9360ffe0a35b06ea853b219e8892d06f4
 SHA256: eacd418af6733fbba958400900672864e2fdbbc539d09e149ffdad34da762d36
 
+Package: com.laughingquoll.prefixui
+Name: PrefixUI
+Version: 1.2.6
+Section: System
+Architecture: iphoneos-arm
+Depends: me.nepeta.libcolorpicker, com.spark.libsparkapplist
+Installed-Size: 172
+Author: LaughingQuoll
+Maintainer: LaughingQuoll
+Description: An awesome framework of some sort!
+Tag: role::developer
+Depiction: http://tqm-mos.github.io/description.html?id=com.laughingquoll.prefixui
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.laughingquoll.prefixui
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.laughingquoll.prefixui_1.2.6_iphoneos-arm.deb
+Size: 21806
+MD5sum: b22349207f14d03833a917f8a1bbce0a
+SHA1: d3eb86c951bacd163d5ab6d91d3c575f0ead3971
+SHA256: 7b0f31d97b6f21de93e4f289ae66dcb143511521b7ae091ef383d9bc4caaaac4
+
+Package: com.muirey03.libimagepicker
+Name: libimagepicker
+Version: 1.0.4
+Section: System
+Architecture: iphoneos-arm
+Installed-Size: 324
+Author: Muirey03
+Maintainer: Muirey03
+Description: A simple library for choosing images in preference bundles.
+Tag: role::developer
+Depiction: http://tqm-mos.github.io/description.html?id=com.muirey03.libimagepicker
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.muirey03.libimagepicker
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.muirey03.libimagepicker_1.0.4_iphoneos-arm.deb
+Size: 16246
+MD5sum: b04c239c83a304cec839a17536f84cdc
+SHA1: de32a1532e65a39d35ae8893285f4d72506b586b
+SHA256: 7785b6a9dbbc1c64a0d5799262b5df890bd5e074549b6a40e5a98098d7d4dec6
+
+Package: com.tqm-mos.reprovision
+Name: ReProvision
+Version: 0.5~experimental6-1
+Description: Re-sign applications on your device
+Section: System
+Depends: firmware (>= 9.0)
+Priority: optional
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: @tqmmos
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reprovision
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reprovision
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.reprovision_0.5~experimental6-1_iphoneos-arm.deb
+Size: 14255858
+MD5sum: cf2803c63104bce37939bc678bf763d0
+SHA1: 4c600b9bca40682c44fc34d05da91c855d2f2cd3
+SHA256: 36975df70c9eb05cab285708c391847c9c0079383a6b15d9ffaba7c0e153c2bd
+
+Package: com.tqm-mos.smoothcamera
+Name: smoothCamera
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Transparent Top/Bottom Bars Camera with Vertical UI layout Style!
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: TQM <anhminhub@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.smoothcamera
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.smoothcamera
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.smoothcamera_1.0.0_iphoneos-arm.deb
+Size: 8146
+MD5sum: 7f7cb9f3548e449b3ac982b71e61c9ca
+SHA1: f39c377de061bf38f4f90afe6e22e11fe0ccfe04
+SHA256: 0c7dc4e1ca0922c2105580dd95b3636b65c2f85ba4759abe188319557a15a591
+
+Package: me.nepeta.docky
+Name: Docky
+Conflicts: me.nepeta.2dock, com.synnyg.floatydock, com.p2kdev.floatingdock13, com.p2kdev.fivedock13, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
+Depends: mobilesubstrate, firmware (>= 11.0), me.nepeta.iconstate
+Architecture: iphoneos-arm
+Description: Dock customizer
+Maintainer: TQM <anhminhclub@gmail.com>
+Author: Nepeta 
+Section: IOS11
+Version: 0.2.2
+Installed-Size: 620
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.docky
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.docky
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/me.nepeta.docky_0.2.2_iphoneos-arm.deb
+Size: 100540
+MD5sum: 366ad62e3a39ae2656a343db4d95e605
+SHA1: 67ee958dcaefa61b572803288556f867045fdaaf
+SHA256: 6f59069bfba0549bc76899b1e84d1bc46843045994595eb42f73f8c22c4f414c
+
+Package: me.tqm-mos.homeplus
+Name: HomePlus Beta
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Dynamic, live homescreen layout with an intuitive UI
+Maintainer: TQM
+Author: Kritanta
+Section: Tweaks
+Version: 0.2.2
+Installed-Size: 2336
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.homeplus
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.homeplus
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/me.tqm-mos.homeplus_0.2.2_iphoneos-arm.deb
+Size: 1193298
+MD5sum: b79fff2b684a9dd1b8d0a03195909947
+SHA1: cc161a7da1ff2554df00279d304fc10eabff5293
+SHA256: d3cff7fdaec1ab5198620d8c090d2479490dd40610138b657e945fd1820f4a13
+
+Package: com.tqm-mos.a-bypass
+Name: A-Bypass
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Architecture: iphoneos-arm
+Description: Super Jailbreak detection bypass!
+Maintainer: TQM <anhminhclub@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Version: 1.0.3
+Installed-Size: 372
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.a-bypass
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.a-bypass
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.a-bypass_1.0.3_iphoneos-arm.deb
+Size: 65424
+MD5sum: 584a73a8896a719ce6c2a90aea87844a
+SHA1: 5be9e27d82585ae4b0a33a711c31e645836554c3
+SHA256: d5e198b60fb6e98b79d3f26cf4e2ba061ec39a20dfb6a5863e4ab4e223f0d40a
+
+Package: com.tqm-mos.animationsbefastplus
+Name: AnimationsBeFastPlus
+Author: eXqusic
+Description: Speed up animations.
+Maintainer: TQM
+Version: 2.0
+Section: IOS11
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, applist
+Conflicts: com.adamseiter.animationsbefast, jp.novi.FakeClockUp, jp.novi.FakeClockUp2, com.zezblog.noslowanimationsar, com.marcosinghof.noslowanimations, com.pknauf.nsa, com.idevicehacked.nsa
+Architecture: iphoneos-arm
+Installed-Size: 344
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.animationsbefastplus
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.animationsbefastplus
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.animationsbefastplus_2.0_iphoneos-arm.deb
+Size: 49092
+MD5sum: ef1bc80ffc6753f5ca5a859766e1dc14
+SHA1: cb47e11cdea448d51254ec9bb783ce4f1ba02cac
+SHA256: 82aed93689fbd2ea96c55a3c699b69bf011c25b2316846c9f7dd8059223682c9
+
+Package: com.tqm-mos.audiorecorderxs
+Name: AudioRecorder XS (iOS 12/13) Cracked
+Author: Elias Limneos <limneoselias@gmail.com>
+Description: Most Advanced iOS Call Recorder Ever!
+Maintainer: TQM
+Version: 3.2-23
+Section: IOS12
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), wget
+Conflicts: net.limneos.callrecorder, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx,net.limneos.audiorecorderxs
+Architecture: iphoneos-arm
+Installed-Size: 3620
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.audiorecorderxs
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.audiorecorderxs
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.audiorecorderxs_3.2-23_iphoneos-arm.deb
+Size: 4718520
+MD5sum: 466bfc989bfd6b19846895c8e8d411ea
+SHA1: 894f019a7f0010292b7fc804d726fce62646a6ee
+SHA256: ea51171eed7e63c1f7f95d1089441f20ce9d05c2b284d9baacd7eb6ac1a9ed62
+
+Architecture: iphoneos-arm
+Package: com.tqm-mos.flickplus
+Name: FlicksForAll
+Version: 0.0.4
+Description: iPad-like key flicks on iPhone (iOS 12/13)
+Section: IOS12
+Depends: firmware (>=12.0), mobilesubstrate, ws.hbang.common (>= 1.13)
+Author: Ash Wolf (Ninji) <ninji@wuffs.org>
+Maintainer: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.flickplus
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.flickplus
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.flickplus_0.0.4_iphoneos-arm.deb
+Size: 25112
+MD5sum: 8dec15b3b34f2744a8bee45886bafed7
+SHA1: 8da62e43c5f0150ba120a07104315f0acce395b8
+SHA256: c8247e081c98cf37a9ac9ad00415699637ae3ee8ce53dd000392b8222b6f1337
+
+Architecture: iphoneos-arm
+Package: com.tqm-mos.flickplus
+Name: FlicksForAll
+Version: 0.0.5
+Description: iPad-like key flicks on iPhone (iOS 12/13)
+Section: IOS12
+Depends: firmware (>=12.0), mobilesubstrate, ws.hbang.common (>= 1.13)
+Author: Ash Wolf (Ninji) <ninji@wuffs.org>
+Maintainer: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.flickplus
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.flickplus
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.flickplus_0.0.5_iphoneos-arm.deb
+Size: 28318
+MD5sum: bea1404569e6b53613849f7f6176ba8e
+SHA1: ab2321da78641ef956d09d29ef87852236ac467d
+SHA256: fb5dc88af116b52c39e178a1bbaf1cc19cb68bf05d91e2dc8a1572edafdb4ebd
+
+Author: iCraze & Ryan Nair <icrazeios@protonmail.com>
+Maintainer: TQM <anhminhclun@gmail.com>
+Name: Gestures13
+Package: com.tqm-mos.gestures13
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Installed-Size: 198
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Swipe To Open/Clear Notifications Quicker And Easier.
+Homepage: http://www.facebook.com/quangminhdx
+dev: icraze
+Tag: purpose::extension, compatible::ios13
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gestures13
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gestures13
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.gestures13_1.0.1_iphoneos-arm.deb
+Size: 14506
+MD5sum: 8f2abc7db632fd09125fb80ec14b4b1a
+SHA1: 45c13b66cb12b6efbab6c82568a7487d2a580e9d
+SHA256: e5011edab6547e1ad60686a7963003482ec7f110b0d37fcd9aa3122a9dc194eb
+
+Name: GesturesXS
+Package: com.tqm-mos.gesturesxs
+Description: GesturesXS active les gestes de l'iPhone X et rien d'autre sur les autres appareils iOS 12
+Version: 2.5.0
+Section: IOS12
+Maintainer: TQM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 56
+Author: Ryan Nair
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gestures13
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gestures13
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.gesturesxs_2.5.0_iphoneos-arm.deb
+Size: 8700
+MD5sum: 95ab85a1797f792410d305d50410f315
+SHA1: 8d35385644ac25ae7379b2c780aa6cf3791faf85
+SHA256: a9f153815f6fe339731d00fc0721b15412c74f23ef92941be61d02f0b87d0015
+
+Package: com.tqm-mos.harpy
+Name: Harpy
+Author: midnightchips <midnightchips@gmail.com>
+Description: Control your network with ease.
+Maintainer: TQM
+Version: 2.0.1
+Section: IOS11
+Depends: firmware (>= 9.0), network-cmds
+Architecture: iphoneos-arm
+Installed-Size: 12848
+Icon: file:///Applications/harpy.app/AppIcon29x29@2x.png
+Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.harpy
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.harpy
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.harpy_2.0.1_iphoneos-arm.deb
+Size: 6607764
+MD5sum: 38876ca84ca8339616f489e4ce2664b4
+SHA1: 39a595b0184bc2747cbd122e26e01ac0d8f6ed8e
+SHA256: 6ac43e920b309be98233341c6942a81d6e1003b0e854cd874432fd0b744a0528
+
+Package: com.tqm-mos.tinybanners2
+Name: TinyBanners 2
+Author: Don
+Description: Unobtrusive yet useful notification banners.
+Maintainer: TQM
+Version: 1.0.4-1
+Section: Tweaks
+Depends: mobilesubstrate,preferenceloader,applist
+Architecture: iphoneos-arm
+Installed-Size: 520
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.tinybanners
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.tinybanners
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.tinybanners2_1.0.4-1_iphoneos-arm.deb
+Size: 148354
+MD5sum: 305c0ccca8b7f99f1f2b56e787b8c1cf
+SHA1: 3b605dd6fd0d5e60a5064ba7581e01aaae5bf13b
+SHA256: 0f2010744a97574f7231e1b54607b4c2e300241d6091eccac702d31f67f2f75c
+
+Author: opa334 <opa334@protonmail.com>
+Maintainer: TQM <anhminhclub@gmail.com>
+Name: Safari Plus
+Package: com.tqm-mos.safariplus
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
+Section: Tweaks
+Installed-Size: 4822
+Version: 1.7.8-2
+Description: Various enhancements to Safari!
+Architecture: iphoneos-arm
+dev: opa334
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.safariplus
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.safariplus
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.safariplus_1.7.8-2_iphoneos-arm.deb
+Size: 1765348
+MD5sum: 1ef7e7c019a19c878e38cd1b9d5e3e80
+SHA1: 903e927c58ecce29cb5378940414fb0f1708d9b8
+SHA256: e46a658de7c183ce3fd670f2978c1f38ac4689070642e37a16a50def371aff09
+
+Package: com.tqm-mos.newterm2
+Name: NewTerm (iOS 10 – 13)
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm
+Replaces: ws.hbang.newterm
+Architecture: iphoneos-arm
+Description: A powerful terminal app for iOS
+Maintainer: TQM
+Author: HASHBANG Productions <support@hbang.ws>
+Section: System
+Icon: file:///Applications/NewTerm.app/AppIcon60x60@3x.png
+Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Version: 2.3
+Installed-Size: 6704
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.newterm2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.newterm2
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.newterm2_2.3_iphoneos-arm.deb
+Size: 3141308
+MD5sum: 567bb6499b2b458b1d183b4d9a8d1882
+SHA1: 639d4f2829db79c2036abdce1c7afb1c0cd36468
+SHA256: 4a361f96490cffbb84f639873ef151393b3ad0bd4f8729d6e9693d9f6904a42c
+
+Package: com.tqm-mos.lpp12x
+Name: LockPlus Pro
+Author: JunesiPhone <junesgraphics@gmail.com>
+Description: The ultimate lock screen tweak!
+Maintainer: TQM
+Version: 1.6.9.3
+Section: IOS12
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.repo.xarold.com.chargemode, com.julioverne.chargemode, com.brunonfl.s8edge, sadasf
+Architecture: iphoneos-arm
+Installed-Size: 42936
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.lpp12x
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.lpp12x
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.lpp12x_1.6.9.3_iphoneos-arm.deb
+Size: 18849566
+MD5sum: 015251c54bd78517f248d35a1bb261ef
+SHA1: 3d19c2e0355bdd89883d893f1fcb83413c4cc4c6
+SHA256: a39930c586b30e5e16b4cb69ca7f511e1697184bd6b7aeee4e38fad988df3f2a
+
+Package: com.tqm-mos.midevice
+Description: Vô số tính năng của thiết bị có đầy đủ thanh trạng thái cho kích thước và cách sắp xếp các biểu tượng và thư mục cũng ẩn hiển thị di chuyển một số thứ
+Version: 1.0.0-2-1
+Section: IOS11
+Maintainer: TQM
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.chpwn.iconsupport, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Name: MiDevice
+Author: DODGraphics
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.midevice
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.midevice
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.midevice_1.0.0-2-1_iphoneos-arm.deb
+Size: 173026
+MD5sum: 81a917f43ded9003b73206cac76aaff7
+SHA1: 80b285b1c7cce768ac3331c2d1b50fdba3e719ac
+SHA256: ab28446c485562bc5dc8af49df5634c8e7f65229505994e43ff0cb9da456c87b
+
+Homepage: http://www.facebook.com/quangminhdx
+Author: LonestarX <me@lonestarx.net>
+Maintainer: TQM
+Name: KITTLoader
+Package: com.tqm-mos.kittloader
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
+Section: Tweaks
+Installed-Size: 419
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Description: A crazy activity indicator view!
+dev: lonestarx
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Library/PreferenceBundles/KITTLoader.bundle/kittloader_icon@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.kittloader
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.kittloader
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.kittloader_1.0.2-1_iphoneos-arm.deb
+Size: 137678
+MD5sum: 0c67ab35877569019a662a3aa58f23e3
+SHA1: 46345f26d447923851581d36d7c5635faf3ab878
+SHA256: ce73ff2ed3e9af0f78baba76344ad6700f1a608988dd6a5129b33e6d192cfd6a
+
+Package: com.tqm-mos.bossios
+Name: Boss Theme
+Author: @tqmmos <anhminhclub@gmail.com>
+Description: Are you feeling bossy?!
+Maintainer: TQM
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bossios
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bossios
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.bossios_1.0_iphoneos-arm.deb
+Size: 48815212
+MD5sum: 75209e05e70d220ae530524a43f26a41
+SHA1: b66283add7fa9ed77ebe7861930015d19c55e224
+SHA256: 856fc4e3a095158543b4d4634d64953316f0c9e59f81f46dbbb294a197e1e8f5
+
 Package: com.tqm-mos.apphide
 Name: AppHide
 Version: 0.2.3-2
