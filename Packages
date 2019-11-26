@@ -107,8 +107,8 @@ Author: Nepeta & Baw Appie
 Section: Tweaks
 Version: 0.2.3
 Installed-Size: 540
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ringer13
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ringer13
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.axon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.axon
 Filename: ./debs/me.nepeta.axon_0.2.3_iphoneos-arm.deb
 Size: 178400
 MD5sum: 2d589864a5f100d3c0c858ff2631b1fc
@@ -3088,8 +3088,8 @@ Author: Nepeta & Baw Appie
 Section: IOS11
 Version: 0.2
 Installed-Size: 508
-Depiction: https://tqm-mos.github.io/description.html?id=com.axon
-SileDepiction: https://tqm-mos.github.io/description.html?id=com.axon
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.axon
+SileDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.axon
 Filename: ./debs/me.nepeta.axon_0.2_iphoneos-arm.deb
 Size: 171852
 MD5sum: eee5ea43943a59d15475f0e19ea328d2
