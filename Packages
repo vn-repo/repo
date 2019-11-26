@@ -64,6 +64,68 @@ MD5sum: 48c7f8c3a4450f5c30bda831ad8b12f8
 SHA1: 417ac06e52d2bb00593588cf9052e1ed83acf0cb
 SHA256: af9d51e6d540480bfde8d3bd850639c9ed453fd3da36f472b95eeab572ce5be4
 
+Package: com.tqm-mos.ccwallcustomizer2
+Name: CCWallCustomizer 2
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm
+Description: change the background of the control center on iOS 11+
+Maintainer: TQM <anhminhclub@gmail.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Section: IOS11
+Version: 2.0.1-1
+Installed-Size: 2628
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ccwallcustomizer2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ccwallcustomizer2
+Filename: ./debs/com.tqm-mos.ccwallcustomizer2_2.0.1-1_iphoneos-arm.deb
+Size: 1463872
+MD5sum: 6daee32aa60c93e4998c6d5a58fbc53c
+SHA1: 13380121a3d265c06ab2fb1403fa720afa409473
+SHA256: e06b0c17a31dad3704f8704d62557c52bd2d631f93f05c43524f038b0f7f0ec3
+
+Name: CCWallCustomizer
+Package: com.tqm-mos.ccwallcustomizer
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, ws.hbang.common
+Version: 1.2.2-1
+Architecture: iphoneos-arm
+Description: change the background of the control center on iOS 10+
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.ccwallcustomizer
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ccwallcustomizer
+Maintainer: QM
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios10
+Installed-Size: 2872
+dev: iKilledAppl3
+Icon: file:///Library/PreferenceBundles/ccwallcustomizer.bundle/CCWallCustomizer@2x.png
+Filename: ./debs/com.tqm-mos.ccwallcustomizer_1.2.2-1_iphoneos-arm.deb
+Size: 403494
+MD5sum: 61c655c18c0373ee9c2f5af6183788fc
+SHA1: ad4e1b22abd16b265eba7b16b628ad4dfd449889
+SHA256: 37eb2677f0aff9e44e9deda37238d2315b833ac696dfcf565293e3ac85cfcdb9
+
+Author: iKilledAppl3
+Maintainer: QM
+Name: CCBackground
+Package: com.tqm-mos.ccbackground
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: gsc.ipad, de.j-gessner.ccloader
+Section: Tweaks
+Installed-Size: 161
+Version: 1.3-1
+Architecture: iphoneos-arm
+Description: set Control Center background wallpaper
+dev: iKilledAppl3
+Tag: role::enduser, ios7support::1, ios8support::1
+Icon: file:///Library/PreferenceBundles/CCBackground_pref.bundle/CCBackground_pref@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ccwallcustomizer
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ccwallcustomizer
+Filename: ./debs/com.tqm-mos.ccbackground_1.3-1_iphoneos-arm.deb
+Size: 34706
+MD5sum: 4e6ead7aedb50a7b92158ed0a27daf69
+SHA1: 1103b56fef5d5b8daa35291ace4328576da83604
+SHA256: 92b47cc828b9d3b0042eabae690138214ad4299d16c9169ffae39b6f7aa9b229
+
 Package: com.tqm-mos..aqua
 Name: Aqua
 Version: 1.0
