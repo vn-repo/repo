@@ -517,6 +517,199 @@ MD5sum: 21c654f6456f7df87f13d7db2f1346bf
 SHA1: 00acbcc4c243c43114f47c3e26c5d84c3f191045
 SHA256: 17f0a0e3d1c64c6d0d159b7278c35c90d2dbfc85669468a9814712fd62eb8b38
 
+Package: com.tqm-mos.noctis13
+Name: Noctis Neo
+Author: LaughingQuoll <me@laughingquoll.net>
+Description: The essential appearance mode companion for iOS 13.
+Maintainer: TQM
+Version: 1.2
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.laughingquoll.prefixui
+Conflicts: com.laughingquoll.noctisxi
+Architecture: iphoneos-arm
+Installed-Size: 544
+Icon: https://chariz.com/cdn/icon/noctis-neo/icon@3x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.noctis13
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.noctis13
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.noctis13_1.2_iphoneos-arm.deb
+Size: 102694
+MD5sum: d3e0c5e3d0c3eb6fbde7e7098c8413a2
+SHA1: 911f6b003b5b7575628b86ad91202efc12752e62
+SHA256: 6b0efbdea2c6c9a3090db5c2631fff03cb3a6737623412c283a845da6d4597cd
+
+Package: com.tqm-mos.dleasyk
+Name: DLEasy Cracked
+Author: AhmedBafkir <prooxy0@gmail.com>
+Description: Download images and videos from social apps easily!
+Maintainer: TQM
+Version: 2.7.4-2
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: me.pulandres.dleasy, me.pulandresk.dleasy
+Replaces: nono
+Architecture: iphoneos-arm
+Installed-Size: 9412
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dleasy
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dleasy
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.dleasyk_2.7.4-2_iphoneos-arm.deb
+Size: 3066504
+MD5sum: 882146ef3bc33671653929cf8f92cb8c
+SHA1: 77ce5a31354f48659a1bdd106a2e2a184fb95010
+SHA256: c68bba52cee445e6671dff1721c2470c416f5cab8c98e543a59493fb03bf7bee
+
+Package: com.tqm-mos.switchercc
+Name: SwitcherCC
+Depends: mobilesubstrate, firmware (>=10.0), firmware (<=10.3.3), ws.hbang.common
+Conflicts: org.thebigboss.switchercontrols
+Architecture: iphoneos-arm
+Description: Your CC in the switcher!
+Maintainer: TQM
+Author: Skitty
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 716
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.switchercc
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.switchercc
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.switchercc_1.0.0_iphoneos-arm.deb
+Size: 87096
+MD5sum: 47c09786211307c4c400159df93f12f2
+SHA1: ee8b86f814dfcf58e4148a9efd83155851a4eaed
+SHA256: 4a5024230a7a79c6b0b7ba14c405e7624fe03e5cc5621039de0ffa47378568c2
+
+Package: com.tqm-mos.blankicons
+Name: BlankIcons
+Version: 0.0.1
+Depends: firmware (>=9.0), mobilesubstrate
+Architecture: iphoneos-arm
+Author: m156nrkvv
+Section: Tweaks
+Description: Create Blank Icons !!
+Maintainer: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blankicons
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blankicons
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.blankicons_0.0.1_iphoneos-arm.deb
+Size: 62820
+MD5sum: f01fd446bdd88f170f8b17655a912f0d
+SHA1: 421113768d92568bad44dd4052b75f1fc815babb
+SHA256: cf1ae06e3e1a8b0bbb24bda2dd1b6a1d38dd5ef15dbe983d448706b18b47bd4b
+
+Package: com.tqm-mos.colorfuldock
+Name: ColorfulDock
+Version: 0.0.1-2+debug
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: Mateusz Morawski
+Section: IOS12
+Description: Colorise your dock
+Maintainer: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.colorfuldock
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.colorfuldock
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.colorfuldock_0.0.1-2+debug_iphoneos-arm.deb
+Size: 13140
+MD5sum: 4ba6bdbb79dfb2d182dbe004f7268e90
+SHA1: cfc6ec8ddd8ca202126a81fbd094ae6e454752e7
+SHA256: 488a0af1d9d8eb32971e94d746acee415c83d8262c7da9725c039ab4dd8ec07a
+
+Package: com.tqm-mos.colormysb
+Name: ColorMySB
+Version: 0.9~beta1k
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Author: dpkg_
+Section: IOS11
+Description: Làm sống động StatusBar hiện đại của bạn!
+Maintainer: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.colormysb
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.colormysb
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.colormysb_0.9~beta1k_iphoneos-arm.deb
+Size: 15362
+MD5sum: 2a621079c0db7c68330b63a9a9990b3f
+SHA1: 31a1b93ed2f480dcdaf6984c5963a282e10ff4e8
+SHA256: 0da545c15647ed9090f66f00624d36635c22f36baaa3eb915d2613c8f6533fef
+
+Package: com.tqm-mos.dvirtualhome
+Name: DVirtualHome
+Version: 0.0.6-1
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: DGh0st
+Section: Tweaks
+Description: My attempt at making virtual home iOS 10 compatible.
+Maintainer: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dvirtualhome
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dvirtualhome
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.dvirtualhome_0.0.6-1_iphoneos-arm.deb
+Size: 30226
+MD5sum: ad675b98a976fb1362df89bf0c56b646
+SHA1: 5ab42ed5d23e884037a4e125138edfe41099950f
+SHA256: 6a8bcae3fec4dac12d5bba38d41e8bd2a693691faa811de1fa1a1eb7fe0a48e0
+
+Package: com.tqm-mos.ikeywi3
+Name: iKeywi 3 Cracked
+Version: 3.3.3-1
+Architecture: iphoneos-arm
+Description: Botones personalizables adicionales para todos los idiomas
+Maintainer: TQM
+Author: Hiraku <dev@hiraku.tw>
+Depends: preferenceloader, mobilesubstrate, firmware (>= 8.0), applist
+Conflicts: org.thebigboss.ikeywi, tw.hiraku.ikeywi2, com.tw3pole.exkey, gsc.ipad
+Priority: optional
+Installed-Size: 760
+Section: Tweaks
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ikeywi3
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ikeywi3
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.ikeywi3_3.3.3-1_iphoneos-arm.deb
+Size: 318510
+MD5sum: e9d35076b9921d6a293695a4d8009fd2
+SHA1: db2b9662aebb3e3a61bf28aa7aa4238a28aed07c
+SHA256: 7efec5e1772085903e2f97efa8de9572f96c65d0ed71418bc31e2744a9da46ef
+
+Package: com.tqm-mos.instalauncherpackix
+Name: InstaLauncher
+Version: 2.0
+Depends: mobilesubstrate, preferenceloader, libactivator, applist(>=1.5.10)
+Conflicts: com.jontelang.instalauncher
+Architecture: iphoneos-arm
+Author: Jonathan Winger Lang
+Section: Tweaks
+Description: Access ANY app instantly 
+Maintainer: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.instalauncherpackix
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.instalauncherpackix
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.instalauncherpackix_2.0_iphoneos-arm.deb
+Size: 131418
+MD5sum: aa7f897e0c1c6ae3c82f79b50533642e
+SHA1: 1fc8130dad0a51705c47906b0a1cd5fde448be1c
+SHA256: 457aa75ec504f36f569d9570f58efc67d8b22b42f90fc82670d483400e001a10
+
+Package: com.tqm-mos.modernpower
+Name: ModernPower
+Version: 1.2
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.tqm-mos.libcolorpickerarm64
+Architecture: iphoneos-arm
+Author: ConorTheDev
+Section: IOS11
+Description: A more good-looking and less intrusive Power UI.
+Maintainer: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.modernpower
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.modernpower
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.modernpower_1.2_iphoneos-arm.deb
+Size: 46608
+MD5sum: 943dc3ec5c4dbfe4dd449d0098d03b34
+SHA1: 1acd4021218068cc72b2aeeaa6b6e02133729358
+SHA256: eac4448886c4be68ccceac4985e102c4514d728401a39b970fd3ea1d69ef9c1c
+
 Package: com.tqm-mos.gr33nb3rry1
 Name: Gr33nb3rry
 Version: 1.0
