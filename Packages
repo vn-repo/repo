@@ -508,8 +508,8 @@ Section: TQM
 Architecture: iphoneos-arm
 Maintainer: TQM
 Installed-Size: 15329
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.beauty
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.beauty
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cst
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cst
 Homepage: https://www.facebook.com/quangminhdx
 Filename: ./debs/com.tqm-mos.cst_2.0.1_iphoneos-arm.deb
 Size: 15180078
