@@ -444,6 +444,149 @@ MD5sum: 918236e58dfc07cfcd972c22b7f3b0ed
 SHA1: 024976426da728293f11d6f635a9dd068b5ca469
 SHA256: cf8e7d56f2731fe5830671c62c4971d776228c1a8c62df11f47ad329ab49815a
 
+Package: com.tqm-mos.blu3b3rry1
+Name: Blu3b3rry
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminhclub@gmail.com>
+Maintainer: @tqmmos <anhminhclub@gmail.com>
+Description: Very nice Blu3b3rry Theme with over 1200 icons .
+Depends: com.tqm-mos.blu3b3rry2
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blu3b3rry
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blu3b3rry
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.blu3b3rry1_1.0_iphoneos-arm.deb
+Size: 62513066
+MD5sum: e152bab3ef2c4abe5ecde58b16cbe8ec
+SHA1: cf1b98713b83a2a13b4f816a0b38f910b8ca2181
+SHA256: ddba38b4aad22252ab80a6b7cc0529dba75b8e909d0f9cfa4be1d6575aaff8f6
+
+Package: com.tqm-mos.blu3b3rry2
+Name: Add Blu3b3rry
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminhclub@gmail.com>
+Maintainer: @tqmmos <anhminhclub@gmail.com>
+Description: Very nice Blu3b3rry Theme with over 1200 icons .
+Depends: com.tqm-mos.blu3b3rry1
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blu3b3rry
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blu3b3rry
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.blu3b3rry2_1.0_iphoneos-arm.deb
+Size: 53212142
+MD5sum: 8b4d93ce33e8f62164d34df261ef2553
+SHA1: 64535463b210dc0d2269e00f009437d540597451
+SHA256: 0a8e6bb4ab915965eb0d07968497139302e4cdfc7f65f1a2f4dbe9163cbd7430
+
+Package: com.tqm-mos.beauty
+Name: Beauty
+Depends: mobilesubstrate
+Version: 1.5
+Architecture: iphoneos-arm
+Description: A Space Potato revival. ios12
+Author: @tqmmos <anhminhclub@gmail.com>
+Section: TQM
+Maintainer: @tqmmos <anhminhclub@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.beauty
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.beauty
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.beauty_1.5_iphoneos-arm.deb
+Size: 4968972
+MD5sum: 62febcd17edd065f1c451d726ac3fb06
+SHA1: 1d1c77f8b0e21baa3ac354a10dd9c4e61c6fc409
+SHA256: 456884f5c949dd1eaf24206b8cba0e3db24ffa6126b76209ef81c40984ffa220
+
+Package: com.tqm-mos.cst
+Name: ComicSans Theme
+Version: 2.0.1
+Description: Тема ComicSans
+Author: @tqmmos
+Icon: file:///Library/ComicSans/eu.rio-doro.cstwhite.png
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: TQM
+Installed-Size: 15329
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.beauty
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.beauty
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.cst_2.0.1_iphoneos-arm.deb
+Size: 15180078
+MD5sum: 21c654f6456f7df87f13d7db2f1346bf
+SHA1: 00acbcc4c243c43114f47c3e26c5d84c3f191045
+SHA256: 17f0a0e3d1c64c6d0d159b7278c35c90d2dbfc85669468a9814712fd62eb8b38
+
+Package: com.tqm-mos.gr33nb3rry1
+Name: Gr33nb3rry
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminhclub@gmail.com>
+Maintainer: @tqmmos <anhminhclub@gmail.com>
+Description: Very nice theme in Gr33nb3rry Style with over 1200 Icons
+Depends: com.tqm-mos.gr33nb3rry2
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gr33nb3rry
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gr33nb3rry
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.gr33nb3rry1_1.0_iphoneos-arm.deb
+Size: 69901970
+MD5sum: 4ba1d8142491d89994c81e94c9c6f028
+SHA1: a769a22db09a8ec5632cf0ed8eae91dd0ec108d0
+SHA256: 353465ab6007e75fda0839e61a1a8dec43caae4d2f3b48ebe25c63c5f905aa8c
+
+Package: com.tqm-mos.gr33nb3rry2
+Name: Add Gr33nb3rry
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminhclub@gmail.com>
+Maintainer: @tqmmos <anhminhclub@gmail.com>
+Description: Very nice theme in Gr33nb3rry Style with over 1200 Icons
+Depends: com.tqm-mos.gr33nb3rry1
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gr33nb3rry
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gr33nb3rry
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.gr33nb3rry2_1.0_iphoneos-arm.deb
+Size: 37262462
+MD5sum: 41e2f69493f623da41fc5b8e5e30bcfa
+SHA1: 9e55ce034d9b505898a31099b7a5d5eaadcbfcfc
+SHA256: 68b8e6b570603fdca628746be449cac3224ab9ac410b0e4e6c8ed325b6ff55fe
+
+Package: com.tqm-mos.DarkJean
+Name: Dark Jean
+Version: 1.4.53
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminhclub@gmail.com>
+Maintainer: @tqmmos <anhminhclub@gmail.com>
+Description: Modern Dark iOS Theme
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.darkjean
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.darkjean
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.DarkJean_1.4.53_iphoneos-arm.deb
+Size: 3026862
+MD5sum: 53658f0de584a2f736a46427406194bb
+SHA1: d36b661f980a6fc7ce9676e7a36101b327367c20
+SHA256: 5708d26c11ef2555bcf2ce9f4d9ad68a1c2f46cf0ab25d3965657bac3e20663c
+
+Package: com.tqm-mos.see
+Name: SEE
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminhclub@gmail.com>
+Maintainer: @tqmmos <anhminhclub@gmail.com>
+Description: Beautiful theme for your device
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.see
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.see
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.see_1.0_iphoneos-arm.deb
+Size: 8885440
+MD5sum: 5a26c7004e7da04716477ea98d8c4cfd
+SHA1: 277743c9360ffe0a35b06ea853b219e8892d06f4
+SHA256: eacd418af6733fbba958400900672864e2fdbbc539d09e149ffdad34da762d36
+
 Package: com.tqm-mos.apphide
 Name: AppHide
 Version: 0.2.3-2
