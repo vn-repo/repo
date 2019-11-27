@@ -1,0 +1,16 @@
+Package: tqm-mos.iconrepo
+Name: TQM-Icon
+Version: 1.2
+Architecture: iphoneos-arm
+Essential: yes
+Author: @tqmmos
+Maintainer: QM 
+Section: System
+Description: Gói icon cho source TQM-Mos
+Depiction: http://tqm-mos.github.io/description.html?id=tqm-mos.iconrepo
+SileoDepiction: http://tqm-mos.github.io/description.html?id=tqm-mos.iconrepo
+Filename: ./debs/tqm-mos.iconrepo_1.2_iphoneos-arm.deb
+Size: 321768
+MD5sum: 040a89b224125302a682e4af5d95d954
+SHA1: d667b505b98b905e603c157b33e31667c51af220
+SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
