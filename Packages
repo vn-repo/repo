@@ -15,6 +15,29 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.reprovision
+Name: ReProvision
+Version: 0.5~experimental7-1
+Description: Re-sign applications on your device
+Section: System
+Depends: firmware (>= 9.0)
+Priority: optional
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: TQM
+Homepage: https://www.facebook.com/quangminhdx
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reprovision
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reprovision
+Filename: ./debs/com.tqm-mos.reprovision_0.5~experimental7-1_iphoneos-arm.deb
+Size: 14258464
+MD5sum: 09c01ec65264b1e50d477a36aecfbcbb
+SHA1: 9bf3cc86b399e8cb7b70d7fa757b467b07a36645
+SHA256: 6790d65d6af682183744cebbef56d8bba2d7c2fe1449f3b2415db3fceaf31fa8
+
 Name: Ringer13
 Package: com.tqm-mos.ringer13
 Version: 1.1.6
