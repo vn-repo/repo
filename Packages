@@ -38,6 +38,25 @@ MD5sum: 09c01ec65264b1e50d477a36aecfbcbb
 SHA1: 9bf3cc86b399e8cb7b70d7fa757b467b07a36645
 SHA256: 6790d65d6af682183744cebbef56d8bba2d7c2fe1449f3b2415db3fceaf31fa8
 
+Package: com.tqm-mos.aovhackmaplp
+Name: Liên Quân Hack Maps
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: [PMT] Garena Liên Quân Mobile 1.32.1.4 - MOD by TheArmKing @Platinmods.com
+Maintainer: TQM
+Author: TheArmKing
+Section: Tweaks
+Homepage: https://www.facebook.com/quangminhdx
+Version: 1.32.1.4
+Installed-Size: 532
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aovhackmaplp
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aovhackmaplp
+Filename: ./debs/com.tqm-mos.aovhackmaplp_1.32.1.4_iphoneos-arm.deb
+Size: 214242
+MD5sum: fb13573335a4261db5add97eb2976bf6
+SHA1: 60eec3a2f54448a0a485519f093cac0862a1dca1
+SHA256: 356c3d4f8fac2f933f03dd0607059c96f8f88e8cf8434dd08761c1de12b7c703
+
 Name: Ringer13
 Package: com.tqm-mos.ringer13
 Version: 1.1.6
