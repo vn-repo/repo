@@ -45,7 +45,7 @@ Architecture: iphoneos-arm
 Description: [PMT] Garena Liên Quân Mobile 1.32.1.4 - MOD by TheArmKing @Platinmods.com
 Maintainer: TQM
 Author: TheArmKing
-Section: Tweaks
+Section: Hack Games
 Homepage: https://www.facebook.com/quangminhdx
 Version: 1.32.1.4
 Installed-Size: 532
@@ -56,6 +56,110 @@ Size: 214242
 MD5sum: fb13573335a4261db5add97eb2976bf6
 SHA1: 60eec3a2f54448a0a485519f093cac0862a1dca1
 SHA256: 356c3d4f8fac2f933f03dd0607059c96f8f88e8cf8434dd08761c1de12b7c703
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.74~Beta1
+Installed-Size: 4232
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.74~Beta1_iphoneos-arm.deb
+Size: 1983996
+MD5sum: 5ae9b9dc49f80eb189f56c82a68692e8
+SHA1: fce0f5b1a9cc5cc390f0b7f5bb7762733b01821e
+SHA256: 9af4d19bf2963f03d487063260218fa96fc11395172b53b3b61bf917e1583905
+
+Package: com.tqm-mos.snowboard.presetextension
+Name: SnowBoard Preset
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>> 1.2.22)
+Architecture: iphoneos-arm
+Description: SnowBoard Presets Extension
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.15~Beta1
+Installed-Size: 820
+Depiction: http://tqm-mos.github.io/description.html?id=com.snow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.snow
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.presetextension_1.0.15~Beta1_iphoneos-arm.deb
+Size: 175142
+MD5sum: ae2a13ca0680c3a65e4c2458a4fce555
+SHA1: 4b9d27d2ac36809d053e3346ae7339be1aeaac7e
+SHA256: 9e4d427a1d84a7c1067b50a0419bd43de36eb12a9b733f6c5f82b2fac9532743
+
+Package: com.tqm-mos.reprovision
+Name: ReProvision
+Version: 0.5~experimental8
+Description: Re-sign applications on your device
+Section: System
+Depends: firmware (>= 9.0)
+Priority: optional
+Replaces: com.matchstic.reprovision, com.matchstic.Extender-Installer
+Provides: com.matchstic.reprovision, com.matchstic.Extender-Installer
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: TQM
+Homepage: https://www.facebook.com/quangminhdx
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reprovision
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reprovision
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.reprovision_0.5~experimental8_iphoneos-arm.deb
+Size: 14258364
+MD5sum: bca3dff5c35ead42f46fd992c7d6caa8
+SHA1: 36aa9b545db20ba507ef79a23e0f3aab8ee94cfe
+SHA256: a8b873665de8b8ef98a70980354f0ea41ce9f83d31e877ee20a25fffbcf35df6
+
+Package: com.tqm-mos.pubgmobi
+Name: PUBG MOBILE Cheats
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: PUBG MOBILE iGMM Cheats by Crimson for iOSGods.com!
+Maintainer: TQM
+Author: Crimson
+Section: Hack Games
+Homepage: https://www.facebook.com/quangminhdx
+Version: 0.15.0+iOSGods.com
+Installed-Size: 3580
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pubgmobi
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pubgmobi
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.pubgmobi_0.15.0+iOSGods.com_iphoneos-arm.deb
+Size: 1042088
+MD5sum: fe987ace00b342659b3f93a60b908139
+SHA1: edc4f56213c76b161ec96a24c7add6acc6250e3b
+SHA256: 2f4a1ba2e92ccc3dbd54f10ac1cd62281bf4f3e3484685af82c6187c0337c522
+
+Package: com.spark.libsparkapplist
+Name: libSparkAppList
+Architecture: iphoneos-arm
+Description: AppList alternative
+Maintainer: TQM
+Author: Spark
+Section: System
+Tag: role::developer
+Version: 1.0.4
+Installed-Size: 596
+Depiction: http://tqm-mos.github.io/description.html?id=com.spark.libsparkapplist
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.spark.libsparkapplist
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.spark.libsparkapplist_1.0.4_iphoneos-arm.deb
+Size: 69152
+MD5sum: baa6003053459874cde889fa083116ea
+SHA1: e41d263947c3ca2d07b143d8f8cc447661384b70
+SHA256: f9ad5aef81a170510b3d62d9526b0616bdacf266ba2579abc065cb73c1f784ec
 
 Name: Ringer13
 Package: com.tqm-mos.ringer13
