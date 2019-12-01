@@ -57,6 +57,25 @@ MD5sum: fb13573335a4261db5add97eb2976bf6
 SHA1: 60eec3a2f54448a0a485519f093cac0862a1dca1
 SHA256: 356c3d4f8fac2f933f03dd0607059c96f8f88e8cf8434dd08761c1de12b7c703
 
+Package: com.tqm-mos.aovhackmaplp
+Name: Liên Quân Hack Maps
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Garena Liên Quân Mobile iGMM Cheats by DanYal for iOSGods.com!
+Maintainer: TQM
+Author: DanYal
+Section: Hack Games
+Homepage: https://www.facebook.com/quangminhdx
+Version: 1.32.1.5+iOSGods.com
+Installed-Size: 3588
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aovhackmaplp
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aovhackmaplp
+Filename: ./debs/com.tqm-mos.aovhackmaplp_1.32.1.5+iOSGods.com_iphoneos-arm.deb
+Size: 1039442
+MD5sum: ffaf872c54d558ae0af3b746e709c61f
+SHA1: 5bdaf4920f1f7d56e1bec2076849ac13c358eb2d
+SHA256: 43aae44c683e0182752e708d0cccccacd9c475d38d2eb150f0100cf3afe7ab58
+
 Package: com.tqm-mos.snowboard
 Name: SnowBoard
 Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui
