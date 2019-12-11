@@ -57,6 +57,88 @@ MD5sum: fb13573335a4261db5add97eb2976bf6
 SHA1: 60eec3a2f54448a0a485519f093cac0862a1dca1
 SHA256: 356c3d4f8fac2f933f03dd0607059c96f8f88e8cf8434dd08761c1de12b7c703
 
+Package: com.tqm-mos.RedLy
+Version: 1.0.1
+Description: THEMES
+Section: TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: RedLy
+Author: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.RedLy
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.RedLy
+Filename: ./debs/com.tqm-mos.RedLy_1.0.1_iphoneos-arm.deb
+Size: 26184172
+MD5sum: 48d5f19ee1fcd437326b6f478f96ea98
+SHA1: a9fcf08554e97922ef1f412d9086a2fd7b8b2a26
+SHA256: 853c95910141053c3c40188f83f95403ab88ed409ac2ead385a9ab66cca2b79d
+
+Package: com.tqm-mos.Sublime
+Version: 1.0
+Description: THEMES
+Section: TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: Sublime
+Author: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Sublime
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Sublime
+Filename: ./debs/com.tqm-mos.Sublime_1.0_iphoneos-arm.deb
+Size: 10509818
+MD5sum: 1d2d46da390fc2096f35826f5ca806fa
+SHA1: fec3711cc87a66d6e5d37b91f7eb53ab68ca2e08
+SHA256: e075f553a1cdb7ed5a57adc6af085c23331748d63f410f7acfdda1ea991ea2b7
+
+Package: com.tqm-mos.Kingtheme
+Version: 1.0
+Description: THEMES
+Section: TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: King Theme
+Author: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Kingtheme
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Kingtheme
+Filename: ./debs/com.tqm-mos.Kingtheme_1.0_iphoneos-arm.deb
+Size: 38766506
+MD5sum: 7a7e055e156e8bbdd349b1adc6fc1e86
+SHA1: a36a7b98cea371973069943b97ca140ab3f18044
+SHA256: 77f1e0c7e1a3128a00a25ed3bea307bff7b26a53554512d5531c521aa7f4afb3
+
+Package: com.tqm-mos.Mingle
+Version: 1.0
+Description: THEMES
+Section: TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: Mingle
+Author: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Mingle
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Mingle
+Filename: ./debs/com.tqm-mos.Mingle_1.0_iphoneos-arm.deb
+Size: 16606868
+MD5sum: cf557c13d67a1c28aa5610f019778a1c
+SHA1: 18d1e0da78fbeee507fa87a26fb0a3fdc42f5a17
+SHA256: 4eb11e719ed813dc355a4d4f928bee6fbc1c58c6b9031f7008d88c8a7954d7cf
+
+Package: com.midnightchips.ldRun
+Name: ldRun
+Version: 0.0.4
+Section: System
+Architecture: iphoneos-arm
+Installed-Size: 132
+Author: midnightchips
+Maintainer: midnightchips
+Description: A binary to run ldrestart as root.
+Tag: role::hacker
+Depiction: http://tqm-mos.github.io/description.html?id=com.midnightchips.ldRun
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.midnightchips.ldRun
+Filename: ./debs/com.midnightchips.ldrun_0.0.4_iphoneos-arm.deb
+Size: 3490
+MD5sum: 19a2fc4ff5f211f006c633c74941fd57
+SHA1: a103a8a055fa42458810fd3e4851960b0ff1b59e
+SHA256: 2fc1bcf5edf361abdb90dba515452556a0aa40dcb88e43ac0e4127d73e7192bc
+
 Package: com.tqm-mos.aovhackmaplp
 Name: Liên Quân Hack Maps
 Depends: mobilesubstrate
