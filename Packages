@@ -290,8 +290,8 @@ Maintainer: @tqmmos <anhminh311105@gmail.com>
 Version: 1.7
 Section: TQM
 Architecture: iphoneos-arm
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.phoenixos
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.phoenixos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.polluxicons
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.polluxicons
 Filename: ./debs/com.tqm-mos.polluxicons_1.7_iphoneos-arm.deb
 Size: 34155414
 MD5sum: c0719beefe7ea8571011d5fb6bb258f2
@@ -388,7 +388,7 @@ Architecture: iphoneos-arm
 Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
 Maintainer: TQM
 Author: @tqmmos
-Section: Themes TQM
+Section: TQM
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
 Filename: ./debs/com.tqm-mos.AngelBlackGold_1.0_iphoneos-arm.deb
@@ -396,6 +396,118 @@ Size: 4938722
 MD5sum: 6ef7aae78bdc2b67bc9af99d22e1d36a
 SHA1: 90b84c61d51525912ed9fda3afc7b3ea257856f3
 SHA256: 0f231525314d56cbb43904c1a8397a32393e397ee7582073b8e01dadfedc0e61
+
+Package: com.tqm-mos.Eesome
+Version: 1.0
+Description: THEMES
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Architecture: iphoneos-arm
+Name: Eesome
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Eesome
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Eesome
+Filename: ./debs/com.tqm-mos.Eesome_1.0_iphoneos-arm.deb
+Size: 11655912
+MD5sum: fc103708471560fbcbffca34be26f209
+SHA1: 655c8b435f3e7018974303367170f1c5109bbff2
+SHA256: c496b78f28c5d37e8642673e7d26b5ff93ad502aa57b7fd33aae4a9220b8d7a0
+
+Package: com.tqm-mos.Evolution
+Version: 1.0
+Description: THEMES
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Architecture: iphoneos-arm
+Name: Evolution
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Evolution
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Evolution
+Filename: ./debs/com.tqm-mos.Evolution_1.0_iphoneos-arm.deb
+Size: 16326844
+MD5sum: cfd736f6fd22369b1d2e57de28d196c6
+SHA1: 719ae558d419fa3021f2d6fc036c38b951b2af89
+SHA256: 1cd6e70ee8f84e9c8713e8b956e0466904f73f8107126e24c87737ee6fb0763a
+
+Package: com.tqm-mos.WhiteLit
+Name: WhiteLit
+Version: 1.0
+Architecture: iphoneos-arm
+Description: White icons with logo colors
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.WhiteLit
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.WhiteLit
+Filename: ./debs/com.tqm-mos.WhiteLit_1.0_iphoneos-arm.deb
+Size: 4066172
+MD5sum: ecd2cb35ac17bb7c1016833a4b804916
+SHA1: e8fbefe0d52ac92c88f0e9e5499bca655eb26dbc
+SHA256: 507ea9b35dcd7ac04fb63eabffce5b6e1fe0cf737c881ef593361d030e91a1bf
+
+Package: com.tqm-mos.WhiteLitv2
+Name: WhiteLit v2
+Version: 1.3
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: White icons with little details
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.WhiteLitv2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.WhiteLitv2
+Filename: ./debs/com.tqm-mos.WhiteLitv2_1.3_iphoneos-arm.deb
+Size: 11377620
+MD5sum: 904357e38f018cc84d57bc2547a1cdb9
+SHA1: 7a248df1318d927a500c67b22f01342f15181fe5
+SHA256: 4dfbfe45c86ab270452106187f43bd8751d443623e153bb2f1eaabf6e6f398b0
+
+Package: com.tqm-mos.zoya
+Name: Zoya
+Version: 1.8
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Zoya perfect icons for your device
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.zoya
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.zoya
+Filename: ./debs/com.tqm-mos.zoya_1.8_iphoneos-arm.deb
+Size: 19077070
+MD5sum: f0dd3b0e64fc727679fa5f0c9320f1e0
+SHA1: bf681613a655b27d895605cd9800b034e080e2a3
+SHA256: e43768cb2280a944d168c3016cc658f1cbe52cecb12a2148a90a631edc6b4303
+
+Package: com.tqm-mos.bluenightwolf
+Name: Blue Night Wolf
+Version: 1.0
+Architecture: iphoneos-arm
+Description: White icons with logo colors
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bluenightwolf
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bluenightwolf
+Filename: ./debs/com.tqm-mos.bluenightwolf_1.0_iphoneos-arm.deb
+Size: 6751434
+MD5sum: 4cb26def9ece6af28caadb0dead4219f
+SHA1: 0e0918ab23f4ef9ef4cf15acf89df72670a1c3c5
+SHA256: 22a90a343d5758d31136194060e4af253cf732da5db7ae7bd4bd0c6fd63b680f
+
+Name: Phosphorus ALT
+Package: com.tqm-mos.phosphorusalt
+Version: 1.0
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: THEMES
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.phosphorusalt_1.0_iphoneos-arm.deb
+Size: 22944076
+MD5sum: 99498f98ec6c9b2be74d5e9cde530524
+SHA1: de11259e3f44011234ba73015ecbf1043ef8c61f
+SHA256: 1f0c238309e8158c2aa7e182001ad44f6bcbe43342d10dbfca691e656d96d884
 
 Name: Aurous
 Package: com.tqm-mos.aurous
