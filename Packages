@@ -38,6 +38,175 @@ MD5sum: 09c01ec65264b1e50d477a36aecfbcbb
 SHA1: 9bf3cc86b399e8cb7b70d7fa757b467b07a36645
 SHA256: 6790d65d6af682183744cebbef56d8bba2d7c2fe1449f3b2415db3fceaf31fa8
 
+Package: com.tqm-mos.anemoneex
+Name: Anemone 3 Extension Uncover
+Version: 3.0~beta10
+Architecture: iphoneos-arm
+Description: An awesome theme manager!
+SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.anemonetheming.anemone3-extsb
+Depiction: https://tqm-mos.github.io/description.html?id=anemone3
+Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
+Maintainer: QM <anhminh311105@gmail.com>
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Section: Anemone 3
+Filename: ./debs/com.tqm-mos.anemoneex_3.0~beta10_iphoneos-arm.deb
+Size: 65004
+MD5sum: 14047c2d0be8c6647ee86df4216e0d0c
+SHA1: 567925fa9879a48737ff214704f3beec93d44415
+SHA256: 7b957cec1424a4f72d4ffe646caece277365b57c8e2afa7f57b8dee14a817d3d
+
+Package: ga.jakeashacks.anemoneinstaller
+Name: Anemone 3.0 for unc0ver and checkra1n
+Version: 1.0.16
+Architecture: iphoneos-arm
+Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Depends: pincrush, mobilesubstrate, org.swift.libswift (>=5.0), firmware (<=12.4.4)
+Pre-Depends: curl, ga.jakeashacks.substitutedummy, ldid
+Description: Anemone 3.0 for unc0ver/checkra1n! If this doesn't work, wait for me to update it.
+Maintainer: Jake James <jakeashacks@gmail.com>
+Author: Jake James <jakeashacks@gmail.com>
+Section: Anemone 3
+SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.anemonetheming.anemone3-extsb
+Depiction: https://tqm-mos.github.io/description.html?id=anemone3
+Filename: ./debs/ga.jakeashacks.anemoneinstaller_1.0.16_iphoneos-arm.deb
+Size: 17990
+MD5sum: 7873d54da11cd1477d32619a25b32ccb
+SHA1: cd58e2cfbbf4ebc98127fdc1d48e5da43bf4f43a
+SHA256: 8dc058d6f8390a4c4deaf31458f744bc063939e2757db811a5404fcef8144b89
+
+Package: com.tqm-mos.appstoreunrestrict
+Name: Appstore Unrestrict
+Version: 0.0~beta4a
+Description: Phá bỏ giới hạn tải app trên AppStore bằng 3/4g quá 150mb
+Author: julioverne
+Depends: preferenceloader, mobilesubstrate
+Icon: file:///Library/PreferenceBundles/AppstoreUnrestrictSettings.bundle/icon@2x.png
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 234
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.appstoreunrestrict
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.appstoreunrestrict
+Filename: ./debs/com.tqm-mos.appstoreunrestrict_0.0~beta4a_iphoneos-arm.deb
+Size: 26132
+MD5sum: fe26c2bb3a633405f76af7655aa2c20f
+SHA1: ea36060b5add846e325e2e24ec38635dc934dcc6
+SHA256: 18623976b40882eae69590faed881c18b95e0d72039a7a3a97ba3951f5ed2cb4
+
+Package: com.tqm-mos.BuufJuiced-Dark
+Version: 3.2
+Description: THEMES
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Architecture: iphoneos-arm
+Name: BuufJuiced-Dark
+Author: @tqmmos <anhminh311105@gmail.com>
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.BuufJuiced-Dark
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.BuufJuiced-Dark
+Filename: ./debs/com.tqm-mos.BuufJuiced-Dark_3.2_iphoneos-arm.deb
+Size: 86386526
+MD5sum: 4ae16fd7a6cc2b7b529ad292be085abd
+SHA1: fefec1bde01c4fb0dc3c38d06f42ef13bdf2b2c2
+SHA256: 93a75fe553a42acf7728d4faf87a03361c98aa42d6aa768207dbca9f1a2e370c
+
+Package: com.tqm-mos.darkshadow
+Name: DarkShadow
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: DarkShadow theme
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.darkshadow
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.darkshadow
+Filename: ./debs/com.tqm-mos.darkshadow_1.0_iphoneos-arm.deb
+Size: 55751038
+MD5sum: cb2fddd0d1fd3fea5e5bc477a0d318b1
+SHA1: c6f8ad7110a081869febc16c5949114ba5965048
+SHA256: 489a71259b651d61fbf6475193d3b40cf0bc8b2a7acd7b8276cbdf5c4f4ee139
+
+Package: com.tqm-mos.darksxshadow
+Name: DarksxShadow
+Version: 4.4.1
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Wonderful Shadow Dark Theme
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.darksxshadow
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.darksxshadow
+Filename: ./debs/com.tqm-mos.darksxshadow_4.4.1_iphoneos-arm.deb
+Size: 7447768
+MD5sum: a8baf5643aa29ca453aad1c1f33d3cba
+SHA1: c9ebe34fcb4437ff0f8fb7e4d11d6d8ff04705b9
+SHA256: d6ac312c3341a56983366d417eef7aa7c4d692bff12882be7ff1f8f6faae4b9a
+
+Package: com.tqm-mos.peek
+Name: Peek
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: App Previews for iOS.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 0.1
+Section: TQM
+Architecture: iphoneos-arm
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.peek
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.peek
+Filename: ./debs/com.tqm-mos.peek_0.1_iphoneos-arm.deb
+Size: 348272
+MD5sum: 8ff55ec254655396ea290a5c50bae520
+SHA1: b22d33f2f02fe9790e1389414cfb421775296e4f
+SHA256: 60e80413e2b26dd5d1a7e3ba7b5689e317642de2af0169a02b3f017c27b94642
+
+Package: com.tqm-mos.peekdark
+Name: Peek Dark
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: Dark Previews for iOS.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 0.3
+Section: TQM
+Architecture: iphoneos-arm
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.peekdark
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.peekdark
+Filename: ./debs/com.tqm-mos.peekdark_0.3_iphoneos-arm.deb
+Size: 1134560
+MD5sum: 3edc1c0fcb5bce4a258b2fc0729c3669
+SHA1: 9cb92ff884617c40a1e3937ba7887f81d7d1889f
+SHA256: 036ba30cb6acd17ceee4935e86eb258b73be6bf7719eb6d906c6a062bbd670e8
+
+Package: com.tqm-mos.seered
+Name: SEE Red
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Beautiful theme for your device
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.seered
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.seered
+Filename: ./debs/com.tqm-mos.seered_1.0_iphoneos-arm.deb
+Size: 11032864
+MD5sum: 90788aeef8ae4e280b9897056b346a20
+SHA1: 43327b42ff017e2591f1d138828942e1b3e178f5
+SHA256: 59e3e302e7d30ed2f1158e74925edddc38f0285165165fed79e3b94884161e37
+
+Package: com.tqm-mos.seewhite
+Name: SEE White
+Version: 1.1
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Beautiful theme for your device
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.seewhite
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.seewhite
+Filename: ./debs/com.tqm-mos.seewhite_1.1_iphoneos-arm.deb
+Size: 11660824
+MD5sum: 27c757a5af9405dbbd023d94b8308407
+SHA1: 51c6faefe14e5482c699597f6451e6b61e37e7b3
+SHA256: 19b9f7039e2b6559da513b588207e502d2f23afd1a6c89586de45faacde46dd8
+
 Package: com.tqm-mos.aovhackmaplp
 Name: Liên Quân Hack Maps
 Depends: mobilesubstrate
