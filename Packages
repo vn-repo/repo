@@ -207,6 +207,23 @@ MD5sum: 27c757a5af9405dbbd023d94b8308407
 SHA1: 51c6faefe14e5482c699597f6451e6b61e37e7b3
 SHA256: 19b9f7039e2b6559da513b588207e502d2f23afd1a6c89586de45faacde46dd8
 
+Package: com.tqm-mos.cutebettery
+Name: Cute Bettery for XenHTML
+Version: 0.1
+Architecture: iphoneos-arm
+Description: by Tqm-Mos Widget (Uses XenInfo)
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.cutebettery
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.cutebettery
+Filename: ./debs/com.tqm-mos.cutebettery_0.1_iphoneos-arm.deb
+Size: 337672
+MD5sum: d9a357baed1fce476244baf8e60c4aac
+SHA1: c0a1e4fe306ee389d9051860f99f99b4cdecd1eb
+SHA256: 05b6996e1333d2d9ac0a9c8b8acba5924da274be86d3aeacb0c7e1ef3cbf0d1d
+
 Package: com.tqm-mos.aovhackmaplp
 Name: Liên Quân Hack Maps
 Depends: mobilesubstrate
