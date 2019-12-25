@@ -55,6 +55,40 @@ MD5sum: 14047c2d0be8c6647ee86df4216e0d0c
 SHA1: 567925fa9879a48737ff214704f3beec93d44415
 SHA256: 7b957cec1424a4f72d4ffe646caece277365b57c8e2afa7f57b8dee14a817d3d
 
+Package: com.tqm-mos.peek
+Name: Peek
+Version: 0.3
+Description: themes
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 1325
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.peek
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.peek
+Filename: ./debs/com.tqm-mos.peek_0.3_iphoneos-arm.deb
+Size: 640
+MD5sum: d67ea6685691dbab4c694a97fc474ffd
+SHA1: 3997b0433c130044ef60ad40dbc7343bb9e39217
+SHA256: 663924548e9266d08d3932ebf3998ba4c01aee439c9b33b36806c3697ba07f3f
+
+Package: com.tqm-mos.wallpaperstack
+Name: Wallpaper Stack for XenHTML
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by Tqm-Mos
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.wallpaperstack
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.wallpaperstack
+Filename: ./debs/com.tqm-mos.wallpaperstack_0.1_iphoneos-arm.deb
+Size: 902216
+MD5sum: 13ab3385970680de6793048751711c15
+SHA1: 4a0a95cdf5dea8f3f854c1fcfdd8b4a8588336c4
+SHA256: 568a9e4696e6534fcd6a8469a8ec0b9a011580e67e68f16e2a354d83dc10126c
+
 Package: ga.jakeashacks.anemoneinstaller
 Name: Anemone 3.0 for unc0ver and checkra1n
 Version: 1.0.16
