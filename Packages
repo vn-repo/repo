@@ -138,6 +138,156 @@ MD5sum: 6f571b23ac04da476eacd00b0468827e
 SHA1: a5b945ee1ddee2a9f291e281c6f18f434d106c7f
 SHA256: 138008457162aef0e16ef8f9b944f6d670c6c4613a89504c0393b73d279cea14
 
+Package: com.tqm-mos.zoom20camera
+Name: ZOOM20Camera
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: ahmedmakls
+Section: Tweaks
+Version: 0.0.1-15+debug
+Installed-Size: 512
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.zoom20camera
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.zoom20camera
+Filename: ./debs/com.tqm-mos.zoom20camera_0.0.1-15+debug_iphoneos-arm.deb
+Size: 73278
+MD5sum: d16d3ca2efc74843cb4a16ccf46168bb
+SHA1: 75be48e66442f4a7e1b7d0f4e2dbea9c78b56269
+SHA256: b3ee02673402e06fdfe9543e60aa739b95d3b08081e7e2bfb1ce9c0df846b812
+
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute
+Depends: firmware (>= 5.0), firmware (<= 13.3.1), mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Package: com.yourepo.devmos.appsyncunified
+Name: AppSync Unified
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: System
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Version: 66.0
+Installed-Size: 384
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.yourepo.devmos.appsyncunified
+Depiction: https://tqm-mos.github.io/description.html?id=com.yourepo.devmos.appsyncunified
+Filename: ./debs/com.yourepo.devmos.appsyncunified_66.0_iphoneos-arm.deb
+Size: 48004
+MD5sum: 279cde4155ed161c398f8e0e40b990ec
+SHA1: bb9f2f11e66f525ac6a0696ed179428a03677b1d
+SHA256: f8ba12877c51b4826ebe42080248e270d03dbdc63ff85e771a109f306c6aaf3f
+
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute
+Depends: firmware (>= 5.0), firmware (<= 13.3.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Package: com.yourepo.devmos.appsyncunified
+Name: AppSync Unified
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: System
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Version: 68.0
+Installed-Size: 368
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.yourepo.devmos.appsyncunified
+Depiction: https://tqm-mos.github.io/description.html?id=com.yourepo.devmos.appsyncunified
+Filename: ./debs/com.yourepo.devmos.appsyncunified_68.0_iphoneos-arm.deb
+Size: 49172
+MD5sum: 46891d07c1d90ba920da7e6694a512b5
+SHA1: 5630f3a075cc079bbffde345110a3a0126503dfd
+SHA256: 83829021d6e315d5ebca3f69441fd58402dc5cda05fb473b9f1e1e8b35f27fa3
+
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute
+Depends: firmware (>= 5.0), firmware (<= 13.3.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Package: com.yourepo.devmos.appsyncunified
+Name: AppSync Unified
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: System
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Version: 70.0
+Installed-Size: 496
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.yourepo.devmos.appsyncunified
+Depiction: https://tqm-mos.github.io/description.html?id=com.yourepo.devmos.appsyncunified
+Filename: ./debs/com.yourepo.devmos.appsyncunified_70.0_iphoneos-arm.deb
+Size: 64024
+MD5sum: e8723aa877cb8ab91582c08d4b631152
+SHA1: 15e0ca7581d432cc54028f990a170cde0ce66394
+SHA256: 3db80764654517ea8b304fa73ebe861df1e3742bc81ad5c8532b91244ee72b72
+
+Package: com.yourepo.tqm.callbarxsios12tqm
+Name: CallBar XS Cracked
+Version: 2.2-5
+Architecture: iphoneos-arm
+Description: Change style of your calls
+Author: Elias Limneos <limneoselias@gmail.com>
+Section: TQM
+Depends: mobilesubstrate, preferenceloader, com.yourepo.tqm.mos
+Conflicts: net.limneos.callbarx, com.pulandr3s.audiorecorderxs, com.pulandr3s.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandr3s.bioprotectxs, net.pulandr3s.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandr3s.limneosos, com.repo.xarold.com.limneosos
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.yourepo.tqm.callbarxsios12tqm
+Depiction: https://tqm-mos.github.io/description.html?id=com.yourepo.tqm.callbarxsios12tqm
+Filename: ./debs/com.yourepo.tqm.callbarxsios12tqm_2.2-5_iphoneos-arm.deb
+Size: 411122
+MD5sum: 43e6c4f787c593d449497f9c7b47a8ca
+SHA1: f91896d7b347908398ee1f3b652b2093a64b2b69
+SHA256: a9fb6521545468d4aeb763fc4472fcef40d420e9646c68230fae9f80a1b9f06a
+
+Package: com.tqm-mos.crackplus
+Name: CrackPlus++
+Version: 3.8
+Architecture: iphoneos-arm
+Description: CrackBhai is a modified version of CrackPlus++. It brings support for all iOS 11 Jailbreaking Tools.
+Author: tanjimreza <tanjimreza786@gmail.com>
+Section: IOS12
+Maintainer: TQM
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.crackplus
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.crackplus
+Filename: ./debs/com.tqm-mos.crackplus_3.8_iphoneos-arm.deb
+Size: 95136
+MD5sum: 173fbb7a8958ac6b6229fa37594ee63c
+SHA1: 6a2a8030d9392fa7e0c876b30635a1ea680d78ac
+SHA256: daa76a6a3eb8ddb07b92a93b9dfbf46369187bea6a6fbc067176a4b7fd501079
+
+Package: com.tqm-mos.doubletake
+Name: DoubleTake12
+Version: 0.0.1-3+debug
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: Cam
+Section: IOS12
+Description: Check who you are messaging.
+Maintainer: TQM
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.doubletake
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.doubletake
+Filename: ./debs/com.tqm-mos.doubletake_0.0.1-3+debug_iphoneos-arm.deb
+Size: 7564
+MD5sum: b097aa15c28068ad6032fee23c4f3cdb
+SHA1: af3b542fee85715392ca9d7a8279a64ac03b479c
+SHA256: 43170302094c95531613552b08028146974b32fabc4150a0767f16c40b70c307
+
+Package: com.tqm-mos.youtubeuniversal
+Name: YouTube ++ (Universal)
+Version: 1.7r-97
+Architecture: iphoneos-arm
+Description: YouTube ++ (Universal) Supports all iOS 11 versions & Jailbreaking tools so far.
+Author: UnlimApps Inc
+Section: IOS12
+Depends: firmware (>= 11.0)
+Maintainer: TQM
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.youtubeuniversal
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.youtubeuniversal
+Filename: ./debs/com.tqm-mos.youtubeuniversal_1.7r-97_iphoneos-arm.deb
+Size: 3156452
+MD5sum: 2ad1e8dd921c973a8a8ce6d0dafd01c3
+SHA1: 2a99f7922dce4f6b727c9253453daea2d1cf9c49
+SHA256: f9e713df656c5529f1c64f6ccf070e103e6ee1bbb0a453802f4ad495b57f3e2b
+
 Package: com.tqm-mos.tqmv1
 Name: Tqm v1
 Version: 0.1
