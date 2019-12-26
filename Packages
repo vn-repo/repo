@@ -89,6 +89,72 @@ MD5sum: 13ab3385970680de6793048751711c15
 SHA1: 4a0a95cdf5dea8f3f854c1fcfdd8b4a8588336c4
 SHA256: 568a9e4696e6534fcd6a8469a8ec0b9a011580e67e68f16e2a354d83dc10126c
 
+Package: com.tqm-mos.flato
+Version: 1.1
+Description: THEMES
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Architecture: iphoneos-arm
+Name: FLATO
+Author: @tqmmos <anhminh311105@gmail.com>
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.flato
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.flato
+Filename: ./debs/com.tqm-mos.flato_1.1_iphoneos-arm.deb
+Size: 10375978
+MD5sum: 2e3eec3a7f3ac30cf86f04a6273591ce
+SHA1: 7a6c302908a422191bcdd7e4046ea1693baacf61
+SHA256: 78f0e8f062773e6fac432c757cec672859e280448d7f75786739dab743e0345d
+
+Name: New age
+Package: com.tqm-mos.newage
+Version: 1.3.3
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: Themes
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.newage
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.newage
+Filename: ./debs/com.tqm-mos.newage_1.3.3_iphoneos-arm.deb
+Size: 9225350
+MD5sum: 8f5784e003ebee0110ef1f8c1fa48e40
+SHA1: b3e07617378b392660db9cbeca9fdb473ed068d3
+SHA256: e0b3984e93032fb1336e979fba6140c3d4bd860f3e62fc37eba5d565314722e1
+
+Package: com.tqm-mos.sbblackgilroneipx
+Name: SB Black Gilr One ipX
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by Tqm-Mos
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sbblackgilroneipx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sbblackgilroneipx
+Filename: ./debs/com.tqm-mos.sbblackgilroneipx_0.1_iphoneos-arm.deb
+Size: 7702502
+MD5sum: 6f571b23ac04da476eacd00b0468827e
+SHA1: a5b945ee1ddee2a9f291e281c6f18f434d106c7f
+SHA256: 138008457162aef0e16ef8f9b944f6d670c6c4613a89504c0393b73d279cea14
+
+Package: com.tqm-mos.tqmv1
+Name: Tqm v1
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Time Widget (Uses XenInfo) by Tqm-Mos
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.tqmv1
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.tqmv1
+Filename: ./debs/com.tqm-mos.tqmv1_0.1_iphoneos-arm.deb
+Size: 1445944
+MD5sum: 129ba46742d163d946d15927d43dc6e4
+SHA1: 2de92d698dc79d741950c0ad3ee561bef26fa2b8
+SHA256: b0adf442f37a393e00ecd3075cc3173b141f3e0def7e06c1e8bc483cbb8b2f27
+
 Package: ga.jakeashacks.anemoneinstaller
 Name: Anemone 3.0 for unc0ver and checkra1n
 Version: 1.0.16

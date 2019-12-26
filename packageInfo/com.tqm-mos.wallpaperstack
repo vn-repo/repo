@@ -1,4 +1,4 @@
 {
 	"desc_long": " Tiện ích (iwidgets) hoạt đông qua Xen html.<br><br>* Lưu ý chỉ phù hợp với màn hình (ipX).<br><br>* Ấn vào Loading để xem video .<br><br>* Tải về thử cảm nhận. ",
-	"screenshot": "<div style='text-align:center;'><a href='screenshot/wallstack.png' target='_blank'><img width=90% src='screenshot/wallstack.png'/><a href='screenshot/info.gif' target='_blank'><img width=90% src='screenshot/wallstack.MP4'/></a><br></div>",
+	"screenshot": "<div style='text-align:center;'><a href='screenshot/wallstack.png' target='_blank'><img width=90% src='screenshot/wallstack.png'/><a href='screenshot/wallstack.MP4' target='_blank'><img width=90% src='screenshot/wallstack.MP4'/></a><br></div>",
 }
