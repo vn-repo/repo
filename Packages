@@ -38,6 +38,99 @@ MD5sum: 09c01ec65264b1e50d477a36aecfbcbb
 SHA1: 9bf3cc86b399e8cb7b70d7fa757b467b07a36645
 SHA256: 6790d65d6af682183744cebbef56d8bba2d7c2fe1449f3b2415db3fceaf31fa8
 
+Package: com.tqm-mos.nicebarx
+Name: NiceBarX
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
+Architecture: iphoneos-arm
+Description: statusbar tweak..
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: niceios
+Section: Tweaks
+Version: 2.0.5.4-2
+Installed-Size: 8332
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicebarx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicebarx
+Filename: ./debs/com.tqm-mos.nicebarx_2.0.5.4-2_iphoneos-arm.deb
+Size: 3261472
+MD5sum: 3fef7f1d8d8e5117540cba0cdc9c956d
+SHA1: d47fa14d104ca72a86dae2aae94fd9e916fbf3eb
+SHA256: b58429379644115aaea0be641a3ab551f868b396d972f2fc49fcfd5455b30582
+
+Package: com.tqm-mos.peek
+Name: Peek
+Version: 0.4
+Description: Themes
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 1764
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peek
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peek
+Filename: ./debs/com.tqm-mos.peek_0.4_iphoneos-arm.deb
+Size: 1689026
+MD5sum: 9bf4fd4d0e906c82ab11b78178624446
+SHA1: 29c76318f30111ef08475385297a506521c0ceb6
+SHA256: 4326f5e095a1fee398b075dba8881e8d03efa032e788b8ad069d5cf11ce3e14d
+
+Package: com.tqm-mos.peekdark
+Name: Peek Dark
+Version: 0.4
+Description: Themes
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 1641
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peekdark
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peekdark
+Filename: ./debs/com.tqm-mos.peekdark_0.4_iphoneos-arm.deb
+Size: 1561866
+MD5sum: 66920f8b9e623812b363a8d9f2d4c214
+SHA1: dc34aa42a2ed8191cce5645071a7011fe27446e4
+SHA256: ba9062ef43c4995c06830d62c94dcd5525f34675711e7367fda2c230085ec930
+
+Package: com.tqm-mos.pubg0.16
+Name: Hack PUBG 0.16 Mod Menu
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: ADNAN REFAEI PUBG 0.16 Mod Menu by ADNAN REFAEI
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: ADNAN REFAEI
+Section: Hack Games
+Version: 0.16
+Installed-Size: 348
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.pubg0.16_0.16_iphoneos-arm.deb
+Size: 143668
+MD5sum: a6a1bf4025acde029e45759c10d285f9
+SHA1: 58bd6f7d7e7ca5511978e906675bed01c00bd086
+SHA256: 785fc58919e7dff82837446312af63b421ed96ae0a4fa3e1ebf2ac10083645e4
+
+Package: com.tqm-mos.pubgmobi0.16
+Name: PUBG MOBILE 0.16
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: PUBG MOBILE iGMM Cheats by Crimson for iOSGods.com!
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: Crimson
+Section: Hack Games
+Version: 0.16.0+iOSGods.com
+Installed-Size: 3580
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+Filename: ./debs/com.tqm-mos.pubgmobi0.16_0.16.0+iOSGods.com_iphoneos-arm.deb
+Size: 1040800
+MD5sum: 2fd6a8a3a7a07c24bc2c53f2c0ba7db8
+SHA1: 14112ecf51824c69a9b62bf9d4376827838872e4
+SHA256: b319d265c130bc6c5bafdfe1b0f23a7a6595a6ad86f10f7d21b8e5854482955f
+
 Package: com.tqm-mos.anemoneex
 Name: Anemone 3 Extension Uncover
 Version: 3.0~beta10
