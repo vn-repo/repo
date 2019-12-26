@@ -131,6 +131,338 @@ MD5sum: 2fd6a8a3a7a07c24bc2c53f2c0ba7db8
 SHA1: 14112ecf51824c69a9b62bf9d4376827838872e4
 SHA256: b319d265c130bc6c5bafdfe1b0f23a7a6595a6ad86f10f7d21b8e5854482955f
 
+Package: TQM.GrayWhite
+Name: GrayWhite-Pro
+Author: @tqmmos
+Version: 1.2
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Bộ chủ đề mang phong cách khá thụ vị ,rất nhac nhặn ( Đẹp)
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.GrayWhite
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.GrayWhite
+Filename: ./debs/TQM.GrayWhite_1.2_iphoneos-arm.deb
+Size: 31489912
+MD5sum: 3fc17316e894fe88d7784d5d4030ef13
+SHA1: 3a140d0cbe76d46903c1813c6f42c53045fe11de
+SHA256: 0b78b5b67100cc3e96651ec6aa69de913d5c6e6b34e32b004bc5b5ce5a9a6683
+
+Package: com.tqm-mos.carnival
+Name: Carnival
+Architecture: iphoneos-arm
+Description: Anemone - Anemone 3 - iThemer - Snowboard - Winterboard
+Maintainer: TQM
+Author: @tqmmos
+Section: TQM
+Version: 1.0
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.carnival_1.0_iphoneos-arm.deb
+Size: 5994598
+MD5sum: 367947906aa64277b5ee741136f8c7b6
+SHA1: 76d524d4190957b02fd5b555225101c84e63766c
+SHA256: 0492ea4d8a8c3baa22ee07b9aa5416652f6ff1cc5cb3d878790bbae61071f0ae
+
+Package: com.tqm-mos.minion
+Name: Minion
+Architecture: iphoneos-arm
+Description: Anemone - Anemone 3 - iThemer - Snowboard - Winterboard
+Maintainer: TQM
+Author: @tqmmos
+Section: TQM
+Version: 1.0
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.minion_1.0_iphoneos-arm.deb
+Size: 6104090
+MD5sum: 662f33f8e6ff36e5316b7b2a00b7ada5
+SHA1: d5117a123d6798c1c363a2c2c38a6e9e04f7daf2
+SHA256: a41913f50d041418d0278cf2839420b3a52ff6b945bd42ce568f37fe22352aab
+
+Package: com.tqm-mos.mugsy
+Name: Mugsy
+Architecture: iphoneos-arm
+Description: Anemone - Anemone 3 - iThemer - Snowboard - Winterboard
+Maintainer: TQM
+Author: @tqmmos
+Section: TQM
+Version: 1.0
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.mugsy_1.0_iphoneos-arm.deb
+Size: 9053780
+MD5sum: df1b0e2fd4088c777bc9d8b1a593b923
+SHA1: f0cb0f36a41fed47275bbdd8d6d6e5b8e6d0c837
+SHA256: aac4b6b04364e04d9ad51c857dd4d34581ab0eed145c92bff16cfa410333d0b9
+
+Package: com.tqm-mos.niggaalerts
+Version: 1.0-169
+Section: IOS 10-12 64bit
+Maintainer: QM <anhminh311105@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Name: iOS6Alerts
+Author: Abraham Masri
+Description: Hiển thị khung thông báo cho tweaks giống thời ios 6
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.niggaalerts
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.niggaalerts
+Filename: ./debs/com.tqm-mos.niggaalerts_1.0-169_iphoneos-arm.deb
+Size: 84042
+MD5sum: dc8eb0be6feb4c15b548674dba92d805
+SHA1: 9807f0aaf684cc28e4d30c2bba0ab080754159ed
+SHA256: 074c00a793ffa2e3dc250d868713e7bc84841f772be7809a1ae2f9ca8edfae7f
+
+Package: com.tqm-mos.pigpig
+Name: Pig Pig
+Architecture: iphoneos-arm
+Description: Anemone - Anemone 3 - iThemer - Snowboard - Winterboard
+Maintainer: TQM
+Author: @tqmmos
+Section: TQM
+Version: 1.0
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.pigpig_1.0_iphoneos-arm.deb
+Size: 3304514
+MD5sum: b0ba74ea8bd8eea863afc5a4483b9838
+SHA1: 559bd631c04a49778ba4ae462afadffb85f54be8
+SHA256: 4c7913dbca2fc3e336aee333cbe72a9d9cba3d334e7f285df79fecc80cda4ded
+
+Package: com.tqm-mos.pipo
+Name: Pipo
+Architecture: iphoneos-arm
+Description: Anemone - Anemone 3 - iThemer - Snowboard - Winterboard
+Maintainer: TQM
+Author: @tqmmos
+Section: TQM
+Version: 1.0
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.pipo_1.0_iphoneos-arm.deb
+Size: 5650212
+MD5sum: 1a09d98dd705fbaa431adda68b95111b
+SHA1: 8befa27811792372f92da25aca96be3e471382f3
+SHA256: 92436d52aac7ea8e92f173acc828c5e1801aabb88ffe5ed8c75e71b187161c58
+
+Package: com.tqm-mos.classic12
+Name: Classic 12
+Version: 2.1
+Description: Themes Classic 12
+Author: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 45591
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.classic12_2.1_iphoneos-arm.deb
+Size: 45905962
+MD5sum: ba48e612180d08ed2047c075d9a90498
+SHA1: fef7ae9ccf0cf7237c65d2f9644c2e0652ee7885
+SHA256: 4f5ea57789e268c4579c6ec77909b6ee96198f1dbd9489a796d90e48c8ee81f0
+
+Package: com.tqm-mos.darque
+Name: Darque
+Version: 6.4
+Description: Themes
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 11323
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.darque_6.4_iphoneos-arm.deb
+Size: 10563864
+MD5sum: 390a3d12f4502f7eaab4577f26d214bf
+SHA1: 3990bc10050bc5b473cf608f015453c931f5c75c
+SHA256: 0a7e9715bded3e38f7d3356b8c0881cfc776022a838b20fdd5aa011dee3252cc
+
+Package: com.tqm-mos.darqueforamoled
+Name: Darque For Amoled
+Version: 6.2
+Description: Themes
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 13909
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.darqueforamoled_6.2_iphoneos-arm.deb
+Size: 13336096
+MD5sum: 7f0d5990447f45dc9c261de152f026a8
+SHA1: ac717e6b904222a2b6fc3338278302c5e76ee38d
+SHA256: 6e62e3dde3b37ad2d5be9894ae3289bff1169435354a6c72e525db284b355798
+
+Package: com.tqm-mos.desplanta
+Name: Desplanta
+Version: 1.0
+Description: Themes
+Author: @tqmmos <anhminh311106@gmail.com>
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311106@gmail.com>
+Installed-Size: 26386
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.desplanta_1.0_iphoneos-arm.deb
+Size: 17057632
+MD5sum: f436326417b2b0bcaf7fbb50a84dcda3
+SHA1: 18ab39cef10f3228bb03c2af15dd3abce6e2fc7a
+SHA256: fb41f794ca1174ad9e0675ff35524f30993519a83a001d8ee2b0c91359213ffd
+
+Package: com.tqm-mos.folds
+Name: Folds
+Version: 1.4
+Description: Themes Folds
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 15500
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.folds_1.4_iphoneos-arm.deb
+Size: 13251050
+MD5sum: 019f2662458725a861c1fef4458e6072
+SHA1: 0fe8fa3a43af0d09fab7f2962bf91bac21f4ef90
+SHA256: ec55b481f266a412cc478380fb5a8f146cc8be5f4a72db6469db00d33af1e851
+
+Name: Glasso
+Package: com.tqm-mos.glasso
+Description: Themes
+Version: 1.1
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.glasso_1.1_iphoneos-arm.deb
+Size: 5293688
+MD5sum: 3d525ace298096267a8982a7b485794c
+SHA1: 79890bea209980d420de9e091939e59f34e11d25
+SHA256: 9c6ba37fe6ac0eab86b27b6f688a0ade870ee3d5f2abeeb9c92606e71487749f
+
+Name: Leather
+Package: com.tqm-mos.leather
+Version: 1.2.4
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: Themes
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.leather_1.2.4_iphoneos-arm.deb
+Size: 6300914
+MD5sum: 68b657e131d6fa33d4edc4a4dfa00d37
+SHA1: 443a124c5c15f4ba3b69c6b8df23df4f4404c124
+SHA256: 6d7b6d8934beaa002f324f6e2c09c4832854fbf4ae5df09f101b081fcaaa6d71
+
+Package: com.tqm-mos.mojoxdark
+Name: MojoX Dark
+Version: 2.3
+Description: Themes
+Author: @tqmmos <anhminh311106@gmail.com>
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311106@gmail.com>
+Installed-Size: 38848
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.mojoxdark_2.3_iphoneos-arm.deb
+Size: 35340984
+MD5sum: e9a80127c02443885697adc21a6cf7c2
+SHA1: 67156d1ac1776c63ac5bb26b50f0be2266018080
+SHA256: d22211971d78eee35bef2c9726afa0d78526029c6422d6b76500dfbd0ab4e0d3
+
+Package: com.tqm-mos.moody
+Name: Moody
+Version: 1.1
+Description: Theme Moody
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 22079
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.moody_1.1_iphoneos-arm.deb
+Size: 16615848
+MD5sum: 08689b891c1fdd0b27df0d17cc8eb317
+SHA1: 1c0e9bf6907939c7de7314d6216f965502deb321
+SHA256: e84bae0fa1c037ce54a77d4c8c044e3dc5661457e256e0a19d6d85a75e075afb
+
+Package: com.tqm-mos.reinfree
+Name: Rein
+Version: 1.0
+Description: Themes
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 42063
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.reinfree_1.0_iphoneos-arm.deb
+Size: 18177016
+MD5sum: da186ab6ccf7ce44d059235d272ecc38
+SHA1: aa984510ea06423eb6bf8e83beffd8c79ae54a1d
+SHA256: a1de5bd0cefb571c459e82690b1cec776533558602fda9b0645572e87ac70071
+
+Name: Round Black
+Package: com.tqm-mos.roundblack
+Description: Round Black et un theme sombre et arrondi
+Version: 1.1
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Architecture: iphoneos-arm
+Author:  @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.roundblack_1.1_iphoneos-arm.deb
+Size: 5469782
+MD5sum: 53ca6620bc0bc99eae2df7123dab4734
+SHA1: 0a6a7ae8e21625224ed7c29c576ef3580c285a6c
+SHA256: aa93715940aceb07c7aba840494e363736836d38b6f33d4b943c522de9d869b6
+
+Package: com.tqm-mos.samsungtheme
+Name: Belle UI (Samsung Theme)
+Version: 1.3
+Description: Тема Belle UI (Samsung Theme)
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 21488
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.samsungtheme_1.3_iphoneos-arm.deb
+Size: 13011594
+MD5sum: 1c2fdc72a2bbf084a48772b1647e7ad0
+SHA1: dd9adaba60b5b1abbeb842adb57d1a1a8c94b03a
+SHA256: 941e38ebd90622ee958607236ab718bc43a6bbf156f4390fc9399367251f233b
+
+Name: Tangy
+Package: com.tqm-mos.tangy
+Version: 1.0
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: Themes
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Filename: ./debs/com.tqm-mos.tangy_1.0_iphoneos-arm.deb
+Size: 866414
+MD5sum: d9c667631dac49bdc9904b3058ea0278
+SHA1: 3ddd9594c52b3bd62ac709f91f45870dc7c235aa
+SHA256: cd5305c3bf5e69adaef1907d634844fdac4581847c127c05a3f047e9fb75914b
+
 Package: com.tqm-mos.anemoneex
 Name: Anemone 3 Extension Uncover
 Version: 3.0~beta10
