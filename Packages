@@ -257,7 +257,7 @@ SHA256: aac4b6b04364e04d9ad51c857dd4d34581ab0eed145c92bff16cfa410333d0b9
 
 Package: com.tqm-mos.niggaalerts
 Version: 1.0-169
-Section: IOS 10-12 64bit
+Section: Tweaks
 Maintainer: QM <anhminh311105@gmail.com>
 Depends: mobilesubstrate, firmware (>= 10.0)
 Architecture: iphoneos-arm
@@ -271,6 +271,23 @@ Size: 84042
 MD5sum: dc8eb0be6feb4c15b548674dba92d805
 SHA1: 9807f0aaf684cc28e4d30c2bba0ab080754159ed
 SHA256: 074c00a793ffa2e3dc250d868713e7bc84841f772be7809a1ae2f9ca8edfae7f
+
+Package: com.tqm-mos.sbchimbay
+Name: Iwitdget Chim Bay
+Version: 1.0
+Depends: 
+Architecture: iphoneos-arm
+Description: [Enter generic HS widget description ^_^]
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sbchimbay
+Author: Mos
+Maintainer: QM
+Section: Iwidgets
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbchimbay
+Filename: ./debs/com.tqm-mos.sbchimbay_1.0_iphoneos-arm.deb
+Size: 104952
+MD5sum: e881081b4b6165a178d24b540a6a47a1
+SHA1: 19217d0c77936185512f2a3db8ebe3ed3dc27fb8
+SHA256: f3536a9ab823499968d02adcd158488d615e928ecc0f1a1a7c24318b7f2adbf7
 
 Package: com.tqm-mos.pigpig
 Name: Pig Pig
