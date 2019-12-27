@@ -75,6 +75,46 @@ MD5sum: 9bf4fd4d0e906c82ab11b78178624446
 SHA1: 29c76318f30111ef08475385297a506521c0ceb6
 SHA256: 4326f5e095a1fee398b075dba8881e8d03efa032e788b8ad069d5cf11ce3e14d
 
+Package: com.tqm-mos.wallpaperstack
+Name: Wallpaper Stack for XenHTML
+Version: 0.2
+Architecture: iphoneos-arm
+Description: XenHTML Widget by Tqm-Mos
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.wallpaperstack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.wallpaperstack
+Filename: ./debs/com.tqm-mos.wallpaperstack_0.2_iphoneos-arm.deb
+Size: 11448536
+MD5sum: e120c0e043e77821cbb7a319f02da161
+SHA1: 780fb4e1b22b8b0e274eb3029b6ca0b5cf4ce46b
+SHA256: 34371a85b9b9e5ee0705c7c8b1b7955f7ad699b8a7374b4184368958087bd522
+
+Package: com.matchstic.xenhtml
+Name: Xen HTML
+Version: 1.1-4
+Description: Unified HTML rendering; lockscreen and homescreen
+Section: Tweaks
+Depends: firmware (>= 9.0), com.tqm-mos.xeninfo, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: MattClarke
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xenhtml
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xenhtml
+Filename: ./debs/com.matchstic.xenhtml_1.1-4_iphoneos-arm.deb
+Size: 2898544
+MD5sum: ce691ebbb2a9bcdf9d0acb2820d34a34
+SHA1: 18c2216b8f74327cd195d4d39bdf90cea6bb68aa
+SHA256: 40701d9a13315fdb047e950b580c04dcf3e39fcba2ff5959ddce55e2d4d6dae3
+
 Package: com.tqm-mos.peekdark
 Name: Peek Dark
 Version: 0.4
