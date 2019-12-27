@@ -115,6 +115,24 @@ MD5sum: ce691ebbb2a9bcdf9d0acb2820d34a34
 SHA1: 18c2216b8f74327cd195d4d39bdf90cea6bb68aa
 SHA256: 40701d9a13315fdb047e950b580c04dcf3e39fcba2ff5959ddce55e2d4d6dae3
 
+Package: com.tqm-mos.coolnewyear
+Name: Cool New Year
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by Tqm-Mos
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.coolnewyear
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.coolnewyear
+Filename: ./debs/com.tqm-mos.coolnewyear_0.1_iphoneos-arm.deb
+Size: 1133466
+MD5sum: 5b983bdd74c768d80053f85f6d2b71f7
+SHA1: d0d49e1b065fffa6b73f2cbda5913032dc820218
+SHA256: 5a0c816efe8936e19420178d8e9280a4c1f6eca2021bbb6a5d086d1286eff142
+
 Package: com.tqm-mos.peekdark
 Name: Peek Dark
 Version: 0.4
