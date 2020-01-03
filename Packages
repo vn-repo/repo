@@ -38,6 +38,356 @@ MD5sum: 09c01ec65264b1e50d477a36aecfbcbb
 SHA1: 9bf3cc86b399e8cb7b70d7fa757b467b07a36645
 SHA256: 6790d65d6af682183744cebbef56d8bba2d7c2fe1449f3b2415db3fceaf31fa8
 
+Package: com.tqm-mos.a-font
+Name: A-Font
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Architecture: iphoneos-arm
+Description: Change your font!
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Version: 1.7
+Installed-Size: 2332
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.a-font
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.a-font
+Filename: ./debs/com.tqm-mos.a-font_1.7_iphoneos-arm.deb
+Size: 825650
+MD5sum: 11992e05c43aa5014d1b0de56a43ff02
+SHA1: 0e78792edb11bd5021b7eaaae45d7e0f735c52ef
+SHA256: 5e660d14bcb80a525a05ad52b5898c18cabbad3cfa2b10aa1d3cab2688d1957c
+
+Package: com.tqm-mos.cydown12
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Version: 7.0.3a
+Depends: coreutils-bin, coreutils, apt7, mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Cydia Download Manager & Extra Features!
+Homepage: http://twitter.com/tqmmos
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cydown12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cydown12
+Filename: ./debs/com.tqm-mos.cydown12_7.0.3a_iphoneos-arm.deb
+Size: 3595234
+MD5sum: a818d1ade9b1c9f020d48bdd4d6b93c3
+SHA1: 998e53006b7427d600f5aff87988fc5afb537792
+SHA256: 4bbc715adf6cd5bd03683224e0ce61ab291891d2394942fffb0849ca642d7fdc
+
+Package: com.tqm-mos.iconoclasm
+Description: Sắp xếp các biểu tượng thiết bị của bạn theo ý muốn, từ hàng và cột đến phiên bản
+Version: 1.11-1
+Section: Tweaks
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Pre-Depends: mobilesubstrate, gsc.armv7
+Depends: preferenceloader, com.chpwn.iconsupport
+Conflicts: net.r-ch.fcsb, com.macciti.fiveirows, com.touchmania.fiveirows, com.touchmania.fiveirowsnorm
+Architecture: iphoneos-arm
+Name: Iconoclasm
+Author: Yanik Magnan <rwmeo2004@hotmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.iconoclasm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.iconoclasm
+Filename: ./debs/com.tqm-mos.iconoclasm_1.11-1_iphoneos-arm.deb
+Size: 66174
+MD5sum: 529bf965a29f4f57016b973c70e6b4ac
+SHA1: 0ea14b62114df876d0c74e18ab874d3b3c4c83ba
+SHA256: 4dd17f10652e097e0d8d5d4d8fbcfee9b64b6556676d83c95ee093eb7cec7f97
+
+Package: com.tqm-mos.peek
+Name: Peek
+Version: 0.5
+Description: Themes
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 1764
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peek
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peek
+Filename: ./debs/com.tqm-mos.peek_0.5_iphoneos-arm.deb
+Size: 1832170
+MD5sum: 0eb5ed477287655bef8a87cf3ce74fba
+SHA1: ff03f0a11b51e6abc1a355510c795ff854903f4e
+SHA256: 55d7a0503b71e2179d2910f9c5e30a2b6302374065f63dd30acf9dd7a4099462
+
+Package: com.tqm-mos.peekdark
+Name: Peek Dark
+Version: 0.5
+Description: Themes
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 1784
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peekdark
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peekdark
+Filename: ./debs/com.tqm-mos.peekdark_0.5_iphoneos-arm.deb
+Size: 1701196
+MD5sum: 17d39237692c589c56e769b33a91bd42
+SHA1: ca8559530a97155561323c218e8052d87346002d
+SHA256: 786d205ed98ab39755d31a312004e0c08d318c495871bec046d0c7bbf76c5d11
+
+Package: com.tqm-mos.bluesky
+Version: 1.0
+Description: THEMES
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Architecture: iphoneos-arm
+Name: Blue Sky
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bluesky
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bluesky
+Filename: ./debs/com.tqm-mos.bluesky_1.0_iphoneos-arm.deb
+Size: 17339262
+MD5sum: e1a4c55be768f7abfe4cb3b5553f219a
+SHA1: 091ace47629521828c1ff552e52be4b88606b653
+SHA256: 30e9273b3fa68b1c39515974d9622f449f0a7ed1ec0703b53d14de6681a0ef68
+
+Package: com.tqm-mos.Hnybytqm
+Name: Happy New Year by TQM
+Version: 0.1
+Description: Themes
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 1910
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Hnybytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Hnybytqm
+Filename: ./debs/com.tqm-mos.Hnybytqm_0.1_iphoneos-arm.deb
+Size: 12337966
+MD5sum: 3d0e21f440d6ebb6c21194e5d78081dd
+SHA1: 2232040cf31d21646fbc9ff0d9e7e247ede3bd80
+SHA256: 7bb68ac8964715fbb9b566e559fa2101a1f39a5c2e314630b7c3c4995cbf0095
+
+Name: Cercube 5 CRACKED
+Package: com.tqm-mos.cercubecrack
+Description: Cercube 5 CRACKED va modifier votre app YouTube en rajoutant des options utiles ( téléchargement de vidéo mp3 ads anti pub ect ect
+Version: 5.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depends: firmware (>= 10.0)
+Conflicts: com.pulandres.cercube5pp, me.alfhaily.cercube
+Architecture: iphoneos-arm
+Author: Pulandres
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cercubecrack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cercubecrack
+Filename: ./debs/com.tqm-mos.cercubecrack_5.0.0_iphoneos-arm.deb
+Size: 14052016
+MD5sum: 04a7d06553576b4a94ca74e339c3b56c
+SHA1: 88f184e1ae95d58ae6759255ae7cc0cad879239d
+SHA256: 8ba5d4584542d879b39378c1b41e00c2f83be457f855328e5c90789f250ab245
+
+Package: com.tqm-mos.callionebytqm
+Name: Cal lione by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.callionebytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.callionebytqm
+Filename: ./debs/com.tqm-mos.callionebytqm_0.1_iphoneos-arm.deb
+Size: 1534606
+MD5sum: c202b4a885a7b81ab5233c63cc42f2d6
+SHA1: 00023f97a451f201fe9472b5d65aa3cfd793cb7d
+SHA256: e2eb3dd45476f728fe4d2c10d20833c1f3719d95d0d696777312fd064c28e1c6
+
+Package: com.tqm-mos.circlestackbytqm
+Name: Circle Stack by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.circlestackbytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.circlestackbytqm
+Filename: ./debs/com.tqm-mos.circlestackbytqm_0.1_iphoneos-arm.deb
+Size: 1081860
+MD5sum: 44d33ccced6aecc0e9888cd9260752f5
+SHA1: 2c8cfd420343220dddde2c96f18dd7fd5e7c160a
+SHA256: 6eb7b4f6e3044e99cb1c01ffbcb0cf98681e818b5af6082ab6397adabf98d658
+
+Package: com.tqm-mos.mundaybytqm
+Name: Mun day by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mundaybytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mundaybytqm
+Filename: ./debs/com.tqm-mos.mundaybytqm_0.1_iphoneos-arm.deb
+Size: 893270
+MD5sum: 8855e770113f69e6a4f4649b8c87d4b6
+SHA1: 0820d06313ea5ba8e82233d5ea23ff57dfcb485c
+SHA256: 4fbdd431c6aa9b8aa7f9790c15771be59fdf0c999bf675ed3ae646688e0a7adf
+
+Package: com.tqm-mos.newyearlayerbytqm
+Name: New Year Layer by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.newyearlayerbytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.newyearlayerbytqm
+Filename: ./debs/com.tqm-mos.newyearlayerbytqm_0.1_iphoneos-arm.deb
+Size: 2483480
+MD5sum: d0a983223a605f61e6214f219f9a58a7
+SHA1: 4ad74f6b7a6e141d6b4f18326715c23fbbb1fd2f
+SHA256: 210f57cda0d8e5cab6da15cf85505992081c86ebd0467e3911b44839be4c8ff8
+
+Package: com.tqm-mos.sbbiplayerbytqm
+Name: SB Bip Layer by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbbiplayerbytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbbiplayerbytqm
+Filename: ./debs/com.tqm-mos.sbbiplayerbytqm_0.1_iphoneos-arm.deb
+Size: 18623400
+MD5sum: 2c69196cd955b85b7a41fc2af80829aa
+SHA1: 39bee36cf85c09c7bc4c262d17ad67f44fd5ee8e
+SHA256: 4cb4c73f3cb2fb55905d90b2e9d3b2cbdbd6b6408af8a990fc961775c86a85c6
+
+Package: com.tqm-mos.sblovedimbytqm
+Name: SB Love dim by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sblovedimbytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sblovedimbytqm
+Filename: ./debs/com.tqm-mos.sblovedimbytqm_0.1_iphoneos-arm.deb
+Size: 9657280
+MD5sum: 209096141217c5e9deefffdba94b96a2
+SHA1: 42207e3748fa81a2e1ba815573cfb21129afee48
+SHA256: 04ca8f8d0b951724d3d9888222c25fe6047cd0b268ad06f7ab5fece937f8f718
+
+Package: me.nepeta.axon
+Name: Axon
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Architecture: iphoneos-arm
+Description: Priority Hub for iOS 11 and 12
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: Nepeta & Baw Appie
+Section: Tweaks
+Version: 0.3.0
+Installed-Size: 572
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.axon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.axon
+Filename: ./debs/me.nepeta.axon_0.3.0_iphoneos-arm.deb
+Size: 182358
+MD5sum: 61bcfc951097c2f709d7e1f6230b5a37
+SHA1: d55285c926ef7e6d67a170ca3f89c24272fa3fa7
+SHA256: 9656df79e99a7080aaf346e5d7377e269f6514ac713ebc27a22ca5b1a4a85418
+
+Package: me.nepeta.axon
+Name: Axon
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Architecture: iphoneos-arm
+Description: Priority Hub for iOS 11 and 12
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: Nepeta & Baw Appie
+Section: Tweaks
+Version: 0.3.1
+Installed-Size: 572
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.axon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.axon
+Filename: ./debs/me.nepeta.axon_0.3.1_iphoneos-arm.deb
+Size: 182362
+MD5sum: 27feeb58831f4b4f09bfb0b5278ec391
+SHA1: 9ebdd49c64889a1b33a8aa5893ad4c85a3f74a4b
+SHA256: 7af56e9f5336bf88ecd85a2e00b146bedd728d64a92c54d4a7ca854fbf0ef190
+
+Package: com.tqm-mos.aurora
+Name: Aurora
+Version: 0.1
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Make sure you're infinite
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aurora
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aurora
+Filename: ./debs/com.tqm-mos.aurora_0.1_iphoneos-arm.deb
+Size: 6266968
+MD5sum: 9863815553c79000c49de95a06217801
+SHA1: 45fec7f752cf391a5a306d07a076341754cb92a1
+SHA256: bc670652cc2c46e29cc461ca7f407c30526bce3b9f25a725168dca232c129c95
+
+Package: com.tqm-mos.class1x
+Name: Class1x
+Version: 0.2
+Architecture: iphoneos-arm
+Description: A better iOS6 experience for newer devices. Enjoy
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.class1x
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.class1x
+Filename: ./debs/com.tqm-mos.class1x_0.2_iphoneos-arm.deb
+Size: 9277912
+MD5sum: be298a24b2b3d35b540dfb5b490a7e06
+SHA1: e56c138840fab69539dd9e0002f9837f29d282bc
+SHA256: ce9a6acd717fe9ef0e55fac7a0d3293bb5e3fee4e3bf63a611d9563d53247137
+
+Package: com.tqm-mos.goldly
+Name: GoldLy
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: GoldLy Themes. For IOS9 -IOS13.x 
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.goldly
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.goldly
+Filename: ./debs/com.tqm-mos.goldly_1.0_iphoneos-arm.deb
+Size: 32358156
+MD5sum: bf21fa3f21c7aa7d8da7235afa627dd1
+SHA1: b3c71941717f7f15302117da85e541a8f9ba483f
+SHA256: 635e8b86c66845643932d270a8945a1f3cd4a330201236fcd03162ef7d8bd83f
+
+Package: com.tqm-mos.squareleebytqm
+Name: Square lee by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Conflicts:
+Description: XenHTML Widget by @tqmmos (Minh Hí)
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.squareleebytq
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.squareleebytq
+Filename: ./debs/com.tqm-mos.squareleebytqm_0.1_iphoneos-arm.deb
+Size: 440020
+MD5sum: db2fbbac586f85cad63264ed8e883816
+SHA1: e342b35ac7f2b4727c4bb28fd719f12022700ae4
+SHA256: 9ed73a69a000459a4fad47f0e857077a4a54471f6c07c9063fa0078031f804ee
+
 Package: com.tqm-mos.nicebarx
 Name: NiceBarX
 Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
