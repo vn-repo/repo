@@ -446,6 +446,41 @@ MD5sum: 400bae22e6e01168af46189ecfa89205
 SHA1: 1033c6f07fddde2a12c6417c74faf504a801ff69
 SHA256: 3089dbccd8510a61b5051f16cf7e012b14d9d6ed410fa36ba3bcfd6ca1265614
 
+Package: com.tqm-mos.pubgmodmenu
+Version: 2.0
+Section: Hack Games
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depends: mobilesubstrate, com.tqm-mos.superanti-banpubg
+Architecture: iphoneos-arm
+Installed-Size: 380
+Name: PUBG MOBILE 0.16.0 Mod Menu
+Author: zuwL
+Description: Hack PUBG Mobile 
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.hackpubg
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.hackpubg
+Filename: ./debs/com.tqm-mos.pubgmodmenu_2.0_iphoneos-arm.deb
+Size: 154122
+MD5sum: 68ef5fccfa25f101f168872a7e123d1f
+SHA1: 06ce1a2518c0f3b12742e368ac2c9440acb10f03
+SHA256: bd3227d19a9f411548465a7514f4d4ba88701a707bd172257574677c191ebbc9
+
+Package: com.tqm-mos.superanti-banpubg
+Version: 1.0
+Section: Hack Games
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: Super Anti-Ban PUBG
+Author: Gera <jabo00@mail.ru>
+Description: Hack PUBG Mobile 
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.hackpubg
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.hackpubg
+Filename: ./debs/com.tqm-mos.superanti-banpubg_1.0_iphoneos-arm.deb
+Size: 5888
+MD5sum: bcf23fa9cac87b5887fa91ebdba6cd08
+SHA1: 1807b0e6265715cdf23152623964edb3ef6d6898
+SHA256: 85bf2b8d282bb528620e57a35b8f8cd6adab23586bc6639334dd4bbe64cdbe86
+
 Package: com.yourepo.tqm.callbarxsios12tqm
 Name: CallBar XS (iOS 11/12/13)
 Author: Elias Limneos <limneoselias@gmail.com>
