@@ -192,10 +192,10 @@ tag: cydia::paid
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.callionebytqm
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.callionebytqm
 Filename: ./debs/com.tqm-mos.callionebytqm_0.1_iphoneos-arm.deb
-Size: 1534606
-MD5sum: c202b4a885a7b81ab5233c63cc42f2d6
-SHA1: 00023f97a451f201fe9472b5d65aa3cfd793cb7d
-SHA256: e2eb3dd45476f728fe4d2c10d20833c1f3719d95d0d696777312fd064c28e1c6
+Size: 1530594
+MD5sum: cbe098b72a62d70930140be1eaab81fc
+SHA1: 8404c86331e7eb654b38bbddd261837866a0da1d
+SHA256: 22a592e02b402b37333aa04c8f5142c4fd56d9b697815dff7f9771a60bd8f522
 
 Package: com.tqm-mos.circlestackbytqm
 Name: Circle Stack by TQM
@@ -380,13 +380,69 @@ Maintainer: @tqmmos <anhminh311105@gmail.com>
 Author: @tqmmos <anhminh311105@gmail.com>
 Section: Iwidgets
 tag: cydia::paid
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.squareleebytq
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.squareleebytq
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.squareleebytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.squareleebytqm
 Filename: ./debs/com.tqm-mos.squareleebytqm_0.1_iphoneos-arm.deb
 Size: 440020
 MD5sum: db2fbbac586f85cad63264ed8e883816
 SHA1: e342b35ac7f2b4727c4bb28fd719f12022700ae4
 SHA256: 9ed73a69a000459a4fad47f0e857077a4a54471f6c07c9063fa0078031f804ee
+
+Package: com.matchstic.xenhtml
+Name: Xen HTML
+Version: 1.1-5
+Description: Unified HTML rendering; lockscreen and homescreen
+Section: Tweaks
+Depends: firmware (>= 9.0), com.tqm-mos.xeninfo, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: MattClarke
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xenhtml
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xenhtml
+Filename: ./debs/com.matchstic.xenhtml_1.1-5_iphoneos-arm.deb
+Size: 2899800
+MD5sum: 3c40fc7c6d5f68451c7106bbef93be31
+SHA1: 1c72b7beaac33d05d6c889233b020dbe348f2edb
+SHA256: 0687f3e4ffc7f46271849f08ffbd0c6cc1078325617716cac696d4b665d8a0be
+
+Package: com.tqm-mos.calbytqm
+Name: Cal by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.calbytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.calbytqm
+Filename: ./debs/com.tqm-mos.calbytqm_0.1_iphoneos-arm.deb
+Size: 1233714
+MD5sum: f81d29f0160d07e5569d0c1456eeaee2
+SHA1: c92d6fe53368d850ee893fffc602efb1b453b16c
+SHA256: dbe4d234c5a419555f33d446632332d8834d4bd41f22763976bb7bc7dbd4ae5c
+
+Package: com.tqm-mos.tonemanager
+Version: 0.6.2-368
+Section: Utilities
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depends: applist, com.modmyi.libswift4 (>= 4.1.2-3), com.rpetrich.rocketbootstrap (>= 1.0.3)
+Architecture: iphoneos-arm
+Name: ToneManager
+Author: Jesper Flodin <jesper@flodin.fi>
+Tag: purpose::extension
+Description: Cho phép bạn  Quản lý nhạc chuông và nhiều thứ khác !
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.tonemanager
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.tonemanager
+Filename: ./debs/com.tqm-mos.tonemanager_0.6.2-368_iphoneos-arm.deb
+Size: 3824230
+MD5sum: 50dbb575180bf91409a7907a123a5e0e
+SHA1: d80f8dd34fb325a0d310eb54ddb02e9df5362437
+SHA256: e496857e801439a1b1ec43ce3930f6d21db96d669f3cc97c127a198ecc04373d
 
 Package: com.tqm-mos.nicebarx
 Name: NiceBarX
