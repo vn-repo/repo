@@ -409,6 +409,64 @@ MD5sum: 3c40fc7c6d5f68451c7106bbef93be31
 SHA1: 1c72b7beaac33d05d6c889233b020dbe348f2edb
 SHA256: 0687f3e4ffc7f46271849f08ffbd0c6cc1078325617716cac696d4b665d8a0be
 
+Author: Reed Weichler <rweichler+cydia@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Name: Cylinder
+Package: com.tqm-mos.cylinder
+Section: Tweaks
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Make your icons dance
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+dev: rweichler
+Installed-Size: 1419
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cylinder
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cylinder
+Filename: ./debs/com.tqm-mos.cylinder_1.1_iphoneos-arm.deb
+Size: 504204
+MD5sum: 4b8283abdb3125ef34882cb8ca528706
+SHA1: 04da8442a95ffa54adca6a74bcd6dba348016905
+SHA256: ee8522afa76708aabd26d0688fed0cb9f569bf5f990a35c3c4f7853e5be92de7
+
+Package: com.tqm-mos.sedfix
+Name: CracksCompatibility
+Author: Pulandres
+Description: Package to get working Cracked Tweaks, IMPORTANT to future cracks, install please.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 7.0
+Section: System
+Architecture: iphoneos-arm
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sedfix
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sedfix
+Filename: ./debs/com.tqm-mos.sedfix_7.0_iphoneos-arm.deb
+Size: 143826
+MD5sum: 400bae22e6e01168af46189ecfa89205
+SHA1: 1033c6f07fddde2a12c6417c74faf504a801ff69
+SHA256: 3089dbccd8510a61b5051f16cf7e012b14d9d6ed410fa36ba3bcfd6ca1265614
+
+Package: com.yourepo.tqm.callbarxsios12tqm
+Name: CallBar XS (iOS 11/12/13)
+Author: Elias Limneos <limneoselias@gmail.com>
+Description: Change the style of your UI Calls
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 2.3-75
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware ( >= 12), com.tqm-mos.sedfix, wget
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.limneosos, ru.rejail.limneosos, com.yourepo.tqm.mos, sedfix
+Replaces: net.limneos.callbarxs
+Architecture: iphoneos-arm
+Installed-Size: 1356
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.yourepo.tqm.callbarxsios12tqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.yourepo.tqm.callbarxsios12tqm
+Filename: ./debs/com.yourepo.tqm.callbarxsios12tqm_2.3-75_iphoneos-arm.deb
+Size: 425958
+MD5sum: 9b07bd60441e760cc74709a5bdb7577b
+SHA1: 53227c50d0d3268533bcbfb6dc74f88380cce2f4
+SHA256: 5a8911f3496491c9b56c2cdf9bc253d0e273cb8c16224bbf3cdfb1270428b483
+
 Package: com.tqm-mos.calbytqm
 Name: Cal by TQM
 Version: 0.1
