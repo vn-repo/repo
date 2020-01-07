@@ -192,10 +192,10 @@ tag: cydia::paid
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mooncalbytqm
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mooncalbytqm
 Filename: ./debs/com.tqm-mos.mooncalbytqm_0.1_iphoneos-arm.deb
-Size: 18990970
-MD5sum: 79969bdec342086871fb945d4aabe68c
-SHA1: 92f4f5baacfd3734b88ade4d7a0ffd2c9844fe22
-SHA256: 785890b00da6a113e479f9d666f2817d3bd91a3d75bde39916d84fc3d2fcc50f
+Size: 18990844
+MD5sum: 8e37685ecf64e45765b62ef0fb8c3f39
+SHA1: 62d613111930c23fe90a025fa93dfb8af2c4d0f2
+SHA256: 924dd16b3c72e5532ec115f8d63f4a0d1ae0d03a44996dc0550c249935ddd121
 
 Package: com.tqm-mos.callionebytqm
 Name: Cal lione by TQM
@@ -213,6 +213,23 @@ Size: 1530594
 MD5sum: cbe098b72a62d70930140be1eaab81fc
 SHA1: 8404c86331e7eb654b38bbddd261837866a0da1d
 SHA256: 22a592e02b402b37333aa04c8f5142c4fd56d9b697815dff7f9771a60bd8f522
+
+Package: com.tqm-mos.callionebytqm
+Name: Cal lione by TQM
+Version: 0.2
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.callionebytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.callionebytqm
+Filename: ./debs/com.tqm-mos.callionebytqm_0.2_iphoneos-arm.deb
+Size: 1990950
+MD5sum: 8b780ab2238fa176cf0c0f505ce30676
+SHA1: f259f71632e06835f72787edbfa8091ae492dc48
+SHA256: 4ea9faaf663c5a5ca75c3745903835d3850bb32b1a667021d70a0df536ab07f6
 
 Package: com.tqm-mos.circlestackbytqm
 Name: Circle Stack by TQM
