@@ -180,6 +180,23 @@ MD5sum: 04a7d06553576b4a94ca74e339c3b56c
 SHA1: 88f184e1ae95d58ae6759255ae7cc0cad879239d
 SHA256: 8ba5d4584542d879b39378c1b41e00c2f83be457f855328e5c90789f250ab245
 
+Package: com.tqm-mos.mooncalbytqm
+Name: Moon Cal by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mooncalbytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mooncalbytqm
+Filename: ./debs/com.tqm-mos.mooncalbytqm_0.1_iphoneos-arm.deb
+Size: 18990970
+MD5sum: 79969bdec342086871fb945d4aabe68c
+SHA1: 92f4f5baacfd3734b88ade4d7a0ffd2c9844fe22
+SHA256: 785890b00da6a113e479f9d666f2817d3bd91a3d75bde39916d84fc3d2fcc50f
+
 Package: com.tqm-mos.callionebytqm
 Name: Cal lione by TQM
 Version: 0.1
@@ -456,8 +473,8 @@ Installed-Size: 380
 Name: PUBG MOBILE 0.16.0 Mod Menu
 Author: zuwL
 Description: Hack PUBG Mobile 
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.hackpubg
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.hackpubg
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
 Filename: ./debs/com.tqm-mos.pubgmodmenu_2.0_iphoneos-arm.deb
 Size: 154122
 MD5sum: 68ef5fccfa25f101f168872a7e123d1f
@@ -473,8 +490,8 @@ Architecture: iphoneos-arm
 Name: Super Anti-Ban PUBG
 Author: Gera <jabo00@mail.ru>
 Description: Hack PUBG Mobile 
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.hackpubg
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.hackpubg
+Depiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.pubg.hack
 Filename: ./debs/com.tqm-mos.superanti-banpubg_1.0_iphoneos-arm.deb
 Size: 5888
 MD5sum: bcf23fa9cac87b5887fa91ebdba6cd08
