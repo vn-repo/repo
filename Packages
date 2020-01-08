@@ -226,10 +226,10 @@ tag: cydia::paid
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.callionebytqm
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.callionebytqm
 Filename: ./debs/com.tqm-mos.callionebytqm_0.2_iphoneos-arm.deb
-Size: 1990950
-MD5sum: 8b780ab2238fa176cf0c0f505ce30676
-SHA1: f259f71632e06835f72787edbfa8091ae492dc48
-SHA256: 4ea9faaf663c5a5ca75c3745903835d3850bb32b1a667021d70a0df536ab07f6
+Size: 2461136
+MD5sum: 2399ba919d40b7f23d7b71ea75e1b726
+SHA1: 17f7ded93cf4f77954fa2a997a69aad4c51b41b9
+SHA256: 1d45edcef79a2547f9ec93a44a091aee0abc10e57fe29032aa94c06b73a57a0a
 
 Package: com.tqm-mos.circlestackbytqm
 Name: Circle Stack by TQM
