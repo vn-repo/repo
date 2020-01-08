@@ -111,6 +111,57 @@ MD5sum: 0eb5ed477287655bef8a87cf3ce74fba
 SHA1: ff03f0a11b51e6abc1a355510c795ff854903f4e
 SHA256: 55d7a0503b71e2179d2910f9c5e30a2b6302374065f63dd30acf9dd7a4099462
 
+Package: com.tqm-mos.mundaybytqm
+Name: Mun day by TQM
+Version: 0.2
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mundaybytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mundaybytqm
+Filename: ./debs/com.tqm-mos.mundaybytqm_0.2_iphoneos-arm.deb
+Size: 2122452
+MD5sum: 8706792d4a10eb1cfef762883d16c3b8
+SHA1: be971998a78c0f795ce52f451ad8237b9badd751
+SHA256: e48cb3e7a746952c4b4fdc939d127e139b57cc231ad782fcdd881911588dab1a
+
+Package: com.tqm-mos.lssexylayerbytqm
+Name: LS Sexy Layer by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget By @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.lssexylayerbytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.lssexylayerbytqm
+Filename: ./debs/com.tqm-mos.lssexylayerbytqm_0.1_iphoneos-arm.deb
+Size: 19382230
+MD5sum: bcbc1c755ad0eb527c26e7874e0c701d
+SHA1: 352c82a8b8d71701bad27ae67c2bcfaa32464667
+SHA256: cbd8fff833d28127f52cc92f5ea7db4fe61ca338a038ecf92c6ac1394a66a0f8
+
+Package: com.tqm-mos.lslongdaybytqm
+Name: LS long day by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget By @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.lslongdaybytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.lslongdaybytqm
+Filename: ./debs/com.tqm-mos.lslongdaybytqm_0.1_iphoneos-arm.deb
+Size: 13132482
+MD5sum: b0221f73f879c6b6b7790bea70ea65e1
+SHA1: 326a0888a2a3189ae41a4c7ebd3807f64761b2b2
+SHA256: 9720205ce63c422d487dcd95ae9dd859c97937e6f82a24ee2569a644baa7d609
+
 Package: com.tqm-mos.peekdark
 Name: Peek Dark
 Version: 0.5
