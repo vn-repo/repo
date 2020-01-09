@@ -277,10 +277,27 @@ tag: cydia::paid
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.callionebytqm
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.callionebytqm
 Filename: ./debs/com.tqm-mos.callionebytqm_0.2_iphoneos-arm.deb
-Size: 2461136
-MD5sum: 2399ba919d40b7f23d7b71ea75e1b726
-SHA1: 17f7ded93cf4f77954fa2a997a69aad4c51b41b9
-SHA256: 1d45edcef79a2547f9ec93a44a091aee0abc10e57fe29032aa94c06b73a57a0a
+Size: 2460614
+MD5sum: 3514bfd4356d4d4187cd8b32b63614d8
+SHA1: cd030487b2913f88855f92d5ea1f785107b4dc9e
+SHA256: 25c51539b52efd0101aeda6186faad589b12fe63d3b88e599666385cc6cd74c3
+
+Package: com.tqm-mos.gittimebytqm
+Name: Git Time by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gittimebytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gittimebytqm
+Filename: ./debs/com.tqm-mos.gittimebytqm_0.1_iphoneos-arm.deb
+Size: 147964
+MD5sum: 0faf339fd8e3dbf6a511fc320530bb65
+SHA1: 5e282af8cf789802daaa922fe13aa52c04ccdd30
+SHA256: d8e47f80b562a6824a539f0b642d6a6614f3fcd94ed92d3617cb816758ac8629
 
 Package: com.tqm-mos.circlestackbytqm
 Name: Circle Stack by TQM
