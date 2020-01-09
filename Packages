@@ -38,6 +38,258 @@ MD5sum: 09c01ec65264b1e50d477a36aecfbcbb
 SHA1: 9bf3cc86b399e8cb7b70d7fa757b467b07a36645
 SHA256: 6790d65d6af682183744cebbef56d8bba2d7c2fe1449f3b2415db3fceaf31fa8
 
+Package: com.tqm-mos.aurora
+Name: Aurora
+Version: 0.1.3
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Make sure you're infinite
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aurora
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aurora
+Filename: ./debs/com.tqm-mos.aurora_0.1.3_iphoneos-arm.deb
+Size: 7144742
+MD5sum: 2decb181f70f8bd39e213f69718cff2c
+SHA1: 6c559cb8993e05e7f1e6ee7070a6c1cb999a380e
+SHA256: 8276e31f6bad7f7b911df8bae5ff3348c6ecdc266b68a504b4b4f94ddcb90e74
+
+Package: com.tqm-mos.blackorsglyph
+Name: Blackors glyph
+Version: 2.6
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>>
+Description: Black icons with colors
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blackorsglyph
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blackorsglyph
+Filename: ./debs/com.tqm-mos.blackorsglyph_2.6_iphoneos-arm.deb
+Size: 11272102
+MD5sum: b22da5ce31a1002fbca88789552c3060
+SHA1: 480461ddc8b905aa685c71a83d99eec8f624a3fe
+SHA256: 7802467a19466d49688629a25072f8b617deecd1224c275cc61700fb52d127dd
+
+Package: com.tqm-mos.dimonds
+Name: Dimonds
+Version: 1.0.2
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @ @tqmmos <anhminh311105@gmail.com>
+Description: icons with lovely colors
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dimonds
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dimonds
+Filename: ./debs/com.tqm-mos.dimonds_1.0.2_iphoneos-arm.deb
+Size: 7238180
+MD5sum: cc3175168287a6614e156711dfddd45d
+SHA1: e81f18ebca7306f18700b97d482ab032820abc40
+SHA256: 19281573a32b49284bd50e003a27b0bd58e396844804e5ea43f97a0ffc71865d
+
+Package: com.tqm-mos.gittimebytqm
+Name: Git Time by TQM
+Version: 0.2
+Architecture: iphoneos-arm
+Description: Widgets for XenHTML By @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gittimebytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gittimebytqm
+Filename: ./debs/com.tqm-mos.gittimebytqm_0.2_iphoneos-arm.deb
+Size: 674934
+MD5sum: 2fd336dac0a15c8664ae79a234c61132
+SHA1: 016b3ac3d9e9ed637dc2b03cd7892212c5aff1e9
+SHA256: 179b154776d254546f979c8269456bc77e022738282c7efa0b2d9cf977c6947c
+
+Package: com.tqm-mos.glyphswhite
+Name: Glyphs White
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Anemone and Snowboard theme
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.glyphswhite
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.glyphswhite
+Filename: ./debs/com.tqm-mos.glyphswhite_1.2_iphoneos-arm.deb
+Size: 505876
+MD5sum: 92228ca22919fee44ca1d9e12d3daf33
+SHA1: 8ee9c2160e71979bce4d3b9bc3d007686d0683df
+SHA256: b531b87071607d9b09be91f44a055df0b380d452cec21294e5846455aad65afc
+
+Package: com.tqm-mos.cuboid
+Name: Cuboid
+Depends: mobilesubstrate
+Conflicts: me.kritanta.homeplus
+Architecture: iphoneos-arm
+Description: Lightweight home screen layout manager.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: chilaxan & Nepeta
+Section: Tweaks
+Version: 3.0.0
+Installed-Size: 724
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cuboid
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cuboid
+Filename: ./debs/com.tqm-mos.cuboid_3.0.0_iphoneos-arm.deb
+Size: 186924
+MD5sum: 33ab77f1f832d65ca6e9c5cff61283c5
+SHA1: 7b5d21abd7049a1b217c36e841fc01ae72816d2c
+SHA256: cc736399032b07bd394342abc4a43e21059d92894e38b8e6476b11862e9b78cf
+
+Package: com.tqm-mos.cydown12
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Version: 7.0.4
+Depends: coreutils-bin, coreutils, apt7, mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Cydia Download Manager & Extra Features!
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cydown12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cydown12
+Filename: ./debs/com.tqm-mos.cydown12_7.0.4_iphoneos-arm.deb
+Size: 3698894
+MD5sum: ed7f45bad0e258c900aafeeab03e803b
+SHA1: 34a6dd12fd4f222ecaa3ee39fcf9e2df74a53456
+SHA256: 1c22977d5027568e15db2d64f4a2c04d892c040e17e69d2e41b52f67ca93cc00
+
+Package: com.tqm-mos.mi5themes
+Name: Mi5 Theme
+Version: 1.9
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @ tqmmos <anhminh311105@gmail.com>
+Description: Classic icons with dark colors
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mi5themes
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mi5themes
+Filename: ./debs/com.tqm-mos.mi5themes_1.9_iphoneos-arm.deb
+Size: 4754258
+MD5sum: fa857845e9d55b3a1f23c1ca17e26d3e
+SHA1: 0b173cdb5a89c6dfa964233fdf2d269152d9c59f
+SHA256: bdcbd0ded656eb888e3b8666aba748dad19a75f81f232048a6460d7853ae9cd2
+
+Package: com.tqm-mos.miitch
+Name: Miitch
+Version: 1.3
+Section: TQM
+Architecture: iphoneos-arm
+Author: @ tqmmos <anhminh311105@gmail.com>
+Maintainer: @ tqmmos <anhminh311105@gmail.com>
+Description: Lovely Colors Themes
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.miitch
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.miitch
+Filename: ./debs/com.tqm-mos.miitch_1.3_iphoneos-arm.deb
+Size: 28351594
+MD5sum: 2e5d145d6d0f125ad314beabba0305ce
+SHA1: d4933ccce127b564cfa2ec38eae425261f3d56e9
+SHA256: 32f47fd01e82365d32e16c11dee473b7bd799f5c70eaef2fe26b184db62d00b9
+
+Package: com.tqm-mos.newglyph
+Name: NewGlyph
+Version: 1.9
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Glyph color icons
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.newglyph
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.newglyph
+Filename: ./debs/com.tqm-mos.newglyph_1.9_iphoneos-arm.deb
+Size: 10456434
+MD5sum: 294a9cc45de65819b92f10e61e243d83
+SHA1: d337faf8e510317ccf0b4a468d0fbe7cd21fb5a8
+SHA256: c2c4dfd4a2997541bd5af8bb24b2229008bc615c872b2bd9c9b907506dde351b
+
+Package: com.tqm-mos.newoblong
+Name: NewOBLong
+Version: 2.4
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Oblong icons with beautiful details
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.newoblong
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.newoblong
+Filename: ./debs/com.tqm-mos.newoblong_2.4_iphoneos-arm.deb
+Size: 7075156
+MD5sum: 121c1a788ff1b7e9a370a267d049f2de
+SHA1: c694c0371e8c0e721c5083fcb034c0644b001c14
+SHA256: 82de350641f9dba6f8027fab8fd6b1151e1e30ed2331983e902842e55ef6efc5
+
+Package: com.tqm-mos.videobg
+Name: VideoBG
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Add videos to iPhone frames.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: JunesiPhone <junesgraphics@gmail.com>
+Section: Tweaks
+tag: cydia::paid
+Version: 0.5
+Installed-Size: 596
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.videobg
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.videobg
+Filename: ./debs/com.tqm-mos.videobg_0.5_iphoneos-arm.deb
+Size: 262496
+MD5sum: 8b22ec6471bfd4264b86753084e716fc
+SHA1: 3eb6044e56dc469e7e5da16eba472741f5ce653f
+SHA256: 1b8a6bcaf3c29739a894e51c50bd910eb0a823435876b02dcf5a1d07bd39d37f
+
+Package: com.tqm-mos.vincent
+Name: VinCent
+Version: 1.0.4
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: HD icons
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.vincent
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.vincent
+Filename: ./debs/com.tqm-mos.vincent_1.0.4_iphoneos-arm.deb
+Size: 30201448
+MD5sum: e4cdba2cb51fdfbe430cd32f4ac49646
+SHA1: fe8a66f3ec2cd5e87773dde05d8fc55f3fbaee04
+SHA256: a7f6acf71a90b395494ba3aa595984f7429b671aeb60d7f3357a8e8014903e68
+
+Package: com.tqm-mos.whitedream
+Name: White Dream
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: White Dream Theme Pack IOS 9 - IOS 13.
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.whitedream
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.whitedream
+Filename: ./debs/com.tqm-mos.whitedream_1.0_iphoneos-arm.deb
+Size: 81748666
+MD5sum: 4d1e154195a4cc69516af6e2f81b5638
+SHA1: 1890c3d7990aab7a300fe7c365aeba26157b4f98
+SHA256: 698024b4eebd77221728413385adb4c2ee246c2e8f3d26d3851f695d434084ed
+
+Package: me.tqm-mos.homeplus
+Name: HomePlus Beta
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Dynamic, live homescreen layout with an intuitive UI
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: Kritanta
+Section: Tweaks
+Version: 0.4.9-beta
+Installed-Size: 2836
+Depiction: http://tqm-mos.github.io/description.html?id=me.tqm-mos.homeplus
+SileoDepiction: http://tqm-mos.github.io/description.html?id=me.tqm-mos.homeplus
+Filename: ./debs/me.tqm-mos.homeplus_0.4.9-beta_iphoneos-arm.deb
+Size: 1310066
+MD5sum: e2d7287db142cb65b35caf11771bd4a9
+SHA1: abba58e9005baaa97bc053670961acc40500dce9
+SHA256: 9c9ad93a49c728659f04c19da305a0ac31f092ab88faff10100d3daedbc8f8fe
+
 Package: com.tqm-mos.a-font
 Name: A-Font
 Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
