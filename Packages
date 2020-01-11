@@ -548,10 +548,67 @@ tag: cydia::paid
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.callionebytqm
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.callionebytqm
 Filename: ./debs/com.tqm-mos.callionebytqm_0.2_iphoneos-arm.deb
-Size: 2460614
-MD5sum: 3514bfd4356d4d4187cd8b32b63614d8
-SHA1: cd030487b2913f88855f92d5ea1f785107b4dc9e
-SHA256: 25c51539b52efd0101aeda6186faad589b12fe63d3b88e599666385cc6cd74c3
+Size: 2460648
+MD5sum: 542220a1aa6ee3964a1b5b22d42d9d5e
+SHA1: 39cebc8c61720bacfdc8952e33a2caf3edc5da19
+SHA256: 74e151d0af8ae7c2898eeb6a4acbf9e814457c2ffb624f0e1399b51593cf49c7
+
+Package: com.tqm-mos.leetimebytqm
+Name: Lee Time by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Weather Widget (Uses XenInfo) by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com> 
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.leetimebytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.leetimebytqm
+Filename: ./debs/com.tqm-mos.leetimebytqm_0.1_iphoneos-arm.deb
+Size: 1356610
+MD5sum: 458ff24e4fb9c9e6c0bce5596d218dc1
+SHA1: a54030eb37c634e67d4d74f2aaa261a0c20a91c5
+SHA256: b4ef15587294153bf283ef9ce1a202cacf275100333391c6417785d886699a28
+
+Package: com.tqm-mos.styleweatherbytqm
+Name: Style Weather by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Weather Widget (Uses XenInfo) by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com> 
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.styleweatherbytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.styleweatherbytqm
+Filename: ./debs/com.tqm-mos.styleweatherbytqm_0.1_iphoneos-arm.deb
+Size: 30698078
+MD5sum: 3cb0dd501a18dae393157b5dca4e82e8
+SHA1: 84ad4acec51623137e9cbea3933eebd9ed6730a9
+SHA256: 654e5fabcae82d2f0f58862b8a9623970bcbdd485c8fefb6ef08bcf40e5f10a0
+
+Name: AutoRotate
+Package: com.tqm-mos.autorotate
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Conflicts: com.cpdigitaldarkroom.medusaipad
+Version: 1.0.4-1
+Architecture: iphoneos-arm
+Description: Allows iOS 11 style autorotation of home screen
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: i0s_tweak3r <djvs23@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+Installed-Size: 513
+dev: i0stweak3r
+Icon: file:///Library/PreferenceBundles/AutoRotate.bundle/AutoRotate@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.autorotate
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.autorotate
+Filename: ./debs/com.tqm-mos.autorotate_1.0.4-1_iphoneos-arm.deb
+Size: 57634
+MD5sum: fddb05d48e79c7a2a3f3eeb837851759
+SHA1: 22c0396ca8dc25050681810d6279b552e36ef04b
+SHA256: af0e036c37615e79505f597cb8160050cdfa5b2e833d1fbff051e00f69013cef
 
 Package: com.tqm-mos.gittimebytqm
 Name: Git Time by TQM
