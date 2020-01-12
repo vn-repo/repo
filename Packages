@@ -553,6 +553,79 @@ MD5sum: 542220a1aa6ee3964a1b5b22d42d9d5e
 SHA1: 39cebc8c61720bacfdc8952e33a2caf3edc5da19
 SHA256: 74e151d0af8ae7c2898eeb6a4acbf9e814457c2ffb624f0e1399b51593cf49c7
 
+Package: com.tqm-mos.violaglyphs
+Name: Viola Glyphs
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: The glyph version of Viola! (3 modes)
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.violaglyphs
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.violaglyphs
+Filename: ./debs/com.tqm-mos.violaglyphs_1.0_iphoneos-arm.deb
+Size: 4346038
+MD5sum: 27fa635601cefd6ec8ca4e892e671e6c
+SHA1: e381e5d2adaf0da76fd3a222100c1af30a094d0b
+SHA256: b1198f4e994223f91f5d2eb66ca3091f83fc2ae1559fd77636e7d4490f99f5ba
+
+Package: me.nepeta.axon
+Name: Axon
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Architecture: iphoneos-arm
+Description: Priority Hub for iOS 11+
+Maintainer: Nepeta
+Author: Nepeta 
+Section: Tweaks
+Version: 0.4.0-nocephie
+Installed-Size: 796
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.axon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.axon
+Filename: ./debs/me.nepeta.axon_0.4.0-nocephie_iphoneos-arm.deb
+Size: 244482
+MD5sum: e485b89aac6a872ef78709f2856b54d3
+SHA1: 4235fdf1c92044046f7779ff1feaa878f0824b2f
+SHA256: ac94fd07ac60ad2195797efc334c0d9499683f6094823e99a409508cda8d3d1b
+
+Package: com.tqm-mos.grupi
+Name: Grupi
+Version: 1.0
+Description: Phân nhóm thông báo
+Author: Soongyu Kwon & Timeloop
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Installed-Size: 493
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.grupi
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.grupi
+Filename: ./debs/com.tqm-mos.grupi_1.0_iphoneos-arm.deb
+Size: 167770
+MD5sum: 0ef4831152fa5b08fa1afafabd99cbb2
+SHA1: f08fadd9c41dd3937f92e2ffc10567d170835a99
+SHA256: 2367f99fb8863aab08cd58d927bbac5ed71bc6b43447c9a5a76f7e6526fcd9fd
+
+Package: com.tqm-mos.boxy4
+Name: Boxy 4 (iOS 13)
+Author: William Vabrinskas <wvabrinskas@gmail.com>
+Description: Fully customize your icon layout!
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 4.0.1
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders, com.irepo.boxy3
+Architecture: iphoneos-arm
+Installed-Size: 3416
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.boxy4
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.boxy4
+Filename: ./debs/com.tqm-mos.boxy4_4.0.1_iphoneos-arm.deb
+Size: 2829268
+MD5sum: 0b8b627ffd9043d0ee3908ed494ac6b1
+SHA1: 385a85517284ce0861ab834f71d82abc0c201024
+SHA256: 265b5e92f953fea19e26c41fe5a6d2a0d16d9373ac404a6edd3bfc06653686f2
+
 Package: com.tqm-mos.leetimebytqm
 Name: Lee Time by TQM
 Version: 0.1
