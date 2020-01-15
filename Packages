@@ -57,6 +57,296 @@ MD5sum: 09c01ec65264b1e50d477a36aecfbcbb
 SHA1: 9bf3cc86b399e8cb7b70d7fa757b467b07a36645
 SHA256: 6790d65d6af682183744cebbef56d8bba2d7c2fe1449f3b2415db3fceaf31fa8
 
+Package: com.tqm-mos.autounlockx
+Name: AutoUnlockX
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Unless there are notifications, the device will automatically unlock when valid Face ID is detected
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: Spark
+Section: Tweaks
+Version: 1.0.12
+Installed-Size: 368
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.autounlockx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.autounlockx
+Filename: ./debs/com.tqm-mos.autounlockx_1.0.12_iphoneos-arm.deb
+Size: 85790
+MD5sum: a36fd65c1c6082a39c943b6bb025fcf5
+SHA1: c5d325d05e7b80c39ee89f0b3b45cd3d0213e9f5
+SHA256: 12c44619aff1e533da86a0098d1998d6e7a97017ad3cc02ef5c795acdcef6efe
+
+Package: com.tqm-mos.rollie-html
+Name: Roolie | XenHTML
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Classy analog watch feel
+Author: Hugo <hugo@twickd.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.rollie-html
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.rollie-html
+Filename: ./debs/com.tqm-mos.rollie-html_1.1.1_iphoneos-arm.deb
+Size: 29708
+MD5sum: 91a43475779dde9bcc84ec250ae7f4bd
+SHA1: 0568c91285ab19e0201640ccdda7cfadea0730b4
+SHA256: e5f85a29d68ea0b3018b505793c902f7228358fbb0cd435aa18c9ea7a5a9c3b7
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.75~Beta1
+Installed-Size: 4212
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.75~Beta1_iphoneos-arm.deb
+Size: 1987816
+MD5sum: 852b812c630a084295948dde3e2c92d7
+SHA1: 7460caa6842e52e4b404eda3fa4cd0ed1b49f136
+SHA256: 5750630e8cb9a6cf07bb188faf1134c5da1aef40e7991d15627bbf654355772b
+
+Package: com.tqm-mos.7hemis
+Name: 7hemis
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Fully updated for Anemone running on iOS9,10 & 11 this classic skeuo theme by Ulysse Velvet has been ported by DaddyKool. For icons please visit the
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.7hemis
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.7hemis
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.7hemis_1.1_iphoneos-arm.deb
+Size: 51057726
+MD5sum: 6289adfaabde8dd8c1d259e5f0ec8b80
+SHA1: 2e4f6e51a532104edf25c6229db7938080b12cfe
+SHA256: 3332168aefd8b3059fd3e8e41ed306693e3d692d2f3f3d9ca9605e5f130c66df
+
+Package: com.tqm-mos.13hud
+Name: 13HUD
+Version: 1.0.1-1
+Section: IOS12
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Conflicts: applebetas.ios.tweak.willow, es.ubikstyl.sonus12, org.fwdr.sonus, com.midkin.byebyehud, me.nepeta.flashyhud, com.lnx.aerify, com.ruler225.videohud, me.nepeta.brokenhud, com.ikilledappl3.switchhud, com.yakir.volhud
+Installed-Size: 368
+Author: Muirey03
+Maintainer: QM
+Description: iOS 13 volume HUD for iOS 11/12
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.13hud
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.13hud
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.13hud_1.0.1-1_iphoneos-arm.deb
+Size: 51640
+MD5sum: 40ae4f46d20f552911a8b45ad02c00e7
+SHA1: 8d9a181e962dacbbe6249bd5ac17841f99d08a98
+SHA256: 850452c8e034994c8715d386e8773bebecabc7d6318ca5489eaac220735a679d
+
+Package: com.tqm-mos.cydown12
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Version: 7.0.5
+Depends: coreutils-bin, coreutils, apt7, mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Cydia Download Manager & Extra Features!
+Homepage: http://twitter.com/tqmmos
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cydown12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cydown12
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.cydown12_7.0.5_iphoneos-arm.deb
+Size: 3950308
+MD5sum: 4611850072aa7e93a60226f997795799
+SHA1: 53adbe8d5db01b9125ed28b34e0f4dee85fb97d6
+SHA256: 60e9a85372f2e51e1051f85b9ede133c2e7919038d3a76fd6ebacc7883779db9
+
+Package: com.tqm-mos.grupi
+Name: Grupi
+Version: 1.0.0.1
+Description: Phân nhóm thông báo
+Author: Soongyu Kwon & Timeloop
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Installed-Size: 493
+Section: IOS11
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.grupi
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.grupi
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.grupi_1.0.0.1_iphoneos-arm.deb
+Size: 168578
+MD5sum: 837f58f6f2ffc41bb4a7f11909b0b7fd
+SHA1: 19a80dcd7e415a35e9d68bcdfcada5f54d23e451
+SHA256: a1689661c5116996d1f491d5df4ec073e737859539d96082d5ed3c930953eba8
+
+Package: com.tqm-mos.hsryu006fluid
+Version: 2.0
+Description: Widgets for XenHTML 
+Section: Iwidgets
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Architecture: iphoneos-arm
+Name: HS.Ryu_006 Fluid
+Author: Ryu
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.hsryu006fluid
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.hsryu006fluid
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.hsryu006fluid_2.0_iphoneos-arm.deb
+Size: 41920
+MD5sum: 435488dc96dcefd898111b56366908d4
+SHA1: b6cda6c71c6afbd87c4368bf64a5196a96727d15
+SHA256: 995c861e4b288e2fea60ea656b271052468d9791ce711546e3455ff2682706f6
+
+Name: Ringer13
+Package: com.tqm-mos.ringer13
+Version: 1.2.2
+Section: Tweaks
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 388
+Author: KingPuffdaddi
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ringer13
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ringer13
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.ringer13_1.2.2_iphoneos-arm.deb
+Size: 63666
+MD5sum: d66f3b392137e31e8c08d17cd3eda59e
+SHA1: 14b33b001a270dd8335b196db63a8f6f3f222d19
+SHA256: c8496a7fc63221cb851e731b6281f2d17ab455735fc0b4d70074a9d52022b178
+
+Package: com.tqm-mos.springpink
+Name: Spring
+Version: 2.0
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Best theme for your device
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.springpink
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.springpink
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.springpink_2.0_iphoneos-arm.deb
+Size: 7790016
+MD5sum: 2b848cad5b3dfd84b809622740a4cc10
+SHA1: cd507ddc69819439523c48f723aa684eb092f666
+SHA256: 24d06883b698bb85ce669737e2af5dade838d55bc4c80b9f085815d3060a537d
+
+Package: com.tqm-mos.st412
+Version: 4.0.9
+Section: IOS12
+Maintainer: TQM
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Provides: com.springtomize.st4.new
+Replaces: com.springtomize.st4
+Architecture: iphoneos-arm
+Installed-Size: 3368
+Name: Springtomize 4 VH
+Author: sharedRoutine
+Description: Tuỳ biến thiết bị của bạn một cách toàn diện
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st412
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st412
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.st412_4.0.9_iphoneos-arm.deb
+Size: 965026
+MD5sum: e5b083c3152101c691dd97750f0247c7
+SHA1: e0e601dc2651d205528476bf7656fce0455a1743
+SHA256: de9e24b2169e8b645d978d54e66563055780ef3f88aef604cca9f393f16c57ea
+
+Package: com.tqm-mos.ultrasound
+Name: Ultrasound Free
+Author: Ayden Panhuyzen
+Description: Customize your volume HUD.
+Maintainer: @tqmmos
+Version: 1.2.10
+Section: IOS11
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud
+Architecture: iphoneos-arm
+Installed-Size: 895
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ultrasound
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ultrasound
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.ultrasound_1.2.10_iphoneos-arm.deb
+Size: 329650
+MD5sum: 49a4f6e14e588d6e49a81acc37949f5d
+SHA1: 623767191ed3702ea72118f0914999b5f57370d0
+SHA256: 45c3043046976f4b435356f7b4c67e9750350a612bded2bf43777dc7b4d96862
+
+Package: com.yourepo.tqm.icleanerpro
+Name: iCleaner Pro
+Version: 7.8.0~beta1
+Description: Tiện ích CCleaner tương tự iCleanerPro cho PC
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Section: Applications
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gamil.com>
+Installed-Size: 12772
+Depiction: http://tqm-mos.github.io/description.html?id=com.yourepo.tqm.icleanerpro
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.yourepo.tqm.icleanerpro
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.yourepo.tqm.icleanerpro_7.8.0~beta1_iphoneos-arm.deb
+Size: 5105258
+MD5sum: a806906e533a1cc5b22a16431ff7a16f
+SHA1: cdad233b87633dee99e00843f34ad07c2783d3b6
+SHA256: 2b3a8ec48a350b9f5a6f4fc74c42f11c860024944e9956d4e1126bf9d9a124bd
+
+Package: me.nepeta.axon
+Name: Axon
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Architecture: iphoneos-arm
+Description: Priority Hub for iOS 11+
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: Nepeta 
+Section: IOS11
+Version: 0.4.1-nocephie
+Installed-Size: 796
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.axon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.axon
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/me.nepeta.axon_0.4.1-nocephie_iphoneos-arm.deb
+Size: 244366
+MD5sum: 94c9d230791655697741abb74729ce23
+SHA1: adef7cd91c63d707c9ade057c78b23d6fa5e75e0
+SHA256: 38b6977891675c71f676f880094ae1115e7983a6c8eeb1ed6da4ccc0fdfe50d8
+
+Package: com.tqm-mos.dleasy
+Name: DLEasy Crack
+Version: 2.8.5-1k
+Description: Tải hình ảnh và video từ các mạng xã hội.
+Author: AhmedBafkir <prooxy0@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: me.pulandres.dleasy
+Replaces: nono
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
+Installed-Size: 9386
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dleasy
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dleasy
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.dleasy_2.8.5-1k_iphoneos-arm.deb
+Size: 3076164
+MD5sum: 790938ebb0e4251db063f6ee2cf3ecdf
+SHA1: 2431a18867a8cdf92ef3bd61a43e864422c513b7
+SHA256: 4402176abba5974f57cdaa877b18e5206d58c1933b67a141d087bdc5a0dcb3a6
+
 Package: com.tqm-mos.aurora
 Name: Aurora
 Version: 0.1.3
