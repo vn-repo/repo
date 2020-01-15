@@ -34,6 +34,150 @@ MD5sum: a7be222485b429d9b41e2b639b09ecc5
 SHA1: 3c7263bc568ba1afa9bffc4e1f28eef0aa60c656
 SHA256: 342cdc9867ef607b7a3e4e99ebcf562adb81d0add5ad36384fce92287b1d54a4
 
+Package: com.tqm-mos.antirevoke
+Name: antirevoke
+Author: stem grade
+Description: 
+Depends: mobilesubstrate
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 396
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.antirevoke
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.antirevoke
+Filename: ./debs/com.tqm-mos.antirevoke_0.0.1_iphoneos-arm.deb
+Size: 30302
+MD5sum: 28ec25cb273f3330f1d70e18bc922503
+SHA1: 7e0d734686b88696c336a844cd42a95b01b93ab0
+SHA256: 1b029f322e75d8a4fb49a699678c8315c8c65023a3a7b2ed0eb52e260409db36
+
+Package: com.tqm-mos.boxy4
+Name: Boxy 4 (iOS 13)
+Author: William Vabrinskas <wvabrinskas@gmail.com>
+Description: Fully customize your icon layout!
+Maintainer: @ tqmmos
+Version: 4.0.3
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders, com.irepo.boxy3
+Architecture: iphoneos-arm
+Installed-Size: 3416
+Icon: https://repo.packix.com/api/Packages/5e19fb42a35db8001a2dbd82/icon/download?size=medium&hash=2
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.boxy4
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.boxy4
+Filename: ./debs/com.tqm-mos.boxy4_4.0.3_iphoneos-arm.deb
+Size: 2829534
+MD5sum: 63755d64b56b9951694346c7e640b7a0
+SHA1: 516f36237950bee9d1b92c1f1f06732d5c849185
+SHA256: 255bf717f2b66cf1f11cfbeeb3cbf4070496d39eb2c131bf6b9badab030d8224
+
+Package: com.tqm-mos.fuelicone
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Fuel
+Description: Full theme support iOS 10 & 11 & 12 & 13 Need To install SnowBoard
+Section: TQM
+Maintainer: @tqmmoss <anhminh311105@gmail.com>
+Author: @tqmmoss <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fuelicone
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fuelicone
+Filename: ./debs/com.tqm-mos.fuelicone_1.0_iphoneos-arm.deb
+Size: 1753650
+MD5sum: 7e93174fc1d540187adf0a0022fddfc2
+SHA1: 2fbd0bad06ce0fb3973b529d558d44ae1fc79ddc
+SHA256: 3b979313a9b7b941805fe9e6b9751aed92810e05ca95a5ef480500a6ffe4f163
+
+Package: com.tqm-mos.fusionwhite
+Name: Fusion White
+Author: @tqmmos
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionwhite
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionwhite
+Filename: ./debs/com.tqm-mos.fusionwhite_1.1_iphoneos-arm.deb
+Size: 23765978
+MD5sum: 2c136478b7bd94cc5e369962176c7c14
+SHA1: 8c825c122171ef84df8da0e5b7760b653b461e4d
+SHA256: fd037a2a28d5c63a4335b57446ac8a1ce70b13a9a382b41df6bf6d9c08e9946a
+
+Package: com.tqm-mos.krimy
+Version: 1.0
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Name: Krimy
+Description: Theme krimy - support iOS 10 & 11 & 12 & 13 Need To install SnowBoard
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.krimy
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.krimy
+Filename: ./debs/com.tqm-mos.krimy_1.0_iphoneos-arm.deb
+Size: 22193204
+MD5sum: 31799a6cc5b90457b88b49c080bee7a7
+SHA1: 3179af9e549ce2cb7d728065373758a61fa65fe1
+SHA256: a3ed1cdcd57573cec042aad5171cbdd70844eb19a5c91f97c306b42d7e39cc39
+
+Package: com.tqm-mos.liacadarks
+Name: Liaca Dark
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: Dark Liaca Version With Modern, Colourful and Carefully Design.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 1.2
+Section: TQM
+Architecture: iphoneos-arm
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.liacadarks
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.liacadarks
+Filename: ./debs/com.tqm-mos.liacadarks_1.2_iphoneos-arm.deb
+Size: 5655182
+MD5sum: eeffeba9571823374bf59b0a7ffe692f
+SHA1: d63c0fe64ab3be2f0556988f48013d9a6fa21676
+SHA256: 1f9e3fca96ac905a452b5c90ef4adc623dde2094477b0d8c2c4fafa040ceb1d3
+
+Package: com.tqm-mos.snowboard.effects
+Name: SnowBoard Icon Effects
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon Effects for SnowBoard
+Maintainer: @tqmmos
+Author: Spark
+Section: SnowBoard
+Version: 1.0.19~Beta1
+Installed-Size: 500
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.effects_1.0.19~Beta1_iphoneos-arm.deb
+Size: 103892
+MD5sum: ff2e538c0503220e7eb017eeab962465
+SHA1: 9ad39b045ec1f688ce41a27e811fb4cbe09858ec
+SHA256: 4b86e673b4a4edef31c4e5341a70e97cdaa23c4bf75df6d183be303424faf801
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui, tqm-mos.iconrepo
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.76~Beta1
+Installed-Size: 4224
+Depiction: http://tqm-mos.github.io/description.html?id= com.tqm-mos.snowboard
+SileoDepiction: http://tqm-mos.github.io/description.html?id= com.tqm-mos.snowboard
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.76~Beta1_iphoneos-arm.deb
+Size: 1994328
+MD5sum: e25daa107dd144e7c27eb4da67cc7744
+SHA1: e513c19560cac0c27ba0915db51d835a1ad2ec0e
+SHA256: 4db9cb929f380c62bf74b0272736266cf8271c073859b3abcc2cea22f3590e7e
+
 Package: com.tqm-mos.reprovision
 Name: ReProvision
 Version: 0.5~experimental7-1
