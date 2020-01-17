@@ -201,6 +201,167 @@ MD5sum: 09c01ec65264b1e50d477a36aecfbcbb
 SHA1: 9bf3cc86b399e8cb7b70d7fa757b467b07a36645
 SHA256: 6790d65d6af682183744cebbef56d8bba2d7c2fe1449f3b2415db3fceaf31fa8
 
+Package: com.tqm-mos.reprofix
+Name: ReProFix
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: @tqmmos
+Author: misty
+Section: Tweaks
+Version: 0.0.1-2+debug
+Installed-Size: 116
+Homepage: https://www.facebook.com/quangminhdx
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reprofix
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reprofix
+Filename: ./debs/com.tqm-mos.reprofix_0.0.1-2+debug_iphoneos-arm.deb
+Size: 4328
+MD5sum: 84df37773cc20ae8b7d6ff7c24eaa125
+SHA1: 36dcbb6652a36bfaedb1540abeda99e2816bbd07
+SHA256: eeb348300e9ee1246d59126f5d65392ab02e16939d6c6124fdd793595cc86837
+
+Package: com.tqm-mos.reprovision
+Name: ReProvision
+Version: 0.5~release
+Description: Re-sign applications on your device
+Section: System
+Depends: firmware (>= 9.0)
+Priority: optional
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: @tqmmos
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Homepage: https://www.facebook.com/quangminhdx
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reprovision
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reprovision
+Filename: ./debs/com.tqm-mos.reprovision_0.5~release_iphoneos-arm.deb
+Size: 14342702
+MD5sum: d3c00ad08fb4ecb9675e7d6e3a3786d1
+SHA1: 2d376830eca0995dc125e7e11e63bc588ceb9bdd
+SHA256: 4c6ae30f4886e031ec5be30bcd246a8fecca50891e78b9506e670383b5cb52bc
+
+Package: com.tqm-mos.snowboard.effects
+Name: SnowBoard Icon Effects
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon Effects for SnowBoard
+Maintainer: @tqmmos
+Author: Spark
+Section: SnowBoard
+Version: 1.0.20~Beta1
+Installed-Size: 500
+Homepage: https://www.facebook.com/quangminhdx
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Filename: ./debs/com.tqm-mos.snowboard.effects_1.0.20~Beta1_iphoneos-arm.deb
+Size: 105380
+MD5sum: 73bb5792760535b44b7cd287bc784c50
+SHA1: 32b836dd3ed58d8f2f706911fdfb2d9287495699
+SHA256: 23f5b806f49d61d951d31a283c27055ee154669d9c2bc557a94ef84b92252ac2
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui, tqm-mos.iconrepo
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.78~Beta1
+Installed-Size: 4272
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.78~Beta1_iphoneos-arm.deb
+Size: 2008336
+MD5sum: afa9e003965bbed67d70deaee588c5f7
+SHA1: ed3cdc33410b3a32eaacfb6a0c03269fa02c953b
+SHA256: 833108f7618c5008ea1d6342935b4a6ee41501e9e9852202851876fb30257e2b
+
+Package: com.yourepo.tqm.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 7.8.0
+Architecture: iphoneos-arm
+Section: Applications
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.yourepo.tqm.icleanerpro
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.yourepo.tqm.icleanerpro
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.yourepo.tqm.icleanerpro_7.8.0_iphoneos-arm.deb
+Size: 7690648
+MD5sum: c39acde2bd466bc7d9b90640fc40d00d
+SHA1: fb42cd9fb0ea3425a5db6765320878d18428fa3d
+SHA256: 07e60bef7aa8561167c259ebef3680922b4797f34b178ef974321b8ab8cfff9d
+
+Package: com.tqm-mos.blacklit
+Name: BlackLit
+Version: 0.9.4
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Dark details colors icons
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blacklit
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blacklit
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.blacklit_0.9.4_iphoneos-arm.deb
+Size: 12246370
+MD5sum: a07bf9aadbc46f402ef55d79ecc47005
+SHA1: 05a3188cc14d4a0169e5c761878fc268b637e6ad
+SHA256: 20bbd1f1f2852785aca2207ddbb0244728deff9ba35e561e3a9cfdc2e9d8c4f9
+
+Package: com.tqm-mos.half
+Name: half
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 136
+Author: Soongyu Kwon & Ayden Leppert
+Maintainer: @tqmmos
+Description: New iOS Battery Indicator Style for iOS 11~13
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.half
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.half
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.half_1.0_iphoneos-arm.deb
+Size: 12764
+MD5sum: ed146b2c0d1de83469ed5661c938fb37
+SHA1: 13f1f485ec0dcb12855a3745f4896fd0fb1296c1
+SHA256: e71010dd87cd0554a98e6c9cbb75422a7b70b9ffbf4c28d80734bc75c52a6487
+
+Package: com.tqm-mos.ohleebytqm
+Name: Oh lee by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: iwdgets for XenHTML By @ tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ohleebytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ohleebytqm
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.ohleebytqm_0.1_iphoneos-arm.deb
+Size: 1279800
+MD5sum: 86730430f7a31943df791590b534ebe4
+SHA1: 64e4b8f8c6c8c02cae6efdcd6355790affa6dfb0
+SHA256: 244183a70a3218b7e591ac14ef88f76a48fd8b8bec95d0cc70737ae5a7694d47
+
 Package: com.tqm-mos.autounlockx
 Name: AutoUnlockX
 Depends: mobilesubstrate
@@ -3052,8 +3213,8 @@ Section: TQM
 Architecture: iphoneos-arm
 Maintainer: @tqmmos <anhminh311105@gmail.com>
 Installed-Size: 90654
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sahara
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sahara
 Filename: ./debs/com.tqm-mos.sahara_1.7_iphoneos-arm.deb
 Size: 82845256
 MD5sum: 745d58beb09e324519443ff4bb16ead6
