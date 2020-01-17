@@ -3204,6 +3204,103 @@ MD5sum: 18d24facb0ee01b0459381831ee90e77
 SHA1: 46bff3082c822e0d0b4fc41cb3b3096e4bf90880
 SHA256: 16ee67de17883fd079844512b158a67ba5572da1a8a2187334d8241ef2670fc1
 
+Name: Carrierizer
+Package: com.tqm-mos.carrierizer
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Version: 1.0.5
+Architecture: iphoneos-arm
+Description: Custom Text for your Carrier!
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Installed-Size: 575
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/Carrierizer.bundle/Carrierizer@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.carrierizer
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.carrierizer
+Filename: ./debs/com.tqm-mos.carrierizer_1.0.5_iphoneos-arm.deb
+Size: 84414
+MD5sum: c1c4a03822bd1ed9bd1de2339b71bac8
+SHA1: ee82a40dae74a4c03012f2c2a369092ab8c21154
+SHA256: 1e274fd2aeaaa997a18034ab5c3484b101eeb15647c0248aea14eb9fdad3a49c
+
+Package: com.tqm-mos.ext3nder-installer
+Name: Ext3nder Installer
+Author: julioverne
+Version: 022b
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Conflicts: com.tqm-mos.ext3nde , com.julioverne.ext3nder
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Cydia Extender Installer With Extra Features
+Homepage: http://twitter.com/tqmmos
+Maintainer: @tqmmos
+Section: Utilities
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ext3nder-installer
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ext3nder-installer
+Filename: ./debs/com.tqm-mos.ext3nder-installer_022b_iphoneos-arm.deb
+Size: 1947682
+MD5sum: be3203d4a91d767d7176552048e20ac0
+SHA1: 085fc88b6bc9c55c45d32dfeb0b1d23bf6830b21
+SHA256: e046fc3c1e092e6d9859492c934c57c6e81fa12dba51e1e615a4209526301fae
+
+Package: com.tqm-mos.preferenceorganizer2
+Name: PreferenceOrganizer 2
+Architecture: iphoneos-arm
+Description: Organises your Preferences app into several configurable categories for ease of navigation.
+Author: Karen/あけみ <karen@akemi.ai>
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader (>= 2.2.3), firmware (>= 6.0), net.angelxwind.karenprefs (>= 1.5), net.angelxwind.karenlocalizer
+Conflicts: com.phillipt.noappsettings, jp.r-plus.cloaky, me.qusic.preferenceorganizer, com.sull.preferenceorganizer, com.sull.preferenceorganizer2, com.sull.preferenceorganizer7
+Maintainer: @tqmmos
+Replaces: org.ilendsoft.preferenceorganizer, com.eliz.preferenceorganizer7
+Icon: file:///Library/KarenRepoIcons/net.angelxwind.preferenceorganizer2.png
+Version: 4.0.8
+Installed-Size: 2016
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.preferenceorganizer2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.preferenceorganizer2
+Filename: ./debs/com.tqm-mos.preferenceorganizer2_4.0.8_iphoneos-arm.deb
+Size: 1426238
+MD5sum: 706c9db5ccb7a339edccd949a27884d0
+SHA1: e9f8b8e2c4b9b74a97e217c11953396bbc2c631f
+SHA256: 2afaea44550201ef926740d3e6b8754ca9bcf5ff8252b511335ac3cf0c49a23a
+
+Package: com.tqm-mos.eastmeetswest
+Name: East Meets West
+Version: 1.5
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Description: A fun combination of Western grunge & beautiful Eastern flair.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+tag: cydia::commercial
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.eastmeetswest
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.eastmeetswest
+Filename: ./debs/com.tqm-mos.eastmeetswest_1.5_iphoneos-arm.deb
+Size: 64885898
+MD5sum: eb87ca137f6ed8ca3ee5b0ade6f6bde1
+SHA1: 5230462f857a49af2bc81806dd7d29788c23f15b
+SHA256: 1ca48a68a69d9568768f7fa6218b11556ccd7bcc2d72964f9080997a34386186
+
+Package: com.tqm-mos.mashup
+Name: Mashup
+Version: 0.1
+Architecture: iphoneos-arm
+Description: iOS Theme
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mashup
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mashup
+Filename: ./debs/com.tqm-mos.mashup_0.1_iphoneos-arm.deb
+Size: 13028410
+MD5sum: c7602b376b1744ebc1c42fb689eac2bc
+SHA1: 08a2c207e4f36b6b269743edcc625550d9aaa02b
+SHA256: 921ba4f5ec2b3673024f910aac6b008583fb027d622b553067de990301a0c49b
+
 Package: com.tqm-mos.sahara
 Name: Sahara
 Version: 1.7
