@@ -137,6 +137,40 @@ MD5sum: eeffeba9571823374bf59b0a7ffe692f
 SHA1: d63c0fe64ab3be2f0556988f48013d9a6fa21676
 SHA256: 1f9e3fca96ac905a452b5c90ef4adc623dde2094477b0d8c2c4fafa040ceb1d3
 
+Package: com.tqm-mos.animationbytqm
+Name: Animation by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.animationbytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.animationbytqm
+Filename: ./debs/com.tqm-mos.animationbytqm_0.1_iphoneos-arm.deb
+Size: 9810580
+MD5sum: 64e0c4da02cf3803b32eba5d704dc393
+SHA1: 680a7660903efef3774e05512527e69e5e8caccc
+SHA256: 9d695521ebb0278df474deda3de643636ec997e2c902c161ed6d73f5ecbd0323
+
+Package: com.tqm-mos.layertimebytqm
+Name: Layer time by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.layertimebytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.layertimebytqm
+Filename: ./debs/com.tqm-mos.layertimebytqm_0.1_iphoneos-arm.deb
+Size: 919614
+MD5sum: 4e9f9e8c7b9a3aab697e084bf18c6f3f
+SHA1: ef6e2655786e0e6688c3d51d1c7bd5ab443fc2fa
+SHA256: 523f9cd9c4afeaad2e12f0f2afd1df594e8e78de3b5a001679ccb6ea83bfe4cf
+
 Package: com.tqm-mos.snowboard.effects
 Name: SnowBoard Icon Effects
 Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
