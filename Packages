@@ -34,6 +34,57 @@ MD5sum: a7be222485b429d9b41e2b639b09ecc5
 SHA1: 3c7263bc568ba1afa9bffc4e1f28eef0aa60c656
 SHA256: 342cdc9867ef607b7a3e4e99ebcf562adb81d0add5ad36384fce92287b1d54a4
 
+Package: com.tqm-mos.cydown12
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Version: 7.0.6
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Cydia Download Manager & Extra Features!
+Homepage: http://twitter.com/tqmmos
+Maintainer: @tqmmos
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cydown12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cydown12
+Filename: ./debs/com.tqm-mos.cydown12_7.0.6_iphoneos-arm.deb
+Size: 3957774
+MD5sum: 5efd63bb1fad9a32d513f3f3ce447283
+SHA1: 91b7717d43553d7c5b299f4275798b61497be958
+SHA256: 35249491ff804bc458241f79a46390c3d01719abc8be1a934c9c0d26b07ef243
+
+Package: com.tqm-mos.redlywidget
+Name: RedLy Widget
+Version: 1.0
+Section: Iwidgets
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: RedLy Widget for XenHTML. All devices. 
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.redlywidget
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.redlywidget
+Filename: ./debs/com.tqm-mos.redlywidget_1.0_iphoneos-arm.deb
+Size: 348898
+MD5sum: 5049187f9d3b77e5f7af2ac7540481c7
+SHA1: 389961c06d7c70a9cdfe2caec94aa0f06ad2ebf9
+SHA256: f037a2aa5911a6eb2b627cf8731e4502f730e4a6e7e23805a1cb117930c2178f
+
+Package: com.tqm-mos.whitelegum
+Version: 1.1
+Architecture: iphoneos-arm
+Name: White Legum
+Description: Nice theme for your iPhone free
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.whitelegum
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.whitelegum
+Filename: ./debs/com.tqm-mos.whitelegum_1.1_iphoneos-arm.deb
+Size: 34554682
+MD5sum: 73f00091f3a62fade88aeafddb835e19
+SHA1: 8dd32e9069da78462b404d568d5f2ee2130dcefe
+SHA256: 8be78db8a3a5d0a161e7c398c6e19be36f3f46fa533191787dc3869963413286
+
 Package: com.tqm-mos.antirevoke
 Name: antirevoke
 Author: stem grade
