@@ -34,6 +34,23 @@ MD5sum: a7be222485b429d9b41e2b639b09ecc5
 SHA1: 3c7263bc568ba1afa9bffc4e1f28eef0aa60c656
 SHA256: 342cdc9867ef607b7a3e4e99ebcf562adb81d0add5ad36384fce92287b1d54a4
 
+Package: com.tqm-mos.motweatherbytqm
+Name: Mot Weather by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.motweatherbytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.motweatherbytqm
+Filename: ./debs/com.tqm-mos.motweatherbytqm_0.1_iphoneos-arm.deb
+Size: 28157478
+MD5sum: 9c9687f5b55a8699c94b81f21533e483
+SHA1: 223197d162c2f601933e0cc194b53c4071483d5f
+SHA256: 688710605394cc3e8cc6637544f1fcb47e3ec5801345d99bcf6a9708e138ce3b
+
 Package: com.tqm-mos.cydown12
 Name: CyDown
 Author: julioverne <julioverne@me.com>
