@@ -46,10 +46,70 @@ tag: cydia::paid
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.motweatherbytqm
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.motweatherbytqm
 Filename: ./debs/com.tqm-mos.motweatherbytqm_0.1_iphoneos-arm.deb
-Size: 28157478
-MD5sum: 9c9687f5b55a8699c94b81f21533e483
-SHA1: 223197d162c2f601933e0cc194b53c4071483d5f
-SHA256: 688710605394cc3e8cc6637544f1fcb47e3ec5801345d99bcf6a9708e138ce3b
+Size: 28157488
+MD5sum: 02440a67c2112732da64d56265812caf
+SHA1: e7d5928ca07d820448ec6974a41347595caad69f
+SHA256: 89934798b36c779cc127c0c81c1341f79961e08acc5ee1e153b0941fc93176c1
+
+Package: com.tqm-mos.xeonbeta
+Name: Xeon (Beta)
+Version: 1.2-9
+Description: quản lý sóng wifi thay đổi tuỳ ý
+Author: Soongyu Kwon <soongyu.kwon@kakao.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), cy+cpu.arm64, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1), com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker
+Conflicts: com.alexzielenski.zeppelin, com.fortysixandtwo.alkaline, com.peterdev.xeon, com.ramenrepo.soba
+Replaces: com.alexzielenski.zeppelin, com.fortysixandtwo.alkaline, com.peterdev.xeon
+Installed-Size: 5196
+Section: IOS11
+Provides: com.alexzielenski.zeppelin, com.fortysixandtwo.alkaline, com.peterdev.xeon
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xeonbeta
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xeonbeta
+Filename: ./debs/com.tqm-mos.xeonbeta_1.2-9_iphoneos-arm.deb
+Size: 1309744
+MD5sum: d9e3bc75d19118a140a1d16bb8e0bff2
+SHA1: 771c7f2c04cedee3f8522aa1e651ecebf629cad3
+SHA256: 2cc0e2f4080a7ed962949329c52124c2ba3469532c967d606469ef9f762c6138
+
+Package: com.tqm-mos.magmapro
+Version: 1.4.1
+Section: IOS12
+Maintainer: @tqmmos
+Description: Tô màu cho Trung tâm kiểm soát
+Depends: mobilesubstrate, firmware (>= 12.0), me.nepeta.libcolorpicker, applist
+Conflicts: com.noisyflake.magma, net.kenhtao.magmapro
+Architecture: iphoneos-arm
+Installed-Size: 368
+Name: Magma Pro
+Author: NoisyFlake
+Icon: file:///Applications/Cydia.app/Sections/IOS12.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.magmapro
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.magmapro
+Filename: ./debs/com.tqm-mos.magmapro_1.4.1_iphoneos-arm.deb
+Size: 124616
+MD5sum: e55ca27c03a8b50d76d6bb3f5643e2be
+SHA1: 6c1d5c313783f5a09e10e6570f068e183d18a9c0
+SHA256: a96706a122ba7c7fd933fac742a0ddc70d18423c7a60dc933af10a3c9bbbeccf
+
+Package: com.tqm-mos.grupi
+Name: Grupi
+Version: 1.0.1
+Description: nhóm các thông báo
+Author: Soongyu Kwon & Timeloop
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Installed-Size: 495
+Section: IOS11
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.grupi
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.grupi
+Filename: ./debs/com.tqm-mos.grupi_1.0.1_iphoneos-arm.deb
+Size: 170276
+MD5sum: de27dd3a228f0235d8f10db37fd0e11a
+SHA1: 1d0b0b19498451ec7893ff15da45d684c79bb6f8
+SHA256: 6dcb0528320f98f4023544b6e83433883d3f16c667c04c6779e87e5109fb6b38
 
 Package: com.tqm-mos.cydown12
 Name: CyDown
