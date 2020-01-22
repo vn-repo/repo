@@ -15,6 +15,80 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.aovhackmaplp
+Name: Liên Quân Hack Maps
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Arena of Valor iGMM Cheats iOSGods.com!
+Maintainer: @tqmmos
+Author: DanYal
+Section: Hack Games
+Version: 1.33.1.5v2+iOSGods.com
+Installed-Size: 3592
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aovhackmaplp
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aovhackmaplp
+Filename: ./debs/com.tqm-mos.aovhackmaplp_1.33.1.5v2+iOSGods.com_iphoneos-arm.deb
+Size: 1039440
+MD5sum: 1dbc04578064dd264776144e9db66bc2
+SHA1: b5e3de541e4eac7f9072892dd243cbd910022740
+SHA256: 1e01be8a45c40d89237fe10d245c451607a16ab5558c506e748c126e6da40e30
+
+Package: com.tqm-mos.reprovision
+Name: ReProvision
+Version: 0.5.1~EOL
+Description: Re-sign applications on your device
+Section: System
+Depends: firmware (>= 9.0)
+Priority: optional
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reprovision
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reprovision
+Filename: ./debs/com.tqm-mos.reprovision_0.5.1~EOL_iphoneos-arm.deb
+Size: 14388074
+MD5sum: ab294be9b040bb9a2b7e5e055a674048
+SHA1: da026d10241e28a0f32b8463bedad23d59739e2b
+SHA256: b0e4780f083acc8c0bca62b03b8a766dd27da06a1826e895fc6c230d50ab564a
+
+Package: com.tqm-mos.antirevoke2
+Version: 2.1
+Section: System
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate
+Conflicts: org.cydia.kiimo.antirevoke
+Architecture: iphoneos-arm
+Name: Anti-Revoke 2
+Author: Sübhan Kahraman <khrmn.sbhn@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.antirevoke2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.antirevoke2
+Filename: ./debs/com.tqm-mos.antirevoke2_2.1_iphoneos-arm.deb
+Size: 4528
+MD5sum: e060d5aa76aba4163ddc447f53acfe67
+SHA1: c218496c5279afeec5bd70117972d8cd1d3832af
+SHA256: 2967c2202f4aebd29b87361bd29187e6dff195968a6d342eb597c84f7bc13897
+
+Package: com.tqm-mos.sbcaldaybytqm
+Name: SB CalDay by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbcaldaybytqm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sbcaldaybytqm
+Filename: ./debs/com.tqm-mos.sbcaldaybytqm_0.1_iphoneos-arm.deb
+Size: 39020422
+MD5sum: bfcb8467a963515326af23789c3c57d9
+SHA1: 06a42edb41f4537344d1d0af5e2001fbe02bd054
+SHA256: 75c13ee9b018990762553fa8b925dc4e3704e3872f158b99362c74bfb9875325
+
 Package: com.tqm-mos.xeninfo
 Name: XenInfo
 Depends: mobilesubstrate, firmware (>= 9.0)
