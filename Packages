@@ -19,19 +19,19 @@ Package: com.tqm-mos.aovhackmaplp
 Name: Liên Quân Hack Maps
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Arena of Valor iGMM Cheats iOSGods.com!
+Description: Arena of Valor iGMM Cheats
 Maintainer: @tqmmos
-Author: DanYal
+Author: TheArmKing
 Section: Hack Games
-Version: 1.33.1.5v2+iOSGods.com
+Version: 1.33.1.5
 Installed-Size: 3592
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aovhackmaplp
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aovhackmaplp
-Filename: ./debs/com.tqm-mos.aovhackmaplp_1.33.1.5v2+iOSGods.com_iphoneos-arm.deb
-Size: 1039440
-MD5sum: 1dbc04578064dd264776144e9db66bc2
-SHA1: b5e3de541e4eac7f9072892dd243cbd910022740
-SHA256: 1e01be8a45c40d89237fe10d245c451607a16ab5558c506e748c126e6da40e30
+Filename: ./debs/com.tqm-mos.aovhackmaplp_1.33.1.5_iphoneos-arm.deb
+Size: 214188
+MD5sum: 0781cc9b449a64a671297059f7f13218
+SHA1: 4f92e7dd42e19923750240f0be8d80f5c5b8ed7d
+SHA256: 3f85fd31debacc9d59d1dc898d638c75b168e94f036a5f9768e0a442a94a7f23
 
 Package: com.tqm-mos.reprovision
 Name: ReProvision
