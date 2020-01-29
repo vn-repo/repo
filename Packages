@@ -15,6 +15,279 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui, tqm-mos.iconrepo
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.85~Beta2
+Installed-Size: 4292
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.85~Beta2_iphoneos-arm.deb
+Size: 2019362
+MD5sum: dfdc8d90aa045e82f715161e9ec4967e
+SHA1: dc5a7dee02454d6bfbe025f50695d6a3b6d89552
+SHA256: a5f59649639a0cde646b8bac2526eb2a9e5a3b42a6db52a04d85b15c3b79c06b
+
+Package: com.tqm-mos.snowboard.settingsicons
+Name: SnowBoard Settings
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Settings Icons for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.18~Beta1
+Installed-Size: 452
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.settingsicons_1.0.18~Beta1_iphoneos-arm.deb
+Size: 75304
+MD5sum: 3c20307b6e9ab8ee2df71902721acad8
+SHA1: 9846681f937e5b099a9110f7af04aded549d44a2
+SHA256: 9b290c25927a1a38e9de5bad9bb36534b44f4875827bbf442c5be005554156c9
+
+Package: com.tqm-mos.snowboard.masks
+Name: SnowBoard Icon Masks
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon masks for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.14~Beta2
+Installed-Size: 532
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.masks_1.0.14~Beta2_iphoneos-arm.deb
+Size: 81474
+MD5sum: aed8db2743272a352a76bfda79b89c12
+SHA1: 658510e8f495181fec74ea3b9ee7e43b0457ce2c
+SHA256: 6a931ff5fb6ee05bcfce714ed3ee374733dccdfe1f40f198ac0043a9e2e4d7d5
+
+Package: com.tqm-mos.snowboard.effects
+Name: SnowBoard Icon Effects
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon Effects for SnowBoard
+Maintainer: @tqmmos
+Author: Spark
+Section: SnowBoard
+Version: 1.0.32~Beta2
+Installed-Size: 548
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.effects_1.0.32~Beta2_iphoneos-arm.deb
+Size: 107212
+MD5sum: 04616235494c5693d7f252d5800721c9
+SHA1: 0a1fe7eab1c4cc30c9b21d61635fa3f8caa78c8c
+SHA256: c3cf5c27d28a049f724f20911de45683e694d77db66f957c559ff429f51263a4
+
+Package: com.tqm-mos.snowboard.dock
+Name: SnowBoard Dock
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Dock for SnowBoard
+Maintainer: TQM
+Author: Spark
+Section: SnowBoard
+Version: 1.0.11~Beta2
+Installed-Size: 536
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.dock_1.0.11~Beta2_iphoneos-arm.deb
+Size: 103892
+MD5sum: a69badf22c019915d5ddc6ed874774b9
+SHA1: 6c4cf10a237197355a382cbdd4e648c1cb2c4503
+SHA256: 7a820e2254f363d60a172e1a8f1fc10d05af2fd03ba61c8dcefb6bcac96d2687
+
+Package: com.tqm-mos.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: You can HIDE Doing jailbreak your iDevice.
+Maintainer: TQM
+Author: XsF1re
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+Version: 0.2~beta31
+Installed-Size: 840
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.flyjb
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.flyjb
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.flyjb_0.2~beta31_iphoneos-arm.deb
+Size: 202092
+MD5sum: 04c1d2e4a4b14a20bad607507713b6fe
+SHA1: ca4aa53fa7da60856816de7f6c062714a16da932
+SHA256: ac8ce2185cdeeda7e67c5b63c25bb13fbcdca300e6c40f8c74c457ba0c796f1f
+
+Package: com.tqm-mos.asteroid
+Version: 3.0.7
+Priority: optional
+Section: IOS11
+Maintainer: TQM
+Description: Thời tiết trên toàn hệ thống.
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences (>= 1.1.5), com.creaturesurvive.libcscolorpicker(>= 1.0.3)
+Architecture: iphoneos-arm
+Installed-Size: 2280
+Name: Asteroid
+Author: midnightchips & the casle
+Icon: file:///Applications/Cydia.app/Sections/IOS11.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.asteroid
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.asteroid
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.asteroid_3.0.7_iphoneos-arm.deb
+Size: 874484
+MD5sum: 0e23dc306fbdcd17e6156fea6832d6a0
+SHA1: 72408c4b08d2b8c74e74db4bfbf1b29b0cff2831
+SHA256: 682ddf89d2812c92a781679470feac59469565fc293c5fccb17bf6ceb93c8ed9
+
+Package: com.creaturesurvive.libcscolorpicker
+Name: libCSColorPicker
+Pre-Depends: firmware (>= 7.0)
+Architecture: iphoneos-arm
+Description: A minimal color picker library for developers
+Maintainer: @tqmmos
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: System
+Tag: purpose::extension, compatible_min::iosiOS7
+Version: 1.0.3
+Installed-Size: 460
+Depiction: http://tqm-mos.github.io/description.html?id=com.creaturesurvive.libcscolorpicker
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.creaturesurvive.libcscolorpicker
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0.3_iphoneos-arm.deb
+Size: 148364
+MD5sum: 5d45018a39df62537c2c478822d1f655
+SHA1: f70e50ce33c11a38f010c18de979a9e0eb61270a
+SHA256: 295cb7cdc4c34e9c7c75ee8eeb5778f9eeaafb29450de2252b7f339f69b286a0
+
+Package: com.creaturecoding.libcspreferences
+Name: libCSPreferences
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: A Preference Library that doesn't suck!
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: System
+Tag: compatible_min::iosiOS9
+Version: 1.2.9
+Installed-Size: 4948
+Depiction: http://tqm-mos.github.io/description.html?id=com.creaturesurvive.libcscolorpicker
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.creaturesurvive.libcscolorpicker
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.creaturecoding.libcspreferences_1.2.9_iphoneos-arm.deb
+Size: 1405082
+MD5sum: eddacc7e301c67bd6c06be0a49ff6e83
+SHA1: 313ae04b89bf03d1830075ebe74d281f25424f20
+SHA256: 03e729b85603d82bd2d0bad4cbd6641cbccccc810549532d44e159abdaf71d4e
+
+Package: com.tqm-mos.ella
+Version: 1.2.1
+Architecture: iphoneos-arm
+Name: ELLA HD
+Description: It's HD theme
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@hotmail.com>
+Author: @tqmmos <anhminh311105@hotmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ella
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ella
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.ella_1.2.1_iphoneos-arm.deb
+Size: 13854978
+MD5sum: ac45d8c337efad8c4e0d6beea4428653
+SHA1: 1d62cd219c848f0aec2d146424c6891e0ea89020
+SHA256: 84388e47ebe4528597d00db63db7958a8e5cfee66b33f7455ab1f1ce83f8ec58
+
+Package: com.tqm-mos.peek
+Name: Peek
+Author: @tqmmos <anhminh311105@hotmail.com>
+Description: App Previews for iOS.
+Maintainer: @tqmmos <anhminh311105@hotmail.com>
+Version: 0.7
+Section: TQM
+Architecture: iphoneos-arm
+Icon: https://repo.packix.com/api/Packages/5dee8e5fb727c2002995e24f/icon/download?size=medium&hash=2
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peek
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peek
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.peek_0.7_iphoneos-arm.deb
+Size: 2250332
+MD5sum: b62ce3dae2ea2e2c15582b077c0e9a25
+SHA1: b99b191891166b3dc9f1e913fa41679ac0415bff
+SHA256: 0c534f26891a929cfa6229a56f079d5c3db3d83a766c610414851cb0975658c1
+
+Package: com.tqm-mos.peekdark
+Name: Peek Dark
+Author: @tqmmos <anhminh311105@hotmail.com>
+Description: Dark Previews for iOS.
+Maintainer: @tqmmos <anhminh311105@hotmail.com>
+Version: 0.7
+Section: TQM
+Architecture: iphoneos-arm
+Icon: https://repo.packix.com/api/Packages/5deeaab049439c002ee91ca4/icon/download?size=medium&hash=2
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peekdark
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peekdark
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.peekdark_0.7_iphoneos-arm.deb
+Size: 2079616
+MD5sum: bfe3505e1d00181375f480fcf8a59308
+SHA1: c2b96343828c1aa28947ce94bf7de87d36752b6c
+SHA256: fe1ff7242a5eb887a109897c702895432ef709b4ad7900ac05fd8c5ba275093d
+
+Package: com.tqm-mos.snowboard.effects
+Name: SnowBoard Icon Effects
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
+Architecture: iphoneos-arm
+Description: Icon Effects for SnowBoard
+Maintainer: @tqmmos
+Author: Spark
+Section: SnowBoard
+Version: 1.0.33~Beta2
+Installed-Size: 548
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.effects_1.0.33~Beta2_iphoneos-arm.deb
+Size: 107838
+MD5sum: 8afbc9c30ff766fd0e45b1a8bb1d44b3
+SHA1: acbaf779af3ea0a37edd83682e441866a1c7d8ea
+SHA256: 63a1993d91b92be8a2b550840de1a98e95dca93fae3c1ac404527517f2d7f316
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui, tqm-mos.iconrepo
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard
+Maintainer: TQM
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.86~Beta2
+Installed-Size: 4292
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.86~Beta2_iphoneos-arm.deb
+Size: 2019904
+MD5sum: b276292481daa580694e346aec5dfe5d
+SHA1: b13874cf67a7bbf11a8632b7b97e869ca178c84b
+SHA256: 8499e70d5e99ef6dcae3b35d857928a169f55bbf7831e5f0727a4ffd2db689fa
+
 Package: com.tqm-mos.aovhackmaplp
 Name: Liên Quân Hack Maps
 Depends: mobilesubstrate
