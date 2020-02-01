@@ -56,6 +56,84 @@ MD5sum: 3c20307b6e9ab8ee2df71902721acad8
 SHA1: 9846681f937e5b099a9110f7af04aded549d44a2
 SHA256: 9b290c25927a1a38e9de5bad9bb36534b44f4875827bbf442c5be005554156c9
 
+Package: me.nepeta.axon
+Name: Axon
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Architecture: iphoneos-arm
+Description: Priority Hub for iOS 11+
+Maintainer: @tammos
+Author: Nepeta 
+Section: IOS11
+Version: 0.5.1
+Installed-Size: 1144
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.axon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.axon
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/me.nepeta.axon_0.5.1_iphoneos-arm.deb
+Size: 457514
+MD5sum: 114054649966d9a71c8bc54fa5b31af8
+SHA1: 6155fda675e9ea1cea52a0e844b90a324e873e93
+SHA256: 22594d14100325357e9a4b153a4eeaf1405c7836a85c2bee3daa6c2a96448427
+
+Package: com.tqm-mos.mot
+Name: Mot
+Version: 1.0
+Description: Thời tiết khóa màn hình
+Author: Don
+Depends: mobilesubstrate
+Installed-Size: 371
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mot
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mot
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.mot_1.0_iphoneos-arm.deb
+Size: 94990
+MD5sum: 41900a4fe1e9f06b25fbee66d75d6626
+SHA1: a8afc99143bb42928008e334ad0c3c697679e43a
+SHA256: f42704fcf03e6774cb5efde3586bbe755c5ff17472affff1945bc38c72a2401c
+
+Package: com.tqm-mos.magmaevo
+Name: Magma Evo
+Version: 1.0.5
+Description: Thiết kế lại điểm kiểm soát
+Author: NoisyFlake
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader (>= 2.2.4~beta1), com.tqm-mos.ccsupport, org.thebigboss.libcolorpicker
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Installed-Size: 498
+Section: IOS12
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.magmaevo
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.magmaevo
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.magmaevo_1.0.5_iphoneos-arm.deb
+Size: 138610
+MD5sum: 39998524ff2358bbe78e4c6220a6fa64
+SHA1: 32bbcd09a98c3418c4b2d02394cc0f31af8d463c
+SHA256: 6333cb0bcb356318d4c8aba80a30f15174e795df292b2f7111432b2620d8487d
+
+Package: com.tqm-mos.kalm
+Name: Kalm
+Version: 1.0.0
+Description: Thiết kế lại điểm kiểm soát
+Author: ubik <cydia@ubikstyl.es>
+Depends: mobilesubstrate
+Installed-Size: 365
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmoss 
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.kalm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.kalm
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.kalm_1.0.0_iphoneos-arm.deb
+Size: 95906
+MD5sum: f88a8d61a45dac2f0e7fbc1c5ad9333d
+SHA1: 29b5f3b83af7beb9ceb56ffe048370e98c00bd71
+SHA256: 2263f50e5f51f493bc33828026913c84c964eeb2a9f00f5849fb7393aaebe295
+
 Package: com.tqm-mos.snowboard.masks
 Name: SnowBoard Icon Masks
 Depends: mobilesubstrate, com.tqm-mos.snowboard (>= 1.2.0)
