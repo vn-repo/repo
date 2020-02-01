@@ -113,6 +113,195 @@ MD5sum: a69badf22c019915d5ddc6ed874774b9
 SHA1: 6c4cf10a237197355a382cbdd4e648c1cb2c4503
 SHA256: 7a820e2254f363d60a172e1a8f1fc10d05af2fd03ba61c8dcefb6bcac96d2687
 
+Author: opa334 <opa334@protonmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Name: CCSupport
+Package: com.tqm-mos.ccsupport
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Provides: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Conflicts: com.ioscreatix.silo
+Section: IOS11
+Installed-Size: 201
+Version: 1.2.2
+Architecture: iphoneos-arm
+Description: Support tweak for CC modules!
+dev: opa334
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ccsupport
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ccsupport
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.ccsupport_1.2.2_iphoneos-arm.deb
+Size: 48402
+MD5sum: 06cc253b00a7855ead08aecf16f9c52b
+SHA1: c2311fbd1730cd35fa6aa8b05eac83997751776d
+SHA256: 871556ab852b12986837a413ce9203d54c5f1bb1a35dd7bea4895be9fbbfe622
+
+Package: com.tqm-mos.coolcc
+Name: CoolCC
+Version: 3.4
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate,preferenceloader,com.creaturesurvive.libcscolorpicker
+Installed-Size: 448
+Author: 4nni3 <4nni3.14@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Makes ControlCenter cool.
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.coolcc
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.coolcc
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.coolcc_3.4_iphoneos-arm.deb
+Size: 55142
+MD5sum: 624db5917a0dd2316e63bd899ecaf352
+SHA1: dd24acfcc6f490085a783bd652976326c67b571f
+SHA256: 9e2ab56ba473f63298d738a4c8e0cb10d5d7a1c1c776cdda89377a6e367dde11
+
+Package: com.tqm-mos.coolcc
+Version: 3.4~beta4
+Section: Tweaks
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker
+Conflicts: netakao.coolcc
+Architecture: iphoneos-arm
+Installed-Size: 448
+Name: CoolCC
+Author: 4nni3
+Description: Makes ControlCenter cool.
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.coolcc
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.coolcc
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.coolcc_3.4~beta4_iphoneos-arm.deb
+Size: 55152
+MD5sum: 76b686e037183aa8a8e06407cf030036
+SHA1: 808fa3bfe47c4c3545b901a5461aaa5e0e4833c7
+SHA256: 4df716e00caf124b9704321a607d4853dc28b76fe53624b220b1fa23db861a2c
+
+Package: com.tqm-mos.blackwhite
+Name: BlackWhite
+Version: 1.0.8
+Description: Тhemes Anemone
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 12807
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blackwhite
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blackwhite
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.blackwhite_1.0.8_iphoneos-arm.deb
+Size: 9006004
+MD5sum: 21e7de04a9d33928cfe22770dc453056
+SHA1: 5492b1bcf7014bdb4ae4a1ee9761ad4f5572e859
+SHA256: 8c25f5059f07eb6fd5b1456e01fae4548407d215f1a92df0b537fe815a236eae
+
+Package: com.tqm-mos.prysm.beta
+Name: Prysm Beta 4 Cracked
+Author: LaughingQuoll
+Description: Your control center, reimagined.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 0.4
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 1252
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.prysm.beta_0.4_iphoneos-arm.deb
+Size: 243446
+MD5sum: 92ebdfa27bbe5306946b26f3e2fcce75
+SHA1: c5cc1fe69215cb15c98926f1d9b29d0c15fc0bb1
+SHA256: 877a18a7b291fbe99d955fab2f5f5e818d8fe40f14f411fba9e13764d24d9105
+
+Package: com.tqm-mos.dai
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Dai
+Description: enjoy Free theme for your iPhone
+Section: TQM
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dai
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dai
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.dai_1.0_iphoneos-arm.deb
+Size: 50246252
+MD5sum: 699c9f5a0a9c5c67aacf2ee87ff6731a
+SHA1: b531cf7821c2e33bb41767af3a49cb570d66e96c
+SHA256: 4dab646641b1a0d44bca64a4a9fa83af0c0f734812b250b51350655bf5ee707a
+
+Package: com.tqm-mos.jellyoid
+Name: Jellyoid
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: Beautiful tin theme.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.jellyoid
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.jellyoid
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.jellyoid_1.0_iphoneos-arm.deb
+Size: 2134738
+MD5sum: 9621b193814c992cc50c6176b8688ba0
+SHA1: 067a14c2297401277596b70bb55a62a386b7bdfe
+SHA256: eb5d4df13b96b39803d818e12c3dee168066e3252906109bb15a9d32f726528b
+
+Package: com.tqm-mos.leaf
+Name: Leaf Theme
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: Beautiful stylish thema that appeals to the eye.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 2.2.4
+Section: TQM
+Architecture: iphoneos-arm
+Icon: https://repo.packix.com/api/Packages/5e1c938cbdea4a001a6e9c14/icon/download?size=medium
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.leaf
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.leaf
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.leaf_2.2.4_iphoneos-arm.deb
+Size: 15667070
+MD5sum: 4b6acfe84c931cf5cd4fc45385fead8e
+SHA1: 2420afb107b27502f77925ab67158f6f4419f796
+SHA256: e89b305fae7bb3c3b20d42594dd1b65114f16e09c17b1f1f73cf0048dc6a7511
+
+Package: com.tqm-mos.plex
+Version: 1.3
+Architecture: iphoneos-arm
+Name: Plex
+Description: Theme King.Theme- support iOS 10 & 11 & 12 & 13
+Installed-Size: 17601476
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.plex
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.plex
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.plex_1.3_iphoneos-arm.deb
+Size: 74790410
+MD5sum: 1bd0127fabaa424dc9f32f5a9f0f8e51
+SHA1: e7e88c6eb429980f909165392f739637e7a08abe
+SHA256: 9883e4a411d3b17eecc52622e34857dadee6b01913a8cdbd825fa6feacb5e8e2
+
+Package: com.tqm-mos.prysm
+Name: Prysm Beta 1
+Version: 1.0
+Description: Thiết kế lại điểm kiểm soát
+Author: LaughingQuoll
+Depends: mobilesubstrate
+Installed-Size: 1313
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.prysm_1.0_iphoneos-arm.deb
+Size: 214714
+MD5sum: 79ec97cde226e4248717420db4c3cc32
+SHA1: 2df93a4866bd61060e94505ebe554d7bde739653
+SHA256: bb0f698c0b60f280773731754dd46c4bbf8c932822d142b59f12043a9ca386f1
+
 Package: com.tqm-mos.flyjb
 Name: FlyJB
 Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
