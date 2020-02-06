@@ -37,6 +37,23 @@ MD5sum: a6fe57da4a6e59e8c9ef59bfec108eb4
 SHA1: c7fb8bc5fcb371c87ee5c8fddf4123241ed7f5d2
 SHA256: a5ef21959309a33755f5b09f141823ab12f7137d5a6c81b034d4ecf31b5970ce
 
+Package: com.tqm-mos.whitedream
+Name: White Dream
+Version: 1.2
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: White Dream Theme Pack IOS 9 - IOS 13.
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.whitedream
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.whitedream
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.whitedream_1.2_iphoneos-arm.deb
+Size: 21390402
+MD5sum: f53ca7c979ca2daa1bbf9cfc1efc30dc
+SHA1: 459dd53726ef9739fdbc1a86aaf57aa7c2b873f3
+SHA256: 3eb826c015a0e16d7e32f33d3f12f728c4cab7eb3709e1b4a6d211102fe4b372
+
 Package: com.tqm-mos.carbonite
 Name: Carbonite
 Version: 1.0.3
