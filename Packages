@@ -17,7 +17,7 @@ SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
 Package: com.matchstic.xenhtml
 Name: Xen HTML
-Version: 1.1~release
+Version: 1.2
 Description: Unified HTML rendering; lockscreen and homescreen
 Section: System
 Depends: firmware (>= 9.0), com.tqm-mos.xeninfo, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
@@ -31,11 +31,11 @@ Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
 Depiction: http://tqm-mos.github.io/description.html?id=com.matchstic.xenhtml
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.matchstic.xenhtml
 Homepage: https://www.facebook.com/quangminhdx
-Filename: ./debs/com.matchstic.xenhtml_1.1~release_iphoneos-arm.deb
-Size: 2899818
-MD5sum: dd60122d54b2ac8c21b67963ac7f7b2e
-SHA1: 368f3312a7eaaf4ff580f57375b4fd3db951f798
-SHA256: 5379eac9f3f8e611dcb70cedf3c0725c9ea9631463ede14e821fc61d834f7896
+Filename: ./debs/com.matchstic.xenhtml_1.2_iphoneos-arm.deb
+Size: 2899808
+MD5sum: 399e4a21d3b4d0fefc1e2318a21c1b9a
+SHA1: 6575276e8b1d634af427fe21e185e817c6a6feb6
+SHA256: 00b4b182d74c03b58e1a3a12cbc774664f3c6164c81346b3037c05350667cc96
 
 Package: com.tqm-mos.xiiihud
 Name: XIIIHUD-Mute
