@@ -15,6 +15,46 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.matchstic.xenhtml
+Name: Xen HTML
+Version: 1.1~release
+Description: Unified HTML rendering; lockscreen and homescreen
+Section: System
+Depends: firmware (>= 9.0), com.tqm-mos.xeninfo, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: MattClarke
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.matchstic.xenhtml
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.matchstic.xenhtml
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.matchstic.xenhtml_1.1~release_iphoneos-arm.deb
+Size: 2899818
+MD5sum: dd60122d54b2ac8c21b67963ac7f7b2e
+SHA1: 368f3312a7eaaf4ff580f57375b4fd3db951f798
+SHA256: 5379eac9f3f8e611dcb70cedf3c0725c9ea9631463ede14e821fc61d834f7896
+
+Package: com.tqm-mos.xiiihud
+Name: XIIIHUD-Mute
+Author: XCXiao
+Description: An awesome MobileSubstrate tweak!
+Maintainer: @tqmmos
+Version: 1.0.2-1
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 456
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xiiihud
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xiiihud
+Filename: ./debs/com.tqm-mos.xiiihud_1.0.2-1_iphoneos-arm.deb
+Size: 110480
+MD5sum: b78a27d67e097b67dbaa4cac5451ad3d
+SHA1: 02a3886cb7e11ef14f7d2e50058a3a38a5f2dfe8
+SHA256: 07d26701ddbcbf5a0677f4f9fbc442832a89aaa299da06520256e38ab28491eb
+
 Package: com.tqm-mos.xiiihud
 Name: XIIIHUD-Mute Free
 Author: XCXiao
