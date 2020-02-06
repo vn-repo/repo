@@ -15,6 +15,149 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.xiiihud
+Name: XIIIHUD-Mute Free
+Author: XCXiao
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Pulandres
+Version: 1.0.2
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 456
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xiiihud
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xiiihud
+Filename: ./debs/com.tqm-mos.xiiihud_1.0.2_iphoneos-arm.deb
+Size: 105672
+MD5sum: 5cbb9d1fa3522142d6b41d310a2f4c20
+SHA1: 4adfff792d624545904bc52d8202cbe8f324607b
+SHA256: 1f2951fd595301513becb7805332ca1bb3ac7a3b25a3adbfc480b7074c06a3dd
+
+Package: com.tqm-mos.nicebarx
+Name: NiceBarX(iOS11 iOS12)
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate,com.tqm-mos.nicehelper(>=2.1)
+Architecture: iphoneos-arm
+Description: NiceBarX iOS11 iOS12
+Maintainer: @tqmmos
+Author: niceios
+Section: Tweaks
+Version: 3.0.0.3-2
+Installed-Size: 14640
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicebarx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicebarx
+Filename: ./debs/com.tqm-mos.nicebarx_3.0.0.3-2_iphoneos-arm.deb
+Size: 3295680
+MD5sum: 45400cfa7927bfae21ca1ed76ae0d9d8
+SHA1: e87b1d90b20bf6f0b74b69bb23fc251bffcc4a50
+SHA256: bfecb6c3344348869a12d881148ddc6ff192b2bd6654dba60f4dd8ceef04fef4
+
+Package: com.tqm-mos.nicebarx13
+Name: NiceBarX(iOS13)
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate,com.tqm-mos.nicehelper(>=1.7)
+Architecture: iphoneos-arm
+Description: NiceBarX(iOS13)
+Maintainer: @tqmmos
+Author: niceios
+Section: Tweaks
+Version: 1.0.0.5-46
+Installed-Size: 11588
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicebarx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicebarx
+Filename: ./debs/com.tqm-mos.nicebarx13_1.0.0.5-46_iphoneos-arm.deb
+Size: 3005348
+MD5sum: 70e81efa3fb9e924b47c18f44223c9f8
+SHA1: 532e995c7f012e9f43a8028d6e31a697a5fa02e1
+SHA256: 4173ba0f5d46a231298d58d425d23e33012ec8bf78dc41b6febc7bd1fa0e3ab4
+
+Package: com.tqm-mos.nicecaller
+Name:NiceCaller(iOS12)
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate,com.tqm-mos.nicehelper(>=2.2)
+Architecture: iphoneos-arm
+Description: Cuộc gọi cửa sổ, ghi âm cuộc gọi, chặn cuộc gọi, nhà, T9 ..
+Maintainer: @tqmmos
+Author: niceios
+Section: Tweaks
+Version: 2.0.0.7-16
+Installed-Size: 13708
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicecaller
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicecaller
+Filename: ./debs/com.tqm-mos.nicecaller_2.0.0.7-16_iphoneos-arm.deb
+Size: 4964908
+MD5sum: cb5f746061a61e47f097dbc9c17cf8f1
+SHA1: a945dfe600aa61a8eb121486bdbb36e1cfa9e5eb
+SHA256: a7072311ab392f26cbc0dc0c0bf1824b569c439c2aac99406effde0c6867ba43
+
+Package: com.tqm-mos.nicecaller13
+Name:NiceCaller(iOS13)
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate,com.tqm-mos.nicehelper(>=2.0)
+Architecture: iphoneos-arm
+Description: Cuộc gọi cửa sổ, ghi âm cuộc gọi, chặn cuộc gọi, nhà, T9 ..
+Maintainer: @tqmmos
+Author: niceios
+Section: Tweaks
+Version: 1.0.0.2-25
+Installed-Size: 8892
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicecaller
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicecaller
+Filename: ./debs/com.tqm-mos.nicecaller13_1.0.0.2-25_iphoneos-arm.deb
+Size: 3048766
+MD5sum: 2c19614f08fbd8ccb77a14e9b04ae9c0
+SHA1: 2dee8343de59575096e9e060cd6422b86836bfaa
+SHA256: 75b2b7dfa13196d2869b8f70557701e4a7b448d5fefe203e2cc01d2f00f66266
+
+Package: com.tqm-mos.nicehelper
+Name: NiceHelper
+Depends: com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Description: NiceHelper.
+Maintainer: @tqmmos
+Author: niceios
+Section: Addons
+Version: 2.2-2
+Installed-Size: 1740
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicehelper
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicehelper
+Filename: ./debs/com.tqm-mos.nicehelper_2.2-2_iphoneos-arm.deb
+Size: 827598
+MD5sum: 74a80383a0685287fb2492e861ebd78a
+SHA1: e99068545f9e7fc9c6c297fe7908fe5da954543b
+SHA256: 640b340407f1fd3634a3871efbf6e3fa7b58d79ab1fb695475b67da710e96a11
+
+Package: com.tqm-mos.nicepowerx
+Name:NicepowerX
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
+Architecture: iphoneos-arm
+Description: Thiết bị Bluetooth / màn hình hiển thị mức pin ngoài ..
+Maintainer: @tqmmos
+Author: niceios
+Section: Tweaks
+Version: 1.0.0.6-2
+Installed-Size: 6240
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicepowerx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nicepowerx
+Filename: ./debs/com.tqm-mos.nicepowerx_1.0.0.6-2_iphoneos-arm.deb
+Size: 2600674
+MD5sum: 4afbbb744dd308d7c71d16c19845d581
+SHA1: 9a988bef01fa04fe31949fd813db9709cde31128
+SHA256: 621251c109156cc988a93f13d09ca26b450e364b344703d0acfaa36ede5cdb54
+
+Package:com.tqm-mos.notchstatusbar
+Name: Notchstatusbar
+Depends:mobilesubstrate
+Version:2.0
+Architecture: iphoneos-arm
+Description: Các mô hình không phải X (hỗ trợ 11-12 hệ thống) thay đổi thanh trạng thái X.
+Maintainer: @tqmmos
+Author: niceios
+Section: Tweaks
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.notchstatusbar
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.notchstatusbar
+Filename: ./debs/com.tqm-mos.notchstatusbar_2.0_iphoneos-arm.deb
+Size: 128094
+MD5sum: eda06fa4ef137d66958ef7a99b16dc0a
+SHA1: 053de7d71b77c429d64f2de8119ac002557a0120
+SHA256: 39de068a0f693d5dd214fce5bf185bab74934e87bc569372f3c4a45eebcf9055
+
 Package: com.tqm-mos.ithemer
 Name: iThemer
 Version: 2.0.0-1
