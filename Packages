@@ -15,6 +15,119 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.ithemer
+Name: iThemer
+Version: 2.0.0-1
+Section: iThemer
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Installed-Size: 1384
+Author: DODGraphics <dodgraphics.1010@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: An awesome MobileSubstrate tweak!
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ithemer
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ithemer
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.ithemer_2.0.0-1_iphoneos-arm.deb
+Size: 241712
+MD5sum: a6fe57da4a6e59e8c9ef59bfec108eb4
+SHA1: c7fb8bc5fcb371c87ee5c8fddf4123241ed7f5d2
+SHA256: a5ef21959309a33755f5b09f141823ab12f7137d5a6c81b034d4ecf31b5970ce
+
+Package: com.tqm-mos.carbonite
+Name: Carbonite
+Version: 1.0.3
+Description: Mở rộng chức năng của cửa sổ truy cập dễ dàng
+Author: Antique <official.antique@gmail.com>
+Depends: mobilesubstrate
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <rejail@rejail.ru>
+Installed-Size: 122
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.carbonite
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.carbonite
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.carbonite_1.0.3_iphoneos-arm.deb
+Size: 38316
+MD5sum: 0220abd1cedc8616b9c52d9274043e33
+SHA1: 5a2c118533a9a778af973f3f5334d6c3c10e42dd
+SHA256: 8b674402c8eaaccbba317ce29269c1ddf3693881bbed051264b3999bd55f213f
+
+Package: com.tqm-mos.liacaglyphs
+Name: Liaca Glyphs
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: Glyphs Version of Liaca With Modern, Colourful and Carefully Design.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 1.1
+Section: TQM
+Architecture: iphoneos-arm
+Icon: https://repo.packix.com/api/Packages/5e2fe27d4cb622001b1b8698/icon/download?size=medium
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.liacaglyphs
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.liacaglyphs
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.liacaglyphs_1.1_iphoneos-arm.deb
+Size: 4227182
+MD5sum: a83aa9fb16f6b1d005036cab2afcb876
+SHA1: 544575597465d5ceaab53465b9a9357d9cb8bc74
+SHA256: a58ee3126c0909d84b5cdde03c524fa0cbee6885aac81d8da8781beb2429cec5
+
+Package: com.tqm-mos.linear2glyphs
+Name: Linear 2 Glyphs
+Architecture: iphoneos-arm
+Description: Vibrant Colors & Fine Lines.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Version: 1.1
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.linear2glyphs
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.linear2glyphs
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.linear2glyphs_1.1_iphoneos-arm.deb
+Size: 2896922
+MD5sum: 42971ee123d20b16ba9d50872f0d52c9
+SHA1: a4c7dc07e28d2e1433205291b3e86aca7dbeb826
+SHA256: 805457fe574d43ab1a0d29ebef6691c854bb6a80a4a984cdce9c3bb78df144b7
+
+Package: com.tqm-mos.linearglyphs
+Name: Linear Glyphs
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Vibrant Colors & Fine Lines
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+tag: cydia::commercial
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.linearglyphs
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.linearglyphs
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.linearglyphs_1.1_iphoneos-arm.deb
+Size: 2623392
+MD5sum: 4455611457a244f3b9a31b5c872d3ce6
+SHA1: 99852abe5ebd7ba71253e46f842d19e3ac170b2a
+SHA256: b49425d1cf8212e9d9419d51a15f9905d1052109ae715ed69c84ea997fd8144d
+
+Package: com.tqm-mos.prysm.beta
+Name: Prysm Beta 5
+Version: 0.5
+Description: Thiết kế lại điểm kiểm soát
+Author: LaughingQuoll
+Depends: mobilesubstrate
+Installed-Size: 1303
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.prysm.beta_0.5_iphoneos-arm.deb
+Size: 267272
+MD5sum: 6749d9ef57003782850592c6102b5ebf
+SHA1: 38203a3b8569a2ece53f241736ea0bd28a25dc71
+SHA256: b066b0f7b762979f79b1030749580227a19a00a7ef72c5ea95b3ce83c78d6325
+
 Package: com.tqm-mos.snowboard
 Name: SnowBoard
 Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboardapplication, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui, tqm-mos.iconrepo
@@ -217,7 +330,7 @@ SHA256: 871556ab852b12986837a413ce9203d54c5f1bb1a35dd7bea4895be9fbbfe622
 
 Package: com.tqm-mos.coolcc
 Name: CoolCC
-Version: 3.4
+Version: 1:3.4
 Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate,preferenceloader,com.creaturesurvive.libcscolorpicker
@@ -228,14 +341,14 @@ Description: Makes ControlCenter cool.
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.coolcc
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.coolcc
 Homepage: https://www.facebook.com/quangminhdx
-Filename: ./debs/com.tqm-mos.coolcc_3.4_iphoneos-arm.deb
-Size: 55142
-MD5sum: 624db5917a0dd2316e63bd899ecaf352
-SHA1: dd24acfcc6f490085a783bd652976326c67b571f
-SHA256: 9e2ab56ba473f63298d738a4c8e0cb10d5d7a1c1c776cdda89377a6e367dde11
+Filename: ./debs/com.tqm-mos.coolcc_1_3.4_iphoneos-arm.deb
+Size: 55144
+MD5sum: bbe9dea2bac4406b0e31a9c16c44f597
+SHA1: c9bf0091dbd44cfa9f0c3d219e763e3b394ac130
+SHA256: 226b49eac6863431257ed5269f9ae237afaf394224f05c5d52f709442e47030e
 
 Package: com.tqm-mos.coolcc
-Version: 3.4~beta4
+Version: 1:3.4~beta4
 Section: Tweaks
 Maintainer: @tqmmos <anhminh311105@gmail.com>
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker
