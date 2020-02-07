@@ -271,6 +271,23 @@ MD5sum: 8ab9d9231793852948c8ac12445a67e8
 SHA1: 9175473e8639cc892ac677e2e0a7d73ac7c92b64
 SHA256: a8591bb46a50b22df46dd40baab6d56bd7c352624e1c333e2b5054a8722cf3f1
 
+Package: com.tqm-mos.googlesans
+Name: Google Sans Fonts
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fonts ios Google Sans
+Maintainer: @alexman1979
+Author: @alexman1979
+Section: Fonts
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.googlesans
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.googlesans
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.googlesans_1.0_iphoneos-arm.deb
+Size: 24035384
+MD5sum: f988666d0bd9fa4a86f588061cd0bfb5
+SHA1: 8a522559f4b1afb4214be1fe11fd97828d5a207f
+SHA256: 8d63c6db9ed6732e73a73c045ad1aa511394cf69254a560e431b6e080d8bd4b3
+
 Package: com.tqm-mos.exofonts
 Name: Exo Fonts
 Version: 1.0
