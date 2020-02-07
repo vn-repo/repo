@@ -254,6 +254,57 @@ MD5sum: 44a5fbe7213ada8a1b0ef28a8c7a6431
 SHA1: a99882ae48ee6cf68bc528e2bd6b0750fa393b14
 SHA256: f855ed896f70920bc22b8bacb78da7cff305c8781b2b16328d7aba18600417ad
 
+Package: com.tqm-mos.bauhaus
+Name: Bauhaus Fonts
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fonts ios Bauhaus
+Maintainer: @alexman1979
+Author: @alexman1979
+Section: Fonts
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bauhaus
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.bauhaus
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.bauhaus_1.0_iphoneos-arm.deb
+Size: 43454064
+MD5sum: 8ab9d9231793852948c8ac12445a67e8
+SHA1: 9175473e8639cc892ac677e2e0a7d73ac7c92b64
+SHA256: a8591bb46a50b22df46dd40baab6d56bd7c352624e1c333e2b5054a8722cf3f1
+
+Package: com.tqm-mos.exofonts
+Name: Exo Fonts
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fonts ios Exo
+Maintainer: @alexman1979
+Author: @alexman1979
+Section: Fonts
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.exofonts
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.exofonts
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.exofonts_1.0_iphoneos-arm.deb
+Size: 24836074
+MD5sum: f64c55419390fa15af659d021987730c
+SHA1: f0536f4eb855f04d4d166679715e3dfbe1779ad2
+SHA256: 62701c960e66d7636cdb502185ba07f629bbd3b6769c510186ef7107aa66595f
+
+Package: com.tqm-mos.myriadpro
+Name: Myriad Pro Fonts
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fonts ios Myriad Pro
+Maintainer: @alexman1979
+Author: @alexman1979
+Section: Fonts
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.myriadpro
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.myriadpro
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.myriadpro_1.0_iphoneos-arm.deb
+Size: 32308848
+MD5sum: c07fabbb272a882cd12b53e9e5406f99
+SHA1: b9ced0810f2d9287b1b27202bbc155ba7fc21cdb
+SHA256: 242fdf0ee33d721b88a924ec1eb1fb37aa65319cfa6600995f99c99ade6af141
+
 Package: com.tqm-mos.fusionorange
 Name: Fusion Orange
 Author: @tqmmos <anhminh311105@gmail.com>
