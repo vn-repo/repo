@@ -254,6 +254,23 @@ MD5sum: 44a5fbe7213ada8a1b0ef28a8c7a6431
 SHA1: a99882ae48ee6cf68bc528e2bd6b0750fa393b14
 SHA256: f855ed896f70920bc22b8bacb78da7cff305c8781b2b16328d7aba18600417ad
 
+Package: com.tqm-mos.fusionorange
+Name: Fusion Orange
+Author: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionorange
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fusionorange
+Filename: ./debs/com.tqm-mos.fusionorange_1.0_iphoneos-arm.deb
+Size: 19916168
+MD5sum: 1bc0a540a6f61cc1e829b080a142a96c
+SHA1: 090858782cfc81e559a847dcd8fe7da78a4f87d4
+SHA256: db57fe69c1882101396f100e9a3d75c9d8d34cdf02c7269d8744480b6fd7d5cb
+
 Package: com.tqm-mos.carbonite
 Name: Carbonite
 Version: 1.0.4
