@@ -237,6 +237,42 @@ MD5sum: f53ca7c979ca2daa1bbf9cfc1efc30dc
 SHA1: 459dd53726ef9739fdbc1a86aaf57aa7c2b873f3
 SHA256: 3eb826c015a0e16d7e32f33d3f12f728c4cab7eb3709e1b4a6d211102fe4b372
 
+Package: com.tqm-mos.utopia
+Name: Utopia
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: The Themes version of Utopia beta 1
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.utopia
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.utopia
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.utopia_1.0_iphoneos-arm.deb
+Size: 13875036
+MD5sum: 44a5fbe7213ada8a1b0ef28a8c7a6431
+SHA1: a99882ae48ee6cf68bc528e2bd6b0750fa393b14
+SHA256: f855ed896f70920bc22b8bacb78da7cff305c8781b2b16328d7aba18600417ad
+
+Package: com.tqm-mos.carbonite
+Name: Carbonite
+Version: 1.0.4
+Description: Mở rộng chức năng của cửa sổ truy cập dễ dàng
+Author: Antique <official.antique@gmail.com>
+Depends: mobilesubstrate
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Installed-Size: 143
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.carbonite
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.carbonite
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.carbonite_1.0.4_iphoneos-arm.deb
+Size: 45690
+MD5sum: 6282716034a2554328181a0847d768ae
+SHA1: 4fcec134550828ec6b649c898afb322d1d382750
+SHA256: 65958ad5007b321bd33477c004323a4d05e1d863fa7844e5ce15a37ce8ae02ac
+
 Package: com.tqm-mos.carbonite
 Name: Carbonite
 Version: 1.0.3
