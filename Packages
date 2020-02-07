@@ -1342,10 +1342,10 @@ tag: cydia::paid
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.layertimebytqm
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.layertimebytqm
 Filename: ./debs/com.tqm-mos.layertimebytqm_0.1_iphoneos-arm.deb
-Size: 919614
-MD5sum: 4e9f9e8c7b9a3aab697e084bf18c6f3f
-SHA1: ef6e2655786e0e6688c3d51d1c7bd5ab443fc2fa
-SHA256: 523f9cd9c4afeaad2e12f0f2afd1df594e8e78de3b5a001679ccb6ea83bfe4cf
+Size: 919574
+MD5sum: 8f42ce315db954c26cd1be807e21545d
+SHA1: 58c58a40fe056a7b0ef193162a215d188a7c3d61
+SHA256: e20a29e7ec0c36d365656d1844fecb63dc61efe91f8efc555a2703bb274f9842
 
 Package: com.tqm-mos.snowboard.effects
 Name: SnowBoard Icon Effects
