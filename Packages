@@ -15,6 +15,74 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.blawbiw
+Name: Blawb Widget by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blawbiw
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blawbiw
+Filename: ./debs/com.tqm-mos.blawbiw_0.1_iphoneos-arm.deb
+Size: 31374364
+MD5sum: 3a9cdcd727838a09b84de922d93a832e
+SHA1: 14e9684a1757cf0b1074d2b058be7d967d97ef39
+SHA256: 548408b828693f7cdfca6fa70927984a0c70454177b56e86b21447fbd316aaf1
+
+Package: com.tqm-mos.boxtimeweather
+Name: Box Time - Weather by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.boxtimeweather
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.boxtimeweather
+Filename: ./debs/com.tqm-mos.boxtimeweather_0.1_iphoneos-arm.deb
+Size: 14574948
+MD5sum: e0226e46d92ce37f841f1d62005dd3e9
+SHA1: 283b6e3014c81f675630002ca2e48bc6df7eef99
+SHA256: 9af0c603dd361d4463a2ad64b62c898e3870b2333b841207439c81e067f01501
+
+Package: com.tqm-mos.dockiw
+Name: Dock Widget by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dockiw
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dockiw
+Filename: ./debs/com.tqm-mos.dockiw_0.1_iphoneos-arm.deb
+Size: 585192
+MD5sum: d5547c1d9b1befeff67ae8005f0f77c4
+SHA1: abca9abe6e7fce4bfacfd38feb7c64027ef1367d
+SHA256: 7d121ba3e3475ec6727534aca4c1cd999f73b90488d2528c5a44928e411e917a
+
+Package: com.tqm-mos.lineiw
+Name: Line Widget by TQM
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.lineiw
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.lineiw
+Filename: ./debs/com.tqm-mos.lineiw_0.1_iphoneos-arm.deb
+Size: 12422164
+MD5sum: 521d96865dc732f9dc5e8a95c3179abe
+SHA1: 30afab350b6235662eeae0bc743e6f48072692c7
+SHA256: 95322696668eadfb0f2806b99896105f42d92a9bb91159ed55ac75ded11b894f
+
 Package: com.matchstic.xenhtml
 Name: Xen HTML
 Version: 1.2
