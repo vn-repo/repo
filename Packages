@@ -15,6 +15,23 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com-tqm-mos.screenrecorderforcedaudio
+Version: 1.0-3
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: ScreenRecorderForcedAudio
+Author: Kiran Patil
+Icon: file:///Library/PreferenceBundles/ScreenRecorderForcedAudio.bundle/icon@2x.png
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com-tqm-mos.screenrecorderforcedaudio
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com-tqm-mos.screenrecorderforcedaudio
+Filename: ./debs/com-tqm-mos.screenrecorderforcedaudio_1.0-3_iphoneos-arm.deb
+Size: 21146
+MD5sum: 636b3e6786f6a66e8703589963e9d06c
+SHA1: d3dbb7e18e33c890f20517d5f71fc73784af41ce
+SHA256: aeffcfe9eb634b83f816a8dea9bfa61d410b010d40999c4d88155d6037476e42
+
 Package: com.tqm-mos.blawbiw
 Name: Blawb Widget by TQM
 Version: 0.1
