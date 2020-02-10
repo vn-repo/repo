@@ -33,6 +33,43 @@ MD5sum: 636b3e6786f6a66e8703589963e9d06c
 SHA1: d3dbb7e18e33c890f20517d5f71fc73784af41ce
 SHA256: aeffcfe9eb634b83f816a8dea9bfa61d410b010d40999c4d88155d6037476e42
 
+Package: com.tqm-mos.lpp12x
+Name: LockPlus Pro
+Version: 1.7.7k
+Description: Khóa quản lý widget lockplus pro
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.brunonfl.s8edge, io.securarepo.edge
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Installed-Size: 42583
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.lpp12x
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.lpp12x
+Filename: ./debs/com.tqm-mos.lpp12x_1.7.7k_iphoneos-arm.deb
+Size: 19276820
+MD5sum: 460e2763b7365789ad50a4296b0c5673
+SHA1: 13e06ca75b21748415df31b7268833654cf5de3e
+SHA256: c420639d5f32bcd2858b24df37dbbba7bf733c83f49f485ef89f773bb949267b
+
+Package: com.tqm-mos.badgebar
+Name: BadgeBar
+Version: 1.0.7.3
+Description: Thiết lập huy hiệu thông báo
+Author: JannikCrack <jannikcrack@aol.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), org.thebigboss.libcolorpicker
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Installed-Size: 625
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.badgebar
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.badgebar
+Filename: ./debs/com.tqm-mos.badgebar_1.0.7.3_iphoneos-arm.deb
+Size: 390816
+MD5sum: b7223553bedd6acc53e4cc13dbc97041
+SHA1: efde73665e2757e2d0d7154ec4d90e3a44f13466
+SHA256: a62dc8e48bad8a61dce0a9009c82ae25412d7badff2f2305be834eb28d0e0766
+
 Package: com.tqm-mos.sixls
 Name: Six (LS)
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
