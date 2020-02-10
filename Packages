@@ -49,6 +49,23 @@ MD5sum: e0226e46d92ce37f841f1d62005dd3e9
 SHA1: 283b6e3014c81f675630002ca2e48bc6df7eef99
 SHA256: 9af0c603dd361d4463a2ad64b62c898e3870b2333b841207439c81e067f01501
 
+Package: com.tqm-mos.boxtimeweather
+Name: Box Time - Weather by TQM
+Version: 0.2
+Architecture: iphoneos-arm
+Description: XenHTML Widget by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+tag: cydia::paid
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.boxtimeweather
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.boxtimeweather
+Filename: ./debs/com.tqm-mos.boxtimeweather_0.2_iphoneos-arm.deb
+Size: 14813028
+MD5sum: a143cb38222b421d6b18f5ec7045799d
+SHA1: ad0f14d5e2a0c535b4b3027b17da9fd409ebea63
+SHA256: fef9c37915d2240194039ff060d23d3ac7db703aca97628740f8272ac98644f5
+
 Package: com.tqm-mos.dockiw
 Name: Dock Widget by TQM
 Version: 0.1
