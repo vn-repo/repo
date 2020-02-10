@@ -21,6 +21,7 @@ Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Name: ScreenRecorderForcedAudio
+Description: screenrecorderforcedaudio
 Author: Kiran Patil
 Icon: file:///Library/PreferenceBundles/ScreenRecorderForcedAudio.bundle/icon@2x.png
 Maintainer: @tqmmos <anhminh311105@gmail.com>
@@ -31,6 +32,24 @@ Size: 21146
 MD5sum: 636b3e6786f6a66e8703589963e9d06c
 SHA1: d3dbb7e18e33c890f20517d5f71fc73784af41ce
 SHA256: aeffcfe9eb634b83f816a8dea9bfa61d410b010d40999c4d88155d6037476e42
+
+Package: com.tqm-mos.sixls
+Name: Six (LS)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: iOS 6 Style Lock Screen!
+Maintainer: TQM
+Author: Skitty
+Section: IOS11
+Version: 1.0.5-2
+Installed-Size: 2024
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sixls
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sixls
+Filename: ./debs/com.tqm-mos.sixls_1.0.5-2_iphoneos-arm.deb
+Size: 1520116
+MD5sum: 12e9b80fdc4ed13d63c4a272cb069904
+SHA1: 385569318ab89087ddad6ef0b53a64319b400686
+SHA256: d4c06fd476880226d123af148f7fb70646a0ad020ab6dc6f10c9fd37a931138c
 
 Package: com.tqm-mos.blawbiw
 Name: Blawb Widget by TQM
