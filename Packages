@@ -87,6 +87,60 @@ MD5sum: d00e6e60d27f37bcc7658a22c08e083a
 SHA1: 323ef121ec5bdce813091abd13e005e5eb323986
 SHA256: 67be57441108373af725d48f4478d7415e53cbdc3a45ac6cb27a0db760f4cc77
 
+Package: com.tqm-mos.liacaglyphs
+Name: Liaca Glyphs
+Version: 1.2
+Description: Themes Liaca Glyphs
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 6985
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.liacaglyphs
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.liacaglyphs
+Filename: ./debs/com.tqm-mos.liacaglyphs_1.2_iphoneos-arm.deb
+Size: 4669178
+MD5sum: 280883168920881faaa020c2e24fd668
+SHA1: 543e8c4636bcd18419d76c30b0487963b67a7592
+SHA256: f832918ac6619581d5078b074364f48b4e4eb7ddfd61d87491575d8a34eb2b99
+
+Package: com.tqm-mos.violaglyphs
+Name: Viola Glyphs
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: The glyph version of Viola! (3 modes)
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0.1
+Section: TQM
+Architecture: iphoneos-arm
+Icon: https://repo.packix.com/api/Packages/5e3d51d5ac886b002f92ad8d/icon/download?size=medium
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.violaglyphs
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.violaglyphs
+Filename: ./debs/com.tqm-mos.violaglyphs_1.0.1_iphoneos-arm.deb
+Size: 12743094
+MD5sum: 7261f803ec2ea2c20ca9c1394116447c
+SHA1: 13684ecfa453f61fd9133405ea897cfa7540a283
+SHA256: fa6dffc30dc737521d7711849755c7c56792d7fc70b48a42a78baeff040a6cda
+
+Package: com.tqm-mos.monarchreborn
+Name: Monarch Reborn
+Version: 1.0
+Architecture: iphoneos-arm
+Description: THEMES Monarch reborn by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+tag: cydia::paid
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.monarchreborn
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.monarchreborn
+Filename: ./debs/com.tqm-mos.monarchreborn_1.0_iphoneos-arm.deb
+Size: 4525852
+MD5sum: 2e91e43d98e87fd50c118811b9b110ce
+SHA1: acf770be0482d342f7c910e941a6e21bfbd39b5d
+SHA256: b5b88182a2458c6c29ed7729354150e2063a5fba899ddd9f7042268fb480638c
+
 Package: com.tqm-mos.oneui2theme
 Name: OneUI 2.0
 Version: beta1
