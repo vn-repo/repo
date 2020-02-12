@@ -52,6 +52,93 @@ MD5sum: 460e2763b7365789ad50a4296b0c5673
 SHA1: 13e06ca75b21748415df31b7268833654cf5de3e
 SHA256: c420639d5f32bcd2858b24df37dbbba7bf733c83f49f485ef89f773bb949267b
 
+Package: com.tqm-mos.aerial2
+Name: Aerial 2
+Version: 1.0.1
+Description: Thay đổi màu của các thành phần thanh trạng thái
+Author: PolyTweaks
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 4762
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aerial2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aerial2
+Filename: ./debs/com.tqm-mos.aerial2_1.0.1_iphoneos-arm.deb
+Size: 902622
+MD5sum: 364ddab2c55ae8191d440412d7045e22
+SHA1: 2bac9ad556daea5d09eac3cfce6645bc85e77a2d
+SHA256: 68113968f75e41816ab8afb748a6fe83bbfc3ae56a996cc7027f7fa41cb7cb18
+
+Package: com.tqm-mos.juno
+Name: Juno
+Author: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Một chủ đề nhiều màu sắc dành cho bạn.
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.juno
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.juno
+Filename: ./debs/com.tqm-mos.juno_1.0_iphoneos-arm.deb
+Size: 17702876
+MD5sum: d00e6e60d27f37bcc7658a22c08e083a
+SHA1: 323ef121ec5bdce813091abd13e005e5eb323986
+SHA256: 67be57441108373af725d48f4478d7415e53cbdc3a45ac6cb27a0db760f4cc77
+
+Package: com.tqm-mos.oneui2theme
+Name: OneUI 2.0
+Version: beta1
+Architecture: iphoneos-arm
+Description: A theme/icon pack directly ported from a Galaxy S9 running on One UI 2.0. Most system icons are replaced along with a few third party icons (basically whatever One UI substitutes).
+Author: @tqmmos
+Maintainer: @tqmmos
+Section: TQM
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.oneui2theme
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.oneui2theme
+Filename: ./debs/com.tqm-mos.oneui2theme_beta1_iphoneos-arm.deb
+Size: 290216
+MD5sum: 6b45a210252ac540ff863720040b3f71
+SHA1: 7d2940b34927a6543e40fd29c79e576bcd995695
+SHA256: 134a4df2b2f323a54dd4e5663fe9e40709bf4e6ca2edfe766172751845430db7
+
+Package: com.tqm-mos.symbianbelle
+Name: Symbian Belle
+Author: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Chủ đề Belle cho bạn
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.symbianbelle
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.symbianbelle
+Filename: ./debs/com.tqm-mos.symbianbelle_1.0_iphoneos-arm.deb
+Size: 3419532
+MD5sum: 35e9897621f657494532dde17f48fe9b
+SHA1: a1c1ee5600cd6abb9892de842183dc62249ee88d
+SHA256: 9a7ce7342c65410b1555c9117a4a2e070f2417463e033d77bbb420fdab9c1eee
+
+Package: com.tqm-mos.badgebar
+Name: BadgeBar
+Version: 1.0.7.4
+Description: Thiết lập huy hiệu thông báo
+Author: JannikCrack <jannikcrack@aol.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), org.thebigboss.libcolorpicker
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Installed-Size: 625
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.badgebar
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.badgebar
+Filename: ./debs/com.tqm-mos.badgebar_1.0.7.4_iphoneos-arm.deb
+Size: 390856
+MD5sum: 103f56d1c55bd25399d25a76957c0964
+SHA1: bb8b09e3dd45b3affb9c6dc45c1d48ef4e899a89
+SHA256: e64357b0c8c838c52cf65905ad98df8923386f6c657c5313be39988a04053cca
+
 Package: com.tqm-mos.badgebar
 Name: BadgeBar
 Version: 1.0.7.3
