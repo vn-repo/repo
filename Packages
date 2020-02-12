@@ -33,6 +33,40 @@ MD5sum: 636b3e6786f6a66e8703589963e9d06c
 SHA1: d3dbb7e18e33c890f20517d5f71fc73784af41ce
 SHA256: aeffcfe9eb634b83f816a8dea9bfa61d410b010d40999c4d88155d6037476e42
 
+Package: com.tqm-mos.darkx
+Name: Darkx
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: A simple, modern & beautiful IOS theme.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 4.5.8
+Section: TQM
+Architecture: iphoneos-arm
+Icon: https://repo.packix.com/api/Packages/5d9d9488979ef9001b1a55d6/icon/download?size=medium&hash=2
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.darkx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.darkx
+Filename: ./debs/com.tqm-mos.darkx_4.5.8_iphoneos-arm.deb
+Size: 25288554
+MD5sum: a70bc6232eff70b44f825e85d1662fa5
+SHA1: 1a2e7c8bac243f073fa9fb07ea418e6ebca5fef8
+SHA256: 96b6ca6324797930f76b9811fb2fe6bbf164b18f31b1759c29af59de6d7b883d
+
+Package: com.tqm-mos.karladiaz
+Name: KarlaDiaz
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: A simple, modern and beautiful IOS theme.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 3.4.6
+Section: TQM
+Architecture: iphoneos-arm
+Icon: https://repo.packix.com/api/Packages/5da1a78c6d7171001ab5e499/icon/download?size=medium&hash=2
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.karladiaz
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.karladiaz
+Filename: ./debs/com.tqm-mos.karladiaz_3.4.6_iphoneos-arm.deb
+Size: 5538324
+MD5sum: 5564af5ee130594923986e721bc1fea8
+SHA1: db0241109a486b0b4e7a57d18ac15bdb0044d392
+SHA256: 85d667a183eb027ee03af92b5fd00f86882e67d5bc70b7ad9960f66671ac285a
+
 Package: com.tqm-mos.lpp12x
 Name: LockPlus Pro
 Version: 1.7.7k
