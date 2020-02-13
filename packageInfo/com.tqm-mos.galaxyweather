@@ -1,4 +1,5 @@
 {
-	"desc_long": " carrie được đóng mang sóng wifi giống ios11 cho những máy ios 10",
+    "compatitle": "iOS 7, iOS 8, iOS 9, iOS 10, iOS 11, iOS 12, iOS 13",
+	"desc_long": " Tiện ích (IWIDGETS) hoạt đông qua XenHTML,by @tqmmos (Minh hí). ",
 	"screenshot": "<div style='text-align:center;'><a href='Link ảnh' target='_blank'><img width=90% src='screenshot/galaxyweather.png'/></a><br></div>",
 }
