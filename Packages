@@ -206,6 +206,23 @@ MD5sum: a3c3a9fec58e7e684502bc738b717f1a
 SHA1: 950f4f15d66bf4b3e2b8f6adcd82ccc4fb9c02cc
 SHA256: 14ec105c31d98f69ad946bd380e1c8339b8719ceb323f4ed1e950aa03e9c58c2
 
+Package: com.tqm-mos.chateidget
+Name: ChatWidget
+Version: 1.0
+Section: Iwidgets
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Widget for XenHtml
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.chateidget
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.chateidget
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.chateidget_1.0_iphoneos-arm.deb
+Size: 43636
+MD5sum: f7a152fc59fb13dde9779d22423ec421
+SHA1: bc77b8d13df5c2f72395c9dc2e8f60579a236b38
+SHA256: 38c6557349db0a1fc41624dc8fc88b1947763ef81796e8ff6c9aec5ec9b7df2d
+
 Name: Catalina
 Package: com.tqm-mos.catalina
 Description: MacOS Catalina inspired iOS theme.
