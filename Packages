@@ -15,6 +15,369 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.snowboard.presetextension
+Name: SnowBoard Preset Extension
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>> 1.2.22)
+Architecture: iphoneos-arm
+Description: SnowBoard Presets Extension
+Maintainer: @tqmmos
+Author: Spark
+Section: SnowBoard
+Version: 1.0.16~Beta2
+Installed-Size: 824
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard.presetextension_1.0.16~Beta2_iphoneos-arm.deb
+Size: 176334
+MD5sum: 2380b3be73b0c8a015f501aadf390d47
+SHA1: a01a5972d3706f993f53ee251168f80ec09dbed5
+SHA256: 864b676779b45ffedd679749870b7916fe231381d11b77df9483da148df09688
+
+Package: com.tqm-mos.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader, com.tqm-mos.snowboard.dock, com.tqm-mos.snowboard.fonts, com.tqm-mos.snowboard.effects, com.tqm-mos.snowboard.masks, com.tqm-mos.snowboard.labels, com.tqm-mos.snowboard.pagedots, com.tqm-mos.snowboard.proceduralwallpapers, com.tqm-mos.snowboard.respringextension, com.tqm-mos.snowboard.settingsicons, com.tqm-mos.snowboard.statusbar, com.tqm-mos.snowboard.presetextension, com.tqm-mos.snowboard.ui, tqm-mos.iconrepo
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard
+Maintainer: @tqmmos
+Author: Spark & Dennis D. Bednarz
+Section: SnowBoard
+Version: 1.2.87~Beta2
+Installed-Size: 4292
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboard_1.2.87~Beta2_iphoneos-arm.deb
+Size: 2024636
+MD5sum: 7093801ec13a3ed52fd3133e2fdcced1
+SHA1: 7e20ada34d31976033b143682c92126194510259
+SHA256: e75481749328891f46797a165b59a240f6f7db55d6e0ae21ace6615d41c6dca6
+
+Package: com.tqm-mos.sareth
+Name: Sareth
+Version: 1.0.8-1
+Section: IOS12
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common, me.nepeta.libcolorpicker, firmware (>= 12.0)
+Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
+Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
+Installed-Size: 2864
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Maintainer: @tqmmos
+Description: Take charge of your Control Center!
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sareth
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sareth
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.sareth_1.0.8-1_iphoneos-arm.deb
+Size: 2500836
+MD5sum: c3e44b48301805bcb7521ecb77323b1f
+SHA1: 3ed23690e7da2981a6b4c0c2f5c5f2dd72d99c54
+SHA256: 6a060084d47e9adc8417479980c0ee0e46a022b9648e08feeeb02e6ebf22011d
+
+Package: com.tqm-mos.sareth
+Name: Sareth
+Version: 1.0.9-1
+Section: IOS12
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker, firmware (>= 12.0)
+Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
+Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
+Installed-Size: 2868
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Maintainer: @tqmmos
+Description: Take charge of your Control Center!
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sareth
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sareth
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.sareth_1.0.9-1_iphoneos-arm.deb
+Size: 2503512
+MD5sum: 606772573d466065d076140334fa80c8
+SHA1: 9974cb8982c98264ebb45ba75994d1a576eea8c3
+SHA256: ca5c5e059d46b4757a80957db5abc602a3be6efdc025f3c9f8678b07ba7c3242
+
+Name: Catalina
+Package: com.tqm-mos.catalina
+Description: MacOS Catalina inspired iOS theme.
+Architecture: iphoneos-arm
+Section: TQM
+Version: 2.0
+Tag: compatible_min::ios10.0, compatible_max::ios13.3
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.catalina
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.catalina
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.catalina_2.0_iphoneos-arm.deb
+Size: 22418640
+MD5sum: 80c6b8fd680c0bf66e92bc549a21bf95
+SHA1: b8cf9b17db14480d5be650e0d990bc7e417a609f
+SHA256: 4d2b66f90d7014e814072aaf3a2ddd8677d295542d4d8c0f3e365f447db6b33a
+
+Package: com.tqm-mos.gladient
+Version: 1.3
+Description: THEMES
+Section: TQM
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: Gladient
+Author: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gladient
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gladient
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.gladient_1.3_iphoneos-arm.deb
+Size: 53492222
+MD5sum: b75c62319053b7cb1462b957490a860e
+SHA1: 39ad8c11a81fcc87c0f17611e1cb70280b7d2087
+SHA256: 516b3a59db616753e916c85bda98e98686a867f32342d8d144c257a852d6aa5b
+
+Package: com.tqm-mos.blendmw
+Name: BlendMW
+Architecture: iphoneos-arm
+Description: Simple minimal widget
+Author: Mercury <mercuryiosdev@gmail.com>
+Maintainer: Mercury <mercuryiosdev@gmail.com>
+Section: Iwidgets
+Version: 1.0.1
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blendmw
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blendmw
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.blendmw_1.0.1_iphoneos-arm.deb
+Size: 177258
+MD5sum: 085d9cc2988c8702cb1722a13c004e19
+SHA1: 0655f8630ed3dbeafdebb69c9e32d35c9afec730
+SHA256: c5ea816f9498f1600096c9ef69f5db46b7a025ee1a1ec166fc10b3091716184b
+
+Package: com.tqm-mos.christmasbadge
+Name: ChristmasBadge
+Architecture: iphoneos-arm
+Description: Notification Badge for Christmas!
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Version: 1.3
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.christmasbadge
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.christmasbadge
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.christmasbadge_1.3_iphoneos-arm.deb
+Size: 288068
+MD5sum: f0e3de6cd912803b02e550e90ba9d4a8
+SHA1: e26099ed6316a2d92f3f6568c79fafc292697c75
+SHA256: 1d86c3ff6707ee47563550cd006d11e079c0505ef17a14d7f523ca118eb08d1d
+
+Name: CutOut
+Package: com.tqm-mos.cutout
+Description: Your icons look like they have been CutOut!
+Architecture: iphoneos-arm
+Section: TQM
+Version: 2.1
+Tag: compatible_min::ios10.0, compatible_max::ios13
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cutout
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cutout
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.cutout_2.1_iphoneos-arm.deb
+Size: 9582298
+MD5sum: fed077ce1a92d722fd29d5a0f6983d1e
+SHA1: a268ee59d3e0fe08d6eadf22a25358cfe8ae09a1
+SHA256: 9cfdf192be4897651d56ffb5e8e78d87362ea8c352c9f107599c286a08b222ec
+
+Name: Dark Matter
+Package: com.tqm-mos.dark-matter
+Description: Join the dark side
+Architecture: iphoneos-arm
+Section: TQM
+Version: 2.0
+Tag: compatible_min::ios5.1, compatible_max::ios13
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dark-matter
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dark-matter
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.dark-matter_2.0_iphoneos-arm.deb
+Size: 6046180
+MD5sum: 27c71bea7299d5d71f0aa0c287966b77
+SHA1: f499aa1790d0811e87c7c200d561286d675e58a0
+SHA256: 07750ca6c5ebd711c17f7b5760aca68d4db23634e8decf169285b2523ab9f3a3
+
+Package: com.tqm-mos.gladishad-beta
+Name: GladiShad Beta
+Architecture: iphoneos-arm
+Description: Look at the name and you would know what it is!
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Version: 1.0~beta2
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gladishad-beta
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gladishad-beta
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.gladishad-beta_1.0~beta2_iphoneos-arm.deb
+Size: 11671338
+MD5sum: 156c33f3e972f33dedb43b7158e84669
+SHA1: 18b27af7855bddce2f28fd031e4a5906213a1d3b
+SHA256: 36ff1cb5e48d2972c80ab49d14118f69e6a44340ad1a9bf183f112909f0780d2
+
+Architecture: iphoneos-arm
+Package: com.tqm-mos.historyofios
+Name: History Of iOS
+Version: 2.0
+Icon: https://thenatis.github.io/repo/assets/com.willbraff.historyofios/icon.png
+Description: A Theme that resembles all iOS Versions for iOS 7-12
+Section: TQM
+Depends: firmware (>=7)
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.historyofios
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.historyofios
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.historyofios_2.0_iphoneos-arm.deb
+Size: 39309844
+MD5sum: 6162bd2b0ccca7347c97af60c7541f75
+SHA1: a6ab2b847b724299650212284f600d1511afa025
+SHA256: 5c4f74636ee4f73fafcf0ba22f79ed6dc1f25325b5e4ddd3554355a8bf7348cb
+
+Name: iOS 7 Classic icons
+Package: com.tqm-mos.ios7
+Description: Remember the day you just updated to iOS 7?
+Architecture: iphoneos-arm
+Section: TQM
+Version: 2.0
+Tag: compatible_min::ios5.1, compatible_max::ios13
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ios7
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ios7
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.ios7_2.0_iphoneos-arm.deb
+Size: 2942064
+MD5sum: 79b2b15ec3d9feb1d4a77042d1b1bab3
+SHA1: 2ad68900d17a3c6d2a512d255c086b22fac9e983
+SHA256: c8babe732e2b48d556bb6f7fbeb903c4c25252889839cae4bd4a789409c7c5d0
+
+Package: com.tqm-mos.melios-beta
+Name: MeliOS (Beta)
+Architecture: iphoneos-arm
+Description: Circloid Revamped!
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Version: 1.0~Beta2
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.melios-beta
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.melios-beta
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.melios-beta_1.0~Beta2_iphoneos-arm.deb
+Size: 781524
+MD5sum: 3539b62b9f608971955dd8103216ff8e
+SHA1: 61ba0abf4048c39c9de173066ddceb751f5ef83b
+SHA256: c2170381afbff62f60045de4264e970ce6486cee49c35e5c4a03c3f7a351f018
+
+Package: com.tqm-mos.mesmerize
+Name: Mesmerize
+Architecture: iphoneos-arm
+Description: Beautiful gradients with frosted glyphs!
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Version: 1.0
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mesmerize
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mesmerize
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.mesmerize_1.0_iphoneos-arm.deb
+Size: 4297768
+MD5sum: cf47daeff615a1ee7370fa32847058a2
+SHA1: 1af92c2d89f7012a5f7cc1c6311044a25f1c5166
+SHA256: 6a48a6d58abd631d1065a0b0ecbe3aaf05f4f2c2aeccf5de3c472bda30ae5500
+
+Package: com.tqm-mos.nametag
+Name: NameTag
+Architecture: iphoneos-arm
+Description: Icons in the shape of an ID Badge!
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Version: 1.3
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nametag
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nametag
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.nametag_1.3_iphoneos-arm.deb
+Size: 16915006
+MD5sum: 37b7af200ca25122deb444c59c2e412a
+SHA1: 9db726f3cb6621be73e2bede375765520997ecca
+SHA256: abd923b22263ed02d1a48590a448eb0c8677e80adf4e37a89532a905e2a17413
+
+Name: Offset
+Package: com.tqm-mos.offset
+Description: iOS apps redesigned to have slightly offset icons.
+Architecture: iphoneos-arm
+Section: TQM
+Version: 1.19
+Tag: compatible_min::ios10.0, compatible_max::ios13
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.offset
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.offset
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.offset_1.19_iphoneos-arm.deb
+Size: 12436538
+MD5sum: e9e4ab935a779845ee4c5efd6a2bff3f
+SHA1: 4fbc472747d98183abe4490eb9abe0169c439633
+SHA256: 85a113cd2b9c6c48855fe4b351f036403e291cee33d7ed4f69b3f8d34f1d0290
+
+Package: com.tqm-mos.outlineos
+Name: OutlineOS
+Architecture: iphoneos-arm
+Description: A theme with beautiful icons!
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Version: 1.1
+Depiction: http://tqm-mos.github.io/description.html?id=com.com.tqm-mos.outlineos
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.outlineos
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.outlineos_1.1_iphoneos-arm.deb
+Size: 3581390
+MD5sum: 2def76cd811e40006110364d589cb205
+SHA1: fddf8fdf52bd7f886efa901e318490218fa7d800
+SHA256: 4f4ad464f6cbcfab6059a37fcf2a59720348a0325d469df98a12bd39c3d80213
+
+Name: Soft Remix 4 Beta
+Package: com.tqm-mos.soft-remix-4-beta
+Description: Soft Remix 4
+Architecture: iphoneos-arm
+Section: TQM
+Version: 1.0b1
+Tag: compatible_min::ios5.1, compatible_max::ios13
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.soft-remix-4-beta
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.soft-remix-4-beta
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.soft-remix-4-beta_1.0b1_iphoneos-arm.deb
+Size: 28471372
+MD5sum: 629f3f40fee7e3f87146bdd1cae2b426
+SHA1: f6c365f2140e4b39f838496917e57f35b467808e
+SHA256: 8951290b8baba7730299b3fff07ac10565009b5dee5ebf2eeacfb775acbe91fe
+
+Package: com.tqm-mos.yumru
+Name: Yumru
+Architecture: iphoneos-arm
+Description: Yumru, twill icons.
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Version: 1.1
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.yumru
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.yumru
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.yumru_1.1_iphoneos-arm.deb
+Size: 1105516
+MD5sum: 3c233daba7a44a1bc504c28a84880c6b
+SHA1: 849b5208bed7c558b08f5c6d270aef7abfa99fc1
+SHA256: 92096300cf18bc12ccf393c8ff6a48bdf924f93493c64579b110b134ef04baa9
+
 Package: com-tqm-mos.screenrecorderforcedaudio
 Version: 1.0-3
 Section: Tweaks
