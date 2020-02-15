@@ -98,6 +98,114 @@ MD5sum: 606772573d466065d076140334fa80c8
 SHA1: 9974cb8982c98264ebb45ba75994d1a576eea8c3
 SHA256: ca5c5e059d46b4757a80957db5abc602a3be6efdc025f3c9f8678b07ba7c3242
 
+Package: com.tqm-mos.midn1ghtaqua
+Name: Midn1ght Aqua
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Blast from the past
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+tag: cydia::commercial
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.midn1ghtaqua
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.midn1ghtaqua
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.midn1ghtaqua_1.0_iphoneos-arm.deb
+Size: 53480528
+MD5sum: 91358664107b91f7bdd5059fe1df9106
+SHA1: 65b03aec2856999797e934f6612459b4822957b8
+SHA256: 81c8db87357f82d2353b0946e0342f8a2e1a7e3b8b7815264ef50ee5d6c3a71b
+
+Package: com.tqm-mos.midn1ghtblue
+Name: Midn1ght Blue
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Blast from the past
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+tag: cydia::commercial
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.midn1ghtblue
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.midn1ghtblue
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.midn1ghtblue_1.0_iphoneos-arm.deb
+Size: 50199030
+MD5sum: 9b9aaaece980406c745504a2bc838224
+SHA1: 3deef028253bc04c42130f3519ddf723f45137a4
+SHA256: b5b9fffa5fcbc73f387f420779ac561e190c2c71ff38471d81e13ed2a59e71ff
+
+Package: com.tqm-mos.midn1ghtgreen
+Name: Midn1ght Green
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Blast from the past
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+tag: cydia::commercial
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.midn1ghtgreen
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.midn1ghtgreen
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.midn1ghtgreen_1.0_iphoneos-arm.deb
+Size: 53081180
+MD5sum: 49cb0e64dd133afc5b5e33e4c9662e5a
+SHA1: 833103557b3727dfd6b59023764d29bbaec08684
+SHA256: 55464554c86f43aad164f0d6dc6203c63f59eb27798b625a5c96bad75bae0d5a
+
+Package: com.tqm-mos.midn1ghtorange
+Name: Midn1ght Orange
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Blast from the past
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+tag: cydia::commercial
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.midn1ghtorange
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.midn1ghtorange
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.midn1ghtorange_1.0_iphoneos-arm.deb
+Size: 53207662
+MD5sum: 9319832d8648c7b72cc4ac36fbb5ea2a
+SHA1: 68d439e222d0e507a583a260c560fcba57bfe500
+SHA256: 33a068cb395d5534be9b2661d546f196e782050e8d0a68c7a60504b1e5064a43
+
+Package: com.tqm-mos.midn1ghtpurple
+Name: Midn1ght Purple
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Blast from the past
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+tag: cydia::commercial
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.midn1ghtpurple
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.midn1ghtpurple
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.midn1ghtpurple_1.0_iphoneos-arm.deb
+Size: 53131600
+MD5sum: 1410d8e085bb4f03b6840410fcd8c30f
+SHA1: de05cd88e0c6551437f62361614f99a93a6f2cf6
+SHA256: 8c730391ff75361c1b9750e4766b9cb5c702ef4895a5ef5e3fd3b6b5d2ff41cd
+
+Package: com.tqm-mos.midn1ghtred
+Name: Midn1ght Red
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Blast from the past
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+tag: cydia::commercial
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.midn1ghtred
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.midn1ghtred
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.midn1ghtred_1.0_iphoneos-arm.deb
+Size: 53119242
+MD5sum: a3c3a9fec58e7e684502bc738b717f1a
+SHA1: 950f4f15d66bf4b3e2b8f6adcd82ccc4fb9c02cc
+SHA256: 14ec105c31d98f69ad946bd380e1c8339b8719ceb323f4ed1e950aa03e9c58c2
+
 Name: Catalina
 Package: com.tqm-mos.catalina
 Description: MacOS Catalina inspired iOS theme.
