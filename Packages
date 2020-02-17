@@ -15,6 +15,76 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.shadows
+Name: Shadow
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: A simple, modern and beautiful IOS theme.Designed with care to replace the stock iOS look with a stunning color palette and beautiful shadow with icons that may have the same basics of stock iOS but feels very different and pleasant to the eyes.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 9.9.17
+Section: TQM
+Architecture: iphoneos-arm
+Icon: https://repo.packix.com/api/Packages/5d8484a71bdd82001aaafdad/icon/download?size=medium&hash=2
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.shadows
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.shadows
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.shadows_9.9.17_iphoneos-arm.deb
+Size: 26322734
+MD5sum: 7cf1a64f0267fe0fd26337772ebb52aa
+SHA1: a6c463bef0a120c6c7600286850df251fbcfa376
+SHA256: b7e4566a616d68242976d42ed1f6aa82292d0a8c39bd2c29b1de4295dd48d8eb
+
+Package: com.tqm-mos.shunrai
+Name: Shunrai
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: A colorful gradient theme.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 1.4
+Section: TQM
+Architecture: iphoneos-arm
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.shunrai
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.shunrai
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.shunrai_1.4_iphoneos-arm.deb
+Size: 16745402
+MD5sum: 57c5677d881f861f53ca799c1134ba5a
+SHA1: ad739f16cb029e463db2e5017883f53cc7e2ed25
+SHA256: 3bb8268e4b61ba3a0f384eaaac8450076833d73ced0b2dd515173a17095c8ebd
+
+Package: com.tqm-mos.wheel13
+Name: Wheel 13
+Version: 1.0.2
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: anhminh311105@gmail.com Twitter @tqmmos
+Icon: file:///Library/Themes/Wheel 13.theme/icon@3x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.wheel13
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.wheel13
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.wheel13_1.0.2_iphoneos-arm.deb
+Size: 66753890
+MD5sum: 65280348d7c7f8f9713b671906398cf4
+SHA1: 6dabd2422381fd260d6300734035f5ba71d427e2
+SHA256: 22112ba20c63dd011d4785c23988d23d4a83767aaa25b5b3e3c80a27b09b2ee1
+
+Package: com.tqm-mos.vayra
+Name: Vayra
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: Vayra Theme
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 1.1
+Section: TQM
+Architecture: iphoneos-arm
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.vayra
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.vayra
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.vayra_1.1_iphoneos-arm.deb
+Size: 10951638
+MD5sum: ad293cb68a2c8afa27c5d26edface444
+SHA1: e6c7c68339885a73af91733c6ab06fde987c7c39
+SHA256: 884f800f14efe559337c343e67302f42b1e6a722358dd319be7950b8cb319d21
+
 Package: com.tqm-mos.snowboard.presetextension
 Name: SnowBoard Preset Extension
 Depends: mobilesubstrate, com.tqm-mos.snowboard (>> 1.2.22)
