@@ -34,6 +34,29 @@ MD5sum: 2380b3be73b0c8a015f501aadf390d47
 SHA1: a01a5972d3706f993f53ee251168f80ec09dbed5
 SHA256: 864b676779b45ffedd679749870b7916fe231381d11b77df9483da148df09688
 
+Package: com.tqm-mos.reprovision
+Name: ReProvision
+Version: 0.5.2~EOL
+Description: Re-sign applications on your device
+Section: System
+Depends: firmware (>= 9.0)
+Priority: optional
+Replaces: com.matchstic.reprovision, com.matchstic.Extender-Installer
+Provides: com.matchstic.reprovision, com.matchstic.Extender-Installer
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: @tqmmos
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reprovision
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reprovision
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.reprovision_0.5.2~EOL_iphoneos-arm.deb
+Size: 14391670
+MD5sum: 32d478a5c0ca4d9ea517a281f6276dea
+SHA1: 7565caa16328f9ac1ef351a21ec27360e8bc8975
+SHA256: e5865586c4b4bac2d58aca431b57160691706a2b66145727e96907976b294736
+
 Package: com.tqm-mos.nonypink
 Description: THEME
 Version: 1.0-1
