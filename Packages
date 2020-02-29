@@ -33,6 +33,203 @@ MD5sum: 7cf1a64f0267fe0fd26337772ebb52aa
 SHA1: a6c463bef0a120c6c7600286850df251fbcfa376
 SHA256: b7e4566a616d68242976d42ed1f6aa82292d0a8c39bd2c29b1de4295dd48d8eb
 
+Package: com.matchstic.xenhtml
+Name: Xen HTML
+Version: 1.2.3~release
+Description: Unified HTML rendering; lockscreen and homescreen
+Section: System
+Depends: firmware (>= 9.0), com.tqm-mos.xeninfo, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: MattClarke
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.matchstic.xenhtml
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqcom.matchstic.xenhtml
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.matchstic.xenhtml_1.2.3~release_iphoneos-arm.deb
+Size: 3750322
+MD5sum: f994b96c7308c692502e82afef163e23
+SHA1: b7325b0073db716dab9da22be78eb698ac73562c
+SHA256: ec2379bb1e0062f2496071657302235f62445a505ab8dd0e5b625fe67d601c09
+
+Package: com.tqm-mos.magmaevo
+Name: Magma Evo
+Version: 1.1.4
+Description: Magma Evo
+Author: NoisyFlake
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.tqm-mos.ccsupport, org.thebigboss.libcolorpicker (>= 1.6.7)
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro, com.opa334.ccsupport
+Installed-Size: 667
+Section: IOS12
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.magmaevo
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.magmaevo
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.magmaevo_1.1.4_iphoneos-arm.deb
+Size: 179840
+MD5sum: c262ceea87dd9ed3ca5e2b12ab8b8f42
+SHA1: 919a98625ddd765e7ab9ee4a387eecc58776715d
+SHA256: 7900a2fa105c1469c971a958da05a5bb12c4e9009080f75a38d81eac435f2c9f
+
+Package: com.tqm-mos.nudekeys12
+Version: 1.0.0~b8
+Section: IOS12
+Maintainer: @tqmmos
+Description: Một tinh chỉnh tuyệt vời cho bàn phím của bạn
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.nudekeys, net.kenhtao.nudekeys12
+Architecture: iphoneos-arm
+Name: NudeKeys (iOS 12)
+Author: Orangebananaspy
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nudekeys12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nudekeys12
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.nudekeys12_1.0.0~b8_iphoneos-arm.deb
+Size: 1971538
+MD5sum: 90fb4c9459d0e348a773de81055e11d1
+SHA1: b8adaca875df004218dea7d4bd7a476345142d14
+SHA256: 20a1ad880ba26c97e3019d16b034d7b4144aa03a5df5f94dc7a25f895d326c3a
+
+Package: com.tqm-mos.prysm.beta
+Name: Prysm Beta 8.5
+Version: 0.8.5
+Description: Prysm
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.tqm-mos.ccsupport
+Installed-Size: 1479
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.prysm.beta_0.8.5_iphoneos-arm.deb
+Size: 326582
+MD5sum: bdfc33d4abf6af3cc651f66c434e6a89
+SHA1: 41c49593a1705d89d50f099ded0f9abcd1c06afa
+SHA256: c912af8791adb28c14b02f578191087c419636bc3f114a23ef8b0ed2e427dd46
+
+Package: com.tqm-mos.prysm.beta
+Name: Prysm Beta 8.6
+Version: 0.8.6
+Description: Prysm
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.tqm-mos.ccsupport
+Installed-Size: 1479
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.prysm.beta_0.8.6_iphoneos-arm.deb
+Size: 326918
+MD5sum: 92523f510bf2ad62e770f466d102014d
+SHA1: 7ff28666a99e7bd312f4a003126ed08b22587dc7
+SHA256: afd5fedf5178efe746bdfa0fe9fdf52c57a0adc2f77f1b77ef487bde1d8cf42b
+
+Package: com.tqm-mos.prysm.beta
+Name: Prysm Beta 9.2
+Version: 0.9.2
+Description: Prysm
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.tqm-mos.ccsupport
+Installed-Size: 1479
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.prysm.beta_0.9.2_iphoneos-arm.deb
+Size: 324928
+MD5sum: a54a800ec6f632f85ac755d353cda160
+SHA1: 5e14eedb79a9989933d28451057b7d446f567a04
+SHA256: 97024835b3a2025a51d000accf0c373f6cedd7197f49d43f45f526c210f312af
+
+Package: com.tqm-mos.prysm.beta
+Name: Prysm Beta 9.3
+Version: 0.9.3
+Description: Prysm
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.tqm-mos.ccsupport
+Installed-Size: 1479
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.prysm.beta_0.9.3_iphoneos-arm.deb
+Size: 359368
+MD5sum: 8f5fd4702d54a69577b1ef5920015d9b
+SHA1: 82f5a43ed2f818100b66fc4d4547806d72326986
+SHA256: ebe76880b54e0d96d214531aa0e8c785f492c24d89408378270ecd1d4bcfa8dc
+
+Package: com.tqm-mos.prysm
+Name: Prysm
+Version: 1.0.2
+Description: Prysm
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.tqm-mos.ccsupport
+Installed-Size: 1479
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.prysm_1.0.2_iphoneos-arm.deb
+Size: 355176
+MD5sum: 1e0f35a353216477672da4cc4fce0975
+SHA1: 1e915fcb280be836a8ee929559188b9cb3e74198
+SHA256: 982cb6548bc0423448ead8bb1ed525aa144c67d8b6aa0aabcfbbee62871f8b7c
+
+Package: com.tqm-mos.shuffle
+Version: 1.1.0
+Section: Tweaks
+Maintainer: @tqmmos
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Description: Phân chia các mục trong Cài đặt của bạn!
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder, repo.kenhtao.net.shuffle
+Replaces: com.cpdigitaldarkroom.placeholder
+Architecture: iphoneos-arm
+Installed-Size: 1412
+Name: Shuffle
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.shuffle
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.shuffle
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.shuffle_1.1.0_iphoneos-arm.deb
+Size: 311956
+MD5sum: 1e0f35a353216477672da4cc4fce0975
+SHA1: 1e915fcb280be836a8ee929559188b9cb3e74198
+SHA256: 982cb6548bc0423448ead8bb1ed525aa144c67d8b6aa0aabcfbbee62871f8b7c
+
+Package: com.tqm-mos.snowboardapplication
+Name: SnowBoard
+Depends: com.tqm-mos.snowboard
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: @tqmmos
+Author: Spark
+Section: SnowBoard
+Version: 1.0.3~Beta2
+Installed-Size: 1020
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.snowboardapplication_1.0.3~Beta2_iphoneos-arm.deb
+Size: 695346
+MD5sum: bcfc68106cf3c9c47fd016cf8bfa1f7d
+SHA1: cfb43329654ed69c27e613d513a2a22311176320
+SHA256: f12cc405f06c531ed473296f4ffa2a7c5cc14567e5f912e541b2eaf135ded62b
+
 Package: com.tqm-mos.shunrai
 Name: Shunrai
 Author: @tqmmos <anhminh311105@gmail.com>
