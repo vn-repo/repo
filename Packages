@@ -33,6 +33,119 @@ MD5sum: 7cf1a64f0267fe0fd26337772ebb52aa
 SHA1: a6c463bef0a120c6c7600286850df251fbcfa376
 SHA256: b7e4566a616d68242976d42ed1f6aa82292d0a8c39bd2c29b1de4295dd48d8eb
 
+Package: co.tqm-mos.miso
+Name: Miso
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Cartoon glyphs!
+Homepage: tqm-mos.github.io
+Section: TQM
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=co.tqm-mos.miso
+SileoDepiction: http://tqm-mos.github.io/description.html?id=co.tqm-mos.miso
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/co.tqm-mos.miso_1.0_iphoneos-arm.deb
+Size: 2114014
+MD5sum: 922abe47c5bd57f7835ce11825f23661
+SHA1: 7d00c482d2364ffbb5654722fc9fb113d9dd0807
+SHA256: eca21fb22c54201f665c1eb4fa0f4287aa863bdec7e330d0ed7809bd38f7fef2
+
+Package: com.tqm-mos.peek
+Name: Peek
+Version: 0.8
+Description: Themes Peek
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 2517
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peek
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peek
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.peek_0.8_iphoneos-arm.deb
+Size: 2414984
+MD5sum: a53443c5861db22bab0c04b0a6b762b0
+SHA1: 1b27c1762749a569bae9be573e1ce0a9c036884f
+SHA256: 28d589b6acdc9fca9e3cfb244f0016fb88821a0cf9968a549c9a86ace37347db
+
+Package: com.tqm-mos.peekdark
+Name: Peek Dark
+Version: 0.8
+Description: Themes Peek Dark
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 2347
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peekdark
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peekdark
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.peekdark_0.8_iphoneos-arm.deb
+Size: 2238938
+MD5sum: c4db2ccaa43e1e0475aedab365cc95a9
+SHA1: 510d30f04b63d9984aaa4c1427cae126c4943ff1
+SHA256: 874191ff916fbe58e3585a241f72487106a97864876e1b3e0a8c00f518b8b947
+
+Package: com.tqm-mos.shiiny
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Shiiny
+Description: Need To install SnowBoard
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.shiiny
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.shiiny
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.shiiny_1.0_iphoneos-arm.deb
+Size: 12647232
+MD5sum: eb51af1df8b170cad91bfbe072a040c9
+SHA1: 8530f97415a904da97860c94752965062838b2a0
+SHA256: cf190a9e26d851077a34b4390ed9dadd212b4725f0067f466414118da824ba51
+
+Package: com.tqm-mos.peek-a-boo
+Name: Peek-a-Boo
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 3D Touch on Non-3D-Touch Devices
+Maintainer: @tqmmos
+Author: iOS Creatix
+Section: Tweaks
+Version: 11.0.3
+Installed-Size: 292
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peek-a-boo
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peek-a-boo
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.peek-a-boo_11.0.3_iphoneos-arm.deb
+Size: 57686
+MD5sum: 7f34e24487b290196b8991ec0d1c29c9
+SHA1: ba5bc78647a1c6ed4a67b42342f045819d791b70
+SHA256: e8186087fecb63c685bb59a956a88444511aee5ec8b5d31f5751ccf3d82502e3
+
+Name: SkinnySettings
+Package: com.tqm-mos.skinnysettings
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
+Version: 1.3.3
+Architecture: iphoneos-arm
+Description: Make your Settings Minimal/Sleek & More!
+Maintainer: @tqmmos
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Installed-Size: 838
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/SkinnySettings.bundle/SkinnySettings@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.skinnysettings
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.skinnysettings
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.skinnysettings_1.3.3_iphoneos-arm.deb
+Size: 189758
+MD5sum: 7321aff3c59b57c4c21676fb64a16549
+SHA1: e8351edb118db7e56913717904c93d95bc475ee9
+SHA256: e2eaef509802d8b7ae0439a16d25b9732f50d405eeef5faa65f989f334f3dc1e
+
 Package: com.tqm-mos.utopia
 Name: Utopia
 Version: 1.1
@@ -541,7 +654,7 @@ SHA1: 1e915fcb280be836a8ee929559188b9cb3e74198
 SHA256: 982cb6548bc0423448ead8bb1ed525aa144c67d8b6aa0aabcfbbee62871f8b7c
 
 Package: com.tqm-mos.snowboardapplication
-Name: SnowBoard
+Name: SnowBoard Application
 Depends: com.tqm-mos.snowboard
 Architecture: iphoneos-arm
 Description: An awesome application!
