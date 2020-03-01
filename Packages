@@ -33,6 +33,335 @@ MD5sum: 7cf1a64f0267fe0fd26337772ebb52aa
 SHA1: a6c463bef0a120c6c7600286850df251fbcfa376
 SHA256: b7e4566a616d68242976d42ed1f6aa82292d0a8c39bd2c29b1de4295dd48d8eb
 
+Package: com.tqm-mos.utopia
+Name: Utopia
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Utopia
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer:  @tqmmos <anhminh311105@gmail.com>
+Section: TQM
+Tag: purpose::extension, cydia::commercial, compatible_min::ios9.3, compatible_max::ios13.3
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.utopia
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.utopia
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.utopia_1.1_iphoneos-arm.deb
+Size: 39644186
+MD5sum: cbe5a07074fa43d4fd475de6c61a2f9d
+SHA1: 0d89a29e5a8d4ad530e5e6999949092465d1776a
+SHA256: a3ae6d8729c77b29ca7a3bfd4b05e073e36b33b5a61df4bf370014815c1f65a0
+
+Package: com.tqm-mos.tsssaver
+Description: lưu file shsh ngay trên thiết bị
+Version: 1.2.0-1
+Section: Tweaks
+Maintainer: @tqmmos
+Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0)
+Architecture: iphoneos-arm
+Name: TSS Saver
+Author: Jamie Bishop <rwmeo2004@hotmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.tsssaver
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.tsssaver
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.tsssaver_1.2.0-1_iphoneos-arm.deb
+Size: 177676
+MD5sum: 079866588b5e3ccd7617605d20c60aac
+SHA1: c3ae0f098c52e180a7acdb35bc7fe779b2ce7856
+SHA256: 3f6d629cef33e5b6bbef8d11ba49e9f08f8971ec765bc02a54d393a726d9977c
+
+Package: com.tqm-mos.switcherstyle
+Name: SwitcherStyle
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, me.nepeta.libcolorpicker
+Conflicts:
+Description: Change App Switcher settings
+Maintainer: @tqmmos
+Author: JunesiPhone <junesgraphics@gmail.com>
+Section: Tweaks
+tag: cydia::paid
+Version: 0.6
+Installed-Size: 560
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.switcherstyle
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.switcherstyle
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.switcherstyle_0.6_iphoneos-arm.deb
+Size: 39948
+MD5sum: f3381b30e3dec63cad8e1d901ba5d8f8
+SHA1: c656e0ab90696e12000f16dbd87b03cb06833a70
+SHA256: 5a39d04cd19bc3c26387448feedd5b59895d3099dcf92cc3a2d39562151e5a8b
+
+Package: com.tqm-mos.st5
+Name: Springtomize 5
+Version: 5.0.7
+Description: Springtomize 5
+Author: sharedRoutine
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Installed-Size: 2477
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.st5_5.0.7_iphoneos-arm.deb
+Size: 823098
+MD5sum: 0f3b343734350f0b22576c629299bb73
+SHA1: 3403d542a7850370258d07949e9d3db9fd53d7c9
+SHA256: 43196d95f5a0c583b000dd65e3f85c400b6457d5fab58ef0b138db90dd0fdb51
+
+Package: com.tqm-mos.st5
+Name: Springtomize 5
+Version: 5.0.4
+Description: Springtomize 5
+Author: sharedRoutine
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Installed-Size: 2432
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.st5_5.0.4_iphoneos-arm.deb
+Size: 770686
+MD5sum: b4c366b2e8b5707df38ff01c4dadcbbe
+SHA1: 3bf71e033cd42b07ef40d8ec2372466499336473
+SHA256: 0e3b94746bd7ba06f8fdba9444245985e8fe3758a86e220e246da016c7e06a34
+
+Package: com.tqm-mos.st5
+Name: Springtomize 5
+Version: 5.0.2
+Description: Springtomize 5
+Author: sharedRoutine
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Installed-Size: 2432
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.st5_5.0.2_iphoneos-arm.deb
+Size: 764746
+MD5sum: 3cdfffaef6ee474ccff820f358c877da
+SHA1: a73ee77bccea1fd13ffbb139f29ce792e0e05836
+SHA256: 2d3dc6ee17d12572a25ef6101ef09ed73f8e78ea817e6f3319a8c9a3137ee00e
+
+Package: com.tqm-mos.harbor3
+Name: Harbor 3
+Version: 1.0.0-8
+Description: Harbor 3
+Author: Evan Swick
+Depends: mobilesubstrate
+Conflicts: com.eswick.harbor2
+Installed-Size: 542
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.harbor3
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.harbor3
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.harbor3_1.0.0-8_iphoneos-arm.deb
+Size: 87002
+MD5sum: cdf7847707f89fb738e311363238a26f
+SHA1: 8fb7973973de8b971338bd715dc941b307e271a1
+SHA256: 942b8426724724a8b2ef6f34bf8add9f293713664fd090f3ff26c7015667e3c4
+
+Package: com.tqm-mos.boxy4
+Name: Boxy 4 (iOS 13)
+Version: 4.1.0
+Description: boxy4
+Author: William Vabrinskas <wvabrinskas@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders, com.irepo.boxy3
+Installed-Size: 3564
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.boxy4
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.boxy4
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.boxy4_4.1.0_iphoneos-arm.deb
+Size: 2859452
+MD5sum: 0ed901d18588e50c99d98033d3602fa5
+SHA1: d2822e1d08c455c6efecee9a8d5ae61bcb2f0a30
+SHA256: 9938eeeef9188e8b0698a4e93d72f71e8dea99d9a3f4d262175aa613cc82a8ec
+
+Package: com.tqm-mos.appstoreplusplus12
+Name: AppStore++
+Version: 0.9.8-9
+Description: AppStore++
+Author: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Priority: optional
+Section: IOS11
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appstoreplusplus12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appstoreplusplus12
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.appstoreplusplus12_0.9.8-9_iphoneos-arm.deb
+Size: 1339774
+MD5sum: aa42461d73c7a5be1ad360efeef8926e
+SHA1: 260a9d27a7527b921e5d3496dc9fd9384c6c17c0
+SHA256: f6a916c446f311a9f70b870342505d3350eaa9c3970d9f95593043a4a4e962e3
+
+Package: com.tqm-mos.appstoreplusplus12
+Name: AppStore++
+Version: 0.9.8-6
+Description: AppStore++
+Author: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Priority: optional
+Section: IOS11
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appstoreplusplus12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appstoreplusplus12
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.appstoreplusplus12_0.9.8-6_iphoneos-arm.deb
+Size: 1338034
+MD5sum: c7d514c844a0fa9c9be446ff3efb105f
+SHA1: 03347b66377f5f8af134f77fd1603e951099331f
+SHA256: 08498249a97db5dbaaff5849b64a3cc8e428885f787a4eef4aa234687906ff7a
+
+Package: com.tqm-mos.appstoreplusplus12
+Name: AppStore++
+Version: 0.9.8-4
+Description: AppStore++
+Author: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Priority: optional
+Section: IOS11
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appstoreplusplus12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appstoreplusplus12
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.appstoreplusplus_0.9.8-4_iphoneos-arm.deb
+Size: 1344434
+MD5sum: c87a6b5a74ac2348e53283760cfcca46
+SHA1: 4600509b81ab3526f67005c03240287139867ee5
+SHA256: 2c50cc28cb27af479cb65050ee0fc3c5fda431c6ef5587d48658707bbccdc1e3
+
+Package: com.tqm-mos.appaze2
+Name: Appaze 2
+Version: 1.1k
+Description: Appaze 2 3D Touch
+Author: AnthoPak <anthopakdev@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0), com.a3tweaks.flipswitch (>= 1.0.16~beta5)
+Installed-Size: 1396
+Section: IOS11
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appaze2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appaze2
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.appaze2_1.1k_iphoneos-arm.deb
+Size: 839742
+MD5sum: b82ca925d936f01c3f8409a3ffc114f9
+SHA1: 780a83f174adc34388081a9b3899dd6b844ee43f
+SHA256: 670b73d28372e6c5a0545468207e6f383a19470c4d9f27523513dff6571fdcd1
+
+Package: com.tqm-mos.appaze2
+Name: Appaze 2
+Version: 1.0k
+Description: Appaze 2 3D Touch
+Author: AnthoPak
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0), com.a3tweaks.flipswitch
+Installed-Size: 1193
+Section: IOS11
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appaze2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appaze2
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.appaze2_1.0k_iphoneos-arm.deb
+Size: 780392
+MD5sum: fec2aa123be35d92af99ac1713c87096
+SHA1: 4e2f73a896cddc92b59afa20b952e5a010d5f35d
+SHA256: e9a12769f19b12b26a41f812c1c7a0cae4fad9a02602e957ef1d9b235daa64a0
+
+Package: com.tqm-mos.centaur
+Name: Centaur
+Version: 1.1.1k
+Description: Centaur
+Author: Muirey03
+Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
+Icon: file:///Library/PreferenceBundles/Centaur.bundle/Icon-Large.png
+Installed-Size: 1509
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.centaur
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.centaur
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.centaur_1.1.1k_iphoneos-arm.deb
+Size: 791508
+MD5sum: 9a694840ff5ce0e6e76b2b9c92501c66
+SHA1: 776c9623061349d5fc6ab462a8eeaa626166ee67
+SHA256: 7f084564ddf63f5fd9b8a0ebc5eaac472873d7800914ecca58958dfa0a55e093
+
+Package: com.tqm-mos.dleasy
+Name: DLEasy Crack
+Version: 2.8.6-2k
+Description: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, curl
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
+Installed-Size: 10904
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dleasy
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dleasy
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.dleasy_2.8.6-2k_iphoneos-arm.deb
+Size: 4816122
+MD5sum: 007499a6d8cf584e5e2e998e0aa4159e
+SHA1: 9459682f91f829445d5d7ba7b07adf8c6628a737
+SHA256: 12b12f8bfd412bf6568b1910936695260bb4af579939fa6c65775a059591bb49
+
+Package: com.tqm-mos.grupi
+Name: Grupi
+Version: 1.0.3
+Description: thiết kế lại thông báo màn hình khoá
+Author: Soongyu Kwon & Timeloop
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Installed-Size: 512
+Section: IOS11
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.grupi
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.grupi
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.grupi_1.0.3_iphoneos-arm.deb
+Size: 181152
+MD5sum: 5b80b448cbf157daf21f270124ea061e
+SHA1: faf9fb9cc164875a714bbfbed5918785dcba95b3
+SHA256: 9387e8e92f9163d689c817f2b4acdb07ff02b8454188b79ea5dfbe6e1b8521c1
+
+Package: com.tqm-mos.screenshotappx
+Name: ScreenshotX
+Version: 1.3
+Section: Addons
+Architecture: iphoneos-arm
+Author: JunesiPhone <junesgraphics@gmail.com>
+Description: Put screenshots in phones.
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.screenshotappx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.screenshotappx
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.screenshotappx_1.3_iphoneos-arm.deb
+Size: 29694776
+MD5sum: 1c5ebb4b06b48c3d3ca0e935ab9dd680
+SHA1: 76fd7402f96578a4c9eda03437d872ca876b7b92
+SHA256: b182be0b3f6ce7119fe5bfd27a0c805181b32f0b03917d72f59f238f7943c0f5
+
 Package: com.matchstic.xenhtml
 Name: Xen HTML
 Version: 1.2.3~release
