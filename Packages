@@ -87,6 +87,23 @@ MD5sum: c4db2ccaa43e1e0475aedab365cc95a9
 SHA1: 510d30f04b63d9984aaa4c1427cae126c4943ff1
 SHA256: 874191ff916fbe58e3585a241f72487106a97864876e1b3e0a8c00f518b8b947
 
+Package: com.tqm-mos.rosewavedeluxe
+Name: Rose Wave Deluxe
+Version: 1.0.4
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Beautiful Rose mod Wave Theme
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.rosewavedeluxe
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.rosewavedeluxe
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.rosewavedeluxe_1.0.4_iphoneos-arm.deb
+Size: 90302956
+MD5sum: f48f5b42d6723ecf6fe5b9c80c4f0776
+SHA1: c341e4dc1e6f82c71d9faf5d5829b872d14d3f75
+SHA256: 36b68d7a13d29240f9325ccb5d3a0ea493892a94ea3b1da96e17ce7daba8e1c9
+
 Package: com.tqm-mos.shiiny
 Version: 1.0
 Architecture: iphoneos-arm
