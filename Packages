@@ -667,6 +667,25 @@ MD5sum: 1e0f35a353216477672da4cc4fce0975
 SHA1: 1e915fcb280be836a8ee929559188b9cb3e74198
 SHA256: 982cb6548bc0423448ead8bb1ed525aa144c67d8b6aa0aabcfbbee62871f8b7c
 
+Package: com.tqm-mos.prysm
+Name: Prysm
+Version: 1.1
+Description: Prysm
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.tqm-mos.ccsupport
+Installed-Size: 1782
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.prysm_1.1_iphoneos-arm.deb
+Size: 358722
+MD5sum: 3669fc3e8acf56305438323ccdde4783
+SHA1: d581f94de0bb9d80267314bafb24d5ded3a50a2d
+SHA256: 72f5133854c92ee24665dea3eabfe5220da1cd8062c502a0c49067bb93167b75
+
 Package: com.tqm-mos.shuffle
 Version: 1.1.0
 Section: Tweaks
