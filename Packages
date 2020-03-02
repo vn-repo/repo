@@ -15,6 +15,25 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.x13
+Name: X13
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Enables iPhone X Gestures On iOS 13
+Maintainer: @tqmmos
+Author: machport
+Section: Tweaks
+Version: 2.0-4+debug
+Installed-Size: 208
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.x13
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.x13
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.x13_2.0-4+debug_iphoneos-arm.deb
+Size: 16488
+MD5sum: cee9506c678ef487cd367735ec08d3a6
+SHA1: 694319eeba1409ed1c406e3ed219a5ef0d1f6fb2
+SHA256: d0198953dccce42d63235ac020b13e9576eefe620395db4bd41ca7290fa971ae
+
 Package: com.tqm-mos.shadows
 Name: Shadow
 Author: @tqmmos <anhminh311105@gmail.com>
