@@ -70,6 +70,49 @@ MD5sum: 922abe47c5bd57f7835ce11825f23661
 SHA1: 7d00c482d2364ffbb5654722fc9fb113d9dd0807
 SHA256: eca21fb22c54201f665c1eb4fa0f4287aa863bdec7e330d0ed7809bd38f7fef2
 
+Package: com.tqm-mos.audiorecorderxs
+Name: AudioRecorder XS (iOS 12/13)
+Version: 3.2-47
+Description: AudioRecorder
+Author: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), wget
+Conflicts: net.limneos.callrecorder, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx,net.limneos.audiorecorderxs
+Icon: https://www.limneos.net/cydia/packageImages/net.limneos.audiorecorderxs/icon.png?fe=398
+Installed-Size: 21320
+Section: IOS12
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.audiorecorderxs
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.audiorecorderxs
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.audiorecorderxs_3.2-47_iphoneos-arm.deb
+Size: 4730468
+MD5sum: 1119f61fcb44f10d533e94f43c2a07b3
+SHA1: e3744d1599c1f963562d6765cd049d8d243f0300
+SHA256: 1d1b8c78f28edadc2d6eb586017c42a72257206282027d08c3278154a1f49148
+
+Package: com.tqm-mos.st412
+Name: Springtomize 4 VH
+Version: 4.1.0
+Description: Springtomize 4 VH
+Author: sharedRoutine
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Replaces: com.springtomize.st4
+Installed-Size: 3294
+Section: IOS12
+Provides: com.springtomize.st4.new
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st412
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st412
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.st412_4.1.0_iphoneos-arm.deb
+Size: 932070
+MD5sum: c34d436de9b3b392dcabeec3066fe6c9
+SHA1: 0621704326f45b68131d41add4050075f599005d
+SHA256: 9747d2873533b267c77f7e605b9d973d63d47d1fed8b1a1bad71567ba1c78319
+
 Package: com.tqm-mos.peek
 Name: Peek
 Version: 0.8
