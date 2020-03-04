@@ -15,6 +15,125 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.videobg
+Name: VideoBG
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Conflicts:
+Description: Add videos to iPhone frames.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: JunesiPhone <junesgraphics@gmail.com>
+Section: Tweaks
+tag: cydia::paid
+Version: 0.6
+Installed-Size: 596
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.videobg
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.videobg
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.videobg_0.6_iphoneos-arm.deb
+Size: 273400
+MD5sum: 91189268bc92ed6f674f14581f55dd07
+SHA1: 41e89b82dc8edb056db907c8748b83f37f8b1580
+SHA256: b4124d9a0e303668f09721058194145557de3e6a34b11706bc7b707eebf52302
+
+Name: libcolorpicker
+Package: org.thebigboss.libcolorpicker
+Priority: optional
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000)
+Provides: me.nepeta.libcolorpicker
+Replaces: me.nepeta.libcolorpicker
+Version: 1.6.7
+Architecture: iphoneos-arm
+Description: color picker library for developers
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcolorpickerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcolorpickerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: PixelFire <pixelfiredev@helpful.io>
+dev: pixelfiredev
+Section: Development
+Tag: purpose::library, role::developer, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, cydia::obsolete
+Installed-Size: 622
+Filename: ./debs/libcolorpicker_1.6.7.deb
+Size: 111324
+MD5sum: e23130db2382929b46c8c4c0cb71ebae
+SHA1: 7d48a11480092e8c7891ad04057cde256c124a3a
+SHA256: fc1fe90f1b542f33c3512c2026b5c5bdc411bfad34326dc947406bff55175c52
+
+Package: com.tqm-mos.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: You can HIDE Doing jailbreak your iDevice.
+Maintainer: @tqmmos
+Author: XsF1re
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+Version: 0.2.1~beta2
+Installed-Size: 836
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.flyjb
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.flyjb
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.flyjb_0.2.1~beta2_iphoneos-arm.deb
+Size: 199950
+MD5sum: 9ea55cd60f61437196bb4c2dcb21da95
+SHA1: b8b5bf21013d4fe7f99f71c4ff4562f11e3b6ad0
+SHA256: 6b99541b87271d1d12fe707a3bc5d4de8b2fd145968c024305f2c77384f3d328
+
+Package: com.tqm-mos.magmaevo
+Name: Magma Evo
+Version: 1.1.5
+Description: Magma Evo
+Author: NoisyFlake
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.tqm-mos.ccsupport, org.thebigboss.libcolorpicker (>= 1.6.7)
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Installed-Size: 668
+Section: IOS12
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.magmaevo
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.magmaevo
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.magmaevo_1.1.5_iphoneos-arm.deb
+Size: 181174
+MD5sum: 9b367a7afaa605249ec41686581e4466
+SHA1: 9e61c5fcb6b1cbca23af06e0ebfa3df4fb2bdd9a
+SHA256: cbda2900eb468f20dacddb5036bcb99a731115e81669cc266f124443f6e0d675
+
+Package: com.tqm-mos.ghostedcolor
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Ghosted Color
+Description: Need To install SnowBoard
+Section: TQM
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ghostedcolor
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ghostedcolor
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.ghostedcolor_1.0_iphoneos-arm.deb
+Size: 1522456
+MD5sum: 8467f9d6c96dcf71f17fc1ec2820a858
+SHA1: ec16f64679c04e68fb245bb7c23aa546e679326b
+SHA256: ce942f2204dbca39956b6301ce278ffd1ddee3b37bc44064561a42d18b36f0af
+
+Package: com.tqm-mos.Shiiny
+Name: Sh!!ny
+Version: 1.3
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Shiny icons
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.shiinyy
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.shiinyy
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.Shiiny_1.3_iphoneos-arm.deb
+Size: 12647234
+MD5sum: 4d5db79c3369fbe4e946e33d97d5be23
+SHA1: 8abe3a32c6790a7f9c5c46e16512dc83d1023482
+SHA256: 0a5830534fc8412f5a84f2f64b54115744e2fb6b576bac1691f264530a52c012
+
 Package: com.tqm-mos.x13
 Name: X13
 Depends: mobilesubstrate
