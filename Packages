@@ -223,8 +223,8 @@ Section: IOS12
 Provides: com.springtomize.st4.new
 Architecture: iphoneos-arm
 Maintainer: @tqmmos
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st412
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st412
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sp4
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sp4
 Homepage: https://www.facebook.com/quangminhdx
 Filename: ./debs/com.tqm-mos.st412_4.1.0_iphoneos-arm.deb
 Size: 932070
@@ -411,8 +411,8 @@ Installed-Size: 2477
 Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: @tqmmos
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sp5
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sp5
 Homepage: https://www.facebook.com/quangminhdx
 Filename: ./debs/com.tqm-mos.st5_5.0.7_iphoneos-arm.deb
 Size: 823098
@@ -430,8 +430,8 @@ Installed-Size: 2432
 Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: @tqmmos
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sp5
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sp5
 Homepage: https://www.facebook.com/quangminhdx
 Filename: ./debs/com.tqm-mos.st5_5.0.4_iphoneos-arm.deb
 Size: 770686
@@ -449,8 +449,8 @@ Installed-Size: 2432
 Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: @tqmmos
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sp5
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sp5
 Homepage: https://www.facebook.com/quangminhdx
 Filename: ./debs/com.tqm-mos.st5_5.0.2_iphoneos-arm.deb
 Size: 764746
