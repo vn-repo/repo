@@ -458,6 +458,80 @@ MD5sum: 25334a45e2b7eeb3d365f567980166bd
 SHA1: 26f835c1cd7482164c9cd63a5fa0036c3d00b178
 SHA256: 084eba7557329512f7ad6240ee7dda486f594c4c58f6fb81c7d6b729b20a175e
 
+Package: com.spark.libsparkapplist
+Name: libSparkAppList
+Version: 1.0.7
+Description: AppList alternative
+Author: Spark
+Installed-Size: 460
+Section: Development
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.spark.libsparkapplist
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.spark.libsparkapplist
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.spark.libsparkapplist_1.0.7_iphoneos-arm.deb
+Size: 54604
+MD5sum: 7b66fddfc1a6d1bbcc6bd0d42e334815
+SHA1: 47d659b628572d9c6f6397c4f2829c60b02bb05a
+SHA256: 35bddc8a0e3676a60d5db12ce41a6f1169d7d7397c79d585b7efce8b3618147b
+
+Package: com.tqm-mos.harbor3
+Name: Harbor 3
+Version: 1.1.1-1
+Description: Menu dock kiểu MacOS
+Author: Evan Swick
+Depends: mobilesubstrate
+Conflicts: com.eswick.harbor2
+Installed-Size: 380
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.harbor3
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.harbor3
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.harbor3_1.1.1-1_iphoneos-arm.deb
+Size: 60496
+MD5sum: 7e47531152d7e8a0a2d62cdd520ad054
+SHA1: 350085f5be22d9574d21bb61f6b92bb383d3a3ea
+SHA256: 8d0a27a128eefdbdb78e4149a5d7dec87362ac97c7060bcd77a00f0b57dda201
+
+Package: com.tqm-mos.dimonds
+Name: dimonds
+Version: 1.0.3
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: icons with lovely colors
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dimonds
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dimonds
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.dimonds_1.0.3_iphoneos-arm.deb
+Size: 7915388
+MD5sum: aa27e4a49f31bcf68da3be57fee7b1b3
+SHA1: 08ed21be79e5d4a15b1bcf48249dfaac9d3da02a
+SHA256: d8928cde473c8d2ecb77bca08b7b731f98bbbf83824bbf71101ea50077847ebe
+
+Package: com.tqm-mos.cask2
+Name: Cask 2
+Version: 1.0.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Installed-Size: 360
+Author: Ryan Nair
+Maintainer: @tqmmos
+Description: Animated table scrolling
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cask2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cask2
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.cask2_1.0.0_iphoneos-arm.deb
+Size: 32350
+MD5sum: 2ec2c206366acf23bb9a88142f097e4b
+SHA1: 596cf28ea28b51ed317e074a597af606fe7c0608
+SHA256: a12a83193b6751a171c0ccdc0f94eb20c66aca30e01259a95b7d0a6021fec73c
+
 Package: com.tqm-mos.prysmdevycc
 Name: Prysm DevyCC Theme
 Author: @tqmmos <anhminh311105@gmail.com>
