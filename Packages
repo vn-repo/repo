@@ -36,6 +36,24 @@ MD5sum: 91189268bc92ed6f674f14581f55dd07
 SHA1: 41e89b82dc8edb056db907c8748b83f37f8b1580
 SHA256: b4124d9a0e303668f09721058194145557de3e6a34b11706bc7b707eebf52302
 
+Package: com.tqm-mos.sileou0
+Version: 1.0
+Section: Addons
+Maintainer: @tqmmos
+Depends: org.swift.libswift (>=5.0), zsh, curl, cydia (=1.1.32~b19)
+Architecture: iphoneos-arm
+Name: Sileo cho unc0ver
+Author: @tqmmos
+Description: Trình cài đặt Sileo cho unc0ver jailbreak
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sileou0
+Sileodepiction: https://tqm-store.github.io/Sileo/sileou0.json
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-mos.sileou0_1.0_iphoneos-arm.deb
+Size: 7902
+MD5sum: 6861fac22f6ca77370c501c32c41d349
+SHA1: 1a70ab2b46869f695b0b6d359ff1789ef4b5f9fc
+SHA256: 16ad68836538f4bbfb0044b06a31e92cda04b483fb70a7bfe4e5fcf1200d934c
+
 Name: libcolorpicker
 Package: org.thebigboss.libcolorpicker
 Priority: optional
