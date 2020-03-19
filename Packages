@@ -35,6 +35,24 @@ MD5sum: 25b6e1ecae5d07df472183c1e2a3cafa
 SHA1: e7b184ebd94e9ab54cfb078952167c6e0a91e9b6
 SHA256: 5d8763dde23cf2bed26ea1c144a440dcda25f09eb79892569cacece068e9d0cb
 
+Package: com.tqm-mos.nokiapro
+Name: LS Nokia
+Author: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Gói tiện ích (widgets)
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.nokiapro
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.nokiapro
+Filename: ./debs/com.tqm-mos.nokiapro_1.0_iphoneos-arm.deb
+Size: 1099276
+MD5sum: bbbdf35d5b42dbbe021e2cad14d10323
+SHA1: dfa7797d7285acd3f12f46a29f43001881494e9b
+SHA256: b428ec022051250216b3aad71a2e23ccd19e9f3ea5c9b474870386f3ee985a5b
+
 Package: com.tqm-mos.videobg
 Name: VideoBG
 Architecture: iphoneos-arm
