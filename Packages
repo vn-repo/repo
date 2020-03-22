@@ -71,6 +71,24 @@ MD5sum: 68a0f57afc679e808cd4f618639b9718
 SHA1: 36ed77899879a55e38c3ff7ce4e7111f8c05db72
 SHA256: e04edef4ebb71ba55a1bc15ff2b11ba35d297fecae66be3c693383217ac744ee
 
+Package: com.tqm-mos.nokiaprokeyled
+Name: LS Nokia Key Led
+Author: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Gói tiện ích (widgets)
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.nokiaprokeyled
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.nokiaprokeyled
+Filename: ./debs/com.tqm-mos.nokiaprokeyled_1.0_iphoneos-arm.deb
+Size: 1925356
+MD5sum: 087c719dc156c50d3d9b2a0745d1e23c
+SHA1: b9a9b5747f59ca02cad31f03dcd037f277d9d6e2
+SHA256: b0c8ee145b1cc9152fb836107293fc7e483911babf3d7e9e54463674ba9d73bb
+
 Package: com.tqm-mos.nokiapro
 Name: LS Nokia
 Author: @tqmmos <anhminh311105@gmail.com>
