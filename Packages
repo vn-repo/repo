@@ -102,10 +102,10 @@ Homepage: https://www.facebook.com/quangminhdx
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.nokiapro
 SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.nokiapro
 Filename: ./debs/com.tqm-mos.nokiapro_1.2_iphoneos-arm.deb
-Size: 1932744
-MD5sum: b5bcc6ed6842403e55e0e78f0f7106f8
-SHA1: 4191b517c2f8a9a6a423d4deb01a34f785d6cdd4
-SHA256: e060bbe80bf47f9a315508f5249063438f700d3ade19d36fcba4809f4d70c326
+Size: 1932754
+MD5sum: 50adcd29cdaecb4cbb41dbe69f56d606
+SHA1: 987eec7cf1c79f4dc8815485fd0312efbd8ce53d
+SHA256: e108f850195a465a68199a096520ef0fb565b97c5dc8e285f64de27868cb0eb8
 
 Package: com.tqm-mos.videobg
 Name: VideoBG
