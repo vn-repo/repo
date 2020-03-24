@@ -15,6 +15,68 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: cydia-dark
+Priority: required
+Section: Cydia/Electra-Chimera
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1.9.3~b5
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
+Depends: apt7-lib | libapt, apt7-key | apt-key, cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.18), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), xz, cydia
+Conflicts: bigboss, com.sosiphone.addcydia, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
+Pre-Depends: debianutils, dpkg (>= 1.14.25-8), firmware (>=5.0)
+Description: graphical iPhone front-end for APT
+Name: Cydia Installer
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia/
+Icon: file:///Applications/Cydia.app/Icon-60.png
+Tag: purpose::uikit, role::enduser
+Installed-Size: 8880
+Filename: ./debs/cydia-dark_1.9.3~b5_iphoneos-arm.deb
+Size: 1663170
+MD5sum: e1dc93439d0e2999564f0c6e84fc3215
+SHA1: 32bf27d27b0413cca634d8e52039f7ad3cd39da8
+SHA256: 5db25f79dcaa513a65cb1f2f43ab7008b56ed057b6b2261947ca6a0a936e1679
+
+Package: cydia-lproj
+Priority: required
+Section: Cydia/Electra-Chimera
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Version: 1.9.3~b1
+Conflicts: org.thebigboss.russiancydia
+Provides: org.thebigboss.russiancydia
+Replaces: cydia, org.thebigboss.russiancydia
+Depends: cydia
+Description: languages and translations for Cydia
+Name: Cydia Translations
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia-lproj/
+Tag: purpose::uikit, cydia::essential, role::enduser
+Installed-Size: 712
+Filename: ./debs/cydia-lproj_1.9.3~b1_iphoneos-arm.deb
+Size: 76260
+MD5sum: 6ada1a11582b4d662fbfe7a8f6bee6af
+SHA1: 21b9a1bf6fe0e1c51bc96df7aad8c398980c97ec
+SHA256: a985faed0a2bba377d18a53e2af15ff32158a74a2240bf43988eb105d98239b9
+
+Package: com.tqm-mos.ginesaanemone
+Name: Gineso (Anemone)
+Author: @tqmmos
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: Quang Minh
+Section: TQM
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ginesaanemone
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ginesaanemone
+Filename: ./debs/com.tqm-mos.ginesaanemone_1.1_iphoneos-arm.deb
+Size: 39614536
+MD5sum: 042571fb6223f36661985162f7f9265a
+SHA1: 0650559a98008fcfa1c42b8389300d83e242ef73
+SHA256: d2d869978289f8a0e7e9b85253c122325372bbf84e4151429428a52f1330d4a4
+
 Package: com.tqm-mos.prysm
 Name: Prysm
 Version: 1.4k
