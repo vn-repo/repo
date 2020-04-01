@@ -20,7 +20,7 @@ Priority: required
 Section: Cydia/Electra-Chimera
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Architecture: iphoneos-arm
-Version: 1.9.3~b5
+Version: 1.9.4
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
 Depends: apt7-lib | libapt, apt7-key | apt-key, cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.18), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), xz, cydia
 Conflicts: bigboss, com.sosiphone.addcydia, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
@@ -38,12 +38,215 @@ MD5sum: e1dc93439d0e2999564f0c6e84fc3215
 SHA1: 32bf27d27b0413cca634d8e52039f7ad3cd39da8
 SHA256: 5db25f79dcaa513a65cb1f2f43ab7008b56ed057b6b2261947ca6a0a936e1679
 
+Package: com.creaturecoding.libcspreferences
+Name: libCSPreferences
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: A Preference Library that doesn't suck!
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: System
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
+Tag: compatible_min::iosiOS9
+Version: 1.3.3
+Installed-Size: 4952
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.creaturecoding.libcspreferences_1.3.3_iphoneos-arm.deb
+Size: 670950
+MD5sum: 2e488b43d7ef2f40fd59e933e773fca1
+SHA1: 0e7d06a0066dae0b9a934c55684e81494b73135a
+SHA256: 154b2bb5d48b3cff94a315aaa4772006d58a62a5fd0d35045c6853cdd0e89147
+
+Author: Netskao <netskao@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Name: GestureLite13
+Package: com.tqm-mos.gesturelite13
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: netskao.awemehack
+Section: Tweaks
+Installed-Size: 212
+Version: 1.3-2
+Architecture: iphoneos-arm
+Description: Bật cử chỉ iPhoneX cho các thiết bị cũ, hỗ trợ iOS13 và chuyển sang tùy chỉnh tiếng Trung Quốc. Nâng bàn phím lên một chút để tránh các cử chỉ vô tình trong khi gõ và nâng phần dưới của WeChat để tránh các cử chỉ vô tình
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.gesturelite13
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.gesturelite13
+Filename: ./debs/com.tqm-mos.gesturelite13_1.3-2_iphoneos-arm.deb
+Size: 59328
+MD5sum: 056d20a4335daf222a46b5854b531e3f
+SHA1: e810ef35fd422137c89f26c29fc6e68517edec99
+SHA256: a1fa8219ee5d0f3d4daee7c84c3cdc49bf25c15d1824b707324f1b5234aa56ec
+
+Name: Gesturesi11
+Package: com.tqm-mos.gesturesi11
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 13.0)
+Version: 2.2
+Architecture: iphoneos-arm
+Description: iPhone X and 11 features for all devices
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios13
+Installed-Size: 68
+dev: hius
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.gesturesi11
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.gesturesi11
+Filename: ./debs/com.tqm-mos.gesturesi11_2.2_iphoneos-arm.deb
+Size: 5284
+MD5sum: 1bb7af8447f1491b0c94242dca9de111
+SHA1: 7809fe84cbaa8d96adf3cc1fb7964a90bc548043
+SHA256: 668df6092aaa75cab7121f3a7090e5b493892bae98f12b07a863fb5d0cd79706
+
+Package: com.tqm-mos.gesturesxs
+Name: GesturesXS
+Version: 3.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 72
+Author: Ryan Nair
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: iPhone X gestures, nothing else!
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.gesturesxs
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.gesturesxs
+Filename: ./debs/com.tqm-mos.gesturesxs_3.0_iphoneos-arm.deb
+Size: 5466
+MD5sum: 1eab8cf12ff1363e0b2605c54a1bf804
+SHA1: 7181915ce989c8b0814fe534005e0076cde1d259
+SHA256: 242f341b7b8e0305b306cf987600f671285b6ae927ae0f969571eb6ab14c032e
+
+Package: com.tqm-mos.little11
+Name: Little11
+Version: 1.2.1
+Section: IOS11
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 212
+Author: Ryan Nair
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: iPhone 11 gestures and more for iOS 13.
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.little11
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.little11
+Filename: ./debs/com.tqm-mos.little11_1.2.1_iphoneos-arm.deb
+Size: 25388
+MD5sum: 38d135d4e0acd4fae1ffb74023aa91a8
+SHA1: 0c343a9068cdc1d511d4497ae364be6ba342319d
+SHA256: fd24a5346678e23a37ab2f4c9f2d04053ecb802774dbb5d02ba34144b58a84ab
+
+Package: com.tqm-mos.littlexs
+Name: LittleXS
+Version: 2.4.4
+Section: IOS12
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Installed-Size: 332
+Author: binksalex & Ryan Nair
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: LittleX revitalized for iOS 12.
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.littlexs
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.littlexs
+Filename: ./debs/com.tqm-mos.littlexs_2.4.4_iphoneos-arm.deb
+Size: 35818
+MD5sum: 0ed8a203e1949c3745dd9ed87d30e0e0
+SHA1: 821751e2ff621d6f7106b5d23dabd6b2816beb6c
+SHA256: 1786449a349e4cb9d967fe4cadb4fab054f0d18ab460782541a99d98efd2820a
+
+Package: com.tqm-mos.mhsmssupport
+Name: SMS/iMessage Support
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: SMS/iMessage Support for ChatHeads and MessageHub
+Maintainer: @tqmmos
+Author: c1d3r
+Section: Utilities
+Version: 1.2-1+debug
+Installed-Size: 144
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.chatxi
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.chatxi
+Filename: ./debs/com.tqm-mos.mhsmssupport_1.2-1+debug_iphoneos-arm.deb
+Size: 17108
+MD5sum: b4ceef05e89d2e3ebd1f549f0a191a71
+SHA1: 4f4e3aad564e17706a446b6083d2dd060c28847b
+SHA256: 5e1b4c0dd4cba281381dd902b85070b8381226e9c7b5b8a2c1ab8be9705807c3
+
+Package: com.tqm-mos.shuffle
+Name: shuffle
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Replaces: com.cpdigitaldarkroom.placeholder
+Conflicts: com.cpdigitaldarkroom.placeholder
+Architecture: iphoneos-arm
+Description: Mix up your preferences
+Maintainer: @tqmmos
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Version: 1.1.3
+Installed-Size: 1568
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.shuffle
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.shuffle
+Filename: ./debs/com.tqm-mos.shuffle_1.1.3_iphoneos-arm.deb
+Size: 340442
+MD5sum: aa2235c9765fc708bdaf755ed8b1d5fc
+SHA1: 299aed6565d44b19fceb67cc22593af80f3d4053
+SHA256: 6bb9924784508bf375a17178d01863cdee5d376a072d0374e04f4a067b9d38a0
+
+Name: ZOOM20Camera
+Package: com.tqm-mos.zoom20camera
+Source: Add to your phone's camera zoom up to 20
+Icon: https://i.imgur.com/2DVV1DW.png
+Version: 0.0.1-18+debug
+Section: Tweaks
+Maintainer: @tqmmos  <anhminh311105@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm
+Installed-Size: 2596
+Author: ahmedmakls
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.zoom20camera
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.zoom20camera
+Filename: ./debs/com.tqm-mos.zoom20camera_0.0.1-18+debug_iphoneos-arm.deb
+Size: 2169648
+MD5sum: bd20feafabf40fb0a0298060b88074c6
+SHA1: 78aa40e8068345fa2b28a6e7d64ef1c32374d49e
+SHA256: 8d5036674b19726f72d0fb91f12d3cd132229be1b6ecf5b05b8e77fd22b41589
+
+Package: com.tqm-mos.prysm
+Name: Prysm
+Version: 1.5k
+Description: Thiết kế lại trung tâm kiểm soát !
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Installed-Size: 1972
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311104@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ginesaanemone
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ginesaanemone
+Filename: ./debs/com.tqm-mos.prysm_1.5k_iphoneos-arm.deb
+Size: 437762
+MD5sum: 1a75be6e040ada9fbf5f4ad45df87250
+SHA1: da94bd33b579cdeeb3023865ac7882601e0cf5bb
+SHA256: 461312ca992fda199f2bf92e393809c60e2b16f60ac9b47e29bbab34b39efd09
+
 Package: cydia-lproj
 Priority: required
 Section: Cydia/Electra-Chimera
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Architecture: iphoneos-arm
-Version: 1.9.3~b1
+Version: 1.9.4
 Conflicts: org.thebigboss.russiancydia
 Provides: org.thebigboss.russiancydia
 Replaces: cydia, org.thebigboss.russiancydia
@@ -1182,7 +1385,7 @@ SHA1: ba5bc78647a1c6ed4a67b42342f045819d791b70
 SHA256: e8186087fecb63c685bb59a956a88444511aee5ec8b5d31f5751ccf3d82502e3
 
 Name: SkinnySettings
-Package: com.tqm-mos.skinnysettings
+Package: io.github.tqm-mos.skinnysettings
 Priority: optional
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
 Version: 1.3.3
@@ -1198,11 +1401,11 @@ Icon: file:///Library/PreferenceBundles/SkinnySettings.bundle/SkinnySettings@2x.
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.skinnysettings
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.skinnysettings
 Homepage: https://www.facebook.com/quangminhdx
-Filename: ./debs/com.tqm-mos.skinnysettings_1.3.3_iphoneos-arm.deb
-Size: 189758
-MD5sum: 7321aff3c59b57c4c21676fb64a16549
-SHA1: e8351edb118db7e56913717904c93d95bc475ee9
-SHA256: e2eaef509802d8b7ae0439a16d25b9732f50d405eeef5faa65f989f334f3dc1e
+Filename: ./debs/io.github.tqm-mos.skinnysettings_1.3.3_iphoneos-arm.deb
+Size: 189764
+MD5sum: 9384da1c7c1e5744b5e231d6055a2bef
+SHA1: f8ccea1921b2c7873f4bb7b8e721a159963cf432
+SHA256: a8431b18d3cfe4feb962491417132ce0718a002b4faa90752f55f7f01d27a34a
 
 Package: com.tqm-mos.utopia
 Name: Utopia
