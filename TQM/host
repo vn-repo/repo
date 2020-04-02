@@ -1,0 +1,72 @@
+query.ess.apple.com
+logs.papertrailapp.com
+kg.midas.garena.vn
+cs.mainconn.gamesafe.qq.com
+mesu.apple.com
+dlied1.qq.com
+speed.kg.garena.vn
+cdn.vn.garenanow.com
+f.gxx.garenanow.com
+speed.ino.qq.com
+serviceproxy-elb-5fc410e03b31f811.elb.ap-southeast-1.amazonaws.com
+idcconfig.gcloud.qq.com
+control.mna.qq.com
+cloud2.gsdk.proximabeta.com
+dlmobilegarena-a.akamaihd.net
+platform-lookaside.fbsbx.com
+ios-dc.y5en.com
+iqia6two1k.execute-api.ap-southeast-1.amazonaws.com
+i.repo.co.kr
+c.tdm.qq.com
+test-c2c.coolkit.cc
+games.wifichua.xyz
+cdngarenanow-a.akamaihd.net
+cdn.ampproject.org
+api.weather.com
+mtalk.google.com
+bugly.qq.com
+app-measurement.com
+hw-crs-report.y5en.com
+qos.hk.gcloudcs.com
+ap-sin-00001.s3.dualstack.ap-southeast-1.amazonaws.com
+clients4.google.com
+vn.clientreport.gfm.qq.com
+capi.voice.gcloud.qq.com
+qosidc.gcloud.qq.com
+check02.51y5.net
+apps.mzstatic.com
+ocsp.comodoca.com
+wotrus.ocsp.sectigo.com
+ocsp.digicert.com
+scontent-hkg3-1.xx.fbcdn.net
+download.2.1945015797.kgvn.gcloud.garena.vn
+puffer.6.1945015797.kgvn.gcloud.garena.vn
+dir.4.1945015797.kgvn.gcloud.garena.vn
+127.0.0.1 dlied1.qq.com:80
+127.0.0.1 http://122.11.128.69:2205
+127.0.0.1 122.11.128.69:2205
+127.0.0.1 https://kgvn-142206.firebaseio.com
+127.0.0.1 download.2.1945015797.kgvn.gcloud.garena.vn=45.119.241.238:8085
+127.0.0.1 puffer.6.1945015797.kgvn.gcloud.garena.vn=45.119.241.238:8085
+127.0.0.1 dir.4.1945015797.kgvn.gcloud.garena.vn=45.119.241.238:8085
+127.0.0.1 45.119.241.238:8085
+127.0.0.1 http://down.qq.com:80/iedsafe/Client/android/8577/config2.xml
+127.0.0.1 http://down.qq.com:80
+127.0.0.1 http://marketingprocess.sarahaha.info:80/api/android_log.php?v=20190511&pk=com.garena.game.kgvn&dist_id=934A66F185CC4F895ABC93C52193280F&dat=(null)
+127.0.0.1 https://ads24h.net:443/data/info/ads_934A66F185CC4F895ABC93C52193280F.dat?id=com.garena.game.kgvn
+https://statistic.ads24h.net:443/?distr_id=934A66F185CC4F895ABC93C52193280F&fpk=net.bmt.aladan2&pk=com.garena.game.kgvn&v=20190511&act_type=start&act_val=Th+2%2C+10+th%C3%A1ng+2+2020%2C+19%3A16&user_agent=INE-LX2%7CINE%7CHUAWEI%7CHWINE%7Ckirin710%7CHUAWEI%7CINE-LX2%7C9%7C28%7Cunknown&ID=c2b06c012be48def&SID=%60bttsqlpcmsthjyp&ver_n=1.33.1.5&ver_c=377660&mod_d=25630121091229
+127.0.0.1 gôgleads.g.doubleclick.net
+127.0.0.1 cònig.unityads.unity3d.com
+127.0.0.1 dlied1.qq.com:80
+127.0.0.1 https://ads24h.net:443/data/info/ads_934A66F185CC4F895ABC93C52193280F.dat?id=com.garena.game.kgvn
+127.0.0.1 down.qq.com:80
+127.0.0.1 statistic.ads24h.net:443
+127.0.0.1
+http://dlied1.qq.com:80/iedsafe/Client/android/8577/config2.xml
+127.0.0.1 http://dlied1.qq.com:80/iedsafe/Client/android/8577
+127.0.0.1 https://statistic.ads24h.net:443/?distr_id=934A66F185CC4F895ABC93C52193280F&fpk=net.bmt.aladan2&pk=com.garena.game.kgvn&v=20190511&act_type=running&act_val=&user_agent=INE-LX2%7CINE%7CHUAWEI%7CHWINE%7Ckirin710%7CHUAWEI%7CINE-LX2%7C9%7C28%7Cunknown&ID=c2b06c012be48def&SID=wwrlarekxxgehwfu&ver_n=1.33.1.5&ver_c=377660&mod_d=25630121091229
+127.0.0.1 https://statistic.ads24h.net:443
+127.0.0.1 http://down.qq.com:80/iedsafe/Client/android/8577/config2.xml
+127.0.0.1 http://down.qq.com:80/iedsafe/Client/android/8577/config2.xml
+127.0.0.1 ns4.dns.tk.
+0.0.0.1 smtpbg18.qq.com"

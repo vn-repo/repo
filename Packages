@@ -140,6 +140,221 @@ MD5sum: 056d20a4335daf222a46b5854b531e3f
 SHA1: e810ef35fd422137c89f26c29fc6e68517edec99
 SHA256: a1fa8219ee5d0f3d4daee7c84c3cdc49bf25c15d1824b707324f1b5234aa56ec
 
+Package: com.tqm-mos.xeninfo
+Name: XenInfo
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: org.bigboss.datameter, cydia.kiiimo.org.datameter, com.repo.xarold.com.datameter, re.rejail.datameter, org.coolstar.ventana-modern, com.repo.xarold.com.ventana, cydia.kiiimo.org.ventana
+Architecture: iphoneos-arm
+Description: Music, Weather, and battery info for XenHTML
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: JunesIphone & Matchstic <junesgraphics@gmail.com>
+Section: Addons
+Version: 2.2.9
+Installed-Size: 1072
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.xeninfo
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.xeninfo
+Filename: ./debs/com.tqm-mos.xeninfo_2.2.9_iphoneos-arm.deb
+Size: 269574
+MD5sum: b93e0292867fde2a081008ebf8160b9a
+SHA1: fb3b679f8ee5f8dccc765bfb8e97bcb1737863a6
+SHA256: f8e85ea5a0d1979f2adcac7066667dc8627d0818d2d04e78f03849665447db01
+
+Package: com.tqm-mos.snowboard.presetextension
+Name: SnowBoard Preset
+Depends: mobilesubstrate, com.tqm-mos.snowboard (>> 1.2.22)
+Architecture: iphoneos-arm
+Description: SnowBoard Presets Extension
+Maintainer: @tqmmos
+Author: Spark
+Section: SnowBoard
+Version: 1.0.17~Beta2
+Installed-Size: 792
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.snowboard
+Filename: ./debs/com.tqm-mos.snowboard.presetextension_1.0.17~Beta2_iphoneos-arm.deb
+Size: 173606
+MD5sum: c07ba148c1ecd15918e72c232854a49d
+SHA1: 28e5c669578ea71a082389d7aee80d9a7a9b4673
+SHA256: dae34c1ff5a5ea5ed3a557e58229a661a7c7de819884128792099a3e56ffcbfa
+
+Package: com.tqm-mos.hidestatusbaritemsx
+Name: Hide Statusbar Items X (12)
+Version: 0.3.7
+Architecture: iphoneos-arm
+Description: Cho phép bạn ẩn các mục Statusbar nhất định
+Maintainer: TQM
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depends: mobilesubstrate
+Conflicts: com.junesiphone.hidestatusbaritems, sad.asd.as
+Installed-Size: 316
+Section: IOS12
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.hidestatusbaritemsx
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.hidestatusbaritemsx
+Filename: ./debs/com.tqm-mos.hidestatusbaritemsx_0.3.7_iphoneos-arm.deb
+Size: 64690
+MD5sum: dc60a7bf70a731f6c4700a7279221717
+SHA1: 142d4d264f9a190dc3f94646726bbd04b843cd8b
+SHA256: 7fa15d3cdd33e59baf71e78d6d6da4dba82f62eb8657e7134e79b17e7082a74e
+
+Package: com.tqm-mos.fingerlock
+Name: FingerLock
+Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker, com.muirey03.libimagepicker, firmware (>= 13.0)
+Conflicts: uk.invoxiplaygames.lockglyphmodern
+Architecture: iphoneos-arm
+Description: Add awesome features to your Lockscreen
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: MTAC <mtactheming@gmail.com>
+Section: Tweaks
+Version: 2.0.1
+Installed-Size: 512
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fingerlock
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fingerlock
+Filename: ./debs/com.tqm-mos.fingerlock_2.0.1_iphoneos-arm.deb
+Size: 148712
+MD5sum: 9650da8f9de02011659172962a5f42b8
+SHA1: ad7fae1e9831063a62c051f1408611f08b807853
+SHA256: 913e4b214cf52c4d85e7f273b6cdd7ee45b5f4c89131def7db6df4de1e494010
+
+Package: com.tqm-mos.blots
+Name: Blots
+Depends : firmware (>= 13.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Notifications always on screen
+Maintainer: @tqmmos
+Author: Antique
+Icon: file:///Library/PreferenceBundles/Blots.bundle/icon@3x.png
+Section: Tweaks
+Version: 0.0.6
+Installed-Size: 392
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.blots
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.blots
+Filename: ./debs/com.tqm-mos.blots_0.0.6_iphoneos-arm.deb
+Size: 49002
+MD5sum: a04919338b5d5ac7be037482b4b82111
+SHA1: 498d9b084c5494f3de04dde56a0bba939eb33ce1
+SHA256: 910f3a0d4842616d5dc7401398fe4ca4cd88080971f2f10d90e790298fcdec16
+
+Package: com.tqm-mos.autotouch
+Name: AutoTouch 
+Version: 6.0.7k
+Description: ghi nhớ hành động
+Author: Kent Krantz <kentkrantz@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Priority: optional
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Installed-Size: 107246
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.autotouch
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.autotouch
+Filename: ./debs/com.tqm-mos.autotouch_6.0.7k_iphoneos-arm.deb
+Size: 47035882
+MD5sum: 7b83fb96b38d20d03e544aa161be0315
+SHA1: 5a43a2a49e417bbd9940497d476f8516aa1bfaf4
+SHA256: 87879f7c968faf861d8c1fe9664a6162b5a032c57ff43d60015ecd0ac8f1e2c4
+
+Package: com.ouraigua.old.jodebox
+Name: JODebox iOS 10.0 to 12.1.4
+Pre-Depends: firmware (>= 10.0), firmware (<< 12.2)
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.6), org.swift.libswift (>= 5.0)
+Replaces: com.ouraigua.jodebox
+Architecture: iphoneos-arm
+Description: iOS file system access from sandboxed applications.
+Section: Development
+Tag: purpose::extension, role::developer, compatible::ios10, compatible::ios11, compatible::ios12
+dev: ouraigua
+Author: Jalal Ouraigua <ouraigua@icloud.com>
+Maintainer: Jalal Ouraigua <ouraigua@icloud.com>
+Sponsor: ouraigua.com <https://ouraigua.com>
+Depiction: http://littlemarrakech.co.uk/depiction/index.php?bundle=com.ouraigua.jodebox
+SileoDepiction: https://ouraigua.com/apps/jodebox/sileo_depiction.json
+Homepage: https://ouraigua.com/apps/jodebox/index.php
+Icon: file:///Library/PreferenceBundles/JODebox.bundle/icon@2x.png
+Version: 4.0.3
+Installed-Size: 1656
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.ouraigua.old.jodebox_4.0.3_iphoneos-arm.deb
+Size: 480206
+MD5sum: 7761677d838baa14992596f6e504d3d2
+SHA1: b4683981e63e199cf322ca60c9c4fbdb9cb0b1e2
+SHA256: 384cd784487b47cee9b528d2021984061d0a89766884cdd71bd7abb1be5d57b7
+
+Package: com.ouraigua.jodebox
+Name: JODebox
+Version: 4.0.3
+Section: Development
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 12.2)
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.6), org.swift.libswift (>= 5.0)
+Replaces: com.ouraigua.old.jodebox
+Installed-Size: 1204
+Author: Jalal Ouraigua <ouraigua@icloud.com>
+Maintainer: Jalal Ouraigua <ouraigua@icloud.com>
+Description: iOS file system access from sandboxed applications.
+Homepage: https://ouraigua.com/apps/jodebox/index.php
+Depiction: http://littlemarrakech.co.uk/depiction/index.php?bundle=com.ouraigua.jodebox
+Tag: purpose::extension, role::developer, compatible::ios12
+dev: ouraigua
+Sponsor: ouraigua.com <https://ouraigua.com>
+SileoDepiction: https://ouraigua.com/apps/jodebox/sileo_depiction.json
+Icon: file:///Library/PreferenceBundles/JODebox.bundle/icon@2x.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.ouraigua.jodebox_4.0.3_iphoneos-arm.deb
+Size: 258972
+MD5sum: a63527fd2291fe8c2ef5e2f41d1fec09
+SHA1: 6627514ccb2507062fc6073f0fafbfdb23b22d35
+SHA256: 96805611c46ade605e57c48051e848aebc217632da50d1d335462de3451f027c
+
+Package: com.tqm-mos.aovhackmaplp
+Name: Liên Quân Hack Maps
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: [PMT] Garena Liên Quân Mobile 1.34.1.7
+Maintainer: @tqmmos
+Author: TheArmKing
+Section: Tweaks
+Version: 1.34.1.7
+Installed-Size: 532
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.aovhackmaplp
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.aovhackmaplp
+Filename: ./debs/com.tqm-mos.aovhackmaplp_1.34.1.7_iphoneos-arm.deb
+Size: 214366
+MD5sum: 4ad085d84d4b3451d20573f3422f2fe3
+SHA1: 038edc86f767048b9611acfa47eff42afb171a2a
+SHA256: 47c3930607542a26547f41c9c31cd2df03335ba9ffeb40412302c7e474df5adc
+
+Name: SkinnySettings
+Package: io.github.tqm-mos.skinnysettings
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
+Version: 1.3.7
+Architecture: iphoneos-arm
+Description: Make your Settings Minimal/Sleek & More!
+Maintainer: @tqmmos
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Installed-Size: 878
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/SkinnySettings.bundle/SkinnySettings@2x.png
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.skinnysettings
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.skinnysettings
+Filename: ./debs/io.github.tqm-mos.skinnysettings_1.3.7_iphoneos-arm.deb
+Size: 196510
+MD5sum: ea86ec69b161a1e950ba77128e1ea82e
+SHA1: 3e9576a3602610debef6add79f790dd4dc16f5f3
+SHA256: 9da15d35f9477bf94e3c655936b3b2642600041c9f07f331d2cc5202a736f868
+
 Name: Gesturesi11
 Package: com.tqm-mos.gesturesi11
 Priority: optional
