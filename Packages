@@ -160,6 +160,133 @@ MD5sum: b93e0292867fde2a081008ebf8160b9a
 SHA1: fb3b679f8ee5f8dccc765bfb8e97bcb1737863a6
 SHA256: f8e85ea5a0d1979f2adcac7066667dc8627d0818d2d04e78f03849665447db01
 
+Author: UnlimApps <support@unlimapps.com>
+Maintainer: @tqmmos
+Name: AnyTones - Ringtone Maker
+Package: com.tqm-mos.AnyTones
+Conflicts: com.sull.AnyTones, com.hackyouriphone.AnyTones
+Replaces: com.sull.AnyTones, com.hackyouriphone.AnyTones
+Pre-Depends: firmware (>= 7.0), com.unlimapps.toneenabler
+Section: Utilities
+Version: 1.0-2.002
+Architecture: iphoneos-arm
+Description: You will never have to pay for another ringtone! AnyTones allows you to create unlimited custom ringtones, text tones, and alerts using songs in your iPhone's music library, MP3s you download, and music you record. Use the sleek interface to adjust your ringtone length. Then swipe the audio wave to select a short clip, and your ringtone is ready. It's that easy! Get started creating custom ringtones and text tones for everyone in your address book.
+dev: i4iphones
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.AnyTones
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.AnyTones
+Filename: ./debs/com.tqm-mos.AnyTones_1.0-2.002_iphoneos-arm.deb
+Size: 7711242
+MD5sum: d6241f78909f134ccdbcb3166d46a9f5
+SHA1: c46c593615a27376b0936b35ebef227757343cc7
+SHA256: d3850bc0e0f635b5ca1133360d11d07e891503305ee46a3fd131defe37ff87d2
+
+Package: com.tqm-mos.fonturwgeo
+Name: URW Geometric (iOS10-12-13)
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Small & conventional sans. For iOS10-12-13.
+Author: Evelyn (ev_ynw)
+Maintainer: @tqmmos
+Section: Fonts
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fonturwgeo
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fonturwgeo
+Filename: ./debs/com.tqm-mos.fonturwgeo_1.1_iphoneos-arm.deb
+Size: 22569096
+MD5sum: d8c5cb2f1ba3d84b7c243d2aa76dbc58
+SHA1: f78a2006af247eafac5b4d5aa2abe1f6e1e17305
+SHA256: e63f111a62d8fe97c17f47d10affb06c01f000e0d4ed556cf0f4bd188cfa8b34
+
+Author: UnlimApps Inc <support@unlimapps.com>
+Maintainer: @tqmmos
+Package: com.tqm-mos.ytpp
+Name: YT ++ for YouTube
+Version: 1.4r-106
+Description: Download all YouTube Videos! Continue background playback and much more!!!
+Depends: mobilesubstrate, firmware (>= 7.0),com.unlimapps.uamediaexporthelper (>= 1.0r-15) | firmware (>= 10.0), com.unlimapps.uasharedtools (>= 2.2r-94)
+Conflicts: me.freemanrepo.cercube, com.cydia00.ytpp, com.unlimapps.jodeboxlib
+Priority: optional
+Architecture: iphoneos-arm
+dev: i4iphones
+Tag: purpose::extension, role::enduser
+Section: Tweaks
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.ytpp
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.ytpp
+Filename: ./debs/com.tqm-mos.ytpp_1.4r-106_iphoneos-arm.deb
+Size: 6668418
+MD5sum: 52a15abad5cdba7114feb78f7678286a
+SHA1: af6fb8ae48dd395343b6291e31d8e74d4ad0a9ed
+SHA256: c234c8727f775da44db5607900a946ae0975daa85fadfb4032e36e3e24db2dfe
+
+Homepage: https://beta.unlimapps.com/depiction/com.unlimapps.uasharedtools/
+Depiction: https://beta.unlimapps.com/depiction/com.unlimapps.uasharedtools/
+Author: UnlimApps Inc. <support@unlimapps.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: uasharedtools (iOS 11)
+Package: com.unlimapps.uasharedtools.nostash
+Provides: com.unlimapps.uasharedtools.virtual
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools, com.unlimapps.uasharedtools.stash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Section: Development
+Replaces: com.unlimapps.uasharedtools.stash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Version: 2.2r-94
+Architecture: iphoneos-arm
+Description: shared tools for unlimapps tweaks
+dev: i4iphones
+Tag: purpose::library, role::developer
+Filename: ./debs/com.unlimapps.uasharedtools.nostash_2.2r-94_iphoneos-arm.deb
+Size: 19862136
+MD5sum: 77fe0e2f8ae8c223bf4e355005962968
+SHA1: 88d1120f6269d69fd151cd14008631769fd2d373
+SHA256: d76c3dae69ddcb5f60e2033f588cf8f8194cf54889392a9fc0b2fed65d088157
+
+Homepage: https://beta.unlimapps.com/depiction/com.unlimapps.uasharedtools/
+Depiction: https://beta.unlimapps.com/depiction/com.unlimapps.uasharedtools/
+Author: UnlimApps Inc. <support@unlimapps.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: uasharedtools (iOS 7-10)
+Package: com.unlimapps.uasharedtools.stash
+Provides: com.unlimapps.uasharedtools.virtual
+Depends: mobilesubstrate, firmware (<< 11.0)
+Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools, com.unlimapps.uasharedtools.nostash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Section: Development
+Replaces: com.unlimapps.uasharedtools.nostash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Version: 2.2r-94
+Architecture: iphoneos-arm
+Description: shared tools for unlimapps tweaks
+dev: i4iphones
+Tag: purpose::library, role::developer
+Filename: ./debs/com.unlimapps.uasharedtools.stash_2.2r-94_iphoneos-arm.deb
+Size: 19861660
+MD5sum: d986cd19bc7f4266e5f1e7bdb70959a8
+SHA1: 146db18f88fa8f4f9006dced575004b566f576ad
+SHA256: 44f06117f154e2de21809b9d65f9fe5a59b8a042407a4b735466a37085822ede
+
+Name: SkinnySettings
+Package: io.github.tqm-mos.cydiageek.skinnysettings
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
+Version: 1.3.8
+Architecture: iphoneos-arm
+Description: Make your Settings Minimal/Sleek & More!
+Maintainer: @tqmmos
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Installed-Size: 880
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/SkinnySettings.bundle/SkinnySettings@2x.png
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.skinnysettings
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.skinnysettings
+Filename: ./debs/io.github.tqm-mos.cydiageek.skinnysettings_1.3.8_iphoneos-arm.deb
+Size: 197430
+MD5sum: 962f2e2732edf6b9625de221842d2916
+SHA1: 343715449b8c4d61b65c15c9c083c21628e86c82
+SHA256: 264e28b999627b25eaee9c1df8b65e05016c8c120b0619a1ff45880835021bdd
+
 Package: com.tqm-mos.snowboard.presetextension
 Name: SnowBoard Preset
 Depends: mobilesubstrate, com.tqm-mos.snowboard (>> 1.2.22)
