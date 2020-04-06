@@ -15,6 +15,83 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.doubletaplock
+Name: DoubleTapLock
+Depends: mobilesubstrate, preferenceloader
+Removes: com.spark.DoubleTapLock
+Architecture: iphoneos-arm
+Description: Double tap homescreen wallpaper to lock device
+Maintainer: @tqmmos
+Author: Spark
+Section: IOS12
+Version: 1.0.1
+Installed-Size: 576
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.doubletaplock
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.doubletaplock
+Filename: ./debs/com.tqm-mos.doubletaplock_1.0.1_iphoneos-arm.deb
+Size: 52610
+MD5sum: 89941c001dad9b1c140fd5045d2185af
+SHA1: a60ddf92e2bb365f3b26b6fc88e10fe66c2d9c67
+SHA256: 47ddbab9ab65ac9305aa705dbaee2e068735a831b25cde0574510c0fd9fb5908
+
+Package: com.tqm-mos.easyswitcherx
+Name: EasySwitcherX
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Useful app switcher additions
+Maintainer: @tqmmos
+Author: Spark
+Section: IOS11
+Version: 2.0.1
+Installed-Size: 560
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.easyswitcherx
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.easyswitcherx
+Filename: ./debs/com.tqm-mos.easyswitcherx_2.0.1_iphoneos-arm.deb
+Size: 110046
+MD5sum: 5f4cc2819bf712c1c96314650f61e919
+SHA1: da2ee0aaa112daf2c934a6326ea402e783ca89bb
+SHA256: 6e0dff1d2db69567a005a49bf807191f450160a9fd5771a1c17220a865394082
+
+Package: com.tqm-mos.laetus12
+Name: Laetus
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: Custom keyboard colours
+Maintainer: @tqmmos
+Author: Spark
+Section: IOS12
+Version: 0.0.6-1
+Installed-Size: 536
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.laetus12
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.laetus12
+Filename: ./debs/com.tqm-mos.laetus12_0.0.6-1_iphoneos-arm.deb
+Size: 44436
+MD5sum: 571ea2ae4c413f54af425f591c50b3a3
+SHA1: 485dd78f74803877ca8dc6d948c1ebceba81d4eb
+SHA256: bf3e2235fad9d3b125f1131f1d1265edeaad72e5ecd38a27bfe33d2cc17d0889
+
+Package: com.tqm-mos.sneakycam
+Name: SneakyCam
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Discretely take a photo or record a video from anywhere, even with your screen off.
+Maintainer: @tqmmos
+Author: Spark
+Section: IOS12
+Version: 2.0.4
+Installed-Size: 592
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sneakycam
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sneakycam
+Filename: ./debs/com.tqm-mos.sneakycam_2.0.4_iphoneos-arm.deb
+Size: 141784
+MD5sum: 1ed0d5a3956098628abf37781236b7f9
+SHA1: 1c38788abe493f3f8d78e6b888893e9ba9a39f12
+SHA256: e580513f74ff3eeb867785b2575008b45f495850228d269cb0fcaad09d069650
+
 Package: cydia-dark
 Priority: required
 Section: Cydia/Electra-Chimera
@@ -287,7 +364,7 @@ MD5sum: cbe9db76fbc29e8e4f3c2cbc33b70347
 SHA1: 6e79a45105075543d2a4b7b2b273a7970968ac71
 SHA256: cde1cc2e69a944986484bd1fe6c4c1e02be1a3fb3c5143c5387e2d1e012975dd
 
-Package: com.tqm-mos.ccmusicartwork
+Package: com.tqm-mos.ccmusicartwork12
 Name: CCMusicArtwork
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -298,13 +375,13 @@ Section: Tweaks
 Version: 2.1.2
 Installed-Size: 588
 Homepage: https://www.facebook.com/quangminhdx
-Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.ccmusicartwork
-SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.ccmusicartwork
-Filename: ./debs/com.tqm-mos.ccmusicartwork_2.1.2_iphoneos-arm.deb
-Size: 281624
-MD5sum: b607709abef98513185a26153a42e342
-SHA1: 4e1e2e3c1d7a90afa6f0a7ad0d40389ba38f64f4
-SHA256: 4e7cbeb341d3113a53a170d6b6ae7ef530af37f31ef5e158a8884d19cafed9bd
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.ccmusicartwork12
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.ccmusicartwork12
+Filename: ./debs/com.tqm-mos.ccmusicartwork12_2.1.2_iphoneos-arm.deb
+Size: 281628
+MD5sum: 4216139193e35c988f9d30e9806c1a47
+SHA1: ff1ae8b6ed9fa5bfadebe7c972ab7a82dd6c6575
+SHA256: bf9920caece6fae4a1e9cef127bf24dd385237b437eb2cb2a4b6d7ca94d769fd
 
 Package: com.tqm-mos.hidebarx12
 Name: HideBarX [Public]
