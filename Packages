@@ -265,7 +265,7 @@ SHA1: 146db18f88fa8f4f9006dced575004b566f576ad
 SHA256: 44f06117f154e2de21809b9d65f9fe5a59b8a042407a4b735466a37085822ede
 
 Name: SkinnySettings
-Package: io.github.tqm-mos.cydiageek.skinnysettings
+Package: io.github.tqm-mos.skinnysettings
 Priority: optional
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
 Version: 1.3.8
@@ -281,11 +281,68 @@ Icon: file:///Library/PreferenceBundles/SkinnySettings.bundle/SkinnySettings@2x.
 Homepage: https://www.facebook.com/quangminhdx
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.skinnysettings
 SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.skinnysettings
-Filename: ./debs/io.github.tqm-mos.cydiageek.skinnysettings_1.3.8_iphoneos-arm.deb
-Size: 197430
-MD5sum: 962f2e2732edf6b9625de221842d2916
-SHA1: 343715449b8c4d61b65c15c9c083c21628e86c82
-SHA256: 264e28b999627b25eaee9c1df8b65e05016c8c120b0619a1ff45880835021bdd
+Filename: ./debs/io.github.tqm-mos.skinnysettings_1.3.8_iphoneos-arm.deb
+Size: 197422
+MD5sum: cbe9db76fbc29e8e4f3c2cbc33b70347
+SHA1: 6e79a45105075543d2a4b7b2b273a7970968ac71
+SHA256: cde1cc2e69a944986484bd1fe6c4c1e02be1a3fb3c5143c5387e2d1e012975dd
+
+Package: com.tqm-mos.ccmusicartwork
+Name: CCMusicArtwork
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Shows album artwork behind the music module in the iOS 11-13 control center
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: Spark
+Section: Tweaks
+Version: 2.1.2
+Installed-Size: 588
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.ccmusicartwork
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.ccmusicartwork
+Filename: ./debs/com.tqm-mos.ccmusicartwork_2.1.2_iphoneos-arm.deb
+Size: 281624
+MD5sum: b607709abef98513185a26153a42e342
+SHA1: 4e1e2e3c1d7a90afa6f0a7ad0d40389ba38f64f4
+SHA256: 4e7cbeb341d3113a53a170d6b6ae7ef530af37f31ef5e158a8884d19cafed9bd
+
+Package: com.tqm-mos.hidebarx12
+Name: HideBarX [Public]
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Hides the iPhone X home bar - compatible with VolumeBarX
+Maintainer: @tqmmos
+Author: Spark
+Section: IOS12
+Version: 1.1
+Installed-Size: 104
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.hidebarx12
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.hidebarx12
+Filename: ./debs/com.tqm-mos.hidebarx12_1.1_iphoneos-arm.deb
+Size: 5456
+MD5sum: 0cffed4b12e1ca8b9f041e5eafe01663
+SHA1: 1352bee7df0bf6f1054365057c8a62ef232e7d5f
+SHA256: 0e5b53150a71d886471b4cf3bac851fbfde3e6ce55f50069104b9e9ea634ca36
+
+Package: com.tqm-mos.sbapple
+Name: SB Apple 
+Version: 1.2
+Architecture: iphoneos-arm
+Description: SB by @tqmmos
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sbapple
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sbapple
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: Iwidgets
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sbapple
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sbapple
+Filename: ./debs/com.tqm-mos.hidebarx12_1.1_iphoneos-arm.deb
+Size: 5456
+MD5sum: 3aaf23e7ead16a5a5007a1be37fcbd61
+SHA1: 07c9f1b154cf6c794312d7720ca1ab8cbcad7ca6
+SHA256: 911d60afe2fda5957fed0f6cb677748cb1eef6c2784bd4ced7d5399e2ff4031b
 
 Package: com.tqm-mos.snowboard.presetextension
 Name: SnowBoard Preset
