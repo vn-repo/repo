@@ -1376,9 +1376,10 @@ Architecture: iphoneos-arm
 Name: Sileo cho unc0ver
 Author: @tqmmos
 Description: Trình cài đặt Sileo cho unc0ver jailbreak
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sileou0
-Sileodepiction: https://tqm-store.github.io/Sileo/sileou0.json
+Icon: https://minhhi-store.github.io/packages_info/screenshots/sileo.png
 Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/sileou0.json
+Depiction: https://minhhi-store.github.io/packages_info/sileou0/?p=info
 Filename: ./debs/com.tqm-mos.sileou0_1.0_iphoneos-arm.deb
 Size: 7902
 MD5sum: 6861fac22f6ca77370c501c32c41d349
@@ -1648,27 +1649,6 @@ Size: 1133902
 MD5sum: 5906b9a8798f69c62372af80e4d55ca7
 SHA1: 5a3c41a9de5c67690d37c4a2b6e2207405cde492
 SHA256: 6636856fd7cedf2f63e029afa757c401604f924c0d41ce3fdcdf25ac8b0fa071
-
-Package: com.tqm-mos.sareth
-Name: Sareth
-Version: 1.11-1
-Section: IOS12
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker, firmware (>= 12.0)
-Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
-Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
-Installed-Size: 2900
-Author: iKilledAppl3 <ipodnewbee234@icloud.com>
-Maintainer: @tqmmos
-Description: Take charge of your Control Center!
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sareth
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sareth
-Homepage: https://www.facebook.com/quangminhdx
-Filename: ./debs/com.tqm-mos.sareth_1.11-1_iphoneos-arm.deb
-Size: 2507618
-MD5sum: 1077e45b19307dc2a36b50b8c0c183c6
-SHA1: c590c63841498821c3391a8632fd05272f3a7bae
-SHA256: fa035893f0924cb680ce345c3b4504dbde1bc2c337b64a18fc8bcb0cb10bdf20
 
 Package: com.tqm-mos.pencilchargingindicator
 Name: PencilChargingIndicator
@@ -2771,82 +2751,6 @@ MD5sum: 90fb4c9459d0e348a773de81055e11d1
 SHA1: b8adaca875df004218dea7d4bd7a476345142d14
 SHA256: 20a1ad880ba26c97e3019d16b034d7b4144aa03a5df5f94dc7a25f895d326c3a
 
-Package: com.tqm-mos.prysm.beta
-Name: Prysm Beta 8.5
-Version: 0.8.5
-Description: Prysm
-Author: LaughingQuoll
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.tqm-mos.ccsupport
-Installed-Size: 1479
-Section: Tweaks
-Architecture: iphoneos-arm
-Maintainer: @tqmmos
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
-Homepage: https://www.facebook.com/quangminhdx
-Filename: ./debs/com.tqm-mos.prysm.beta_0.8.5_iphoneos-arm.deb
-Size: 326582
-MD5sum: bdfc33d4abf6af3cc651f66c434e6a89
-SHA1: 41c49593a1705d89d50f099ded0f9abcd1c06afa
-SHA256: c912af8791adb28c14b02f578191087c419636bc3f114a23ef8b0ed2e427dd46
-
-Package: com.tqm-mos.prysm.beta
-Name: Prysm Beta 8.6
-Version: 0.8.6
-Description: Prysm
-Author: LaughingQuoll
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.tqm-mos.ccsupport
-Installed-Size: 1479
-Section: Tweaks
-Architecture: iphoneos-arm
-Maintainer: @tqmmos
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
-Homepage: https://www.facebook.com/quangminhdx
-Filename: ./debs/com.tqm-mos.prysm.beta_0.8.6_iphoneos-arm.deb
-Size: 326918
-MD5sum: 92523f510bf2ad62e770f466d102014d
-SHA1: 7ff28666a99e7bd312f4a003126ed08b22587dc7
-SHA256: afd5fedf5178efe746bdfa0fe9fdf52c57a0adc2f77f1b77ef487bde1d8cf42b
-
-Package: com.tqm-mos.prysm.beta
-Name: Prysm Beta 9.2
-Version: 0.9.2
-Description: Prysm
-Author: LaughingQuoll
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.tqm-mos.ccsupport
-Installed-Size: 1479
-Section: Tweaks
-Architecture: iphoneos-arm
-Maintainer: @tqmmos
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
-Homepage: https://www.facebook.com/quangminhdx
-Filename: ./debs/com.tqm-mos.prysm.beta_0.9.2_iphoneos-arm.deb
-Size: 324928
-MD5sum: a54a800ec6f632f85ac755d353cda160
-SHA1: 5e14eedb79a9989933d28451057b7d446f567a04
-SHA256: 97024835b3a2025a51d000accf0c373f6cedd7197f49d43f45f526c210f312af
-
-Package: com.tqm-mos.prysm.beta
-Name: Prysm Beta 9.3
-Version: 0.9.3
-Description: Prysm
-Author: LaughingQuoll
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.tqm-mos.ccsupport
-Installed-Size: 1479
-Section: Tweaks
-Architecture: iphoneos-arm
-Maintainer: @tqmmos
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
-Homepage: https://www.facebook.com/quangminhdx
-Filename: ./debs/com.tqm-mos.prysm.beta_0.9.3_iphoneos-arm.deb
-Size: 359368
-MD5sum: 8f5fd4702d54a69577b1ef5920015d9b
-SHA1: 82f5a43ed2f818100b66fc4d4547806d72326986
-SHA256: ebe76880b54e0d96d214531aa0e8c785f492c24d89408378270ecd1d4bcfa8dc
-
 Package: com.tqm-mos.prysm
 Name: Prysm
 Version: 1.0.2
@@ -3094,48 +2998,6 @@ Size: 2024636
 MD5sum: 7093801ec13a3ed52fd3133e2fdcced1
 SHA1: 7e20ada34d31976033b143682c92126194510259
 SHA256: e75481749328891f46797a165b59a240f6f7db55d6e0ae21ace6615d41c6dca6
-
-Package: com.tqm-mos.sareth
-Name: Sareth
-Version: 1.0.8-1
-Section: IOS12
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, ws.hbang.common, me.nepeta.libcolorpicker, firmware (>= 12.0)
-Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
-Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
-Installed-Size: 2864
-Author: iKilledAppl3 <ipodnewbee234@icloud.com>
-Maintainer: @tqmmos
-Description: Take charge of your Control Center!
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sareth
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sareth
-Homepage: https://www.facebook.com/quangminhdx
-Filename: ./debs/com.tqm-mos.sareth_1.0.8-1_iphoneos-arm.deb
-Size: 2500836
-MD5sum: c3e44b48301805bcb7521ecb77323b1f
-SHA1: 3ed23690e7da2981a6b4c0c2f5c5f2dd72d99c54
-SHA256: 6a060084d47e9adc8417479980c0ee0e46a022b9648e08feeeb02e6ebf22011d
-
-Package: com.tqm-mos.sareth
-Name: Sareth
-Version: 1.0.9-1
-Section: IOS12
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker, firmware (>= 12.0)
-Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
-Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
-Installed-Size: 2868
-Author: iKilledAppl3 <ipodnewbee234@icloud.com>
-Maintainer: @tqmmos
-Description: Take charge of your Control Center!
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sareth
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sareth
-Homepage: https://www.facebook.com/quangminhdx
-Filename: ./debs/com.tqm-mos.sareth_1.0.9-1_iphoneos-arm.deb
-Size: 2503512
-MD5sum: 606772573d466065d076140334fa80c8
-SHA1: 9974cb8982c98264ebb45ba75994d1a576eea8c3
-SHA256: ca5c5e059d46b4757a80957db5abc602a3be6efdc025f3c9f8678b07ba7c3242
 
 Package: com.tqm-mos.midn1ghtaqua
 Name: Midn1ght Aqua
