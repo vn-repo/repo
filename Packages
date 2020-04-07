@@ -110,6 +110,181 @@ MD5sum: 59d0af76c5ebc5aa540f15a5f49e2c6b
 SHA1: 18af24754d5f9731f3fbc5acfdb0dcc21ded150a
 SHA256: 9cf9770ac9a826991468003d934d7e4a9740156585b74f7bc24c2e76136a7f2d
 
+Name: Edge
+Package: com.tqm-mos.edge
+Priority: optional
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Version: 1.0.12-1
+Architecture: iphoneos-arm
+Description: An Edge Experience For iOS
+Maintainer: @tqmmos
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios9, compatible::ios10
+Installed-Size: 692
+dev: cpdigitaldarkroom
+Icon: file:///Library/PreferenceBundles/Edge.bundle/images/Edge@2x.png
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.edge
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.edge
+Filename: ./debs/com.tqm-mos.edge_1.0.12-1_iphoneos-arm.deb
+Size: 238032
+MD5sum: 028af41a867362716ea13f2c38ee6b81
+SHA1: db2681a842fe933633cdceba1cabcd49f2258ec9
+SHA256: eddd6de866f01b35492fe904009bc8da75f3953502064d49fda8c2fb5c5610f3
+
+Package: com.tqm-mos.edge12
+Name: Edge
+Version: 1.0b3-10
+Description: Led edge
+Author: Various
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
+Icon: https://cdn.maxbridgland.com/icon.png
+Installed-Size: 469
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.edge12
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.edge12
+Filename: ./debs/com.tqm-mos.edge12_1.0b3-10_iphoneos-arm.deb
+Size: 234440
+MD5sum: 336ba3aba0c1ccb7a59425634e0a1dcb
+SHA1: 99f4e42dbe5f65994421ed39e9ab4b98e7aeb35f
+SHA256: 88ecb209073d1bd95c2f7620484184a6e043ffaf553b9f04e7c89094fcdcb208
+
+Package: com.tqm-mos.edge12
+Name: Edge
+Version: 2.1
+Depends: mobilesubstrate, firmware (>=11.0), ws.hbang.common (>=1.14), org.thebigboss.libcolorpicker | com.hackyouriphone.libcolorpicker
+Conflicts: com.junesiphone.lockpluspro
+Architecture: iphoneos-arm
+Author: Max Bridgland + TylerD3V <repo@hackyouriphone.org>
+Section: IOS11
+Description: Bring Colour to Your Device
+Maintainer: @tqmmos
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.edge12
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.edge12
+Filename: ./debs/com.tqm-mos.edge12_2.1_iphoneos-arm.deb
+Size: 230332
+MD5sum: 69c9419fd8453561c9f8cdeb46e22ac7
+SHA1: 30ffcd3d04773501355ee6f265371fa288686331
+SHA256: 69141234cf76888a186e0b62d58604dd3885c9ea68c3195117846db0939b5b8b
+
+Name: Fb + Messeger No Ads
+Package: com.tqm-mos.fbmessengernoads
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 9.0)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Hide Ads on Facebook + Messenger app
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: Hao Nguyen <hao.ict56@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios13
+Installed-Size: 165
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fbmessengernoads
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fbmessengernoads
+Filename: ./debs/com.tqm-mos.fbmessengernoads_0.1_iphoneos-arm.deb
+Size: 10058
+MD5sum: 3240d75444bace13c551f961d0b722bf
+SHA1: 7e8187e9eac20b3ec129aa5dc675420868c1605b
+SHA256: 9639c9286fafe2422116c8234876d9e22a06ce2f55dc1ad1b819bc5d0a6d4065
+
+Package: com.tqm-mos.fullboard
+Name: Fullboard
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Removes the dock from Springboard giving the screen a lot more of an open feeling, it also hides the page dots and allows the use of landscape orientation (on unsupported devices).
+Maintainer: @tqmmos
+Author: heft johnson
+Section: Tweaks
+Version: 0.0.1-16+debug
+Installed-Size: 76
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fullboard
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fullboard
+Filename: ./debs/com.tqm-mos.fullboard_0.0.1-16+debug_iphoneos-arm.deb
+Size: 3832
+MD5sum: b95973b96a50fa7ca72116a2e61fd0db
+SHA1: 9dd7ac046a98e6a9dca4e98572085be517176570
+SHA256: 3eccb4b60d6753dd746b22e7ef3da41cc95a2912afe80490ff04ceca5641cb50
+
+Author: ichitaso <willfeeltips+pf@gmail.com>
+Maintainer: @tqmmps
+Name: PrimalFolder
+Package: com.tqm-mos.primalfolder
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Conflicts: me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
+Replaces: com.ichitaso.primalfolder
+Section: Tweaks
+Installed-Size: 556
+Version: 0.0.6
+Architecture: iphoneos-arm
+Description: Display to folder as icon and launch action for Folders
+dev: ichitaso
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/PrimalFolderSettings.bundle/PrimalFolder@2x.png
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.primalfolder
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.primalfolder
+Filename: ./debs/com.tqm-mos.primalfolder_0.0.6_iphoneos-arm.deb
+Size: 100990
+MD5sum: 3735bb75f13d81be77c9770bd946a656
+SHA1: a1f9b06bc0f3fe4e1b055284f819e424dce86266
+SHA256: 98a3ffedaa4ec4dcafd3aca7db9b972135f0ec968d828c6a9416dfe4c1388e3a
+
+Author: ichitaso <willfeeltips+pf@gmail.com>
+Maintainer: @tqmmos
+Package: com.tqm-mos.primalfolder
+Name: PrimalFolder
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Conflicts: me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
+Replaces: com.ichitaso.primalfolder
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Display to folder as icon and launch action for Folders
+dev: ichitaso
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/PrimalFolderSettings.bundle/PrimalFolder@2x.png
+Version: 0.0.9
+Installed-Size: 584
+Icon: file:///Library/PreferenceBundles/PrimalFolderSettings.bundle/PrimalFolder@2x.png
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.primalfolder
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.primalfolder
+Filename: ./debs/com.tqm-mos.primalfolder_0.0.9_iphoneos-arm.deb
+Size: 104162
+MD5sum: 6ddd8d6f02dd25ca0c3b7529d25de75f
+SHA1: d9c739d06563fc6a845939d79e8e75bb158e058f
+SHA256: 5a9c6b8da2d39c3fcc2a4e958a02035de7fd11a0ac12f4649da00b6cbd040943
+
+Author: ichitaso
+Maintainer: @tqmmos
+Package: com.tqm-mos.primalfolder2
+Name: PrimalFolder 2
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
+Replaces: com.ichitaso.primalfolder2
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Display to folder as icon and launch action for Folders
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
+Icon: file:///Library/PreferenceBundles/PrimalFolderSettings.bundle/icon@2x.png
+Version: 0.0.7
+Installed-Size: 400
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.primalfolder2
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.primalfolder2
+Filename: ./debs/com.tqm-mos.primalfolder2_0.0.7_iphoneos-arm.deb
+Size: 71566
+MD5sum: 0fab86349743f553c62334f05ebe0824
+SHA1: 9ac755bf13556273c71734a8727211f9fd796ff4
+SHA256: dbef2c5849917c3a6b70f3e3eb6698d85c0ee4bd347786544e8c1f79860c1e82
+
 Package: com.tqm-mos.doubletaplock
 Name: DoubleTapLock
 Depends: mobilesubstrate, preferenceloader
