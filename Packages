@@ -92,6 +92,61 @@ MD5sum: 1ed0d5a3956098628abf37781236b7f9
 SHA1: 1c38788abe493f3f8d78e6b888893e9ba9a39f12
 SHA256: e580513f74ff3eeb867785b2575008b45f495850228d269cb0fcaad09d069650
 
+Package: com.tqm-mos.easyaccess
+Name: EasyAccess
+Version: 0.1.2
+Description: Dễ dàng truy cập các ứng dụng từ mọi nơi
+Author: Kane Buckthorpe
+Depends: mobilesubstrate, com.tqm-mos.kbapplist, com.tqm-mos.kbpreferences
+Installed-Size: 702
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.easyaccess
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.easyaccess
+Filename: ./debs/com.tqm-mos.easyaccess_0.1.2_iphoneos-arm.deb
+Size: 209302
+MD5sum: e9829fafdb2ed22ac65396b1e859033b
+SHA1: 546fca1e5ba9c5fabadd42ce0f8efc543e239277
+SHA256: ecd48a66e2fda3e0b9d7f60184fe9649bfd08fc6497437c29e6d96d840e6d7fb
+
+Package: com.tqm-mos.kbapplist
+Name: KBAppList
+Version: 0.0.6
+Description: Kane\'s AppList
+Author: Kane Buckthorpe
+Installed-Size: 361
+Section: Development
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.easyaccess
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.easyaccess
+Filename: ./debs/com.tqm-mos.kbapplist_0.0.6_iphoneos-arm.deb
+Size: 101784
+MD5sum: d7166057641c26be44d153090778292e
+SHA1: 7076e844ba3b15c09b5dd8eb55ec926948f780de
+SHA256: 5d58969081323ae361abed2e82311dca97082db3f2209fef724de0b2eb84ab77
+
+Package: com.tqm-mos.kbpreferences
+Name: KBPreferences
+Version: 0.0.7
+Description: Kane B\'s preferences framework
+Author: Kane Buckthorpe
+Installed-Size: 377
+Section: Development
+Architecture: iphoneos-arm
+Maintainer: @tưmmos
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.easyaccess
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.easyaccess
+Filename: ./debs/com.tqm-mos.kbpreferences_0.0.7_iphoneos-arm.deb
+Size: 124714
+MD5sum: c875ec95c8808494c38ab187ae21aa2a
+SHA1: 14faceab8cef56da2f4ced82a66e5fcdd7727c81
+SHA256: dc32358dd206029440dc30b04b863e9dd7936af9e34e6c3965789c98c40a8d56
+
 Package: cydia-dark
 Priority: required
 Section: Cydia/Electra-Chimera
