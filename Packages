@@ -833,6 +833,114 @@ MD5sum: 1a75be6e040ada9fbf5f4ad45df87250
 SHA1: da94bd33b579cdeeb3023865ac7882601e0cf5bb
 SHA256: 461312ca992fda199f2bf92e393809c60e2b16f60ac9b47e29bbab34b39efd09
 
+Package: com.tqm-mos.prysm
+Name: Prysm
+Version: 1.6k
+Description: Thiết lập lại trung tâm kiểm soát
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.tqm-mos.ccsupport
+Installed-Size: 2775
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ginesaanemone
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ginesaanemone
+Filename: ./debs/com.tqm-mos.prysm_1.6k_iphoneos-arm.deb
+Size: 1004370
+MD5sum: a49fea9f658bdc1716ed60b78526a5ed
+SHA1: 1f7dabf618fbd70f49522ff904e2be7ee8fbadc4
+SHA256: 1f44e171dceeb3647984d45b5925c27b7bbf4033e4e45e803746a0c95526ee13
+
+Package: com.tqm-mos.backgrounderaction11
+Name: Backgrounder Action
+Depends: mobilesubstrate, libactivator (>=1.9.13~beta2), Firmware(>=11.0)
+Architecture: iphoneos-arm
+Description: *Currnetly in Beta* Add "Toggle Background Mode" action to Activator.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: akusio <akusio-report@neko2.net>
+Section: IOS11
+Version: 0.0.8
+Installed-Size: 72
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.backgrounderaction11
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.backgrounderaction11
+Filename: ./debs/com.tqm-mos.backgrounderaction11_0.0.8_iphoneos-arm.deb
+Size: 11250
+MD5sum: dfe221bfd20cf9113b336dd1b1e41706
+SHA1: bbe1ea3480e4e29fbcb7f007e67fa61051dd3274
+SHA256: 9041db946c19a8bcc48fa580ad045d844fd035e8e66853c52beb573ba9d1ddc9
+
+Package: com.tqm-mos.backgrounderaction12
+Name: BackgrounderAction for CCSupport
+Depends: mobilesubstrate, com.tqm-mos.ccsupport
+Architecture: iphoneos-arm
+Description: Add "Toggle Background Mode" action to ControlCenter.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: akusio <akusio-report@neko2.net>
+Section: Tweaks
+Version: 0.1.0
+Installed-Size: 276
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.backgrounderaction12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.backgrounderaction12
+Filename: ./debs/com.tqm-mos.backgrounderaction12_0.1.0_iphoneos-arm.deb
+Size: 21302
+MD5sum: 2af48cbec40d177f7eb136507545c002
+SHA1: dd456ac88007f57cfb8fc2c80c431ad57a815eec
+SHA256: 112fbbeb521619a5ebdfa92e1a34e2087207b0bcc3d79c54260aac10faf7594f
+
+Package: com.tqm-mos.backgrounderaction13
+Name: BackgrounderAction2 for CCSupport
+Depends: mobilesubstrate, com.tqm-mos.ccsupport
+Architecture: iphoneos-arm
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: akusio <akusio-report@neko2.net>
+Section: Tweaks
+Version: 0.1.4
+Installed-Size: 244
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.backgrounderaction13
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.backgrounderaction13
+Filename: ./debs/com.tqm-mos.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 20378
+MD5sum: 5b9314ff2adc966cf38e9c56ce5efd9e
+SHA1: a216a1c03987aa82168d4644bf27d51b948788ba
+SHA256: 8eb8aed1f5865d1f1762b82c2873822c9c79e1eba238634e0e763f26fb1f24ad
+
+Package: com.tqm-mos.milkyway
+Name: MilkyWay
+Depends: mobilesubstrate, com.tqm-mos.backgrounderaction11 | com.tqm-mos.backgrounderaction12
+Architecture: iphoneos-arm
+Description: multitasking for iOS. 
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: akusio <akusio-report@neko2.net>
+Section: Tweaks
+Version: 0.1.4beta
+Installed-Size: 208
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.milkyway
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.milkyway
+Filename: ./debs/com.tqm-mos.milkyway_0.1.4beta_iphoneos-arm.deb
+Size: 53884
+MD5sum: 397f8b70da96ca38f0b8e6fbfb91df06
+SHA1: eb242a17f0d3e453110f03278aa8366ca7409cd2
+SHA256: 02c72c0f2371b235609ff7fc15a21dc08514cc47eeef7687048f2adc44893db3
+
+Package: com.tqm-mos.milkyway2
+Name: MilkyWay2
+Depends: mobilesubstrate, com.tqm-mos.backgrounderaction13
+Architecture: iphoneos-arm
+Description: multitasking for iOS13.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: akusio <akusio-report@neko2.net>
+Section: Tweaks
+Version: 0.1.1-alpha
+Installed-Size: 208
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.milkyway2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.milkyway2
+Filename: ./debs/com.tqm-mos.milkyway2_0.1.1-alpha_iphoneos-arm.deb
+Size: 58524
+MD5sum: 31daa7264a1da0d64e85ceaa800cbe9b
+SHA1: a38d14d7e3b8b12fef49855142a4099dbe52ffb4
+SHA256: 897a423ddb1c4afb17b26b852384b9a3fb7790397b25592916650d7e12a7a632
+
 Package: cydia-lproj
 Priority: required
 Section: Cydia/Electra-Chimera
