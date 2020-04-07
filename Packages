@@ -15,6 +15,101 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.pulloverpro
+Version: 2.1
+Priority: optional
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist, com.tqm-mos.cracktool4
+Architecture: iphoneos-arm
+Name: PullOver Pro
+Author: c1d3r
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Một tinh chỉnh giúp bạn mở nhanh các app dạng cửa sổ nhỏ bên cạnh ( hông ) máy 
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.pulloverpro
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.pulloverpro
+Filename: ./debs/com.tqm-mos.pulloverpro_2.1_iphoneos-arm.deb
+Size: 1860742
+MD5sum: b1a8537910220c062139bf1988b1ac8d
+SHA1: 3c12fc22537ca50764537a16fdf50ef51dc059ef
+SHA256: e61586e5de68ba19fd866227d548e0fe151f0fe3fa5c3d1fb689827f22cda316
+
+Package: com.tqm-mos.adblockplus
+Name: AdBlock ++
+Version: 1.4-1
+Description: chặn qc
+Author: ReJail
+Priority: optional
+Installed-Size: 258
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.pulloverpro
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.pulloverpro
+Filename: ./debs/com.tqm-mos.adblockplus_1.4-1_iphoneos-arm.deb
+Size: 16060
+MD5sum: c84681af6bd724a85bfdb19901ad042e
+SHA1: e5f6e063b5daff1598d9c070a6ff0404d512cb02
+SHA256: 744e67a841fc590cafaca2590cd72fa88131b86f4a1dd1d9feebf3f69a75df42
+
+Architecture: iphoneos-arm
+Name: CrackerXI+
+Package: com.tqm-mos.crackerxi
+Depends: firmware (>= 11.0)
+Version: 1.1.16
+Size: 244 Kb
+Maintainer: @tqmmos
+Description: Decrypts iOS Apps
+Section: System
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.crackerxi
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.crackerxi
+Filename: ./debs/com.tqm-mos.crackerxi_1.1.16_iphoneos-arm.deb
+Size: 9960898
+MD5sum: 785ee771b67685d21ef016305d3cfb9b
+SHA1: 7990efa327e213251a7777486752a9bf536b96d0
+SHA256: 709f40f941ee8fc3138403594571d4bfcd70d0defadaf19fd7f0f4aea1c6e37a
+
+Package: com.tqm-mos.gravity
+Name: Gravity (A12)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Gravity for your app icons.
+Maintainer: @tqmmos
+Author: julioverne
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 472
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.gravity
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.gravity
+Filename: ./debs/com.tqm-mos.gravity_1.0.0_iphoneos-arm.deb
+Size: 108798
+MD5sum: bd1bb21e8a6b033ad76cf18bfd504410
+SHA1: 51ae5c6df4c5d72a507a7eb41bebe1286f630a12
+SHA256: 041f657c3f01c3342df9fadf9e7a27e884653fc1ee927974f5cb4f69b6307b0a
+
+Package: com.tqm-mos.ringer13
+Name: Ringer13
+Version: 1.2.5
+Description: Thiết kế lại thanh âm lượng
+Author: KingPuffdaddi
+Depends: mobilesubstrate
+Installed-Size: 333
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.ringer13
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.ringer13
+Filename: ./debs/com.tqm-mos.ringer13_1.2.5_iphoneos-arm.deb
+Size: 65512
+MD5sum: 59d0af76c5ebc5aa540f15a5f49e2c6b
+SHA1: 18af24754d5f9731f3fbc5acfdb0dcc21ded150a
+SHA256: 9cf9770ac9a826991468003d934d7e4a9740156585b74f7bc24c2e76136a7f2d
+
 Package: com.tqm-mos.doubletaplock
 Name: DoubleTapLock
 Depends: mobilesubstrate, preferenceloader
@@ -825,8 +920,10 @@ Installed-Size: 1972
 Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: @tqmmos <anhminh311104@gmail.com>
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ginesaanemone
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ginesaanemone
+Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
+Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
 Filename: ./debs/com.tqm-mos.prysm_1.5k_iphoneos-arm.deb
 Size: 437762
 MD5sum: 1a75be6e040ada9fbf5f4ad45df87250
@@ -843,8 +940,10 @@ Installed-Size: 2775
 Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: @tqmmos <anhminh311105@gmail.com>
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ginesaanemone
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ginesaanemone
+Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
+Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
 Filename: ./debs/com.tqm-mos.prysm_1.6k_iphoneos-arm.deb
 Size: 1004370
 MD5sum: a49fea9f658bdc1716ed60b78526a5ed
