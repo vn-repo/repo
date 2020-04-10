@@ -34,6 +34,323 @@ MD5sum: b1a8537910220c062139bf1988b1ac8d
 SHA1: 3c12fc22537ca50764537a16fdf50ef51dc059ef
 SHA256: e61586e5de68ba19fd866227d548e0fe151f0fe3fa5c3d1fb689827f22cda316
 
+Package: com.tqm-mos.callbubble
+Name: CallBubble (Beta)
+Depends: mobilesubstrate, com.modmyi.libswift4 (>= 4.2.1)
+Architecture: iphoneos-arm
+Description: Inspired by Google Dialer
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Version: 0.0.3
+Installed-Size: 740
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.callbubble
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.callbubble
+Filename: ./debs/com.tqm-mos.callbubble_0.0.3_iphoneos-arm.deb
+Size: 266080
+MD5sum: 5422b844dac174eb67c8f195a4f79803
+SHA1: 4ebcb1ae11f62576bea37e1f9cf0e32a29040195
+SHA256: 5bddccc67098bfe9f1b125202a5bd29dc931979e3976efc733845040f4ab8ed4
+
+Package: com.tqm-mos.InfoStats2
+Name: InfoStats 2 (No WebCycript)
+Version: 1.0.2-1
+Description: An API for JavaScript, and Objective-C
+Section: System
+Depends: firmware (>= 6.0), mobilesubstrate, com.saurik.webcycript | firmware (>= 10), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Replaces: com.matchstic.infostats
+Provides: com.matchstic.infostats
+Conflicts: com.matchstic.infostats
+Priority: extra
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: @tqmmos
+Icon: file:///Library/Application Support/InfoStats2/IS2.png
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.InfoStats2
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.InfoStats2
+Filename: ./debs/com.tqm-mos.InfoStats2_1.0.2-1_iphoneos-arm.deb
+Size: 262394
+MD5sum: b9dd5f7ba33a9df8b7539b9804e33747
+SHA1: c9ec7e466535a07e9b2b400b236f36d90e018caf
+SHA256: 9415beb79e936e8c0b187b0b646c285f08727e07062161b61f04ea38be8da579
+
+Package: com.yourepo.tqm.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: @tqmmos
+Version: 7.8.2
+Architecture: iphoneos-arm
+Section: Applications
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.yourepo.tqm.icleanerpro
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.yourepo.tqm.icleanerpro
+Filename: ./debs/com.yourepo.tqm.icleanerpro_7.8.2_iphoneos-arm.deb
+Size: 9658570
+MD5sum: 36eec640e7b0212492bd94a4de7a1633
+SHA1: abe92c6fccbcc897d96894aaa3941e79ebdf0205
+SHA256: 56220e64e84671febe5d688366cfa1a947f46dd13c38dec58ce8470306887ac8
+
+Package: net.limneos.libbulletin
+Name: libbulletin
+Version: 0.1-153
+Architecture: iphoneos-arm
+Description: Simple library that displays bulletins
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libbulletinDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libbulletinDp
+Installed-Size: 332
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Elias Limneos <limneoselias@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Development
+dev: limneos
+Depends: mobilesubstrate (>= 0.9.5000)
+Tag: cydia::obsolete, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Filename: ./debs/net.limneos.libbulletin_0.1-153_iphoneos-arm.deb
+Size: 34174
+MD5sum: b70f1eef04daa5612c2d0431c6c87f71
+SHA1: 5ad75a196c9573c52b32ad41429b20351e583b21
+SHA256: 5d5fe8d9ac39f1b89626e62cc83a66674bc4aecfa337fc3cfdd48ef5bd49402d
+
+Package: preferenceloader
+Name: PreferenceLoader
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: load preferences in style
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Sam Bingner <maintainer@sbdhi.com>
+Section: System
+dev: dustinhowett
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Tag: role::hacker, purpose::library, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Version: 2.2.4
+Installed-Size: 525
+Filename: ./debs/preferenceloader_2.2.4_iphoneos-arm.deb
+Size: 32646
+MD5sum: ad8a5b8d50745e812a0eff4593ae0ec6
+SHA1: 37152710e64875be85ea801072e1d54c633dd88c
+SHA256: 83a634aed3aa29344e4514a20846c87589dc6f16d44e57f3f0dee03fec352d3b
+
+Package: com.tqm-mos.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Architecture: iphoneos-arm
+Description: You can HIDE Doing jailbreak your iDevice.
+Maintainer: @tqmmos
+Author: XsF1re
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+Version: 0.2.4~beta4
+Installed-Size: 1160
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.flyjb
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.flyjb
+Filename: ./debs/com.tqm-mos.flyjb_0.2.4~beta4_iphoneos-arm.deb
+Size: 580356
+MD5sum: a046030541058d20acdcb3560e67706e
+SHA1: 0dd7118afbe0e189c0dea9ee357e5ab65f342fed
+SHA256: a482fb5d54911f13fab5af812f7f23c38df35b9d48367c1672f4cf39519224a2
+
+Package: com.tqm-mos.fontsdream
+Name: Fonts Dream ( 10-13 )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fonts Futura. For iOS 10-13.
+Author: @tqmmos (anhminh311105@gmail.com)
+Maintainer: @tqmmos (anhminh311105@gmail.com)
+Section: Fonts
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fontsdream
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fontsdream
+Filename: ./debs/com.tqm-mos.fontsdream_1.0_iphoneos-arm.deb
+Size: 14933056
+MD5sum: 84a8451914eb9b2ac7f985f66628fc1f
+SHA1: a490c08c669baa5d8570d75bd0a2bb4b2fc051e2
+SHA256: ca99c01ec2778f7ae27d5bec40e99ac5b1a4b9db5f70f56391ed1a1ce8d8d0e5
+
+Package: com.tqm-mos.fontsedgy
+Name: Fonts Edgy ( 10-13 )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fonts Edgy. For iOS 10-13.
+Author: @tqmmos (anhminh311105@gmail.com)
+Maintainer: @tqmmos (anhminh311105@gmail.com)
+Section: Fonts
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fontsedgy
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fontsedgy
+Filename: ./debs/com.tqm-mos.fontsedgy_1.0_iphoneos-arm.deb
+Size: 15817428
+MD5sum: 46dc4ab5f7232ff284872e483c13812a
+SHA1: 20035a3189e12850603ac5b358416fe26ac76a7e
+SHA256: 88cbdecd28b1075cd8e79db10fee9bb6f4ed7bc946599a2fbc0e8e40ae65527a
+
+Package: com.tqm-mos.fontsfutura
+Name: Fonts Futura ( 10-13 )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fonts Futura. For iOS 10-13.
+Author: @tqmmos (anhminh311105@gmail.com)
+Maintainer: @tqmmos (anhminh311105@gmail.com)
+Section: Fonts
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fontsfutura
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fontsfutura
+Filename: ./debs/com.tqm-mos.fontsfutura_1.0_iphoneos-arm.deb
+Size: 16086950
+MD5sum: ece96ca6a6d9f24659c10788da1bbe97
+SHA1: c30e28b0c2383ffaae865eec962341685528e473
+SHA256: d39679d6ff02e7b6fe3e4bbfa7a5c0acafad60ab38c5195948d025483281837d
+
+Package: com.tqm-mos.fontstexgyread
+Name: Fonts Tex Gyread ( 10-13 )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fonts Tex Gyread. For iOS 10-13.
+Author: @tqmmos (anhminh311105@gmail.com)
+Maintainer: @tqmmos (anhminh311105@gmail.com)
+Section: Fonts
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fontstexgyread
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fontstexgyread
+Filename: ./debs/com.tqm-mos.fontstexgyread_1.0_iphoneos-arm.deb
+Size: 16294652
+MD5sum: 795381b764999d9fec952c0285f4ce1b
+SHA1: c2af21f6db0e64ebda0cdba568ee5eb8401c63b6
+SHA256: 68b814307ab8b10521bb3d64bcca2720d59195d1d0a1cd9916a422b3eb896495
+
+Package: com.tqm-mos.ithemer
+Name: iThemer
+Version: 2.0.0-2
+Section: iThemer
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Installed-Size: 1384
+Author: DODGraphics <dodgraphics.1010@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: An awesome MobileSubstrate tweak!
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.ithemer
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.ithemer
+Filename: ./debs/com.tqm-mos.ithemer_2.0.0-2_iphoneos-arm.deb
+Size: 331734
+MD5sum: 2b10244d468ddf248a019f47c11f66f1
+SHA1: 67549441797e06c9c5d341657c10ac87277140a8
+SHA256: 9366841783e5f098861bb84631a3b4c6b3bd48268aa589b63389493d205fa110
+
+Package: com.tqm-mos.prysm
+Name: Prysm
+Version: 1.6.1
+Description: Thiết kế lại trung tâm kiểm soát
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.tqm-mos.ccsupport
+Installed-Size: 2775
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
+Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
+Filename: ./debs/com.tqm-mos.prysm_1.6.1_iphoneos-arm.deb
+Size: 1006338
+MD5sum: 1a9f1333e09b4c72cb214740a272c647
+SHA1: a36b76738b91e5ad4415b22e8a0c5de1968a7e0f
+SHA256: 2467de6abfa4034c1486f34bc27ac7bf0892b09bdb2892e1673d8a0881060a8f
+
+Package: com.yourepo.tqm.chargeanimationscracked
+Name: ChargeAnimations
+Version: 3.0.5
+Description: Beautiful animated notifications for when plugging in your device!
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker, com.tqm-mos.cracktool4 | com.tqm-mos.cracktool3
+Priority: optional
+Architecture: iphoneos-arm
+Author: c1d3r
+dev: c1d3r
+Homepage: 
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: 
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.yourepo.tqm.chargeanimationscracked
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.yourepo.tqm.chargeanimationscracked
+Filename: ./debs/com.yourepo.tqm.chargeanimationscracked_3.0.5_iphoneos-arm.deb
+Size: 24872718
+MD5sum: 4600626923991326962ba878d2f1eabd
+SHA1: 2f1c26dcf0766057e8e57fde3b9ddaf50b10c5b6
+SHA256: c48edbbaaf3a4746bbaba2dd8680bc4711cba9e2ba8d235497735bacd1cf428a
+
+Package: com.yourepo.tqm.chargeanimationscracked
+Name: ChargeAnimations
+Version: 3.0.6
+Description: Beautiful animated notifications for when plugging in your device!
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker, com.tqm-mos.cracktool4 | com.tqm-mos.cracktool3
+Priority: optional
+Architecture: iphoneos-arm
+Author: c1d3r
+dev: c1d3r
+Homepage: 
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: 
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.yourepo.tqm.chargeanimationscracked
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.yourepo.tqm.chargeanimationscracked
+Filename: ./debs/com.yourepo.tqm.chargeanimationscracked_3.0.6_iphoneos-arm.deb
+Size: 24850972
+MD5sum: 312b5723dbade3117060055ada2c86c4
+SHA1: 3dfbfecc6c18aa567dbc369c5a7e00d64463dda0
+SHA256: 9b540d94d960524ec9f2e440b05e04c8a5fd14551525c64ed66973e5faf07eeb
+
+Package: com.tqm-mos.fontsbong
+Name: Fonts Bong ( 10-13 )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fonts Bong. For iOS 10-13.
+Author: @tqmmos (anhminh311105@gmail.com)
+Maintainer: @tqmmos (anhminh311105@gmail.com)
+Section: Fonts
+Homepage: https://www.facebook.com/quangminhdx
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fontsbong
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fontsbong
+Filename: ./debs/com.tqm-mos.fontsbong_1.0_iphoneos-arm.deb
+Size: 16315922
+MD5sum: c74a38b425cbc0efb11e7ebe190397e7
+SHA1: 6f52321b8c1896bde25709fb009ab238fe74f92b
+SHA256: 36457e2293d76b166ecd6b7d013e9f615d402385bb9952e1b2bef08a671f09b2
+
+Package: com.tqm-mos.magmaevo
+Name: Magma Evo
+Version: 1.2.4
+Description: Tô màu trung tâm kiểm soát
+Author: NoisyFlake
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.tqm-mos.ccsupport, org.thebigboss.libcolorpicker (>= 1.6.7)
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Installed-Size: 511
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Icon: https://minhhi-store.github.io/packages_info/screenshots/magmaevo1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/magmaevo.json
+Depiction: https://minhhi-store.github.io/packages_info/magmaevo/?p=info
+Filename: ./debs/com.tqm-mos.magmaevo_1.2.4_iphoneos-arm.deb
+Size: 160886
+MD5sum: d5c2bacc048fb7e56f6857b603252266
+SHA1: ad3a1c699b6c3c1cc5de45522372e2b97e7375b6
+SHA256: 3a3a6bcb176d466c5337729b7a31e21d51607651042c9ab9ef506922a48a32ec
+
 Package: com.tqm-mos.adblockplus
 Name: AdBlock ++
 Version: 1.4-1
@@ -45,8 +362,8 @@ Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: @tqmmos
 Homepage: https://www.facebook.com/quangminhdx
-Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.pulloverpro
-SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.pulloverpro
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.adblockplus
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.adblockplus
 Filename: ./debs/com.tqm-mos.adblockplus_1.4-1_iphoneos-arm.deb
 Size: 16060
 MD5sum: c84681af6bd724a85bfdb19901ad042e
@@ -1245,7 +1562,7 @@ Architecture: iphoneos-arm
 Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
 Homepage: https://www.facebook.com/quangminhdx
 Maintainer: Quang Minh
-Section: TQM
+Section: Fonts
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ginesaanemone
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ginesaanemone
 Filename: ./debs/com.tqm-mos.ginesaanemone_1.1_iphoneos-arm.deb
@@ -6826,8 +7143,8 @@ Maintainer: TQM
 Author: @tqmmos
 Section: TQM
 Version: 1.0
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pipo
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pipo
 Filename: ./debs/com.tqm-mos.pigpig_1.0_iphoneos-arm.deb
 Size: 3304514
 MD5sum: b0ba74ea8bd8eea863afc5a4483b9838
@@ -6842,8 +7159,8 @@ Maintainer: TQM
 Author: @tqmmos
 Section: TQM
 Version: 1.0
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pipo
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pipo
 Filename: ./debs/com.tqm-mos.pipo_1.0_iphoneos-arm.deb
 Size: 5650212
 MD5sum: 1a09d98dd705fbaa431adda68b95111b
